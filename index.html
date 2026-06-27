@@ -1895,7 +1895,8 @@
                 const videoEl = document.createElement('video');
                 videoEl.controls = true;
                 videoEl.autoplay = false;
-                const srcPath = video.local_path.replace(/\\/g, '/');
+                // Prioridad de fuente: Cloudflare R2 (si existe), si no el archivo local
+                const srcPath = video.r2_url ? video.r2_url : video.local_path.replace(/\\/g, '/');
                 videoEl.src = srcPath;
                 playerContainer.appendChild(videoEl);
             }
