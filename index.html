@@ -1815,7 +1815,7 @@
                 modalBadgesContainer.appendChild(badge);
             });
 
-            if (video.match_ratio > 0) {
+            if (editorMode && video.match_ratio > 0) {
                 const rBadge = document.createElement('span');
                 rBadge.className = 'badge';
                 rBadge.style.backgroundColor = '#4c1d95';
