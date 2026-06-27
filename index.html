@@ -578,13 +578,21 @@
             position: absolute;
             top: 0.85rem;
             right: 0.85rem;
-            z-index: 6;
-            background: rgba(255, 255, 255, 0.92);
+            z-index: 50;
+            width: 42px;
+            height: 42px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0;
+            background: rgba(255, 255, 255, 0.95);
+            color: #1b2620;
             border-radius: 50%;
-            box-shadow: var(--shadow-md);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
         }
         .close-btn-floating:hover {
             background: #fff;
+            color: var(--accent-primary);
         }
 
         /* Título y badges debajo del video */
@@ -1885,16 +1893,46 @@
             }
 
             videoModal.classList.add('active');
+            pushOverlay('video');
         }
 
-        // Close Modal
-        function closeModal() {
+        // --- Cierre REAL: oculta el modal del video y limpia el reproductor ---
+        function hideVideoModal() {
             videoModal.classList.remove('active');
             if (ytPlayer && typeof ytPlayer.destroy === 'function') {
                 ytPlayer.destroy();
             }
             ytPlayer = null;
             playerContainer.innerHTML = '';
+        }
+
+        // --- Control del botón ATRÁS del celular (cierra el modal en vez de salir) ---
+        const overlayStack = [];
+        function pushOverlay(name) {
+            overlayStack.push(name);
+            history.pushState({ overlay: name }, '');
+        }
+        function requestCloseOverlay() {
+            // La X o el fondo: retrocede el historial -> dispara popstate -> cierra
+            if (overlayStack.length > 0) {
+                history.back();
+            } else {
+                hideVideoModal();
+            }
+        }
+        window.addEventListener('popstate', () => {
+            // Se presionó ATRÁS (o la X): cerrar el overlay de más arriba
+            const top = overlayStack.pop();
+            if (top === 'transcript') {
+                hideTranscriptModal();
+            } else if (top === 'video') {
+                hideVideoModal();
+            }
+        });
+
+        // closeModal lo llaman la X y el fondo del modal del video
+        function closeModal() {
+            requestCloseOverlay();
         }
 
         // Transcript Modal Helper Variables and Logic
@@ -1948,10 +1986,14 @@
                 });
                 
             transcriptModal.classList.add('active');
+            pushOverlay('transcript');
         }
 
-        function closeTranscriptModal() {
+        function hideTranscriptModal() {
             transcriptModal.classList.remove('active');
+        }
+        function closeTranscriptModal() {
+            requestCloseOverlay();
         }
 
         function renderTranscriptModalText(text, searchVal = "") {
