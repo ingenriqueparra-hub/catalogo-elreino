@@ -1,0 +1,1995 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Videos - Misión Cristiana El Reino</title>
+    <!-- Google Fonts: Playfair Display, Lora, Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Lora:ital,wght@0,400..700;1,0,400..700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #f4f7f5;
+            --bg-secondary: #ffffff;
+            --bg-card: #ffffff;
+            --bg-hover: #eaf1eb;
+            --text-primary: #1a2a20;
+            --text-secondary: #4a5c50;
+            --text-muted: #7a8c80;
+            --accent-primary: #0d6938;
+            --accent-secondary: #bda054;
+            --accent-gradient: linear-gradient(135deg, #0d6938 0%, #bda054 100%);
+            --color-success: #1e8d4f;
+            --color-warning: #e9c46a;
+            --border-color: #d2ded6;
+            --shadow-sm: 0 2px 4px rgba(13, 105, 56, 0.02);
+            --shadow-md: 0 6px 16px rgba(13, 105, 56, 0.04);
+            --shadow-lg: 0 16px 36px rgba(13, 105, 56, 0.06);
+            --shadow-glow: 0 0 25px rgba(13, 105, 56, 0.15);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            scrollbar-width: thin;
+            scrollbar-color: var(--accent-primary) var(--bg-primary);
+        }
+
+        body {
+            font-family: 'Lora', serif;
+            background: radial-gradient(circle at 10% 20%, #f4f0ea 0%, #faf8f5 80%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            color: #1b2620;
+            letter-spacing: -0.01em;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 6px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--accent-primary);
+        }
+
+        /* Layout Container */
+        .app-container {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        /* Header section */
+        header {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            padding: 2.5rem;
+            margin-bottom: 2.5rem;
+            box-shadow: var(--shadow-md);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: var(--accent-gradient);
+        }
+
+        .header-title {
+            display: flex;
+            align-items: center;
+            gap: 1.25rem;
+        }
+
+        .header-icon {
+            background: var(--accent-gradient);
+            padding: 0.9rem;
+            border-radius: 16px;
+            box-shadow: var(--shadow-glow);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .header-icon svg {
+            width: 32px;
+            height: 32px;
+            fill: white;
+        }
+
+        .header-text h1 {
+            font-size: 2.25rem;
+            color: #1b2620;
+            margin-bottom: 0.25rem;
+        }
+
+        .header-text p {
+            color: var(--text-secondary);
+            font-size: 1rem;
+            font-style: italic;
+        }
+
+        /* Statistics Dashboard */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 1rem;
+            width: 100%;
+            max-width: 750px;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.5);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.25rem 1rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            border-color: var(--accent-primary);
+            background: var(--bg-secondary);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .stat-value {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 800;
+            color: var(--accent-primary);
+            margin-bottom: 0.15rem;
+        }
+
+        .stat-label {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-secondary);
+        }
+
+        /* Filter Section */
+        .filters-section {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            padding: 2rem;
+            margin-bottom: 2.5rem;
+            box-shadow: var(--shadow-sm);
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .search-row {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .search-box {
+            position: relative;
+            flex: 1;
+            min-width: 280px;
+        }
+
+        .search-box input {
+            width: 100%;
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 14px;
+            padding: 0.85rem 1rem 0.85rem 2.75rem;
+            color: var(--text-primary);
+            font-family: 'Lora', serif;
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            background: var(--bg-secondary);
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 12px rgba(79, 111, 82, 0.12);
+        }
+
+        .search-box svg {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 18px;
+            height: 18px;
+            fill: var(--text-secondary);
+        }
+
+        .filter-selects {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            flex: 1;
+            min-width: 180px;
+        }
+
+        .filter-group label {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-secondary);
+        }
+
+        .filter-group select {
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 0.8rem;
+            color: var(--text-primary);
+            font-family: 'Lora', serif;
+            font-size: 0.95rem;
+            outline: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%235f6f65'%3E%3Cpath d='M7 10l5 5 5-5H7z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            background-size: 20px;
+            padding-right: 2.25rem;
+        }
+
+        .filter-group select:focus {
+            background: var(--bg-secondary);
+            border-color: var(--accent-primary);
+        }
+
+        /* Video Grid */
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2.5rem;
+        }
+
+        /* Video Card */
+        .video-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            box-shadow: var(--shadow-sm);
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            cursor: pointer;
+            position: relative;
+        }
+
+        .video-card:hover {
+            transform: translateY(-6px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--accent-secondary);
+        }
+
+        .card-thumbnail-placeholder {
+            height: 190px;
+            background: linear-gradient(135deg, #f4f0ea 0%, #e3ebd9 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .card-thumbnail-placeholder::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(163, 177, 138, 0.2) 0%, transparent 80%);
+        }
+
+        .play-button-overlay {
+            width: 58px;
+            height: 58px;
+            background: var(--bg-secondary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: var(--shadow-md);
+            transition: all 0.3s ease;
+            z-index: 2;
+            border: 1px solid var(--border-color);
+        }
+
+        .video-card:hover .play-button-overlay {
+            background: var(--accent-primary);
+            border-color: var(--accent-primary);
+            transform: scale(1.1);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .play-button-overlay svg {
+            width: 22px;
+            height: 22px;
+            fill: var(--accent-primary);
+            margin-left: 3px;
+            transition: fill 0.3s ease;
+        }
+
+        .video-card:hover .play-button-overlay svg {
+            fill: white;
+        }
+
+        .card-badges {
+            position: absolute;
+            top: 0.9rem;
+            left: 0.9rem;
+            right: 0.9rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            pointer-events: none;
+            z-index: 3;
+        }
+
+        .badge {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.72rem;
+            font-weight: 700;
+            padding: 0.3rem 0.7rem;
+            border-radius: 30px;
+            text-transform: uppercase;
+            box-shadow: var(--shadow-sm);
+            letter-spacing: 0.04em;
+        }
+
+        .badge-extracted {
+            background-color: #e2ebd5;
+            color: #2d4f2a;
+            border: 1px solid #c2d5aa;
+        }
+
+        .badge-preacher {
+            background: var(--accent-gradient);
+            color: white;
+        }
+
+        /* Card Content */
+        .card-content {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            gap: 0.85rem;
+        }
+
+        .card-date-row {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+
+        .card-date-row svg {
+            width: 14px;
+            height: 14px;
+            fill: var(--text-secondary);
+        }
+
+        .card-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #1b2620;
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            height: 3.2rem;
+        }
+
+        .card-desc {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            height: 2.8rem;
+            line-height: 1.5;
+        }
+
+        .card-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-top: auto;
+            padding-top: 0.75rem;
+            border-top: 1px dashed var(--border-color);
+        }
+
+        .tag {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.7rem;
+            font-weight: 600;
+            background: #f4f2ee;
+            border: 1px solid #e6e0d4;
+            color: var(--text-secondary);
+            padding: 0.2rem 0.5rem;
+            border-radius: 6px;
+        }
+
+        /* Pagination */
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .page-btn {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 0.6rem 1.5rem;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .page-btn:hover:not(:disabled) {
+            background: var(--accent-primary);
+            border-color: var(--accent-primary);
+            color: white;
+            box-shadow: var(--shadow-glow);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+
+        #page-indicator {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 5rem 2rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .no-results svg {
+            width: 64px;
+            height: 64px;
+            fill: var(--text-muted);
+            margin-bottom: 1.25rem;
+        }
+
+        .no-results h3 {
+            font-size: 1.5rem;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .no-results p {
+            color: var(--text-secondary);
+        }
+
+        /* Modal Drawer Detail */
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(44, 53, 49, 0.4);
+            backdrop-filter: blur(8px);
+            z-index: 100;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.4s ease;
+            padding: 1.5rem;
+        }
+
+        .modal.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal-content {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            width: 100%;
+            max-width: 900px;
+            max-height: 90vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+            transform: scale(0.97);
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.1);
+        }
+
+        .modal.active .modal-content {
+            transform: scale(1);
+        }
+
+        .modal-header {
+            padding: 1.75rem 2rem;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1.5rem;
+        }
+
+        .modal-header-info {
+            flex: 1;
+        }
+
+        .modal-header-info h2 {
+            font-size: 1.65rem;
+            margin-bottom: 0.5rem;
+            color: #1b2620;
+            line-height: 1.35;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            cursor: pointer;
+            padding: 0.35rem;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+
+        .close-btn:hover {
+            background: var(--bg-hover);
+            color: var(--accent-primary);
+        }
+
+        .close-btn svg {
+            width: 24px;
+            height: 24px;
+            fill: currentColor;
+        }
+
+        .modal-body {
+            padding: 2rem;
+            overflow-y: auto;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 1.75rem;
+        }
+
+        /* Video Player */
+        .video-container {
+            width: 100%;
+            background: #000;
+            border-radius: 16px;
+            overflow: hidden;
+            aspect-ratio: 16/9;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow-md);
+            flex-shrink: 0;
+        }
+
+        .video-container video {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+
+        .video-container iframe {
+            width: 100%;
+            height: 100%;
+            display: block;
+            border: 0;
+        }
+
+        .modal-description {
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+        }
+
+        .modal-description-title {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--text-secondary);
+            margin-bottom: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+        .modal-description-text {
+            font-size: 1rem;
+            color: var(--text-primary);
+            white-space: pre-wrap;
+            line-height: 1.6;
+        }
+
+        .meta-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.25rem;
+        }
+
+        .meta-item {
+            background: rgba(255, 255, 255, 0.3);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 0.9rem 1.1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.2rem;
+        }
+
+        .meta-label {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }
+
+        .meta-value {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Responsive */
+        @media(max-width: 768px) {
+            .app-container {
+                padding: 1.5rem 1rem;
+            }
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 2rem 1.5rem;
+                border-radius: 20px;
+            }
+            .stats-grid {
+                max-width: 100%;
+            }
+            .filters-section {
+                padding: 1.5rem;
+                border-radius: 20px;
+            }
+        }
+
+        /* Transcription and local NLP styles */
+        .modal-transcript-section {
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            overflow: hidden;
+            margin-top: 1rem;
+        }
+        .transcript-header {
+            background: var(--bg-primary);
+            padding: 1rem 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 700;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-primary);
+            border-bottom: 1px solid var(--border-color);
+            user-select: none;
+        }
+        .transcript-header svg {
+            width: 18px;
+            height: 18px;
+            fill: var(--text-secondary);
+            transition: transform 0.3s;
+        }
+        .modal-transcript-section.active .transcript-header svg {
+            transform: rotate(180deg);
+        }
+        .transcript-body {
+            display: none;
+            padding: 1.75rem;
+            background: #faf8f5;
+            max-height: 380px;
+            overflow-y: auto;
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--text-primary);
+            border-top: 1px solid var(--border-color);
+            font-family: 'Lora', serif;
+        }
+        
+        .transcript-body mark {
+            background-color: rgba(189, 160, 84, 0.25);
+            border-bottom: 2px solid var(--accent-secondary);
+            color: var(--text-primary);
+            padding: 0 0.15rem;
+            border-radius: 2px;
+        }
+        
+        .modal-transcript-section.active .transcript-body {
+            display: block;
+        }
+        .transcript-search-container {
+            padding: 0.5rem 1.5rem;
+            background: #faf8f5;
+            border-bottom: 1px solid var(--border-color);
+            display: none;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        .modal-transcript-section.active .transcript-search-container {
+            display: flex;
+        }
+        .transcript-search-input {
+            flex: 1;
+            padding: 0.4rem 0.8rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+            background: white;
+            color: var(--text-primary);
+        }
+        .transcript-search-input:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+        }
+        
+        .badge-transcribed {
+            background: var(--accent-gradient);
+            color: white;
+            border: 1px solid var(--accent-secondary);
+        }
+        .transcript-match-highlight {
+            background-color: rgba(189, 160, 84, 0.4);
+            border-bottom: 2px solid var(--accent-secondary);
+            color: #1a2a20;
+            font-weight: 600;
+            padding: 0 1px;
+            border-radius: 2px;
+        }
+        .bible-verses-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+        .bible-verse-badge {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 600;
+            background: #fdfaf2;
+            border: 1px solid var(--accent-secondary);
+            color: #927530;
+            padding: 0.25rem 0.6rem;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .bible-verse-badge:hover {
+            background: var(--accent-secondary);
+            color: white;
+            transform: translateY(-1px);
+        }
+        .keyword-tags-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-top: 0.5rem;
+        }
+        .keyword-tag {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 500;
+            background: #edf6f0;
+            border: 1px solid var(--border-color);
+            color: var(--accent-primary);
+            padding: 0.2rem 0.5rem;
+            border-radius: 6px;
+        }
+
+        .chapter-seek-link {
+            color: var(--accent-primary);
+            font-weight: 600;
+            text-decoration: none;
+            border-bottom: 1px dashed var(--accent-primary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .chapter-seek-link:hover {
+            color: var(--accent-secondary);
+            border-bottom-color: var(--accent-secondary);
+        }
+
+        .video-duration-badge {
+            position: absolute;
+            bottom: 0.6rem;
+            right: 0.6rem;
+            background-color: rgba(26, 42, 32, 0.85);
+            color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 0.2rem 0.5rem;
+            border-radius: 6px;
+            z-index: 3;
+            pointer-events: none;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* Not Pastor Feature Styles */
+        .mark-not-pastor-btn {
+            position: absolute;
+            top: 0.6rem;
+            right: 0.6rem;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 10;
+            transition: all 0.2s ease;
+            box-shadow: var(--shadow-sm);
+            color: var(--text-secondary);
+        }
+        .mark-not-pastor-btn:hover {
+            transform: scale(1.1);
+            background-color: #fee2e2;
+            border-color: #fca5a5;
+            color: #ef4444;
+        }
+        .mark-not-pastor-btn svg {
+            width: 16px;
+            height: 16px;
+            fill: currentColor;
+        }
+        .mark-not-pastor-btn.active {
+            background-color: #ef4444;
+            border-color: #ef4444;
+            color: white;
+        }
+        .video-card.not-pastor-marked {
+            opacity: 0.65;
+            border-color: #fca5a5 !important;
+            background-color: #fffaf9 !important;
+        }
+        .video-card.not-pastor-marked:hover {
+            opacity: 0.85;
+            border-color: #ef4444 !important;
+            box-shadow: var(--shadow-md);
+        }
+        .video-card.not-pastor-marked .card-title {
+            text-decoration: line-through;
+            color: var(--text-muted);
+        }
+        .video-card.not-pastor-marked .card-desc {
+            color: var(--text-muted);
+        }
+        .video-card.not-pastor-marked .card-thumbnail-placeholder {
+            filter: grayscale(70%);
+        }
+        .badge-not-pastor {
+            background-color: #fee2e2 !important;
+            color: #ef4444 !important;
+            border: 1px solid #fca5a5 !important;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.72rem;
+            font-weight: 700;
+            padding: 0.3rem 0.7rem;
+            border-radius: 30px;
+            text-transform: uppercase;
+            box-shadow: var(--shadow-sm);
+            letter-spacing: 0.04em;
+        }
+        #btn-toggle-not-pastor.active {
+            background: #fee2e2;
+            border-color: #fca5a5;
+            color: #ef4444;
+        }
+        .btn-action-primary {
+            background: #ef4444;
+            color: white;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            box-shadow: var(--shadow-sm);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+        }
+        .btn-action-primary:hover {
+            background: #dc2626;
+            box-shadow: 0 0 15px rgba(239, 68, 68, 0.4);
+            transform: translateY(-1px);
+        }
+        .btn-action-secondary {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 0.6rem 1.2rem;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+        }
+        .btn-action-secondary:hover {
+            background: var(--bg-hover);
+            border-color: var(--accent-primary);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="app-container">
+        <!-- Header Section -->
+        <header>
+            <div class="header-title" style="display: flex; align-items: center; gap: 1.25rem;">
+                <img src="Logo.jpg" alt="Logo El Reino" style="height: 85px; width: auto; border-radius: 8px;">
+                <div class="header-text">
+                    <h1>Catálogo de Predicaciones</h1>
+                    <p>Misión Cristiana El Reino - Pastor Daniel Tito</p>
+                </div>
+            </div>
+            
+            <!-- Dashboard Stats -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-total">0</div>
+                    <div class="stat-label">Total Mensajes</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-estudios" style="color: #06b6d4;">0</div>
+                    <div class="stat-label">Estudios Bíblicos</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-oracion" style="color: #ef4444;">0</div>
+                    <div class="stat-label">Altar de Oración</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-especial" style="color: #8b5cf6;">0</div>
+                    <div class="stat-label">Especiales</div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Filters Box -->
+        <section class="filters-section">
+            <div class="search-row" style="display: flex; gap: 1rem; align-items: center;">
+                <div class="search-box" style="flex: 1;">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                    </svg>
+                    <input type="text" id="search-input" placeholder="Buscar prédicas por palabras clave, títulos o temas...">
+                </div>
+                <button id="btn-toggle-editor" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: var(--bg-primary); border: 1px solid var(--border-color); color: var(--text-primary); border-radius: 12px; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: all 0.3s; box-shadow: var(--shadow-sm); flex-shrink: 0;">
+                    <span style="font-size: 1.1rem;">✍</span>
+                    <span>Modo Editor: <strong id="editor-status-text">OFF</strong></span>
+                </button>
+                <button id="btn-export-seasons" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: var(--accent-gradient); color: white; border: none; border-radius: 12px; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: all 0.3s; box-shadow: var(--shadow-sm); flex-shrink: 0;">
+                    <svg viewBox="0 0 24 24" style="width: 18px; height: 18px; fill: white;">
+                        <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+                    </svg>
+                    <span>Copiar Resumen de Edición</span>
+                </button>
+            </div>
+            
+            <div class="filter-selects">
+                <div class="filter-group">
+                    <label for="filter-concept">Concepto / Tema</label>
+                    <select id="filter-concept">
+                        <option value="all">Todos los temas</option>
+                        <option value="Mensaje General">Mensaje General</option>
+                        <option value="Especial">Especial</option>
+                        <option value="Altar de Oración">Altar de Oración</option>
+                        <option value="Estudio Bíblico">Estudio Bíblico</option>
+                        <option value="Otro">Otro</option>
+                    </select>
+                </div>
+
+                <div class="filter-group" id="filter-group-year" style="display: none;">
+                    <label for="filter-year">Año</label>
+                    <select id="filter-year">
+                        <option value="all">Todos los años</option>
+                        <option value="2025">2025</option>
+                        <option value="2024">2024</option>
+                        <option value="2023">2023</option>
+                        <option value="2022">2022</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-season">Filtrar por Temporada</label>
+                    <select id="filter-season">
+                        <option value="all">Todas las temporadas</option>
+                        <option value="none">Sin temporada</option>
+                        <option value="1">Temporada 1</option>
+                        <option value="2">Temporada 2</option>
+                        <option value="3">Temporada 3</option>
+                        <option value="4">Temporada 4</option>
+                        <option value="5">Temporada 5</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Video Grid Container -->
+        <main>
+            <div class="video-grid" id="video-grid">
+                <!-- Video Cards will be dynamically rendered here -->
+            </div>
+
+            <!-- No Results Placeholder -->
+            <div class="no-results" id="no-results" style="display: none;">
+                <svg viewBox="0 0 24 24">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h-2v-2h4v8zm0-10h-2V5h2v2z"/>
+                </svg>
+                <h3>No se encontraron videos</h3>
+                <p>Prueba ajustando los filtros de búsqueda o seleccionando otro tema.</p>
+            </div>
+
+            <!-- Pagination Grid -->
+            <div class="pagination-container" id="pagination-container">
+                <button class="page-btn" id="btn-prev" disabled>Anterior</button>
+                <span id="page-indicator">Página 1 de 1</span>
+                <button class="page-btn" id="btn-next" disabled>Siguiente</button>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal Drawer Detail -->
+    <div class="modal" id="video-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-header-info">
+                    <h2 id="modal-title">Título del Video</h2>
+                    <div id="modal-badges-container">
+                        <!-- Badges go here -->
+                    </div>
+                </div>
+                <button class="close-btn" id="btn-close-modal">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+                    </svg>
+                </button>
+            </div>
+            
+            <div class="modal-body">
+                <!-- Video Container -->
+                <div class="video-container" id="player-container">
+                    <!-- Standard video player -->
+                </div>
+
+                <!-- YouTube-style Author/Channel Row -->
+                <div class="yt-author-row" style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 1rem; padding: 0 0.5rem; flex-shrink: 0;">
+                    <div style="display: flex; align-items: center; gap: 0.75rem;">
+                        <!-- Custom circular initial avatar -->
+                        <div style="width: 44px; height: 44px; background: var(--accent-gradient); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Playfair Display', serif; font-weight: 700; font-size: 1.15rem; box-shadow: var(--shadow-sm); border: 2px solid #fff;">
+                            PD
+                        </div>
+                        <div>
+                            <h4 style="font-size: 1.05rem; font-weight: 700; color: var(--text-primary); font-family: 'Inter', sans-serif; line-height: 1.2;">Pastor Daniel Tito</h4>
+                            <p style="font-size: 0.78rem; color: var(--text-secondary); font-family: 'Inter', sans-serif;">Misión Cristiana El Reino</p>
+                        </div>
+                    </div>
+                    <!-- Action Buttons Container -->
+                    <div style="display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap;">
+                        <button class="page-btn" id="btn-toggle-not-pastor" style="display: none !important; align-items: center; gap: 0.4rem; padding: 0.55rem 1.1rem; background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: 20px; font-size: 0.82rem; font-weight: 600; font-family: 'Inter', sans-serif; cursor: pointer; transition: all 0.3s; color: var(--text-secondary);">
+                            <svg viewBox="0 0 24 24" style="width: 15px; height: 15px; fill: currentColor;">
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/>
+                            </svg>
+                            <span id="btn-toggle-not-pastor-text">¿No es el Pastor?</span>
+                        </button>
+                        <div id="modal-transcript-button-container" style="display: none;">
+                            <button class="page-btn" id="btn-open-transcript-modal" style="display: flex; align-items: center; gap: 0.4rem; padding: 0.55rem 1.1rem; background: var(--accent-gradient); color: white; border: none; border-radius: 20px; font-size: 0.82rem; font-weight: 600; font-family: 'Inter', sans-serif; cursor: pointer; transition: all 0.3s; box-shadow: var(--shadow-sm);">
+                                <svg viewBox="0 0 24 24" style="width: 15px; height: 15px; fill: currentColor;">
+                                    <path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/>
+                                </svg>
+                                <span>Transcripción</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- YouTube-style Description Card Box -->
+                <div class="yt-description-box" style="background: rgba(244, 240, 234, 0.55); border: 1px solid var(--border-color); border-radius: 16px; padding: 1.25rem 1.5rem; display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem;">
+
+                    <!-- Main Text (Summary or original description) -->
+                    <div class="modal-description-text" id="modal-description-text" style="font-size: 0.95rem; line-height: 1.6; color: var(--text-primary); font-family: 'Lora', serif; white-space: pre-wrap;">
+                        -
+                    </div>
+                    
+                    <!-- Bible Verses Row inside Description -->
+                    <div id="modal-verses-section" style="display: none; border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-top: 0.25rem;">
+                        <div style="font-size: 0.72rem; font-family: 'Inter', sans-serif; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-secondary); margin-bottom: 0.4rem; font-weight: 700;">Pasajes Bíblicos</div>
+                        <div class="bible-verses-container" id="modal-verses-container" style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+                            <!-- Bible verse badges -->
+                        </div>
+                    </div>
+                    
+                    <!-- Keywords as Hashtags inside Description -->
+                    <div id="modal-keywords-section" style="display: none; border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-top: 0.25rem;">
+                        <div class="keyword-tags-container" id="modal-keywords-container" style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+                            <!-- Hashtags -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+
+    <!-- Transcript Modal popup -->
+    <div class="modal" id="transcript-modal" style="z-index: 110;">
+        <div class="modal-content" style="max-width: 800px; height: 85vh;">
+            <div class="modal-header" style="background: var(--bg-primary); border-bottom: 1px solid var(--border-color); padding: 1.25rem 2rem;">
+                <div class="modal-header-info">
+                    <h2 id="transcript-modal-title" style="font-size: 1.4rem;">Transcripción del Mensaje</h2>
+                </div>
+                <button class="close-btn" id="btn-close-transcript-modal">
+                    <svg viewBox="0 0 24 24" style="width: 24px; height: 24px;">
+                        <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+                    </svg>
+                </button>
+            </div>
+            
+            <!-- Search Inside Transcript -->
+            <div class="transcript-search-container" style="display: flex; padding: 1rem 2rem; background: #faf8f5; border-bottom: 1px solid var(--border-color); align-items: center; gap: 0.75rem;">
+                <svg viewBox="0 0 24 24" style="width: 18px; height: 18px; fill: var(--text-secondary);">
+                    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                </svg>
+                <input type="text" class="transcript-search-input" id="transcript-modal-search-input" placeholder="Buscar palabras dentro de la transcripción..." style="width: 100%; padding: 0.6rem 1rem; border: 1px solid var(--border-color); border-radius: 10px; font-size: 0.9rem;">
+            </div>
+            
+            <div class="transcript-body" id="transcript-modal-body-text" style="display: block; padding: 2.5rem; background: #faf8f5; overflow-y: auto; flex: 1; font-size: 1.15rem; line-height: 1.9; color: #1c2b21; font-family: 'Lora', serif; scroll-behavior: smooth;">
+                <!-- Full text transcript loaded here -->
+            </div>
+        </div>
+    </div>  </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Load Local DB -->
+    <script>
+        document.write('<script src="catalog_data.js?v=' + Date.now() + '"><\/script>');
+    </script>
+
+    <!-- UI Logic Scripts -->
+    <script>
+        if (typeof CATALOG_DATA === 'undefined') {
+            alert('Error: No se pudo cargar el archivo "catalog_data.js".');
+            window.CATALOG_DATA = [];
+        }
+
+        // Seek al minuto: funciona tanto en reproductor de YouTube como en el local
+        window.seekVideo = function(seconds) {
+            if (ytPlayer && typeof ytPlayer.seekTo === 'function') {
+                ytPlayer.seekTo(seconds, true);
+                ytPlayer.playVideo();
+                playerContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                return;
+            }
+            const videoEl = playerContainer.querySelector('video');
+            if (videoEl) {
+                videoEl.currentTime = seconds;
+                videoEl.play();
+                playerContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+        };
+
+        // Format description text, replacing [MM:SS] and [HH:MM:SS] timestamps with seeking links
+        function formatDescription(text) {
+            if (!text) return "Sin descripción disponible.";
+            return text.replace(/\[(?:(\d{1,2}):)?(\d{1,2}):(\d{2})\]/g, (match, h, m, s) => {
+                const hours = h ? parseInt(h, 10) : 0;
+                const minutes = parseInt(m, 10);
+                const seconds = parseInt(s, 10);
+                const totalSeconds = hours * 3600 + minutes * 60 + seconds;
+                return `<a href="#" class="chapter-seek-link" onclick="seekVideo(${totalSeconds}); return false;">${match}</a>`;
+            });
+        }
+
+        // State Management
+        let filteredData = [...CATALOG_DATA];
+        let currentPage = 1;
+        const itemsPerPage = 12;
+        let editorMode = false; // default OFF
+
+        // Load Marked Not Pastor list from LocalStorage
+        let markedNotPastor = JSON.parse(localStorage.getItem('marked_not_pastor') || '[]');
+        let markedNotPastorSet = new Set(markedNotPastor);
+
+        // Load Seasons from LocalStorage
+        let videoSeasons = JSON.parse(localStorage.getItem('video_seasons') || '{}');
+
+        // Load Concepts/Themes from LocalStorage
+        let videoConcepts = JSON.parse(localStorage.getItem('video_concepts') || '{}');
+
+        window.getConceptColor = function(concept) {
+            switch(concept) {
+                case 'Mensaje General': return '#0d6938';
+                case 'Especial': return '#8b5cf6';
+                case 'Altar de Oración': return '#ef4444';
+                case 'Estudio Bíblico': return '#06b6d4';
+                case 'Otro': return '#6b7280';
+                default: return '#0d6938';
+            }
+        };
+
+        window.setVideoConceptBtn = function(filename, value) {
+            if (videoConcepts[filename] === value) {
+                delete videoConcepts[filename];
+            } else {
+                videoConcepts[filename] = value;
+            }
+            localStorage.setItem('video_concepts', JSON.stringify(videoConcepts));
+            loadStats();
+            renderGrid();
+        };
+
+        window.setVideoSeason = function(filename, value) {
+            if (value === "") {
+                delete videoSeasons[filename];
+            } else {
+                videoSeasons[filename] = value;
+            }
+            localStorage.setItem('video_seasons', JSON.stringify(videoSeasons));
+        };
+
+        window.setVideoSeasonBtn = function(filename, value) {
+            const stringVal = String(value);
+            if (videoSeasons[filename] === stringVal) {
+                delete videoSeasons[filename];
+            } else {
+                videoSeasons[filename] = stringVal;
+            }
+            localStorage.setItem('video_seasons', JSON.stringify(videoSeasons));
+            renderGrid();
+        };
+
+        // Elements
+        const searchInput = document.getElementById('search-input');
+        const filterConcept = document.getElementById('filter-concept');
+        const filterYear = document.getElementById('filter-year');
+        const filterSeason = document.getElementById('filter-season');
+
+        const videoGrid = document.getElementById('video-grid');
+        const noResults = document.getElementById('no-results');
+        const paginationContainer = document.getElementById('pagination-container');
+        const btnPrev = document.getElementById('btn-prev');
+        const btnNext = document.getElementById('btn-next');
+        const pageIndicator = document.getElementById('page-indicator');
+
+        // Modal Elements
+        const videoModal = document.getElementById('video-modal');
+        const btnCloseModal = document.getElementById('btn-close-modal');
+        const modalTitle = document.getElementById('modal-title');
+        const modalBadgesContainer = document.getElementById('modal-badges-container');
+        const playerContainer = document.getElementById('player-container');
+        const modalDescText = document.getElementById('modal-description-text');
+
+        // --- Soporte reproductor de YouTube (solo videos con youtube_id) ---
+        let ytPlayer = null;          // instancia activa del reproductor de YouTube
+        let ytApiReady = false;       // true cuando la IFrame API cargo
+        let ytApiLoading = false;     // true mientras se descarga la API
+        const ytReadyQueue = [];      // callbacks en espera de que cargue la API
+
+        function ensureYouTubeAPI(callback) {
+            if (ytApiReady) { callback(); return; }
+            ytReadyQueue.push(callback);
+            if (ytApiLoading) return;
+            ytApiLoading = true;
+            window.onYouTubeIframeAPIReady = function() {
+                ytApiReady = true;
+                ytReadyQueue.splice(0).forEach(function(fn) { fn(); });
+            };
+            const tag = document.createElement('script');
+            tag.src = 'https://www.youtube.com/iframe_api';
+            document.head.appendChild(tag);
+        }
+
+        function loadYouTubePlayer(videoId) {
+            const target = document.createElement('div');
+            target.id = 'yt-player-target';
+            playerContainer.appendChild(target);
+            ensureYouTubeAPI(function() {
+                ytPlayer = new YT.Player('yt-player-target', {
+                    videoId: videoId,
+                    playerVars: { rel: 0, modestbranding: 1, playsinline: 1 }
+                });
+            });
+        }
+
+        // Stats Card loading
+        function loadStats() {
+            const activeVideos = CATALOG_DATA.filter(v => !markedNotPastorSet.has(v.filename) && v.not_pastor !== true);
+            document.getElementById('stat-total').innerText = activeVideos.length;
+            
+            let estudiosCount = 0;
+            let oracionCount = 0;
+            let especialCount = 0;
+            
+            activeVideos.forEach(v => {
+                const currentConcept = videoConcepts[v.filename] || (v.concepts && v.concepts[0]) || "Mensaje General";
+                if (currentConcept === 'Estudio Bíblico') {
+                    estudiosCount++;
+                } else if (currentConcept === 'Altar de Oración' || currentConcept === 'Oración y Clamor') {
+                    oracionCount++;
+                } else if (currentConcept === 'Especial') {
+                    especialCount++;
+                }
+            });
+            
+            document.getElementById('stat-estudios').innerText = estudiosCount;
+            document.getElementById('stat-oracion').innerText = oracionCount;
+            
+            const statEspecial = document.getElementById('stat-especial');
+            if (statEspecial) {
+                statEspecial.innerText = especialCount;
+            }
+        }
+
+        // Toggle functions for marking
+        window.toggleNotPastor = function(filename) {
+            if (markedNotPastorSet.has(filename)) {
+                markedNotPastorSet.delete(filename);
+            } else {
+                markedNotPastorSet.add(filename);
+            }
+            
+            // Save state
+            localStorage.setItem('marked_not_pastor', JSON.stringify(Array.from(markedNotPastorSet)));
+            
+            // Recalculate
+            loadStats();
+            renderGrid();
+            
+            // Update modal state if open for this video
+            if (currentVideo && currentVideo.filename === filename) {
+                const isMarked = markedNotPastorSet.has(filename) || currentVideo.not_pastor === true;
+                updateModalNotPastorButtonState(isMarked);
+            }
+        };
+
+        function updateModalNotPastorButtonState(isMarked) {
+            const btn = document.getElementById('btn-toggle-not-pastor');
+            const textSpan = document.getElementById('btn-toggle-not-pastor-text');
+            if (isMarked) {
+                btn.classList.add('active');
+                textSpan.innerText = 'Marcado: No es el Pastor';
+            } else {
+                btn.classList.remove('active');
+                textSpan.innerText = '¿No es el Pastor?';
+            }
+        }
+
+        // Apply filters
+        function applyFilters() {
+            const query = searchInput.value.toLowerCase().trim();
+            const concept = filterConcept.value;
+            const year = filterYear.value;
+            const seasonFilter = filterSeason.value;
+
+            filteredData = CATALOG_DATA.filter(video => {
+                const isNotPastor = markedNotPastorSet.has(video.filename) || video.not_pastor === true;
+                
+                // If not in editor mode, exclude non-pastor videos silently
+                if (!editorMode && isNotPastor) {
+                    return false;
+                }
+
+                const searchMatch = !query || 
+                    video.title.toLowerCase().includes(query) || 
+                    (video.message && video.message.toLowerCase().includes(query)) ||
+                    video.filename.toLowerCase().includes(query) ||
+                    (video.keywords && video.keywords.some(k => k.toLowerCase().includes(query))) ||
+                    (video.bible_verses && video.bible_verses.some(v => v.toLowerCase().includes(query))) ||
+                    (video.transcript_summary && video.transcript_summary.toLowerCase().includes(query));
+
+                const currentConcept = videoConcepts[video.filename] || (video.concepts && video.concepts[0]) || "Mensaje General";
+                const conceptMatch = concept === 'all' || currentConcept === concept || (concept === 'Mensaje General' && currentConcept === 'Mensaje General');
+                const yearMatch = year === 'all' || video.year === year;
+
+                // Filter by season
+                const videoSeason = videoSeasons[video.filename] || video.season || "";
+                if (seasonFilter !== 'all') {
+                    if (seasonFilter === 'none' && videoSeason !== "") return false;
+                    if (seasonFilter !== 'none' && String(videoSeason) !== seasonFilter) return false;
+                }
+
+                return searchMatch && conceptMatch && yearMatch;
+            });
+
+            // Sort by season descending: 5, 4, 3, 2, 1, then none (0)
+            filteredData.sort((a, b) => {
+                const sa = parseInt(videoSeasons[a.filename] || a.season || "0", 10);
+                const sb = parseInt(videoSeasons[b.filename] || b.season || "0", 10);
+                if (sa !== sb) {
+                    return sb - sa;
+                }
+                return 0; // maintain original order
+            });
+
+            currentPage = 1;
+            renderGrid();
+        }
+
+        // Render Page Card Grid
+        function renderGrid() {
+            videoGrid.innerHTML = '';
+            
+            if (filteredData.length === 0) {
+                noResults.style.display = 'block';
+                paginationContainer.style.display = 'none';
+                return;
+            }
+
+            noResults.style.display = 'none';
+            paginationContainer.style.display = 'flex';
+
+            const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+            pageIndicator.innerText = `Página ${currentPage} de ${totalPages}`;
+            
+            btnPrev.disabled = currentPage === 1;
+            btnNext.disabled = currentPage === totalPages;
+
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = Math.min(startIndex + itemsPerPage, filteredData.length);
+            const pageData = filteredData.slice(startIndex, endIndex);
+
+            pageData.forEach(video => {
+                const card = document.createElement('div');
+                card.className = 'video-card';
+                
+                const isNotPastor = markedNotPastorSet.has(video.filename) || video.not_pastor === true;
+                if (isNotPastor) {
+                    card.classList.add('not-pastor-marked');
+                    card.style.opacity = '0.6';
+                } else {
+                    card.classList.remove('not-pastor-marked');
+                    card.style.opacity = '1';
+                }
+                
+                card.addEventListener('click', () => openModal(video));
+
+                const formattedDesc = video.message ? video.message : "Sin descripción de la transmisión.";
+
+                // Get current concept color
+                const currentConcept = videoConcepts[video.filename] || (video.concepts && video.concepts[0]) || "Mensaje General";
+                const conceptColor = getConceptColor(currentConcept);
+                card.style.borderTop = `4px solid ${conceptColor}`;
+
+                // Set tags: Concept Tag & Season Tag
+                const videoSeason = videoSeasons[video.filename] || video.season || "";
+                const conceptTagHtml = `<span class="tag" style="background-color: ${conceptColor}15; color: ${conceptColor}; border: 1px solid ${conceptColor}80; font-weight: 600;">${currentConcept}</span>`;
+                const seasonTagHtml = videoSeason 
+                    ? `<span class="tag" style="background-color: #fef3c7; color: #d97706; border: 1px solid #fde68a; font-weight: 600;">Temp. ${videoSeason}</span>` 
+                    : '';
+                const tagsHtml = conceptTagHtml + ' ' + seasonTagHtml;
+
+                const thumbnailStyle = video.thumbnail_path 
+                    ? `style="background-image: url('${video.thumbnail_path.replace(/\\/g, '/')}'); background-size: cover; background-position: center;"`
+                    : '';
+
+                const durationBadge = video.duration 
+                    ? `<span class="video-duration-badge">${video.duration}</span>` 
+                    : '';
+
+                const escFilename = video.filename.replace(/'/g, "\\'");
+
+                // Toggle mark buttons & badges on thumbnail (visible only in editor mode)
+                let crossedOutBadge = '';
+                let toggleMarkBtnHtml = '';
+                if (editorMode) {
+                    crossedOutBadge = isNotPastor 
+                        ? `<span class="badge-not-pastor" style="position: absolute; top: 0.6rem; left: 0.6rem; z-index: 3; background: #ef4444; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.72rem; font-weight: 700;">❌ No es Pastor</span>`
+                        : '';
+                    toggleMarkBtnHtml = `
+                        <button class="mark-not-pastor-btn ${isNotPastor ? 'active' : ''}" 
+                                title="${isNotPastor ? 'Quitar marca' : 'Marcar como No es el Pastor'}"
+                                onclick="event.stopPropagation(); toggleNotPastor('${escFilename}')"
+                                style="position: absolute; top: 0.6rem; right: 0.6rem; z-index: 3; width: 28px; height: 28px; border-radius: 50%; border: 1px solid var(--border-color); background: ${isNotPastor ? '#ef4444' : 'var(--bg-secondary)'}; color: ${isNotPastor ? 'white' : 'var(--text-secondary)'}; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.3s;">
+                            <svg viewBox="0 0 24 24" style="width: 16px; height: 16px; fill: currentColor;">
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/>
+                            </svg>
+                        </button>
+                    `;
+                }
+
+                // Extract query match snippet for transcript summary if needed
+                const query = searchInput.value.toLowerCase().trim();
+                let snippetHtml = "";
+                if (query && query.length >= 3 && video.transcript_summary) {
+                    const transcriptLower = video.transcript_summary.toLowerCase();
+                    const matchIdx = transcriptLower.indexOf(query);
+                    if (matchIdx !== -1) {
+                        const start = Math.max(0, matchIdx - 45);
+                        const end = Math.min(video.transcript_summary.length, matchIdx + query.length + 45);
+                        let snippet = video.transcript_summary.substring(start, end);
+                        if (start > 0) snippet = "..." + snippet;
+                        if (end < video.transcript_summary.length) snippet = snippet + "...";
+                        
+                        const escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                        const highlightRegex = new RegExp(`(${escapedQuery})`, 'gi');
+                        const highlightedSnippet = snippet.replace(highlightRegex, '<mark class="transcript-match-highlight">$1</mark>');
+                        
+                        snippetHtml = `
+                            <div class="transcript-snippet-box" style="margin-top: 0.5rem; font-size: 0.8rem; background: #faf6eb; border-left: 3px solid var(--accent-secondary); padding: 0.4rem 0.6rem; border-radius: 4px; color: #78350f; font-style: italic; line-height: 1.4;">
+                                <strong>En resumen:</strong> ${highlightedSnippet}
+                            </div>
+                        `;
+                    }
+                }
+
+                // Render editor controls if in Editor Mode
+                let editorControlsHtml = '';
+                if (editorMode) {
+                    const seasonSelectHtml = `
+                        <div class="card-season-row" style="display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; margin-top: 0.5rem; padding-top: 0.5rem; border-top: 1px dashed var(--border-color);" onclick="event.stopPropagation()">
+                            <span style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; color: var(--text-secondary);">Temp:</span>
+                            <div style="display: flex; gap: 0.35rem;">
+                                ${[1,2,3,4,5].map(n => {
+                                    const isActive = (videoSeason == n);
+                                    const activeStyle = isActive 
+                                        ? 'background: var(--accent-primary); color: white; border-color: var(--accent-primary); font-weight: 700; transform: scale(1.08); box-shadow: var(--shadow-sm);' 
+                                        : 'background: var(--bg-primary); color: var(--text-secondary); border-color: var(--border-color);';
+                                    return `
+                                        <button class="season-btn-capsule" onclick="setVideoSeasonBtn('${escFilename}', ${n})" style="width: 25px; height: 25px; border-radius: 6px; border: 1px solid; font-size: 0.78rem; font-family: 'Inter', sans-serif; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; justify-content: center; ${activeStyle}">
+                                            ${n}
+                                        </button>
+                                    `;
+                                }).join('')}
+                            </div>
+                        </div>
+                    `;
+
+                    const conceptsList = [
+                        { value: "Mensaje General", label: "Gral" },
+                        { value: "Especial", label: "Esp" },
+                        { value: "Altar de Oración", label: "Orac" },
+                        { value: "Estudio Bíblico", label: "Est" },
+                        { value: "Otro", label: "Otro" }
+                    ];
+                    const conceptSelectHtml = `
+                        <div class="card-concept-row" style="display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; margin-top: 0.4rem;" onclick="event.stopPropagation()">
+                            <span style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; color: var(--text-secondary);">Tema:</span>
+                            <div style="display: flex; gap: 0.25rem;">
+                                ${conceptsList.map(item => {
+                                    const isActive = (currentConcept === item.value);
+                                    const activeStyle = isActive 
+                                        ? `background: ${getConceptColor(item.value)}; color: white; border-color: ${getConceptColor(item.value)}; font-weight: 700; transform: scale(1.05);` 
+                                        : 'background: var(--bg-primary); color: var(--text-secondary); border-color: var(--border-color);';
+                                    return `
+                                        <button class="concept-btn-capsule" onclick="setVideoConceptBtn('${escFilename}', '${item.value}')" style="padding: 0.15rem 0.35rem; border-radius: 6px; border: 1px solid; font-size: 0.72rem; font-family: 'Inter', sans-serif; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; justify-content: center; ${activeStyle}">
+                                            ${item.label}
+                                        </button>
+                                    `;
+                                }).join('')}
+                            </div>
+                        </div>
+                    `;
+                    editorControlsHtml = seasonSelectHtml + conceptSelectHtml;
+                }
+
+                card.innerHTML = `
+                    <div class="card-thumbnail-placeholder" ${thumbnailStyle}>
+                        <div class="play-button-overlay">
+                            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                        </div>
+                        ${durationBadge}
+                        ${crossedOutBadge}
+                        ${toggleMarkBtnHtml}
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title" title="${video.title}">${video.title}</h3>
+                        <p class="card-desc">${formattedDesc}</p>
+                        ${snippetHtml}
+                        <div class="card-tags" style="margin-top: auto;">
+                            ${tagsHtml}
+                        </div>
+                        ${editorControlsHtml}
+                    </div>
+                `;
+                videoGrid.appendChild(card);
+            });
+        }
+
+        // Search by keyword from description hashtags
+        function searchKeyword(kw) {
+            searchInput.value = kw;
+            applyFilters();
+            closeModal();
+            searchInput.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Open Modal and load video player
+        function openModal(video) {
+            modalTitle.innerText = video.title;
+            
+            // If the video has a transcript summary, use that or message
+            modalDescText.innerHTML = formatDescription(video.message);
+
+            // Badges in Header
+            modalBadgesContainer.innerHTML = '';
+            
+            // Concepts as badges
+            video.concepts.forEach(concept => {
+                const badge = document.createElement('span');
+                badge.className = 'badge badge-preacher';
+                badge.style.marginRight = '8px';
+                badge.innerText = concept;
+                modalBadgesContainer.appendChild(badge);
+            });
+
+            if (video.match_ratio > 0) {
+                const rBadge = document.createElement('span');
+                rBadge.className = 'badge';
+                rBadge.style.backgroundColor = '#4c1d95';
+                rBadge.style.color = '#f5f3ff';
+                rBadge.innerText = `Coincidencia IA: ${(video.match_ratio * 100).toFixed(1)}%`;
+                modalBadgesContainer.appendChild(rBadge);
+            }
+
+            // 1. Keywords as hashtags
+            const kwSection = document.getElementById('modal-keywords-section');
+            const kwContainer = document.getElementById('modal-keywords-container');
+            if (video.keywords && video.keywords.length > 0) {
+                kwContainer.innerHTML = video.keywords.map(k => `
+                    <span class="keyword-hashtag" style="color: #0369a1; font-weight: 600; font-family: 'Inter', sans-serif; font-size: 0.82rem; margin-right: 0.85rem; cursor: pointer; display: inline-block; transition: color 0.2s;" onclick="searchKeyword('${k}')">#${k}</span>
+                `).join('');
+                kwSection.style.display = 'block';
+            } else {
+                kwSection.style.display = 'none';
+            }
+
+            // 2. Bible Verses
+            const vSection = document.getElementById('modal-verses-section');
+            const vContainer = document.getElementById('modal-verses-container');
+            if (video.bible_verses && video.bible_verses.length > 0) {
+                vContainer.innerHTML = '';
+                video.bible_verses.forEach(ref => {
+                    const bBadge = document.createElement('span');
+                    bBadge.className = 'bible-verse-badge';
+                    bBadge.innerText = ref;
+                    bBadge.addEventListener('click', () => {
+                        // Set search query to this verse and apply filters
+                        searchInput.value = ref;
+                        applyFilters();
+                        closeModal();
+                        // Scroll to search
+                        searchInput.scrollIntoView({ behavior: 'smooth' });
+                    });
+                    vContainer.appendChild(bBadge);
+                });
+                vSection.style.display = 'block';
+            } else {
+                vSection.style.display = 'none';
+            }
+
+            // 3. Transcript Collapsible Button setup
+            currentVideo = video;
+            
+            // Set state of toggle button in modal
+            const isNotPastor = markedNotPastorSet.has(video.filename) || video.not_pastor === true;
+            updateModalNotPastorButtonState(isNotPastor);
+
+            const btnToggleNotPastor = document.getElementById('btn-toggle-not-pastor');
+            if (editorMode) {
+                btnToggleNotPastor.style.display = 'flex';
+            } else {
+                btnToggleNotPastor.style.display = 'none';
+            }
+
+            const modalTranscriptButtonContainer = document.getElementById('modal-transcript-button-container');
+            if (video.has_transcript) {
+                modalTranscriptButtonContainer.style.display = 'block';
+                
+                // Carry over search term: if main query is active, auto-open transcript popup!
+                const mainQuery = searchInput.value.trim();
+                if (mainQuery && mainQuery.length >= 3) {
+                    setTimeout(() => {
+                        openTranscriptModal(video);
+                    }, 350);
+                }
+            } else {
+                modalTranscriptButtonContainer.style.display = 'none';
+            }
+
+            // Load Player: YouTube si el video tiene youtube_id, si no, archivo local
+            if (ytPlayer && typeof ytPlayer.destroy === 'function') {
+                ytPlayer.destroy();
+            }
+            ytPlayer = null;
+            playerContainer.innerHTML = '';
+            if (video.youtube_id) {
+                loadYouTubePlayer(video.youtube_id);
+            } else {
+                const videoEl = document.createElement('video');
+                videoEl.controls = true;
+                videoEl.autoplay = false;
+                const srcPath = video.local_path.replace(/\\/g, '/');
+                videoEl.src = srcPath;
+                playerContainer.appendChild(videoEl);
+            }
+
+            videoModal.classList.add('active');
+        }
+
+        // Close Modal
+        function closeModal() {
+            videoModal.classList.remove('active');
+            if (ytPlayer && typeof ytPlayer.destroy === 'function') {
+                ytPlayer.destroy();
+            }
+            ytPlayer = null;
+            playerContainer.innerHTML = '';
+        }
+
+        // Transcript Modal Helper Variables and Logic
+        let currentVideo = null;
+        let currentTranscriptText = "";
+
+        const transcriptModal = document.getElementById('transcript-modal');
+        const transcriptModalTitle = document.getElementById('transcript-modal-title');
+        const transcriptModalSearchInput = document.getElementById('transcript-modal-search-input');
+        const transcriptModalBodyText = document.getElementById('transcript-modal-body-text');
+        const btnCloseTranscriptModal = document.getElementById('btn-close-transcript-modal');
+        const btnOpenTranscriptModal = document.getElementById('btn-open-transcript-modal');
+
+        function openTranscriptModal(video) {
+            transcriptModalTitle.innerText = "Transcripción: " + video.title;
+            
+            transcriptModalBodyText.innerText = "Cargando transcripción...";
+            transcriptModalSearchInput.value = "";
+            currentTranscriptText = "";
+            
+            const mainQuery = searchInput.value.trim();
+            
+            const jsonName = video.filename.replace('.mp4', '.json');
+            const jsonPath = 'Transcripts/' + encodeURIComponent(jsonName);
+            
+            fetch(jsonPath)
+                .then(response => {
+                    if (!response.ok) throw new Error("Not found");
+                    return response.json();
+                })
+                .then(data => {
+                    transcriptModalBodyText.setAttribute('data-raw-text', data.transcript);
+                    currentTranscriptText = data.transcript;
+                    
+                    if (mainQuery && mainQuery.length >= 3) {
+                        transcriptModalSearchInput.value = mainQuery;
+                        renderTranscriptModalText(data.transcript, mainQuery);
+                    } else {
+                        renderTranscriptModalText(data.transcript);
+                    }
+                })
+                .catch(err => {
+                    console.warn("Could not fetch local transcript json directly", err);
+                    transcriptModalBodyText.innerHTML = `
+                        <div style="color: #c2410c; background: #fff7ed; border: 1px solid #ffedd5; padding: 1.5rem; border-radius: 12px; font-size: 1rem;">
+                            <strong>Nota de Seguridad del Navegador (CORS):</strong><br>
+                            No se pudo cargar el archivo de transcripción directamente por políticas de seguridad del navegador.<br><br>
+                            Para ver y buscar en la transcripción completa, por favor abre el catálogo ejecutando el archivo <strong>Iniciar_Catalogo.bat</strong>.
+                        </div>
+                    `;
+                });
+                
+            transcriptModal.classList.add('active');
+        }
+
+        function closeTranscriptModal() {
+            transcriptModal.classList.remove('active');
+        }
+
+        function renderTranscriptModalText(text, searchVal = "") {
+            if (!text) return;
+            if (!searchVal || searchVal.trim().length < 3) {
+                transcriptModalBodyText.innerText = text;
+                return;
+            }
+            
+            const escaped = searchVal.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+            const regex = new RegExp(`(${escaped})`, 'gi');
+            
+            const highlighted = text.replace(regex, '<mark class="transcript-match-highlight">$1</mark>');
+            transcriptModalBodyText.innerHTML = highlighted;
+            
+            // Wait for rendering to complete and scroll smoothly
+            setTimeout(() => {
+                const firstMark = transcriptModalBodyText.querySelector('mark');
+                if (firstMark) {
+                    firstMark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }, 200);
+        }
+
+        transcriptModalSearchInput.addEventListener('input', (e) => {
+            renderTranscriptModalText(currentTranscriptText, e.target.value);
+        });
+
+        btnOpenTranscriptModal.addEventListener('click', () => {
+            if (currentVideo) {
+                openTranscriptModal(currentVideo);
+            }
+        });
+
+        btnCloseTranscriptModal.addEventListener('click', closeTranscriptModal);
+        
+        transcriptModal.addEventListener('click', (e) => {
+            if (e.target === transcriptModal) {
+                closeTranscriptModal();
+            }
+        });
+
+        // Event Listeners
+        searchInput.addEventListener('input', applyFilters);
+        filterConcept.addEventListener('change', applyFilters);
+        filterYear.addEventListener('change', applyFilters);
+        filterSeason.addEventListener('change', applyFilters);
+
+        btnPrev.addEventListener('click', () => {
+            if (currentPage > 1) {
+                currentPage--;
+                renderGrid();
+            }
+        });
+
+        btnNext.addEventListener('click', () => {
+            const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderGrid();
+            }
+        });
+
+        btnCloseModal.addEventListener('click', closeModal);
+        
+        videoModal.addEventListener('click', (e) => {
+            if (e.target === videoModal) {
+                closeModal();
+            }
+        });
+
+        // Editor Mode toggle event
+        const btnToggleEditor = document.getElementById('btn-toggle-editor');
+        const editorStatusText = document.getElementById('editor-status-text');
+        btnToggleEditor.addEventListener('click', () => {
+            editorMode = !editorMode;
+            const filterGroupYear = document.getElementById('filter-group-year');
+            if (editorMode) {
+                btnToggleEditor.style.background = 'var(--accent-gradient)';
+                btnToggleEditor.style.color = 'white';
+                btnToggleEditor.style.borderColor = 'transparent';
+                editorStatusText.innerText = 'ON';
+                if (filterGroupYear) filterGroupYear.style.display = 'block';
+            } else {
+                btnToggleEditor.style.background = 'var(--bg-primary)';
+                btnToggleEditor.style.color = 'var(--text-primary)';
+                btnToggleEditor.style.borderColor = 'var(--border-color)';
+                editorStatusText.innerText = 'OFF';
+                if (filterGroupYear) filterGroupYear.style.display = 'none';
+            }
+            applyFilters();
+        });
+
+        // Export Edition button event (copies seasons, concepts and marked_not_pastor lists)
+        const btnExportSeasons = document.getElementById('btn-export-seasons');
+        btnExportSeasons.addEventListener('click', () => {
+            const exportData = {
+                seasons: videoSeasons,
+                concepts: videoConcepts,
+                marked_not_pastor: Array.from(markedNotPastorSet)
+            };
+            const dataToCopy = JSON.stringify(exportData, null, 2);
+            navigator.clipboard.writeText(dataToCopy).then(() => {
+                const origText = btnExportSeasons.querySelector('span').innerText;
+                btnExportSeasons.querySelector('span').innerText = '¡Copiado ✔!';
+                btnExportSeasons.style.background = 'var(--color-success)';
+                setTimeout(() => {
+                    btnExportSeasons.querySelector('span').innerText = origText;
+                    btnExportSeasons.style.background = 'var(--accent-gradient)';
+                }, 2000);
+            }).catch(err => {
+                alert('No se pudo copiar automáticamente. Resumen de edición:\n\n' + dataToCopy);
+            });
+        });
+
+        // Initialize UI
+        loadStats();
+        applyFilters();
+
+    </script>
+</body>
+</html>
