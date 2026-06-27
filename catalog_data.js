@@ -203,6 +203,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "039 facebook-misioncelreino-11_06_2025-UdhRysK6_AQNqBdOos2g_xFW97CxEJtNlucIvqQWsmDHZgQ4g7Wa7MewEr7xCsPLQv1Y_495656465521581.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/039%20facebook-misioncelreino-11_06_2025-UdhRysK6_AQNqBdOos2g_xFW97CxEJtNlucIvqQWsmDHZgQ4g7Wa7MewEr7xCsPLQv1Y_495656465521581.mp4",
     "title": "Escogidos por Dios: Más Allá de Nuestro Pasado",
     "message": "Este inspirador sermón nos revela que Dios nos escoge con un propósito divino, trascendiendo nuestro pasado o la percepción del mundo. A través de figuras bíblicas como Simón el Celote, María Magdalena, el endemoniado gadareno y la mujer samaritana, aprendemos que la elección de Dios es perfecta y llena de significado. No importa lo que fuimos; Él nos ve con amor, nos capacita y nos llama a hacer Su voluntad, dándole sentido a nuestra vida.\n\nÍndice de momentos:\n[01:51] Bienvenida y oración inicial\n[09:03] Dios elige personajes inesperados\n[10:55] Simón el Celote: Un revolucionario transformado\n[21:33] María Magdalena: Pasado redimido, propósito divino\n[28:14] El endemoniado gadareno: De legión a testimonio\n[44:01] Reflexión: Dios te escogió con un propósito",
     "url": "https://www.facebook.com/misioncelreino/videos/495656465521581/",
@@ -244,6 +245,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "060 facebook-misioncelreino-12_06_2025-cLWVNvuS_AQOOwtGXX4BRrQ5tOn3KBFt1EOyRYNwqt9GooRvq0oHb6UnEO3JOMd5E8Aa2_451373340018135.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/060%20facebook-misioncelreino-12_06_2025-cLWVNvuS_AQOOwtGXX4BRrQ5tOn3KBFt1EOyRYNwqt9GooRvq0oHb6UnEO3JOMd5E8Aa2_451373340018135.mp4",
     "title": "Emociones: El Propósito Divino y el Poder del Control",
     "message": "Este sermón profundiza en el origen divino de nuestras emociones, distinguiendo entre la alegría que debemos disfrutar y las llamadas \"emociones tóxicas\". El Pastor Daniel Tito nos enseña que incluso Jesús experimentó emociones como el enojo con un propósito claro: establecer orden y exponer la hipocresía. Nos invita a entregar nuestras emociones a Dios para tomar decisiones correctas, cultivando la mente de Cristo y venciendo sentimientos negativos como la venganza, inspirados por el ejemplo de José.\n\nÍndice de momentos:\n[00:00] Inicio y adoración musical\n[11:02] Oración inicial y bienvenida al Pastor Daniel\n[19:04] Introducción al tema de las emociones\n[23:49] Jesús y sus emociones: El templo de Jerusalén\n[38:03] Dios guía nuestras emociones\n[45:27] Victoria sobre las emociones tóxicas\n[58:02] Oración para controlar emociones y tomar buenas decisiones",
     "url": "https://www.facebook.com/misioncelreino/videos/451373340018135/",
@@ -287,6 +289,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "061 facebook-misioncelreino-12_06_2025-iuZurwGm_AQNn3OmUac2PEaiL7X1enxmuvH6IjPJ33iE16_dWXY6hH7tpWiWaI2blPZyxNg_684348372721299.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/061%20facebook-misioncelreino-12_06_2025-iuZurwGm_AQNn3OmUac2PEaiL7X1enxmuvH6IjPJ33iE16_dWXY6hH7tpWiWaI2blPZyxNg_684348372721299.mp4",
     "title": "Escogidos por Dios: Inquebrantables con Jesús",
     "message": "El sermón profundiza en la identidad del creyente como \"escogido de Dios\", enfatizando que, a pesar de nuestras imperfecciones, somos inacusables gracias a Jesucristo, nuestro abogado. Nos inspira a conquistar miedos, cumplir nuestro propósito y ser constructores del Reino, sabiendo que en Él somos herederos de grandes promesas y sanidad.\n\nÍndice de momentos:\n[00:00] Bienvenida y unción para adoración\n[01:56] Tiempo de Adoración musical\n[07:03] Mensaje: Somos los escogidos de Dios\n[09:11] Jesús nuestro abogado: Inacusables\n[14:20] Oración por peticiones y sanidad\n[38:50] Oración por ofrendas y proyectos de la iglesia",
     "url": "https://www.facebook.com/misioncelreino/videos/684348372721299/",
@@ -323,6 +326,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-7X5vd4Bv_AQO5TUdrfC8q0tqStTnOE5AP0PmZuuQIct8VG6N1qTxS5NuTVHDpib4H_PDuStht4n9ML3_pnGuZ8sgxE65fI_523723323706042.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-7X5vd4Bv_AQO5TUdrfC8q0tqStTnOE5AP0PmZuuQIct8VG6N1qTxS5NuTVHDpib4H_PDuStht4n9ML3_pnGuZ8sgxE65fI_523723323706042.mp4",
     "title": "Homenaje al Pastor Daniel Tito: Guardando el Corazón y la Unción de Dios",
     "message": "En un servicio especial de Altar de Oración congregacional en conmemoración del nacimiento del Pastor Daniel Tito (12 de octubre), se comparte una profunda reflexión sobre su legado de fe y servicio. La enseñanza exhorta a la iglesia a cuidar el corazón contra toda raíz de amargura, odio y resentimiento (Proverbios 4:23), permitiendo que la unción del Espíritu Santo pudra todo yugo (Isaías 10:27).\n\nÍndice de momentos:\n[00:00] Inicio de la transmisión: Cánticos de adoración y alabanza congregacional (\"Mi confianza siempre en ti\")\n[13:59] Oración de intercesión y adoración, reconociendo la soberanía de Dios\n[19:59] Saludos de bienvenida e introducción al día especial: El homenaje al Pastor Daniel Tito en la fecha de su nacimiento\n[25:47] Reflexión sobre los juicios humanos y el llamado a respetar y proteger a los líderes de la iglesia\n[31:31] Lectura y enseñanza bíblica: Proverbios 4:23 (\"Sobre toda cosa guardada, guarda tu corazón\") y la unción que pudre todo yugo (Isaías 10:27)\n[37:19] Exhortación a liberarse de las mochilas de rencor, odio y resentimiento familiar\n[43:05] Oración de ministración y sanidad del alma para restaurar los corazones heridos\n[48:51] Testimonios de la obra pastoral y la importancia del servicio continuo de la congregación\n[54:37] Saludos a los hermanos de provincias y el extranjero conectados en la transmisión\n[01:00:33] Momentos finales de oración y fotos de recuerdo de la comunidad del Reino\n[01:06:47] Declaración de la palabra rema (\"Aquí estoy y voy a continuar\") y despedida del culto",
     "url": "https://www.facebook.com/misioncelreino/videos/523723323706042/",
@@ -360,6 +364,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-82FemJjP_AQOhGzTQtJwGV3wRX_mPv7UVLxwavIjw9tTExgCpxJOi4hp1RygIRjebbj_484161365880133.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-82FemJjP_AQOhGzTQtJwGV3wRX_mPv7UVLxwavIjw9tTExgCpxJOi4hp1RygIRjebbj_484161365880133.mp4",
     "title": "La Iglesia de Pérgamo: El Peligro de la Transigencia (Parte 2)",
     "message": "En la segunda parte del estudio de la iglesia de Pérgamo (Apocalipsis 2:12-17), el Pastor Daniel Tito profundiza en el significado del nombre Pérgamo ('matrimonio'), explaining el adulterio espiritual que se produce cuando la iglesia hace alianza con el mundo. Detalla el peligro de las doctrinas de Balaam y de los nicolaitas, exhortando al pueblo a purificar sus vidas de toda contamination mundana.\n\nÍndice de momentos:\n[00:00] Reconexión de la transmisión (Parte 2) y oración contra los ataques del enemigo\n[05:40] Repaso del significado histórico de la Iglesia de Pérgamo\n[08:33] La vida bajo amenaza de muerte y el martirio del testigo fiel Antipas\n[14:51] Análisis de la etimología de Pérgamo (\"Matrimonio\") y el matrimonio espiritual entre la Iglesia y el mundo\n[20:51] La ira de Dios contra el adulterio espiritual y la mundanalidad\n[24:14] La doctrina de Balaam, el altar de Zeus y la doctrina de los nicolaitas que Dios aborrece\n[27:07] Oración congregacional de arrepentimiento y perdón por las ofensas\n[29:55] Invitación a los próximos servicios y anuncios de la semana\n[32:51] Palabras finales de aliento y amor pastoral a la congregación\n[35:39] Declaración de la bendición sacerdotal y la palabra rema de un nuevo comienzo",
     "url": "https://www.facebook.com/misioncelreino/videos/484161365880133/",
@@ -397,6 +402,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-82FemJjP_AQOMSI3K4Fx8vLKQnXJSWSjXkVQ514txbBELHo_PaAqKRpZoK9LvPcfVRSvNsg_462225444767300.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-82FemJjP_AQOMSI3K4Fx8vLKQnXJSWSjXkVQ514txbBELHo_PaAqKRpZoK9LvPcfVRSvNsg_462225444767300.mp4",
     "title": "La Iglesia de Pérgamo: Fidelidad y Alerta Espiritual (Parte 1)",
     "message": "Pastor Daniel Tito y la Pastora Miriam inician un estudio profundo sobre la tercera de las siete iglesias del Apocalipsis: Pérgamo (Apocalipsis 2:12-17). Analizan el contexto histórico y espiritual de esta congregación, que permanecía fiel al nombre del Señor y a su fe a pesar de habitar 'donde está el trono de Satanás', recordando con honor el martirio de Antipas, el testigo fiel.\n\nÍndice de momentos:\n[00:00] Inicio de la transmisión y bienvenida, superando dificultades técnicas\n[01:05] Oración inicial guiada por el Pastor Daniel y tiempo de alabanza y adoración congregacional (\"Tú eres mi Señor\")\n[04:30] Canto de adoración y entrega espiritual en pareja pastoral\n[07:55] Introducción al estudio bíblico: Breve repaso de las iglesias de Éfeso y Esmirna\n[10:35] Presentación de la tercera iglesia del Apocalipsis: Pérgamo\n[12:44] Lectura y análisis de Apocalipsis 2:12-13. El que tiene la espada aguda de dos filos\n[13:53] El contexto geográfico y espiritual de Pérgamo: Dónde mora Satanás\n[15:08] Mención bíblica de Antipas, el testigo fiel y mártir de la iglesia\n[16:23] Advertencia sobre la doctrina de los nicolaitas y el llamado al arrepentimiento\n[17:35] Reflexión final sobre la vigencia de la palabra de Dios y preparación para la segunda parte",
     "url": "https://www.facebook.com/misioncelreino/videos/462225444767300/",
@@ -432,6 +438,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-82FemJjP_AQPJ6BvZFSlJ4u5LSYPAlBI8tUJe0r8AetvSMH9nE2rVYmNPXUA4XYhCixW_270076064066839.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-82FemJjP_AQPJ6BvZFSlJ4u5LSYPAlBI8tUJe0r8AetvSMH9nE2rVYmNPXUA4XYhCixW_270076064066839.mp4",
     "title": "El Padre que nos da Buenas Cosas y el Libro de la Vida",
     "message": "Pastor Daniel Tito predica sobre la infinita bondad y generosidad de Dios como Padre Celestial, basándose en Lucas 11:11-13. También estudia Apocalipsis 21 y 22 para hablar de la Nueva Jerusalén y la importancia de que nuestros nombres estén inscritos en el Libro de la Vida del Cordero, concluyendo con una reflexión sobre la parábola del hijo pródigo y la actitud del hermano mayor.\n\nÍndice de momentos:\n[00:00] Inicio de la transmisión: Saludos del Domingo de Familia y oración inicial\n[13:12] Agradecimiento por la vida de la Pastora Miriam y la labor ministerial\n[23:59] Cánticos de alabanza congregacional con danza\n[31:02] Lectura bíblica: Lucas 11:11-13. ¿Qué padre de vosotros le dará una serpiente a su hijo? La bondad del Padre Celestial\n[41:44] Reflexión sobre el libro de la vida. Declarar: \"Mi nombre está escrito en el libro de la vida\"\n[51:46] Lectura bíblica: Apocalipsis 21:22-27. La Nueva Jerusalén, el templo y el Libro de la Vida del Cordero\n[58:37] Lectura bíblica: Lucas 15:25-32. La actitud del hermano mayor del hijo pródigo\n[01:06:23] Oración de restauración y ministración congregacional para sanar el corazón familiar\n[01:10:19] Saludos y menciones especiales a los niños y ministerios de danza\n[01:14:59] Declaración de la palabra rema (\"Año de un nuevo comienzo\") y despedida del servicio de domingo\n[01:20:15] Canto final de regocijo congregacional",
     "url": "https://www.facebook.com/misioncelreino/videos/270076064066839/",
@@ -470,6 +477,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Bp71dk4F_AQNndIbR4l5e3Eh0NGF3ynVoYDuxEcHVLUHMsgpSpqBXjf0CW7b03WX7Tg_1347970678733450.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Bp71dk4F_AQNndIbR4l5e3Eh0NGF3ynVoYDuxEcHVLUHMsgpSpqBXjf0CW7b03WX7Tg_1347970678733450.mp4",
     "title": "El Poder del Perdón: Dios se Deleita en Misericordia",
     "message": "Predicado desde la ciudad de Huancayo, el Pastor Daniel Tito enseña sobre el poder del perdón y cómo Dios se deleita en mostrar misericordia (Miqueas 7:18-19). Explica que nuestro perdón de parte de Dios está ligado a nuestra disposición para perdonar las ofensas de otros (Mateo 6:14-15, Lucas 6:37) y cómo Dios aleja nuestras rebeliones tanto como el oriente del occidente.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos desde la ciudad de Huancayo a nivel nacional e internacional\n[18:51] Testimonios de la obra misionera en Huánuco y la unidad de la iglesia\n[27:38] Lectura bíblica: Miqueas 7:18-19. ¿Qué Dios hay como tú, que perdona la maldad y se deleita en misericordia?\n[32:49] Reflexión sobre la necesidad humana del perdón de Dios y la restauración\n[37:45] Lectura bíblica: Mateo 6:14-15. La clave espiritual de perdonar las ofensas para recibir el perdón del Padre\n[42:51] Cómo el rencor ata la vida de aquella persona que decide no perdonar\n[48:05] Exhortación sobre el peligro de guardar resentimientos tras haber sido ofendido\n[52:53] Lectura bíblica: Lucas 6:37 y Salmo 103:12. Juzgar, condenar y el alejamiento divino de nuestros pecados\n[57:53] Oración de liberación y ministración en el altar para sanar corazones heridos\n[01:02:39] Saludos de cumpleaños de los miembros de la congregación local\n[01:07:21] Declaración final de la palabra rema (\"Año de un nuevo comienzo\") y cántico de adoración",
     "url": "https://www.facebook.com/misioncelreino/videos/1347970678733450/",
@@ -508,6 +516,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Bp71dk4F_AQNQkLL25CVOUQcBBxcvE54Bs0h6q9gpJ12ZjdxQ0yp62s4rGNTza8RaTpMCZ3yYxeNcm6yED2Ut6Nux_GGYf_758688598849703.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Bp71dk4F_AQNQkLL25CVOUQcBBxcvE54Bs0h6q9gpJ12ZjdxQ0yp62s4rGNTza8RaTpMCZ3yYxeNcm6yED2Ut6Nux_GGYf_758688598849703.mp4",
     "title": "El Poder del Ayuno y la Oración: Buscando la Voluntad de Dios",
     "message": "En el marco de una jornada congregacional de ayuno, el Pastor Daniel Tito, junto a la Pastora Miriam Tito, comparte una enseñanza sobre el significado del ayuno bíblico. Expone que el verdadero ayuno va más allá de abstenerse de comer, siendo una disciplina espiritual para quebrantar yugos (Mateo 17:21), humillar el alma y conocer la voluntad específica de Dios para nuestras vidas.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza inicial y adoración congregacional (\"Así fue en la cruz\")\n[05:01] Bienvenida especial de los pastores Daniel y Miriam Tito y oración de apertura\n[08:39] Saludos especiales a líderes y familias conectadas de diversas escuelas del Reino\n[12:12] Tiempo de cánticos de ministración y adoración (\"Majestad\")\n[18:10] Introducción del tema: La semana de ayuno congregacional organizada por escuelas\n[19:24] Enseñanza bíblica: ¿Qué es el verdadero ayuno y cómo toca el corazón de Dios?\n[20:20] Lectura bíblica: Mateo 17:21. El género de pruebas y batallas que solo sale con oración y ayuno\n[21:42] Exhortación sobre la importancia de conocer la voluntad de Dios revelada en Su palabra\n[25:16] La unción y la fortaleza espiritual que se adquiere a través del ayuno y la oración\n[28:48] Clamor congregacional e intercesión por las familias y peticiones escritas en el chat\n[32:26] Oración especial por la sanidad física de Pamela Ruda y la salud de la Pastora Miriam\n[35:58] Oración intercesora por la paz en el país y protección nacional\n[39:30] Despedida final del tercer día de ayuno y bendición pastoral",
     "url": "https://www.facebook.com/misioncelreino/videos/758688598849703/",
@@ -545,6 +554,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Bp71dk4F_AQNw_N6iYuWEzBybMZYPT6ff_rCnvEopbKR7y2C0x9ftg5PxkTVIjeXdESFvj50IGton_wpMvGeAPrrQvxzhRM_3176032889075716.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Bp71dk4F_AQNw_N6iYuWEzBybMZYPT6ff_rCnvEopbKR7y2C0x9ftg5PxkTVIjeXdESFvj50IGton_wpMvGeAPrrQvxzhRM_3176032889075716.mp4",
     "title": "Traspasando la Fe a la Siguiente Generación",
     "message": "En una reunión especial de Hombres de Fuego, el Pastor Daniel Tito habla a los padres de familia sobre la gran responsabilidad de transmitir la fe a las siguientes generaciones. Analiza Jueces 2:6-12 (el surgimiento de una generación que no conocía a Dios tras la muerte de Josué) y la tragedia de los hijos de Elí (1 Samuel 2), exhortando a los hombres a guiar espiritualmente sus hogares.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos a nivel nacional y del extranjero en la reunión de Hombres de Fuego\n[12:46] Explicación del propósito espiritual de Hombres de Fuego: hombres consagrados que guían a sus hogares\n[23:53] El rol de proveedor frente al rol de sacerdote espiritual del hogar\n[30:35] La importancia del diálogo y la comunicación abierta entre padres e hijos\n[39:04] Testimonios y lecciones prácticas sobre priorizar a Dios en la agenda familiar\n[44:17] Lectura bíblica: Jueces 2:6-10. La muerte de Josué y el surgimiento de una generación que no conocía a Dios\n[47:51] Análisis de la negligencia espiritual: por qué una generación entera se apartó del Señor\n[51:49] Lectura bíblica: 1 Samuel 2:11-17. Los hijos de Elí y las consecuencias del descuido paterno en el sacerdocio\n[55:32] Exhortación a los varones a asumir su posición de cabeza y líder espiritual\n[01:00:11] Oración de arrepentimiento y clamor en el altar por la restauración de las familias\n[01:05:28] Declaración final de la palabra rema (\"Año de un nuevo comienzo\") y despedida del culto",
     "url": "https://www.facebook.com/misioncelreino/videos/3176032889075716/",
@@ -582,6 +592,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Bp71dk4F_AQPLbdgxxBdLbA_Y8ytN6eFOQC4C1piwKEOwnCT6yXH3s9QA2lVPcayZ9w6g_672906960436993.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Bp71dk4F_AQPLbdgxxBdLbA_Y8ytN6eFOQC4C1piwKEOwnCT6yXH3s9QA2lVPcayZ9w6g_672906960436993.mp4",
     "title": "No Vuelvas a tu Pasado: Jesús Restaura tu Propósito",
     "message": "El Pastor Daniel Tito predica sobre Juan 21:1-8, analizando la decisión de Pedro y los discípulos de regresar a la pesca tras la crucifixión de Jesús. Explica cómo la noche de esfuerzo inútil se transformó al obedecer la palabra de Jesús de lanzar la red a la derecha, enseñando que no debemos refugiarnos en nuestro pasado cuando enfrentamos desilusiones, sino confiar en la restauración del Señor.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración congregacional: \"No puedo dejar de cantar, cantaré de tu amor\"\n[15:46] Bienvenida y lectura bíblica inicial en Juan 21:1-8. Pedro decide volver a pescar\n[20:20] Contexto histórico: el estado de desilusión de los discípulos tras la crucifixión de Jesús\n[25:01] La inutilidad de intentar avanzar en las propias fuerzas (la noche sin pescar nada)\n[28:33] Pedro como ejemplo del creyente que ante la presión decide regresar a su pasado\n[32:03] La aparición de Jesús en la playa y Su pregunta: ¿Tenéis algo de comer?\n[35:28] El milagro de la pesca milagrosa al obedecer la palabra de echar la red a la derecha\n[41:57] Cómo Jesús se presenta hoy en día a través de líderes y pastores para guiarnos de vuelta\n[47:28] Exhortación: \"Te caerás, pero te levantarás, te sacudirás y seguirás adelante\"\n[53:22] Clamor en el altar: \"A mi pasado Señor no quiero volver\". Oración de renovación y restauración\n[59:47] Cántico de adoración y ministración final (\"Sin merecer nada, todo tú diste por mí\") y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/672906960436993/",
@@ -617,6 +628,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Bp71dk4F_AQPV7zhT7NkpmB5N1BMo6UVDxqdQGtjpkP04sFEunU0pOlDcc1BevHxHl2pPDwQdzmSn55nrk9eDa8OalGGzc8a_327994981502569.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Bp71dk4F_AQPV7zhT7NkpmB5N1BMo6UVDxqdQGtjpkP04sFEunU0pOlDcc1BevHxHl2pPDwQdzmSn55nrk9eDa8OalGGzc8a_327994981502569.mp4",
     "title": "El Verdadero Ayuno y la Humildad ante Dios",
     "message": "Pastor Daniel Tito predica sobre la disciplina espiritual del ayuno y la necesidad de acercarnos a Dios con un corazón quebrantado y humilde. A través de la Parábola del Fariseo y el Publicano (Lucas 18:9-14), expone que el ayuno no debe ser un motivo de jactancia religiosa, sino un acto de humillación sincera. También enseña sobre el poder del ayuno y la oración frente a las batallas espirituales (Mateo 17).\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos a hermanos locales y en el extranjero conectados de forma virtual\n[06:05] Oración de inicio guiada por el Pastor Daniel pidiendo la unción del Espíritu Santo\n[09:03] Introducción del tema central: El ayuno y su verdadero propósito espiritual\n[11:37] Definición bíblica del ayuno: abstinencia voluntaria con un fin de intimidad con Dios\n[14:21] Mención bíblica de Jesús ayunando 40 días y 40 noches como fundamento espiritual\n[19:58] Exhortación sobre los beneficios espirituales del ayuno y la necesidad de practicarlo regularmente\n[27:46] Cómo el ayuno fortalece la fe y la unción en momentos de enfermedad o batallas espirituales (Mateo 17)\n[35:24] El peligro del orgullo religioso y de utilizar las disciplinas espirituales para aparentar santidad\n[43:03] Lectura bíblica: Lucas 18:9-14. La parábola del fariseo y el publicano, y la recompensa de la humildad\n[51:48] Oración de arrepentimiento y quebrantamiento, pidiendo un corazón humilde como el del publicano\n[01:01:27] Anuncios de la semana (oración de los sábados de madrugada), declaración de la palabra rema (\"Año de un nuevo comienzo\") y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/327994981502569/",
@@ -654,6 +666,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-COGGKDJM_AQMr7d2b_Xo1EjM1GPV7XImR8TIVwxR7hfH_PTlv1Ugpcvce5y7TowaHqZH_569660741034450.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-COGGKDJM_AQMr7d2b_Xo1EjM1GPV7XImR8TIVwxR7hfH_PTlv1Ugpcvce5y7TowaHqZH_569660741034450.mp4",
     "title": "Nuestros Versículos Favoritos: Promesas y Fortaleza",
     "message": "En un servicio especial durante la jornada de ayuno familiar, los pastores Daniel y Miriam Tito interactúan con la congregación revisando sus versículos favoritos de la Biblia. Meditan en el poder de promesas como Jeremías 33:3 (clama a mí), Salmo 34:7 (el ángel de Jehová), Juan 1:12 (potestad de ser hechos hijos) y Romanos 8:38-39 (nada nos separará de Su amor).\n\nÍndice de momentos:\n[00:00] Introducción y bienvenida al estudio bíblico del jueves, cuarto día de la jornada de ayuno y oración\n[16:21] Oración inicial y cantos de adoración congregacional (\"Qué gran Señor eres\")\n[23:25] Lectura y reflexión de Jeremías 33:3 (\"Clama a mí y yo te responderé\")\n[30:12] Lectura y reflexión de Salmo 34:7 (\"El ángel de Jehová acampa alrededor de los que le temen\")\n[35:45] Anécdotas pastorales sobre los versículos favoritos y la importancia de memorizar la Palabra\n[43:16] Lectura y reflexión de Juan 1:12 (\"Mas a todos los que le recibieron... les dio potestad de ser hechos hijos de Dios\")\n[49:33] Dinámica de participación con la congregación compartiendo sus pasajes bíblicos preferidos\n[53:45] Lectura y reflexión de Mateo 28:19 (La Gran Comisión) y Salmo 139\n[57:57] La verdad fundamental: \"Porque Dios es amor\" (1 Juan 4:8)\n[01:01:59] Lectura y reflexión de Romanos 8:38-39 (\"Nada nos podrá separar del amor de Dios\")\n[01:06:27] Oración de bendición por las familias y preparación para la Santa Cena del domingo. Declaración de la palabra rema (\"Año de construir\")",
     "url": "https://www.facebook.com/misioncelreino/videos/569660741034450/",
@@ -696,6 +709,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-COGGKDJM_AQNA3slYEmrjJ8ozBusK3ERCmSJYrks1X7PCNK2I_6UXstlifn7NUVgH9do_390735991911407.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-COGGKDJM_AQNA3slYEmrjJ8ozBusK3ERCmSJYrks1X7PCNK2I_6UXstlifn7NUVgH9do_390735991911407.mp4",
     "title": "Jehová Nisi: El Señor es mi Estandarte",
     "message": "El Pastor Daniel Tito enseña sobre el nombre de Dios 'Jehová Nissi' (El Señor es mi Estandarte) basado en Éxodo 17:15-16. Explica la victoria del pueblo de Israel contra Amalec mediante la intercesión de Moisés en el monte y expone cómo, ante nuestras batallas espirituales diarias contra el mundo y la carne (1 Juan 2:15), Dios permanece como nuestra bandera de victoria.\n\nÍndice de momentos:\n[00:00] Inicio de la transmisión: Saludos de bienvenida a nivel nacional y del extranjero\n[08:15] Oración inicial y cantos de adoración congregacional en un clima invernal\n[12:49] Introducción al tema central: Los nombres y atributos de Dios en la Biblia\n[23:09] Presentación del atributo de hoy: Jehová Nisi (El Señor es mi Estandarte), lectura bíblica en Éxodo 17:15-16\n[31:45] Significado de los estandartes históricos y cómo las tribus de Israel se identificaban en la batalla\n[39:29] El ataque sorpresa de Amalec y la intercesión de Moisés con las manos levantadas en el monte\n[45:23] Aplicación práctica: Nuestras batallas espirituales de hoy en día (1 Juan 2:15: el mundo, la carne, el enemigo)\n[50:47] El estandarte como símbolo de victoria, refugio y posesión del creyente\n[56:05] Oración congregacional de intercesión y entrega en el altar pidiendo la victoria de Dios\n[01:01:19] Saludos de cumpleaños para Ana Bartolo y Dianita Rodríguez, y anuncios de la semana\n[01:08:51] Declaración de la palabra rema (\"Año de un nuevo comienzo\") y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/390735991911407/",
@@ -733,6 +747,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-COGGKDJM_AQO511l8zUfJm0JrGhjzUDuJuMEKe1SdO5BgPrOWil14g_hjVxbNTdMkTwOg_1487424825016807.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-COGGKDJM_AQO511l8zUfJm0JrGhjzUDuJuMEKe1SdO5BgPrOWil14g_hjVxbNTdMkTwOg_1487424825016807.mp4",
     "title": "El Ministerio de los Ángeles: Protección y Presencia Divina",
     "message": "A partir de Salmo 34:7 y Hebreos 13:2, el Pastor Daniel Tito enseña sobre la función bíblica de los ángeles enviados para cuidar a los creyentes. Asimismo, analiza Éxodo 33:1-3, donde Moisés rehúsa avanzar con el pueblo de Israel si Dios solo enviaba un ángel en vez de Su propia presencia, recordándonos que debemos anhelar la presencia del Padre por encima de todo.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos a hermanos a nivel nacional e internacional\n[04:08] Reflexión introductoria sobre la oración tradicional infantil del \"Ángel de la guarda\" y la perspectiva de la fe\n[09:21] Lectura bíblica: Salmo 34:7. El ángel de Jehová que acampa y defiende a los que le temen\n[14:13] Reflexiones sobre experiencias sobrenaturales y testimonios de protección angelical\n[17:59] Lectura bíblica: Hebreos 13:2. El llamado a la hospitalidad y la visitación angelical sin saberlo\n[21:39] Explicación sobre la diferencia entre adorar a los ángeles (error doctrinal) y reconocer su ministerio de servicio\n[25:24] Lectura bíblica: Éxodo 33:1-3. Dios promete enviar un ángel ante Israel, pero rehúsa subir en medio de ellos\n[28:56] La respuesta de Moisés: la urgencia de demandar la presencia misma de Dios en el camino\n[33:28] Exhortación: buscar la presencia del Padre sobre cualquier otro beneficio espiritual\n[38:21] Oración congregacional pidiendo la protección de los ángeles de Dios y la llenura de Su presencia\n[42:33] Tiempo de adoración y ministración final cantando \"Sin merecer nada\", y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1487424825016807/",
@@ -770,6 +785,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-COGGKDJM_AQP5yrw0xa3XMpH9PFZbodNBprqyOrd5OahrBbEA2OaeQE73x0X8qg1Fi76l0A_2076543885873761.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-COGGKDJM_AQP5yrw0xa3XMpH9PFZbodNBprqyOrd5OahrBbEA2OaeQE73x0X8qg1Fi76l0A_2076543885873761.mp4",
     "title": "El Verdadero Sentido de la Navidad: Adorando al Rey",
     "message": "En un servicio especial navideño, el Pastor Daniel Tito comparte una enseñanza acerca del verdadero significado de la Navidad. Basado en Lucas 2:1-20 y Mateo 2:1-3, explica que la celebración no reside en los obsequios comerciales o la agitación externa, sino en adorar a Jesucristo (el verdadero dueño del cumpleaños) tal como lo hicieron los pastores y los magos de Oriente.\n\nÍndice de momentos:\n[00:00] Inicio de la transmisión con cánticos de alabanza navideños congregacionales y saludos\n[17:37] Reflexión sobre las costumbres de fin de año, las compras y el tráfico comercial en contraste con el evangelio\n[24:28] Exhortación sobre cómo el enfoque mundano de la Navidad nos distrae de la presencia de Dios\n[31:03] Presentación del tema central: Jesús como el verdadero dueño del cumpleaños en la Navidad\n[36:55] Lectura bíblica: Mateo 2:1-3. La llegada de los sabios de Oriente y la turbación de Jerusalén\n[41:09] Lectura bíblica: Lucas 2:1-12. El nacimiento de Jesús, el decreto de Augusto César y el viaje de José y María\n[45:29] Reflexión sobre el pesebre y la humildad de los primeros regalos y el entorno del nacimiento de Cristo\n[49:53] El papel de los pastores del campo que recibieron el anuncio del ángel (Lucas 2:8-12)\n[55:01] Invitación a darle a Jesús el primer lugar en nuestros hogares y mesas en esta Navidad\n[01:00:21] Oración congregacional de agradecimiento por la encarnación y la salvación provista en Jesús\n[01:15:10] Felicitaciones de Navidad de los pastores y líderes, y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/2076543885873761/",
@@ -807,6 +823,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-COGGKDJM_AQPKoS1JuNm4JPh_doxeS84T8tXaj3AURUofizQ1AOznLXT5GNXZK3Go9kQ_406428100343232.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-COGGKDJM_AQPKoS1JuNm4JPh_doxeS84T8tXaj3AURUofizQ1AOznLXT5GNXZK3Go9kQ_406428100343232.mp4",
     "title": "El Lugar de la Palabra de Dios: El Mes de la Biblia",
     "message": "En el marco de la celebración del Mes de la Biblia (septiembre), el Pastor Daniel Tito enseña sobre la centralidad y el valor eterno de las Escrituras. Ilustra esto compartiendo el testimonio de un soldado británico en la Primera Guerra Mundial cuya vida fue salvada cuando una bala impactó la Biblia en su bolsillo, y medita en pasajes como Salmo 56:4 y Mateo 24:35.\n\nÍndice de momentos:\n[00:00] Saludos y bienvenida al Domingo de Familia del 20 de septiembre\n[07:33] Anuncios de la iglesia y testimonios de oraciones respondidas durante la semana\n[12:51] Saludos a los líderes y hermanos locales, de provincias y del extranjero\n[17:22] Tiempo de alabanza y adoración congregacional\n[32:06] Introducción al tema: Septiembre como el Mes de la Biblia y el valor de las Escrituras\n[36:34] Testimonio histórico: El soldado de la Primera Guerra Mundial salvado por una Biblia en su bolsillo\n[45:43] Reflexión comparativa: Celebrar la Biblia no solo un día (como el Día de la Madre), sino vivirla diariamente\n[56:32] Lectura bíblica: Salmo 56:4. Alabar la Palabra de Dios y confiar en Su protección frente al temor\n[01:08:26] Exhortación: Darle a la Biblia un lugar físico de honor en el hogar y un lugar espiritual en la mente\n[01:20:29] Lectura bíblica: Mateo 24:35. La eternidad de la Palabra divina. Oración de consagración y entrega\n[01:29:32] Declaración final de la palabra rema (\"Año de un nuevo comienzo\") y despedida de la transmisión",
     "url": "https://www.facebook.com/misioncelreino/videos/406428100343232/",
@@ -843,6 +860,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-CwpQSYGR_AQM1NUgY22wNSuAHDAHtf91cnRxtDouEVe9DcDDKLnvzFHaybvGJjZqISiW_g_710468093469555.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-CwpQSYGR_AQM1NUgY22wNSuAHDAHtf91cnRxtDouEVe9DcDDKLnvzFHaybvGJjZqISiW_g_710468093469555.mp4",
     "title": "Yo Soy la Resurrección y la Vida: Venciendo la Tristeza",
     "message": "El Pastor Daniel Tito enseña sobre el poder de la resurrección de Jesucristo para disipar toda aflicción y dolor. Utilizando las historias de María Magdalena llorando ante el sepulcro vacío (Juan 20:11-18) y el desánimo de los discípulos camino a Emaús (Lucas 24:13-17), nos recuerda que Jesús es la resurrección y la vida (Juan 11:25) y que Su victoria sobre la muerte trae libertad y gozo eterno.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración congregacional: \"La unción está sobre mí, la muerte venciste y por ti vivo estoy\"\n[09:35] Cánticos de regocijo y adoración\n[16:52] Bienvenida y saludos a la congregación y escuelas del Reino\n[21:50] Introducción: La tristeza y el lamento frente a la esperanza de la resurrección\n[27:22] Lectura bíblica: Juan 20:11-18. María Magdalena llorando junto al sepulcro y su encuentro con Jesús resucitado\n[32:34] Reflexión sobre por qué lloramos ante la pérdida y cómo el enemigo intenta sembrar desolación\n[37:46] Lectura bíblica: Lucas 24:13-17. Los discípulos camino a Emaús, tristes por la muerte de Jesús\n[42:16] El consuelo divino y el caminar de Jesús junto a nosotros en medio de nuestro dolor\n[47:49] Lectura bíblica: Juan 11:25. \"Yo soy la resurrección y la vida\". La declaración de poder absoluto de Jesús\n[54:32] Ilustración folklórica: ¿Quién es el más fuerte del mundo? (Del agua al hierro y a Dios)\n[01:00:42] Clamor en el altar: Oración de liberación y consuelo por los corazones tristes, y llamado a la reconciliación",
     "url": "https://www.facebook.com/misioncelreino/videos/710468093469555/",
@@ -881,6 +899,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-CwpQSYGR_AQMMndjuIVg5HSzw8w0ExvsuxRauAvlL6VpfNwKUwF5IMaZdhDlx_RX0Mq0_281178760243730.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-CwpQSYGR_AQMMndjuIVg5HSzw8w0ExvsuxRauAvlL6VpfNwKUwF5IMaZdhDlx_RX0Mq0_281178760243730.mp4",
     "title": "Tiempo de Adoración y Bienvenida Congregacional (Mayo 2021)",
     "message": "Servicio dominical de bienvenida y adoración familiar en el cual se comparten saludos de la congregación nacional y del extranjero. El segmento inicial prepara la ministración preparando la bienvenida al Pastor Daniel Tito en un tiempo de alabanza y edificación espiritual.\n\nÍndice de momentos:\n[00:00] Presentación de la predicación del Pastor Daniel Tito e inicio del servicio dominical del 23 de mayo\n[03:56] Saludos especiales de bienvenida a la congregación virtual y reconocimiento pastoral\n[05:36] Reflexiones pastorales breves sobre el compromiso cívico y la oración por el país\n[06:48] Lectura de pedidos de oración y bendiciones para los líderes de la iglesia\n[07:37] Clamor general y saludos a las familias representadas en la transmisión\n[08:25] Tiempo de alabanza, adoración y oración por las familias\n[09:44] Cánticos de consagración personal preparando los corazones\n[10:29] Reflexión sobre la práctica de la adoración y la constancia espiritual\n[11:17] Enseñanza sobre el lenguaje espiritual y la comunión constante con el Señor\n[12:13] Clamor y cánticos de júbilo con el deseo de recibir la enseñanza del pastor\n[14:50] Reflexión final y despedida del tiempo de alabanza y bienvenida",
     "url": "https://www.facebook.com/misioncelreino/videos/281178760243730/",
@@ -912,6 +931,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-CwpQSYGR_AQNIFb66IIuIGDlaaP6FDQoSPmU1AExpjuP8vlyrvY91cR_3LHEXq_w3BS4Fxg_726191378205452.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-CwpQSYGR_AQNIFb66IIuIGDlaaP6FDQoSPmU1AExpjuP8vlyrvY91cR_3LHEXq_w3BS4Fxg_726191378205452.mp4",
     "title": "Altar de Oración Familiar: Gratitud e Intercesión",
     "message": "Servicio de intercesión y clamor en el nuevo horario familiar de oración nocturna. Los pastores comparten testimonios de milagros ocurridos durante la cuarentena y guían a la congregación en un tiempo de ruego por salud, paz espiritual y bendición en el hogar.\n\nÍndice de momentos:\n[00:00] Bienvenida a la noche de oración y cánticos de fe y adoración inicial\n[06:11] Lectura de comentarios y testimonios de sanidad y milagros en las familias\n[11:09] Reflexiones pastorales sobre las lecciones de fe aprendidas durante la cuarentena\n[16:47] Clamor en intercesión por las familias que atraviesan dificultades de salud\n[26:17] Enseñanza sobre la confianza en el obrar providencial y milagroso de Dios\n[31:11] Oración de protección familiar declarando bendición celestial sobre los hogares\n[36:17] Clamor especial por la restauración física de los líderes y servidores de la iglesia\n[41:47] Acción de gracias por las oraciones contestadas y la provisión divina\n[47:33] Tiempo de clamor en lenguas y adoración en el Espíritu Santo\n[52:05] Ministración final y peticiones específicas de intercesión por necesidades locales\n[01:09:03] Saludos a los cumpleañeros de la semana y declaración de la palabra rema",
     "url": "https://www.facebook.com/misioncelreino/videos/726191378205452/",
@@ -944,6 +964,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-CwpQSYGR_AQNxatj4rpbb4Pjso8ZtRRPSl74S15JrPYf0wrvE_aoOBiroCYVQRzJGRHdV_461368531628427.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-CwpQSYGR_AQNxatj4rpbb4Pjso8ZtRRPSl74S15JrPYf0wrvE_aoOBiroCYVQRzJGRHdV_461368531628427.mp4",
     "title": "El Deber Cristiano y las Elecciones: Sometimiento a las Autoridades",
     "message": "En vísperas del proceso electoral, el Pastor Daniel Tito comparte una enseñanza basada en Romanos 13:1-4 acerca del deber cristiano y la sumisión a las autoridades civiles establecidas por Dios. Exhorta a la congregación a ejercer su derecho al voto con discernimiento, amor cristiano y en paz, evitando contiendas o resentimientos.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al servicio del domingo 30 de mayo y tiempo de alabanza\n[04:49] Saludos a los líderes congregacionales y lectura de las intenciones del día\n[09:07] Oración inicial pidiendo la paz y dirección de Dios para la nación\n[18:28] Cánticos de consagración y adoración para preparar el corazón\n[33:04] Lectura bíblica principal en Romanos 13:1-4. La soberanía de Dios sobre los gobernantes\n[36:57] Explicación de los deberes del ciudadano cristiano y el respeto a la ley y las autoridades\n[42:06] Reflexión sobre la naturaleza temporal y de caducidad del poder político y gubernamental\n[46:49] Orientaciones para emitir un voto responsable, manteniendo los principios de la fe\n[54:20] Llamado al perdón en el hogar y en la familia frente a discusiones de índole electoral\n[01:05:47] Exhortación final a orar por las elecciones y mantener la paz y la unidad de la iglesia\n[01:09:39] Declaración de la palabra rema (\"Año de construir\") y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/461368531628427/",
@@ -978,6 +999,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-CwpQSYGR_AQOu05LQV9Z5acqTqm1ciYBIqxifR4buSw3x5GxwyNpoPRKpZIISj8eNwgJqSGQS8Mx3oGYIbXYf_Kp_DN3teoYy_814642459485290.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-CwpQSYGR_AQOu05LQV9Z5acqTqm1ciYBIqxifR4buSw3x5GxwyNpoPRKpZIISj8eNwgJqSGQS8Mx3oGYIbXYf_Kp_DN3teoYy_814642459485290.mp4",
     "title": "El Deber de Hacer el Bien: Santiago 4:17",
     "message": "A partir de Santiago 4:17, el Pastor Daniel Tito enseña sobre el pecado de omisión, explicando que la vida cristiana no solo consiste en evitar hacer lo malo, sino en actuar activamente para hacer el bien. Analiza cómo las decisiones cotidianas de los creyentes impactan a la sociedad y los llama a ser portadores de la luz y el amor de Dios.\n\nÍndice de momentos:\n[00:00] Introducción, saludos a las familias y canción especial interpretada por Luis Membrillo\n[10:20] Saludos a los líderes y hermanos virtuales e inicio de la noche de estudio bíblico\n[16:26] Lectura y análisis de Santiago 4:17: 'Al que sabe hacer lo bueno, y no lo hace, le es pecado'\n[22:28] Explicación teológica del pecado de omisión y la responsabilidad activa del creyente\n[28:28] Meditación sobre la coherencia entre el saber espiritual y el actuar ético en la vida diaria\n[34:30] La misión del cristiano de ser portador del bien y constructor de paz en su entorno\n[40:26] Ejemplos cotidianos de hacer lo correcto frente a la indiferencia o la conveniencia social\n[46:24] Reflexiones sobre temas morales contemporáneos y el rol de las leyes civiles y divinas\n[52:24] Análisis del impacto de las políticas públicas y las responsabilidades cívicas cristianas\n[58:24] Anuncios, invitación al culto de los niños y oración por las familias necesitadas\n[01:04:32] Clamor final y despedida del servicio de estudio",
     "url": "https://www.facebook.com/misioncelreino/videos/814642459485290/",
@@ -1010,6 +1032,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-CwpQSYGR_AQPiQiTUWv71Fbzrykw7vY9dQ3NqNTjjCzosz20zTnRodFWGr9AYHGeEGTzXDkWzMbgnxvJdcc3ZevntXwCWVBJ_127873355987904.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-CwpQSYGR_AQPiQiTUWv71Fbzrykw7vY9dQ3NqNTjjCzosz20zTnRodFWGr9AYHGeEGTzXDkWzMbgnxvJdcc3ZevntXwCWVBJ_127873355987904.mp4",
     "title": "Alabanza Congregacional y Saludos de Hermandad",
     "message": "Un tiempo vibrante de alabanza y adoración congregacional lleno de gozo y comunión. Los pastores comparten saludos con los miembros de la congregación virtual y física, celebrando el amor fraternal y la fortaleza que Dios otorga para superar las pruebas y mantener firme el testimonio de fe.\n\nÍndice de momentos:\n[00:00] Inicio con cánticos alegres de alabanza congregacional\n[02:29] Cánticos de adoración centrados en la presencia y la bondad de Dios en la vida diaria\n[04:45] Exhortación a valorar las bendiciones que Dios ha puesto en nuestras vidas\n[06:36] Mensaje de fortaleza: la protección divina ante los ataques del enemigo y las enfermedades\n[07:57] Reflexión sobre la victoria del creyente al confiar en las promesas del Señor\n[09:30] Saludos a los primeros conectados del chat y lectura de mensajes de aprecio y fe\n[11:51] Saludos a las familias representadas y felicitaciones de bendición mutua\n[13:44] Clamor por necesidades específicas de salud y proclamación de sanidad en el nombre de Jesús\n[16:44] Adoración y exaltación al Señor Jesús como el centro del servicio de alabanza\n[18:45] Tiempo de oración comunitaria e intercesión por peticiones del chat virtual\n[21:25] Oración final y cánticos finales invitando a las familias a congregarse con gozo",
     "url": "https://www.facebook.com/misioncelreino/videos/127873355987904/",
@@ -1041,6 +1064,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-fhawYvLE_AQMmZO0WMdXp73EnhUcv1prfalJmbNzqebK7zy88G2thxB3XoxZkyl9o10onA_678257190050930.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-fhawYvLE_AQMmZO0WMdXp73EnhUcv1prfalJmbNzqebK7zy88G2thxB3XoxZkyl9o10onA_678257190050930.mp4",
     "title": "Sabiduría y Consejo: Edificando el Hogar sin Ansiedad",
     "message": "El Pastor Daniel Tito predica sobre la importancia de recibir consejo y sabiduría conforme a Proverbios 19:20. Advierte que los títulos y logros humanos no tienen valor de salvación ante Dios y exhorta a los padres a entregar sus ansiedades económicas y familiares al Señor en lugar de desvelarse preocupados.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional con la canción 'Días de Elías' declarando el año del Señor\n[06:41] Cántico de rendición y consagración de la vida al Señor Jesús\n[12:36] Reflexión sobre la inutilidad de los títulos o medallas humanas para ganar la aprobación divina\n[17:36] Meditación sobre la gracia inmerecida y cómo la salvación depende únicamente de la obra de Cristo\n[23:03] Lectura bíblica: Proverbios 19:20. La sabiduría práctica de escuchar el consejo y recibir la corrección\n[29:03] Mensaje para los padres de familia: cómo vencer la ansiedad y el desvelo por el sustento de los hijos\n[35:17] Advertencia teológica sobre la falsa apariencia de santidad en la tierra frente a la realidad celestial\n[42:14] Clamor en el altar pidiendo sabiduría para tomar buenas decisiones en la familia\n[47:36] Saludos de agradecimiento a la Pastora Ricardina y a los colaboradores ministeriales en todo el país\n[49:04] Saludos por cumpleaños a Jessica Chines y felicitaciones de los pastores\n[51:01] Cántico final de agradecimiento por el 'Inexplicable Amor' de Dios, declaración rema y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/678257190050930/",
@@ -1075,6 +1099,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-fhawYvLE_AQM_jfaev1XgpenEUXzlUn3gM_K_NhTEThikNJFRd__dmxykadZWArGWz3S3F5jx12ZJ_Emaoy4s9GWXsoybnCmF_3005093346205572.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-fhawYvLE_AQM_jfaev1XgpenEUXzlUn3gM_K_NhTEThikNJFRd__dmxykadZWArGWz3S3F5jx12ZJ_Emaoy4s9GWXsoybnCmF_3005093346205572.mp4",
     "title": "Altar de Intercesión: Fortaleza y Consuelo Familiar",
     "message": "En este servicio de oración e intercesión de los martes, los pastores guían a la iglesia en un tiempo de clamor por sanidad y provisión para diversas familias de la misión. Brindan palabras de consuelo y paz (basadas en Salmos 121 y 126:5) a la familia de José Rafael por el fallecimiento de un ser querido.\n\nÍndice de momentos:\n[00:00] Bienvenida a la noche de oración de los martes, saludos interactivos con los hermanos en el chat\n[08:06] Oración inicial de agradecimiento por los pastores Daniel, Miriam y Ricardina Torres\n[13:35] Acción de gracias por el respaldo de Dios a lo largo del tiempo de caminata espiritual de la iglesia\n[17:14] Reflexión breve sobre la perseverancia de los miembros que tienen años sirviendo en la misión\n[20:53] Exhortación a alabar a Dios por todas las cosas, tanto en la bonanza como en la dificultad\n[24:32] Clamor de intercesión por Donato (padre de Diana Aquino) y por sanidad de otros hermanos\n[30:59] Peticiones por la provisión económica y la paz en todos los hogares de la iglesia a nivel nacional\n[39:29] Oración especial por la líder Lis Bruno de Huancayo y su ministerio de servicio local\n[48:11] Bendición de intercesión por la familia Romaní, pidiendo amor y temor de Dios en el hogar\n[56:54] Clamor por la salud de la abuelita Maci y palabras de condolencias para José Rafael\n[01:06:28] Oración final declarando la palabra rema (\"Año de un nuevo comienzo\") y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/3005093346205572/",
@@ -1110,6 +1135,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-fhawYvLE_AQOgFDhjEUTg25d2M5qRGTmhetwcaEOfwEcz42Vcar7icuX6sUHXpoUrt0EH_675148653472448.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-fhawYvLE_AQOgFDhjEUTg25d2M5qRGTmhetwcaEOfwEcz42Vcar7icuX6sUHXpoUrt0EH_675148653472448.mp4",
     "title": "Restauración Familiar y el Poder del Clamor Sincero",
     "message": "Servicio dominical enfocado en la restauración de las familias y la sanidad de las heridas del alma. El Pastor Daniel Tito predica sobre el valor del clamor sincero ante Dios y de cómo el llanto de arrepentimiento trae el consuelo divino, exhortando a la unidad familiar y a edificar el hogar con bases espirituales sólidas.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos efusivos a las familias en España, Italia, Australia y provincias\n[21:00] Reflexión sobre el transcurso del tiempo y la urgencia de priorizar la vida espiritual familiar\n[32:17] Meditación sobre el valor espiritual del llanto sincero y el quebrantamiento ante el Señor\n[38:27] Exhortación a los padres y a los hijos sobre el respeto y la honra mutua en el hogar\n[44:31] Análisis de los conflictos matrimoniales y cómo resolverlos con sabiduría bíblica\n[51:05] Mensaje de esperanza: 'Todo es superable en Cristo Jesús' si ponemos el hogar en Sus manos\n[57:37] Identidad y propósito: el valor y la dignidad de ser llamados hijos e hijas de Dios\n[01:04:01] Advertencia contra la mentira y el engaño en las relaciones familiares cotidianas\n[01:11:13] Clamor congregacional en el altar pidiendo liberación y paz para los hogares en crisis\n[01:16:59] Oración especial por la restauración emocional de las mujeres y bendición de la cena familiar\n[01:26:08] Declaración final de la palabra rema ('Año de construir') e invitación a las próximas reuniones",
     "url": "https://www.facebook.com/misioncelreino/videos/675148653472448/",
@@ -1142,6 +1168,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-fhawYvLE_AQOhH8qKx07XT_uMs3ij9_NuwN7fNAmUtHvVGpnOwsll8EXYP9s5q7uN8asKE9LoTSo0tWLwvvup8lO5azQOOw9_2665482837024362.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-fhawYvLE_AQOhH8qKx07XT_uMs3ij9_NuwN7fNAmUtHvVGpnOwsll8EXYP9s5q7uN8asKE9LoTSo0tWLwvvup8lO5azQOOw9_2665482837024362.mp4",
     "title": "Preparando el Corazón para la Noche de Oración",
     "message": "Una breve introducción al servicio nocturno, donde el Pastor Daniel Tito comparte saludos con los niños y las familias de Huancayo y Lima. Enfatiza que la oración es el pilar fundamental de toda reunión espiritual y guía al pueblo en un clamor de inicio para sintonizar con la presencia de Dios.\n\nÍndice de momentos:\n[00:00] Saludos a las familias y niños conectados en Huancayo y Lima usando una metáfora satelital\n[00:51] Exhortación sobre la importancia de la oración como pilar central de la reunión congregacional\n[01:40] Clamor inicial de intercesión por las familias representadas y las necesidades de la iglesia\n[02:48] Reflexión sobre la omnipresencia de Dios en las provincias de Perú y en el extranjero\n[03:38] Invitación a levantar las manos y cántico de adoración 'Cristo, ven aquí' para abrir el servicio",
     "url": "https://www.facebook.com/misioncelreino/videos/2665482837024362/",
@@ -1173,6 +1200,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-fhawYvLE_AQOLzQjEbomDcXyv2kCRRhtsVthPQ0M0VtR6Bhr5TapGFgJ8iDrKk8h4eW3Xd3dqAntziV8JKsQtOF0MfIxFWW_286430775869696.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-fhawYvLE_AQOLzQjEbomDcXyv2kCRRhtsVthPQ0M0VtR6Bhr5TapGFgJ8iDrKk8h4eW3Xd3dqAntziV8JKsQtOF0MfIxFWW_286430775869696.mp4",
     "title": "Si Dios con Nosotros, ¿Quién contra Nosotros?: Venciendo la Oposición",
     "message": "En esta breve transmisión de reconexión, el Pastor Daniel Tito ofrece palabras de aliento tras una interrupción técnica. Recordando Romanos 8:31, exhorta a la congregación a permanecer firmes en la fe contra cualquier oposición espiritual, guiando un tiempo de entrega y consagración personal a Cristo.\n\nÍndice de momentos:\n[00:00] Palabras de perseverancia y fe tras la interrupción técnica, citando Romans 8:31\n[00:46] Bienvenida a los hermanos que se reconectan al servicio espiritual nocturno\n[01:42] Oración de rendición personal y ruego por la presencia de Dios en los hogares\n[03:03] Tiempo de adoración entonando el cántico de entrega 'Déjame besar tus pies'\n[04:36] Clamor final y compromiso a hacer la voluntad del Señor Jesús en todo tiempo",
     "url": "https://www.facebook.com/misioncelreino/videos/286430775869696/",
@@ -1207,6 +1235,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-fhawYvLE_AQOme6bDmZvGdqfCZucy3tanm6ag9CtDbwdri1xe6XkhajZzYki9vLFDcL5_725095354920087.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-fhawYvLE_AQOme6bDmZvGdqfCZucy3tanm6ag9CtDbwdri1xe6XkhajZzYki9vLFDcL5_725095354920087.mp4",
     "title": "Tu Cuerpo es Templo del Espíritu Santo: Pureza y Santidad",
     "message": "Durante este estudio bíblico de los jueves, el Pastor Daniel Tito aborda la doctrina de la pureza y la santidad corporal basada en 1 Corintios 6:18-20. Explica que la iglesia no es una estructura física, sino que cada creyente es el templo vivo del Espíritu Santo, instando a huir de la inmoralidad y a honrar a Dios con el cuerpo.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al estudio bíblico de los jueves y anuncios de bendición para la iglesia\n[13:17] Tiempo de adoración y clamor pidiendo la dirección del Espíritu de Dios para la enseñanza\n[24:12] Introducción al tema central: la diferencia entre la estructura física de la iglesia y el templo espiritual\n[31:19] Lectura y explicación bíblica: el creyente como el verdadero templo donde habita el Espíritu Santo\n[38:08] Lectura bíblica: 1 Corintios 6:18-20. Exhortación a huir de la fornicación y la impureza moral\n[44:51] Advertencia contra los estándares morales del mundo que contradicen la santidad divina\n[51:51] Oración congregacional de arrepentimiento y consagración del cuerpo y la mente a Dios\n[01:00:00] Interacción en vivo con los comentarios, saludos a las familias y peticiones de oración\n[01:06:22] Clamor por sanidad física y fortalecimiento espiritual de los enfermos\n[01:13:19] Saludos especiales por los cumpleaños del mes de julio y felicitaciones pastorales\n[01:19:28] Cierre del servicio cantando 'Mi pensamiento eres tú, Señor', declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/725095354920087/",
@@ -1241,6 +1270,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQM7X33ruKOJaxDUBay19Uf0SOQQLM98qsqggL7sBfSdVsXgFrgrWsdyuyfiLA_824457492183212.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQM7X33ruKOJaxDUBay19Uf0SOQQLM98qsqggL7sBfSdVsXgFrgrWsdyuyfiLA_824457492183212.mp4",
     "title": "Santificación y Excelencia: El Ejemplo de Daniel",
     "message": "Al inicio de diciembre, el Pastor Daniel Tito comparte un mensaje sobre la santificación familiar y la excelencia espiritual basado en Daniel 1. Alienta a resolver las diferencias de pareja mediante el amor de Cristo y convoca a un día especial de santificación el 8 de diciembre, tomando como modelo la determinación de Daniel de no contaminarse.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y tiempo de alabanza inspirado en la bendición de estar en la casa de Dios\n[06:17] Reflexión sobre las relaciones de pareja y la importancia de superar las diferencias familiares en armonía\n[13:21] Consejos pastorales sobre la crianza de los hijos y la paciencia necesaria al verlos crecer\n[20:19] Anuncio del Día de Santificación de la iglesia (8 de diciembre) y preparación espiritual\n[25:42] Introducción al estudio del libro de Daniel: la decisión de mantener la integridad en un entorno pagano\n[29:04] Análisis de la firmeza de Daniel al rehusar contaminarse con la comida del rey\n[32:28] La recompensa divina de la santidad: Daniel y sus amigos hallados diez veces mejores\n[36:07] Lectura bíblica: Daniel 1:18-20. El rey conversa con los jóvenes hebreos y reconoce su sabiduría superior\n[39:54] Aplicación práctica: cómo aplicar principios de excelencia y ética bíblica en el trabajo y estudios\n[45:29] Oración de consagración en el altar pidiendo un corazón puro y consagrado a Dios\n[50:15] Canto final de acción de gracias ('Inexplicable amor'), saludos de cumpleaños y bendición pastoral",
     "url": "https://www.facebook.com/misioncelreino/videos/824457492183212/",
@@ -1275,6 +1305,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQMoZ4Dbn4z2lGHDTiH78SnALRVkFDYKQr6kH1EFcIOO6Abr8K37m67lkaK1g_1316628639096185.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQMoZ4Dbn4z2lGHDTiH78SnALRVkFDYKQr6kH1EFcIOO6Abr8K37m67lkaK1g_1316628639096185.mp4",
     "title": "Los Problemas como Oportunidades Divinas",
     "message": "A su regreso de un viaje de ministración, los pastores Daniel y Miriam Tito saludan a la congregación y comparten una enseñanza motivadora. El pastor explica que, para el creyente, los problemas no deben ser vistos como derrotas, sino como oportunidades ('desafortunidades') diseñadas por Dios para fortalecer nuestra fe y edificar la obra.\n\nÍndice de momentos:\n[00:00] Inicio con cantos de alabanza y alegría por congregarse nuevamente en la casa del Señor\n[07:21] Saludos pastorales de bienvenida tras el viaje y agradecimiento por las oraciones de la iglesia\n[11:56] Reflexión sobre la importancia de estar activos en el servicio y en la edificación de la obra local\n[18:34] Meditación sobre la paternidad responsable y la alegría de guiar espiritualmente a la familia\n[22:13] Enseñanza central: redefiniendo los problemas como desafíos y oportunidades de crecimiento espiritual\n[25:40] El rol de la mujer y el varón de Dios al enfrentar las pruebas con fe y no con desánimo\n[33:57] Testimonios prácticos de oraciones contestadas en medio de situaciones aparentemente imposibles\n[38:30] Saludos a las misiones en provincia y hermanos en el extranjero (España, Italia, Australia)\n[41:46] Oración congregacional de intercesión pidiendo fortaleza y paz en momentos de dificultad\n[46:38] Exhortación a construir y sostener el templo espiritual de Dios con fidelidad y generosidad\n[52:00] Declaración final de la palabra rema ('Año de la gracia'), saludos y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/1316628639096185/",
@@ -1307,6 +1338,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQNQn_OBKlcyXkuEtLLHbFhxL294iYhHHA86K94Nn92gTqAi5llwkD4lva4raopNF3ydUJQrX_2NyIGehN80VJ_736193970389735.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQNQn_OBKlcyXkuEtLLHbFhxL294iYhHHA86K94Nn92gTqAi5llwkD4lva4raopNF3ydUJQrX_2NyIGehN80VJ_736193970389735.mp4",
     "title": "Clamor de Intercesión: Sanidad y Fortaleza Espiritual",
     "message": "Un servicio especial de intercesión y ruego guiado por la líder Mary Rodas. La reunión está dedicada por completo a clamar por necesidades específicas de salud, especialmente por la hermana Jessica Chisney y los miembros de las escuelas Lila y Rosada, rogando por restauración física y renovación de fuerzas.\n\nÍndice de momentos:\n[00:30] Tiempo de alabanza inicial entonando 'Mi deseo es honrarte a ti' e introducción de la líder Mary Rodas\n[10:23] Oración de inicio consagrando la transmisión de intercesión al Padre Celestial\n[16:10] Invitación a la congregación virtual a colocar sus pedidos y necesidades de oración en el chat\n[21:07] Oración intercesora por el crecimiento espiritual y fortalecimiento de los líderes locales\n[25:09] Clamor específico de sanidad por Jessica Chisney y otros hermanos afligidos por enfermedad\n[29:28] Intercesión por las familias asociadas a la Escuela Lila y ministerios en provincias\n[33:56] Clamor de fe pidiendo la cobertura de la sangre de Jesucristo sobre los hogares en crisis\n[40:08] Declaración de milagros y de sanidad física sobre los enfermos graves\n[45:45] Clamor pidiendo que Dios remueva toda secuela y debilidad de los cuerpos restablecidos\n[51:37] Ministración final en el Espíritu Santo declarando paz y visitación divina en las casas\n[01:02:53] Declaración de la palabra rema ('Año de construir') y bendición de despedida del culto",
     "url": "https://www.facebook.com/misioncelreino/videos/736193970389735/",
@@ -1339,6 +1371,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQNzMjHFrZPr7he034PusNgb3yy0yi96iLnFjnYlR4XvRAKCODkJZEwEVRhY_843139356817298.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQNzMjHFrZPr7he034PusNgb3yy0yi96iLnFjnYlR4XvRAKCODkJZEwEVRhY_843139356817298.mp4",
     "title": "El Pacto Perpetuo de Dios: Promesas para tu Descendencia",
     "message": "Desde el hogar de la familia Velázquez, el Pastor Daniel Tito comparte un mensaje basado en Génesis 17:7 sobre el pacto eterno de Dios con las familias. Explica que la bendición divina no solo abarca a los creyentes en el presente, sino que se extiende por promesa a su descendencia y futuras generaciones por pacto perpetuo.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional a la reunión familiar en el hogar de la familia Velázquez y saludos interactivos\n[03:54] Saludos a las misiones en Europa y reflexión sobre la unidad de la iglesia sin fronteras\n[08:05] Reflexión sobre la responsabilidad de los padres de transmitir las promesas divinas a los hijos\n[12:12] El anhelo de ver a toda la familia sirviendo unida en los caminos del Señor\n[16:30] Meditación sobre la salvación por gracia y el destino eterno del alma\n[20:47] Oración de intercesión por las peticiones de restauración familiar enviadas en el chat\n[25:22] Lectura bíblica: Génesis 17:7. El pacto perpetuo de Dios con Abraham y su descendencia\n[29:57] Explicación teológica del pacto familiar y cómo la obediencia trae bendición al hogar\n[34:52] Confianza en la gracia de Dios a pesar de los errores y debilidades del ser humano\n[39:35] Acción de gracias por el respaldo ministerial y la hospitalidad de la familia local\n[43:44] Cánticos de adoración final ('Inexplicable amor'), declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/843139356817298/",
@@ -1373,6 +1406,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQOczpKilkHks6AziKq8UVJXqtyrJcJ8MmEpILUA_p2Dz3Fycsn9ZcRXVikDCTgddzYlp7faaFH14IskB952CQ_840697863907771.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQOczpKilkHks6AziKq8UVJXqtyrJcJ8MmEpILUA_p2Dz3Fycsn9ZcRXVikDCTgddzYlp7faaFH14IskB952CQ_840697863907771.mp4",
     "title": "Fidelidad en el Servicio: La Lección de Jacob y sus Rebaños",
     "message": "El Pastor Daniel Tito enseña sobre la fidelidad en el trabajo y en el servicio a Dios basándose en la historia de Jacob sirviendo en los rebaños de Labán. Hace un llamado a la congregación a priorizar los días de culto y oración familiar a mitad de semana, asegurando que Dios recompensa el esfuerzo fiel.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional con el canto 'Mejor es un día en tu casa' y exhortación a la asistencia al templo\n[05:24] Reflexión sobre la importancia de orar proactivamente por los hijos y nietos en lugar de esperar la crisis\n[10:41] Introducción histórica: Jacob trabajando con fidelidad cuidando las ovejas de su suegro Labán\n[14:33] Interacción con los hermanos en el chat virtual y lectura de saludos locales y extranjeros\n[19:14] Advertencia espiritual contra las distracciones mundanas y el descuido de la comunión con Dios\n[24:23] Análisis bíblico: cómo Dios prosperó sobrenaturalmente a Jacob a pesar de las injusticias de Labán\n[29:09] Clamor de fe pidiendo la guía y bendición de Dios sobre los emprendimientos de los hermanos\n[34:54] Exhortación a dejar un testimonio duradero de fe en la iglesia y en el hogar\n[39:29] Testimonios y reflexiones sobre la gracia divina que sostiene al creyente frente a las críticas\n[44:05] Ministración final en el altar cantando 'Estoy a tus pies', entrega de vidas y ruego por las familias\n[47:35] Declaración final de la palabra rema ('Año de dar gracias') y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/840697863907771/",
@@ -1407,6 +1441,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQOt72TQMnSyoYJlWhyoDY5s57h1B1TGs6dkBCYYF34jRNoeEBEd1tRDFfhQ_807127097238352.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQOt72TQMnSyoYJlWhyoDY5s57h1B1TGs6dkBCYYF34jRNoeEBEd1tRDFfhQ_807127097238352.mp4",
     "title": "Proveer para los Suyos: El Deber Familiar del Creyente",
     "message": "Predicado desde Parla, Madrid, el Pastor Daniel Tito expone sobre las responsabilidades bíblicas de los padres en el hogar basándose en 1 Timoteo 5:8. Explica que la provisión familiar no es solo de índole económica o material, sino que incluye la cobertura afectiva, moral y el sacerdocio espiritual del hogar.\n\nÍndice de momentos:\n[00:00] Apertura dominical desde Madrid, España, agradeciendo a los anfitriones Jonathan y Charlotte\n[05:39] Lectura bíblica inicial: 1 Timoteo 5:8. El deber del creyente de proveer para su propia casa\n[09:52] Reflexión sobre el apego familiar y la transformación saludable de los hijos a la vida independiente\n[14:19] Exhortación pastoral sobre el equilibrio entre el trabajo secular y la presencia afectiva en el hogar\n[18:43] Consejos para padres sobre cómo educar y guiar a los hijos sin descuidar el rol de autoridad\n[23:30] Instrucciones bíblicas acerca del respeto mutuo entre esposos y la resolución de conflictos\n[28:30] Meditación sobre la fidelidad conyugal y la estabilidad del matrimonio cristiano\n[33:22] Clamor intercesor por los hogares que enfrentan crisis económicas y divisiones internas\n[38:31] Advertencia contra el resentimiento familiar y la importancia de sanar relaciones rotas\n[43:23] Llamado a practicar el amor fraternal y la ayuda al prójimo en la comunidad local\n[52:16] Oración final por las familias de Madrid y Perú, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/807127097238352/",
@@ -1441,6 +1476,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQPlq6fc1rNcQAvdOsXsrZF5M7qi6wrmGuokdjvAloORXrxMHBxxl7us6S8rzQ_886175952377828.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQPlq6fc1rNcQAvdOsXsrZF5M7qi6wrmGuokdjvAloORXrxMHBxxl7us6S8rzQ_886175952377828.mp4",
     "title": "Preparando el Cierre del Año: Obras que Trascienden",
     "message": "A dos semanas de finalizar el año 2022, el Pastor Daniel Tito guía a la congregación en una meditación sobre el legado espiritual de nuestras acciones basadas en Apocalipsis 14:13. Exhorta a evaluar nuestro caminar en la fe durante el año y a asegurarnos de que nuestras obras glorifiquen al Señor y trasciendan.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos de fin de año de los pastores Daniel y Miriam Tito\n[08:43] Reflexión introductoria sobre el cumplimiento de los tiempos y la soberanía de Dios en 2022\n[14:10] Exhortación a avanzar con entusiasmo espiritual en las últimas dos semanas del año\n[18:01] Lectura bíblica principal: Apocalipsis 14:13. Bienaventurados los que mueren en el Señor y el valor de sus obras\n[24:10] Meditación sobre la eternidad y la importancia de vivir cada día con propósito espiritual\n[29:21] Dinámica de agradecimiento en vivo con la congregación compartiendo testimonios del año\n[34:20] Advertencia pastoral: la urgencia de huir del pecado y de las malas influencias en esta temporada\n[38:08] Lectura de comentarios y saludos a los líderes de las distintas escuelas de la misión\n[41:20] Clamor intercesor por fortaleza espiritual y provisión para los hogares en el cierre de año\n[45:55] Oración especial por la paz en las familias representadas y por sanidad de los enfermos\n[50:46] Anuncios semanales de Navidad y Año Nuevo, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/886175952377828/",
@@ -1511,6 +1547,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQPXT6vNlqNZl3KZTa807oAsb6X1yTgYGIf2LI83DMwzUmV2mvfP5G0k6sr_446724404264572.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-hZ2TkcLx_AQPXT6vNlqNZl3KZTa807oAsb6X1yTgYGIf2LI83DMwzUmV2mvfP5G0k6sr_446724404264572.mp4",
     "title": "Pasajeros y Peregrinos: Nuestra Verdadera Ciudadanía",
     "message": "Invitado en la Iglesia de la Renovación, el Pastor Daniel Tito predica acerca de nuestra identidad cristiana como peregrinos y extranjeros en la Tierra. A través de la vida y transformación del apóstol Pablo, enseña sobre la verdadera sabiduría de poner nuestra mirada en el Reino de los cielos y vivir conforme a ella.\n\nÍndice de momentos:\n[00:00] Bienvenida fraternal y saludos con su esposa a los miembros de la Iglesia de la Renovación\n[11:55] Exhortación sobre la responsabilidad de los creyentes ante el tribunal de Cristo\n[21:10] Saludos a los primeros oyentes virtuales y pedidos de oración de la transmisión\n[26:26] Reflexión sobre la brevedad de la vida terrenal y la eternidad que nos espera\n[32:00] La coherencia del testimonio cristiano: viviendo en santidad fuera de las paredes de la iglesia\n[37:14] Consejos pastorales sobre la paciencia y el autocontrol frente a las provocaciones cotidianas\n[42:30] Advertencia bíblica contra el chisme, la murmuración y la búsqueda de contiendas\n[47:58] Meditación sobre la sabiduría divina frente a la astucia humana del mundo\n[53:38] El ejemplo del apóstol Pablo: de perseguidor a siervo, y su perseverancia a pesar del rechazo\n[59:34] Clamor en el altar pidiendo la unción y la dirección del Espíritu Santo en la congregación\n[01:05:49] Cántico final de adoración ('Inexplicable amor'), saludos por cumpleaños y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/446724404264572/",
@@ -1546,6 +1583,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-lhprfgBb_AQM8SCvx3OjGTictaDdREj_lR6j2o3tA_KcP52m1P_4k_D5f20KxeqU1w7_742608746398513.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-lhprfgBb_AQM8SCvx3OjGTictaDdREj_lR6j2o3tA_KcP52m1P_4k_D5f20KxeqU1w7_742608746398513.mp4",
     "title": "Permaneciendo en la Vid Verdadera: Venciendo el Orgullo",
     "message": "A partir de Juan 15:1-8, el Pastor Daniel Tito enseña sobre la absoluta necesidad de permanecer en Cristo, la Vid Verdadera, para dar fruto espiritual duradero. Exhorta a la congregación a despojarse del orgullo que nos desconecta de la vid y aborda pautas para el respeto mutuo en el matrimonio.\n\nÍndice de momentos:\n[00:00] Bienvenida dominical e inicio de cantos de júbilo reconociendo el señorío de Jesús\n[12:45] Oración inicial pidiendo un corazón humilde y enseñable para recibir la Palabra\n[18:55] Saludos familiares e interacciones con la congregación física y virtual\n[34:32] Tiempo de adoración y clamor en el altar reconociendo a Cristo como Salvador\n[46:39] Reflexión sobre los sacrificios personales que demanda el discipulado y el servicio fiel\n[55:06] Testimonio personal del Pastor sobre sus inicios ministeriales y su trabajo secular\n[01:03:50] Lectura bíblica: Juan 15:1-5. La metáfora de la vid y los pámpanos, y la necesidad de permanecer\n[01:12:20] Exhortación central: el peligro del orgullo y la altivez de corazón que secan al creyente\n[01:19:22] Consejos para esposos y esposas sobre cómo cultivar el amor y el perdón en el matrimonio\n[01:25:28] Reflexión sobre la salvación y el discernimiento de los verdaderos frutos de fe\n[01:32:29] Oración de consagración final, declaración de la palabra rema y cánticos de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/742608746398513/",
@@ -1580,6 +1618,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-lhprfgBb_AQMSGEhueNRpLlwZ3hOmotHz7i0BmVlaOo0UyrA_FNBCRxE9WppjzhqT_M51ifkMM9x1dQ7ShXS6TfiycxIk_sB_546949730314731.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-lhprfgBb_AQMSGEhueNRpLlwZ3hOmotHz7i0BmVlaOo0UyrA_FNBCRxE9WppjzhqT_M51ifkMM9x1dQ7ShXS6TfiycxIk_sB_546949730314731.mp4",
     "title": "El Poder Sanador de Jesús: Efata, sé Abierto",
     "message": "Basado en Marcos 7:31-37, el Pastor Daniel Tito expone acerca del milagro de Jesús al sanar al hombre sordo y tartamudo (pronunciando 'Efata', que significa 'sé abierto'). Enseña que aunque la medicina humana tiene límites, el poder de Cristo es absoluto para sanar y restaurar cualquier dolencia física y espiritual.\n\nÍndice de momentos:\n[00:30] Bienvenida congregacional en el segundo turno, con saludos a los hermanos en el extranjero y en provincias\n[05:18] Reflexión sobre la fe activa de interceder por los enfermos y el respaldo del Espíritu Santo\n[14:19] Mención pastoral sobre las limitaciones de la medicina humana en contraste con el poder de Dios\n[29:13] Clamor congregacional intercediendo por sanidad de los hermanos graves del chat virtual\n[39:10] Lectura bíblica: Marcos 7:31-37. El encuentro de Jesús con el sordomudo y la palabra de poder: '¡Efata!'\n[41:39] Explicación del significado de 'Efata' y de cómo Dios quiere abrir nuestros oídos espirituales\n[44:27] Llamado a los creyentes a recibir la bendición de la unción sanadora en el altar\n[47:04] Oración de agradecimiento por el propósito divino establecido en la vida de cada miembro\n[49:08] Consagración de los planes y metas de las familias en las manos del Padre\n[51:46] Adoración íntima experimentando la presencia restauradora de Dios en los hogares\n[54:53] Declaración de la palabra rema ('Año de dar gracias'), saludos finales y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/546949730314731/",
@@ -1615,6 +1654,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-lhprfgBb_AQN24T4gvxI7aEDfhI9W5x6Ssz0P7zo1OERjFiKzuPLG_3DMQJqU4zjaIpU_2568165666651632.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-lhprfgBb_AQN24T4gvxI7aEDfhI9W5x6Ssz0P7zo1OERjFiKzuPLG_3DMQJqU4zjaIpU_2568165666651632.mp4",
     "title": "Breve Reflexión: Vida Eterna y Fe",
     "message": "Una breve transmisión o segmento de prueba que contiene unas cortas palabras de reflexión sobre la vida eterna y la fe en el Reino de los cielos.\n\nÍndice de momentos:\n[00:00] Palabras iniciales invitando a hablarle al Señor\n[01:30] Canto breve enfocado en la promesa de la vida eterna en Cristo\n[04:00] Reflexión final sobre la incredulidad frente a la verdad del cielo",
     "url": "https://www.facebook.com/misioncelreino/videos/2568165666651632/",
@@ -1645,6 +1685,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-lhprfgBb_AQN6BATqV71VTXbmiYmITpIE5mkL2_sor_uvNBChFu__mNSElGU4ov23NDZC6w_800201587550279.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-lhprfgBb_AQN6BATqV71VTXbmiYmITpIE5mkL2_sor_uvNBChFu__mNSElGU4ov23NDZC6w_800201587550279.mp4",
     "title": "El Poder de Pentecostés: Clamor y Derramamiento del Espíritu",
     "message": "Bajo el lema del Día de Pentecostés, la líder Mary Rodas dirige este servicio de intercesión pidiendo el derramamiento del Espíritu Santo sobre las familias de la iglesia. Clama fervientemente por sanidad para los enfermos (mencionando a José Vásquez y Jessica Chisney) y por el avivamiento espiritual.\n\nÍndice de momentos:\n[00:00] Bienvenida con cánticos de júbilo y saludos de parte de la líder Mary Rodas de la Escuela Rosada\n[01:34] Oración inicial consagrando la transmisión y declarando las maravillas de Dios en los hogares\n[03:00] Clamor de sanidad por el hermano José Vásquez y otros pedidos urgentes de la congregación\n[04:22] Exhortación a la iglesia sobre la importancia del clamor unido en el hogar y en el templo\n[05:53] Saludos a los líderes virtuales conectados en vivo y lectura de comentarios de fe\n[07:12] Reflexión breve sobre el poder de Dios manifestado en los tiempos de prueba y aflicción\n[08:44] Meditación sobre Hechos 2 y la venida del Consolador prometido por Jesucristo\n[10:04] Exhortación a mantener el gozo cristiano a pesar de las circunstancias difíciles de la vida\n[11:44] Oración especial intercediendo por aquellos que atraviesan los momentos más difíciles\n[12:58] Cánticos de adoración congregacional en el Espíritu Santo, pidiendo el fuego de Pentecostés\n[15:10] Declaración final de victory y bendición para las familias de la iglesia",
     "url": "https://www.facebook.com/misioncelreino/videos/800201587550279/",
@@ -1679,6 +1720,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-lhprfgBb_AQNDMfnotSujIpuTeseZ3x9qg1uwpRCoxyUsuYGTjVDiDj9fCzZOOzk06Fe_898541490728930.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-lhprfgBb_AQNDMfnotSujIpuTeseZ3x9qg1uwpRCoxyUsuYGTjVDiDj9fCzZOOzk06Fe_898541490728930.mp4",
     "title": "El Señor es mi Pastor: Guía y Consuelo en la Dificultad",
     "message": "A partir del conocido Salmo 23, el Pastor Daniel Tito enseña acerca de la relación entre el Buen Pastor y Sus ovejas. Detalla cómo Dios provee descanso, guía en sendas de justicia, protección en medio de los enemigos y consuelo ante la soledad, instando a la iglesia a descansar en Su soberanía.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al servicio del jueves y cántico inicial basado en Salmo 23\n[14:21] Oración de apertura encomendando las familias conectadas a la guía de Dios\n[19:53] Testimonio sobre la perseverancia de los miembros de la iglesia al asistir a congregarse\n[24:28] Meditación sobre la recompensa y el cuidado que Dios provee a Sus siervos fieles\n[28:10] Lectura bíblica: Salmo 23:4-5. La presencia de Dios en el valle de sombra y la mesa ante los enemigos\n[33:36] Analogía de la oveja perdida y la diligencia del Pastor para buscar y rescatar al descarriado\n[38:26] Saludos fraternos a líderes locales y extranjeros conectados en la transmisión\n[42:45] Exhortación a cultivar una comunión íntima y diaria con Jesús como nuestro Pastor\n[47:37] Mensaje de esperanza: las palabras de aliento y restauración que Cristo tiene para el pecador\n[57:16] Clamor en el altar: 'Señor, quiero ser tu oveja', oración de consagración y entrega de vidas\n[01:07:29] Declaración de la palabra rema ('Año de construir'), bendición de despedida y saludos",
     "url": "https://www.facebook.com/misioncelreino/videos/898541490728930/",
@@ -1713,6 +1755,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-lhprfgBb_AQNrGDj1yu7dQFuyUNZZvw97vXWeGDYJOJwGFZPMZw9UECgFGyM695lHOSp_1194697134364205.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-lhprfgBb_AQNrGDj1yu7dQFuyUNZZvw97vXWeGDYJOJwGFZPMZw9UECgFGyM695lHOSp_1194697134364205.mp4",
     "title": "Tesoros en Vasos de Barro: Esperanza en la Tribulación",
     "message": "En el marco de la celebración del Bicentenario del Perú, el Pastor Daniel Tito predica sobre 2 Corintios 4:7-18. Explica que aunque somos frágiles como 'vasos de barro', la excelencia del poder de Dios habita en nosotros, permitiéndonos resistir las tribulaciones con la esperanza puesta en la eternidad.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y regocijo congregacional cantando 'Bienvenidos y celebrad las maravillas'\n[05:04] Saludos pastorales de bienvenida y anuncios sobre las actividades de la semana\n[09:57] Agradecimiento por la vida y el ministerio de los pastores Daniel y Miriam Tito\n[13:31] Saludos a las misiones en provincia y en el extranjero (destacando la familia Marrón en Iquique, Chile)\n[19:07] Reflexión cívica y espiritual con motivo del Bicentenario de la Independencia del Perú\n[29:09] Meditación sobre la verdadera pacificación que viene de Cristo y el honor de ser siervos Suyos\n[40:14] Advertencia contra las distracciones y críticas externas que intentan apagar la fe del creyente\n[52:01] Lectura bíblica principal: 2 Corintios 4:7-10. El tesoro en vasos de barro y la fortaleza ante el abatimiento\n[01:03:37] Explicación teológica del eterno peso de gloria que producen nuestras tribulaciones temporales\n[01:14:50] Saludos a los cumpleañeros de la semana y oraciones por necesidades de salud de la congregación\n[01:21:44] Oración final en el altar, declaración de la palabra rema ('Año de construir') y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1194697134364205/",
@@ -1748,6 +1791,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQNkMjAZZ6_yYOnfmhUhKt2IxLejJF5v932JusSVST12qECrTzGJWrFPhOLCxuaW3PaOJUt6oEYD82kZmv0Ek_3010304122337952.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQNkMjAZZ6_yYOnfmhUhKt2IxLejJF5v932JusSVST12qECrTzGJWrFPhOLCxuaW3PaOJUt6oEYD82kZmv0Ek_3010304122337952.mp4",
     "title": "Gratitud y Misión Global: Jesús, Nuestro Único Camino",
     "message": "Este sermón nos invita a vivir en constante gratitud y gozo por la presencia de Dios en nuestras vidas, aún en medio de las pruebas, pues Él convierte cada desorden en orden y bendición. Se celebra la vasta comunidad de la Misión Cristiana El Reino, extendida por Perú y el mundo, y se reafirma la visión de ganar almas para Jesucristo, recordando que solo Él es el camino, la verdad y la vida, con una morada preparada para cada creyente.\n\nÍndice de momentos:\n[01:32] Mensaje de gratitud y alegría\n[09:07] La presencia de Dios trae solución\n[10:47] Saludos a la familia global de la iglesia\n[17:45] Oración de acción de gracias por el culto\n[21:11] Visión de ganar Perú y el mundo para Cristo\n[33:40] Jesús: El único camino, verdad y vida",
     "url": "https://www.facebook.com/misioncelreino/videos/3010304122337952/",
@@ -1786,6 +1830,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQNZzqtD_wztCOCC785yWc5zjKGbe2gSm0Drc7XoNvDhju17ST5pK4yjnssD9SK0GdEU62R3hblWATC842CSL6Q_3619624538067461.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQNZzqtD_wztCOCC785yWc5zjKGbe2gSm0Drc7XoNvDhju17ST5pK4yjnssD9SK0GdEU62R3hblWATC842CSL6Q_3619624538067461.mp4",
     "title": "Transformando Vidas y Restaurando el Orden Familiar",
     "message": "En esta segunda parte del servicio (tras un corte accidental de energía eléctrica), el Pastor Daniel Tito imparte una enseñanza práctica sobre la transformación de carácter y el orden bíblico en el hogar. Exhorta a cultivar el respeto mutuo entre esposos y a evitar contiendas verbales que dañan la paz familiar.\n\nÍndice de momentos:\n[00:00] Explicación anecdótica del corte de luz e inicio de la segunda parte del servicio dominical\n[05:01] Saludos a los hermanos que se reconectan a la transmisión y lectura de comentarios del chat\n[09:51] Reflexión sobre el legado de los apóstoles Juan, Pablo y Pedro, y la vigencia del evangelio\n[13:42] El llamado del creyente a ser un agente de transformación en su comunidad y trabajo\n[17:59] Meditación: la necesidad de ser transformados internamente para poder influir en los demás\n[21:46] Consejos prácticos sobre cómo fomentar la felicidad y la armonía en la convivencia del hogar\n[25:36] Testimonios de hogares restaurados por la gracia de Dios tras periodos de crisis matrimoniales\n[33:02] Exhortación bíblica a las esposas sobre la prudencia al hablar y el respeto hacia sus maridos\n[43:13] Pautas para la sumisión mutua y la cabeza del hogar según el orden establecido por Dios\n[45:44] Oración especial por los esposos y padres de familia pidiendo sabiduría para guiar sus casas\n[49:18] Declaración de la palabra rema ('Año de un nuevo comienzo'), agradecimientos finales y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/3619624538067461/",
@@ -1818,6 +1863,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQO0e5AjqpXPrT4cSsmkpjMYegElYbj_bE5BbhagGHQVx1KwWnzniPiCJ38_593707418594636.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQO0e5AjqpXPrT4cSsmkpjMYegElYbj_bE5BbhagGHQVx1KwWnzniPiCJ38_593707418594636.mp4",
     "title": "Navidad es Jesús: El Regalo de la Salvación",
     "message": "En un ambiente festivo navideño, el Pastor Daniel Tito comparte un mensaje centrado en Jesucristo como el único y verdadero motivo de la Navidad. Acompañado de villancicos tradicionales, bendice a las familias de la iglesia y despide afectuosamente a los miembros que viajan al extranjero, deseando paz y unidad.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza inicial entonando villancicos navideños tradicionales ('Campana sobre campana')\n[04:49] Saludos pastorales de bienvenida y felicitaciones navideñas a las familias de la iglesia\n[10:00] Anuncios locales y despedida especial para la líder Judith que viaja próximamente a España\n[15:45] Meditación bíblica sobre el relato del nacimiento de Jesús en Belén de Judea\n[22:20] Oración de intercesión por necesidades específicas de salud y provisión de los hermanos\n[27:31] Saludos de agradecimiento a los líderes del Altar de Oración y colaboradores ministeriales\n[32:10] Reflexión: la Navidad comercial frente a la Navidad espiritual en el corazón del creyente\n[38:07] Agradecimiento por el ministerio de las mujeres en la iglesia y su labor de intercesión\n[43:12] Saludos a la Escuela Roja y misiones en provincias, deseándoles felices fiestas en Cristo\n[47:59] Tiempo de adoración íntima y clamor por la reconciliación y unión familiar en Navidad\n[57:57] Oración final de bendición familiar, declaración rema ('Construir a mi familia') y despedida cantando",
     "url": "https://www.facebook.com/misioncelreino/videos/593707418594636/",
@@ -1852,6 +1898,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQOf5T79GfjZ6iyFdHspob7b1HaV5X8QWN5rPdeiLZadkv4Ry9FK0CXtp6W_1236344640200552.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQOf5T79GfjZ6iyFdHspob7b1HaV5X8QWN5rPdeiLZadkv4Ry9FK0CXtp6W_1236344640200552.mp4",
     "title": "El Diseño de la Creación y la Provisión de Dios",
     "message": "En el segundo turno del servicio dominical, el Pastor Daniel Tito expone acerca del diseño original de la creación y la abundante provisión de Dios para la humanidad según Génesis 2. Enfatiza que Dios preparó todo para bendecir al hombre antes de crearlo, y nos exhorta a buscarle como el primer aliento de nuestras mañanas.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al segundo turno del domingo y cánticos alegres de adoración\n[09:37] Adoración enfocada en consagrar el día a Dios: 'Que seas el primer aliento en la mañana'\n[18:15] Cánticos de gozo y júbilo espiritual celebrando la bondad de Dios en familia\n[25:30] Saludos a las misiones locales y extranjeros en España, Italia y provincias\n[29:53] Oración de intercesión por necesidades presentadas en el chat de la transmisión\n[33:31] Lectura y análisis en Génesis 2. La creación del Edén y la provisión completa para Adán\n[37:09] Reflexión teológica: la soberanía y el amor de Dios manifestados al ordenar el universo para el hombre\n[40:39] Mensaje de fe para las familias que afecten esterilidad o dificultades para concebir hijos\n[44:19] Exhortación a confiar en la provisión del Padre Celestial en tiempos de crisis económica\n[57:55] Oración en el altar pidiendo sabiduría para administrar las bendiciones familiares\n[01:06:54] Saludos finales por cumpleaños, declaración de la palabra rema y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1236344640200552/?idorvanity=418326703107689",
@@ -1886,6 +1933,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQOLLa6uHPNd0PdJVZ8XHNiipg3Td5uFsrpfR1jKrrlJPU737Q94dL05D9_289009623188559.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQOLLa6uHPNd0PdJVZ8XHNiipg3Td5uFsrpfR1jKrrlJPU737Q94dL05D9_289009623188559.mp4",
     "title": "Altar de Gratitud: Cerrando el Año con Acción de Gracias",
     "message": "En el último servicio dominical de 2020, el Pastor Daniel Tito convoca a la iglesia a un tiempo especial de gratitud y acción de gracias por la fidelidad de Dios durante el año. Anuncia las actividades finales que serán dirigidas por la Pastora Ricardina Torres y proclama el rema espiritual para el 2021.\n\nÍndice de momentos:\n[00:00] Apertura dominical cantando 'Vengan todos y celebren las maravillas de sus prodigios'\n[10:31] Saludos de bienvenida de los pastores e introducción de la noche de gratitud de fin de año\n[21:35] Reconocimiento y oración especial por los líderes de la iglesia y su servicio fiel en 2020\n[27:42] Cánticos de adoración expresando agradecimiento por cada día y situación vivida\n[34:49] Interacción con los comentarios en vivo y saludos a hermanos de España y provincias\n[40:50] Meditación sobre la importancia de cerrar ciclos familiares perdonando y dando gracias a Dios\n[44:24] Reflexión: 'En Cristo somos más que vencedores' ante cualquier crisis de salud o finanzas\n[47:48] Exhortación a iniciar el nuevo año con una actitud de fe y compromiso con la obra de Dios\n[50:00] Oración de intercesión pidiendo que la bendición y paz de Dios reinen en los hogares\n[53:56] Anuncio del último culto del año del día viernes dirigido por la Pastora Ricardina Torres\n[57:41] Declaración de la palabra rema ('2021 Año de construir') y bendición final del servicio",
     "url": "https://www.facebook.com/misioncelreino/videos/289009623188559/",
@@ -1920,6 +1968,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQP4K9QSHDNiMl6lBFLXMVRaxJVJi8KgknnRqdohlbnbViZNMCqzYtHKF2D_321310772359835.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQP4K9QSHDNiMl6lBFLXMVRaxJVJi8KgknnRqdohlbnbViZNMCqzYtHKF2D_321310772359835.mp4",
     "title": "Un Nuevo Comienzo: Conexión Familiar y Renovación de Horarios",
     "message": "Descubre los nuevos horarios de la Misión Cristiana El Reino para fortalecer nuestra conexión espiritual en este año de un nuevo comienzo. Te invitamos a unirte en oración, estudio bíblico y nuestro culto familiar dominical. Comparte este mensaje con tus seres queridos y seamos más unidos que nunca, congregándonos virtualmente para crecer juntos en fe y comunidad.\n\nÍndice de momentos:\n[00:00] Anuncio inicial y bienvenida\n[00:16] Nuevos horarios de Martes y Jueves\n[00:52] Horario de intercesión (Sábado)\n[01:10] Nuevo horario de culto familiar (Domingo)\n[01:25] Llamado a compartir y unirse\n[01:52] Despedida y bendiciones",
     "url": "https://www.facebook.com/misioncelreino/videos/321310772359835/",
@@ -1954,6 +2003,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-oyzbusQ6_AQPspfJt0kOp147aDpkQqneg28vf3EfMfj6uo3kHnJKLXNXXv7FU_geLNG0_455821292856637.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-oyzbusQ6_AQPspfJt0kOp147aDpkQqneg28vf3EfMfj6uo3kHnJKLXNXXv7FU_geLNG0_455821292856637.mp4",
     "title": "Gratitud en el Matrimonio y Reconciliación con Dios",
     "message": "Durante el segundo turno dominical, el Pastor Daniel Tito ofrece un sermón sobre la gratitud en las relaciones familiares y la reconciliación con Dios. En un espacio emotivo del culto, expresa públicamente su aprecio y gratitud a su esposa, la Pastora Miriam, animando a los matrimonios a valorarse y perdonarse.\n\nÍndice de momentos:\n[00:00] Saludos iniciales e invitación a ponerse de pie en el segundo turno del servicio dominical\n[07:51] Oración de apertura pidiendo un ambiente de santidad, dominio propio y paz en el templo\n[16:22] Cánticos de adoración celebrando el poder restaurador de Jesucristo\n[21:56] Interacciones en vivo y lectura de comentarios de los hermanos de provincias\n[28:20] Reflexión sobre la gracia inmerecida y de cómo Dios nos recibe siempre con los brazos abiertos\n[34:16] Exhortación contra la actitud egoísta de buscar a Dios solo por interés o conveniencia\n[41:35] Momento especial: palabras de gratitud y aprecio del Pastor Daniel hacia su esposa, la Pastora Miriam\n[53:15] Oración por los matrimonios de la iglesia, pidiendo amor, paciencia y de perdón mutuo\n[59:50] Clamor final y oración de fe guiada para aquellos que deciden reconciliarse con el Señor\n[01:04:33] Invitación al altar y tiempo de ministración en intimidad con el Espíritu Santo\n[01:10:03] Saludos a los cumpleañeros, declaración de la palabra rema ('Año de construir') y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/455821292856637/",
@@ -1986,6 +2036,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQNFWNGIh3IkJwjXip0Fh85wfr8nDN0u9GLa27zgRstEP94ARYxfbyHCVJljM1uwaEBDQ0erADdZjLjYFU3vSh5_1253827249361509.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQNFWNGIh3IkJwjXip0Fh85wfr8nDN0u9GLa27zgRstEP94ARYxfbyHCVJljM1uwaEBDQ0erADdZjLjYFU3vSh5_1253827249361509.mp4",
     "title": "De Abraham a Éxodo: El Crecimiento del Pueblo de Dios",
     "message": "El Pastor Daniel Tito repasa la historia de la salvación de Israel desde el llamado de Abraham en Génesis 12:1-3 hasta la multiplicación y posterior opresión en Egipto descrita en Éxodo 1. Enseña que los planes de bendición de Dios son inalterables y que Él siempre preserva a Su pueblo en medio de las pruebas.\n\nÍndice de momentos:\n[00:00] Introducción dominical con una anécdota y reflexión sobre cómo Dios hace bien todas las cosas\n[04:53] Lectura bíblica: Génesis 12:1-3. El llamado de Abraham y la promesa de una gran nación\n[08:15] Análisis de las genealogías patriarcales: de Abraham a Isaac, Jacob y sus doce hijos\n[11:59] Advertencia espiritual sobre las actitudes y palabras que pueden atraer influencia del enemigo\n[15:31] Exhortación a grabar en la mente y el corazón los principios de las Sagradas Escrituras\n[18:27] El diseño del pueblo de Dios en la mente divina y el cumplimiento del plan profético\n[21:16] Lectura bíblica: Éxodo 1:1-14. La multiplicación de los hebreos y el temor del nuevo faraón\n[27:57] Saludos fraternales a los miembros conectados del chat e intercesión por sus necesidades\n[32:39] Reflexión sobre la fidelidad en el ofrendar como un acto de adoración y reconocimiento al Señor\n[35:34] Clamor por sanidad física de los enfermos locales y de provincias\n[39:32] Adoración final entonando 'La tierra canta, el cielo adora', declaración de palabra rema y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/1253827249361509/",
@@ -2022,6 +2073,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQNpz7qClAOwLlkiXwwsS00GrCCb_lxFXcji0KByxCEAxEWqXFfZon8TGFFl4OTbfmsBLzFtNJdVCz_bisYCqIcB_1646132786121505.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQNpz7qClAOwLlkiXwwsS00GrCCb_lxFXcji0KByxCEAxEWqXFfZon8TGFFl4OTbfmsBLzFtNJdVCz_bisYCqIcB_1646132786121505.mp4",
     "title": "Honrando a los Padres: El Ejemplo de los Hijos de Noé",
     "message": "En un servicio especial por el Día del Padre, el Pastor Daniel Tito enseña sobre el mandamiento de honrar y respetar a los padres a partir de Génesis 9:18-27. Utilizando el relato de los hijos de Noé (Sem, Cam y Jafet), explica que la honra filial atrae bendición, mientras que la falta de respeto trae consecuencias negativas.\n\nÍndice de momentos:\n[00:00] Bienvenida dominical por el Día del Padre y saludos a la congregación virtual y física\n[02:12] Exhortación a respetar y amar a los padres y abuelos en el seno familiar\n[04:44] Reflexión pastoral sobre la honra a los padres terrenales y la obediencia al Padre Celestial\n[06:30] La base bíblica del respeto familiar y cómo las Escrituras regulan la armonía del hogar\n[08:34] Introducción al relato de Noé tras el diluvio y la embriaguez involuntaria en su tienda\n[10:27] La actitud irrespetuosa de Cam al exponer a su padre en contraste con la discreción de Sem y Jafet\n[12:26] Lecciones prácticas para los hijos sobre cómo cubrir las debilidades y faltas de sus padres con amor\n[15:05] Análisis bíblico: la bendición de Noé sobre Sem y Jafet y las consecuencias sobre la descendencia de Cam\n[21:05] Consejos pastorales para los padres sobre cómo modelar la integridad en el hogar\n[31:57] Clamor en el altar por la restauración de relaciones dañadas entre padres e hijos\n[43:24] Cántico de adoración y entrega personal, declaración de la palabra rema y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/1646132786121505/",
@@ -2056,6 +2108,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQOMCMY9zrsUW37EotFbLeF6NqV6QKBNaSMOJafsAo7IOXX1vullJ64r9xMe6HUeuOYzDyHKMozqFggkYFYkqIA_2710798832476165.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQOMCMY9zrsUW37EotFbLeF6NqV6QKBNaSMOJafsAo7IOXX1vullJ64r9xMe6HUeuOYzDyHKMozqFggkYFYkqIA_2710798832476165.mp4",
     "title": "Asumiendo la Responsabilidad Espiritual: Ríos de Agua Viva",
     "message": "A partir de Juan 7:37-38, el Pastor Daniel Tito enseña sobre la responsabilidad que tiene cada creyente de alimentar su propia vida espiritual. Advierte contra la tendencia de buscar excusas y culpar a otros (como líderes o pastores) de las propias flaquezas, invitando a saciarse directamente de los ríos de agua viva de Cristo.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y tiempo de alabanza y danza alegre en el Espíritu Santo\n[09:06] Cánticos de adoración congregacional preparando un clima de búsqueda espiritual\n[13:43] Reflexión sobre el servicio por amor e intimidad con Dios, rechazando el temor religioso\n[19:19] Oración reconociendo la soberanía de Dios sobre las familias y pidiendo guía pastoral\n[22:51] Acción de gracias por el legado de fe de los padres y su influencia en los hijos\n[26:21] Proclamación de victoria: 'En Cristo siempre ganamos', declarándolo en fe\n[29:51] Meditación sobre la providencia y protección de Dios en los momentos de mayor peligro\n[41:00] El propósito del creyente en la tierra: servir y ser de bendición a los demás\n[53:45] Enseñanza central: superar la queja y el culpar a líderes o pastores por el desánimo propio\n[01:06:35] Lectura de anuncios semanales y compromisos de oración de la congregación\n[01:20:10] Oración final de consagración, declaración de la palabra rema ('Año de un nuevo comienzo') y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/2710798832476165/",
@@ -2090,6 +2143,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQOphxi2C23UpHuSmAWsXMUcVHDXSZlw9SKHvkSdH4nMGS2HKjWbLla2cOAcwzTTpzhY13lGGUaX0ZVG_LC7l2Vp_246206793205052.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQOphxi2C23UpHuSmAWsXMUcVHDXSZlw9SKHvkSdH4nMGS2HKjWbLla2cOAcwzTTpzhY13lGGUaX0ZVG_LC7l2Vp_246206793205052.mp4",
     "title": "Palabra de Esperanza en Tiempos de Pandemia",
     "message": "Grabado al inicio de la cuarentena por la epidemia, este breve mensaje del Pastor Daniel Tito brinda una voz de esperanza y fe a la congregación resguardada en sus hogares. Basándose en Éxodo 23:25, recuerda la promesa de protección divina y alienta a confiar en el Señor en medio de la crisis de salud global.\n\nÍndice de momentos:\n[00:00] Saludos a la congregación confinada en casa e introducción del mensaje de esperanza\n[02:09] Lectura bíblica: Éxodo 23:25. La promesa de servir a Dios y de cómo Él quitará toda enfermedad\n[03:32] Consejos pastorales para vencer el temor, la ansiedad y el pánico frente al virus de la epidemia\n[05:08] Exhortación a mantener la paz en el hogar y a resolver los conflictos de convivencia en cuarentena\n[06:07] Reflexión breve sobre las enseñanzas de la semana acerca de la perseverancia en la fe\n[07:06] Meditación sobre la corona de vida prometida por el Señor a los que soportan las pruebas (1 Pedro)\n[08:37] Oración de intercesión y ruego por protección, salud y paz para todos los hogares de la iglesia\n[10:08] Anuncios breves sobre las transmisiones virtuales dominicales y recomendación de conectarse temprano\n[10:54] Declaración de la palabra rema ('Año de un nuevo comienzo'), despedida fraterna y saludos",
     "url": "https://www.facebook.com/misioncelreino/videos/246206793205052/",
@@ -2125,6 +2179,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQP2A867EBSNkE_T8ZYN7HK4iTxM7pEdIWJFQAD752bYZ9nYpdW_10O7wE2COE6eBO86wRpOJFb59LebaY2BqO_665415761690462.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-pZ4XB6LA_AQP2A867EBSNkE_T8ZYN7HK4iTxM7pEdIWJFQAD752bYZ9nYpdW_10O7wE2COE6eBO86wRpOJFb59LebaY2BqO_665415761690462.mp4",
     "title": "Noche de Clamor y Victoria Espiritual: Derribando Muros",
     "message": "Servicio de oración e intercesión de los miércoles en el cual se clama por sanidad, especialmente por la madre de la hermana Petronila, y por la integración de los hijos en la obra de Dios. El culto concluye en un ambiente de victoria espiritual celebrando que con el Señor se saltan los muros (Salmo 18:29).\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional a la noche de intercesión del miércoles 16 de noviembre\n[17:28] Lectura de comentarios y pedidos de oración de los hermanos del chat virtual\n[21:44] Clamor por necesidades generales de salud e inicio del tiempo de ruego familiar\n[25:53] Exhortación breve sobre el valor de la constancia en la oración de intercesión en el hogar\n[30:05] Adoración guiada pidiendo la visitación y consuelo del Espíritu Santo en los hogares\n[34:14] Oración de consagración declarando que la iglesia es el rebaño bajo el cuidado del Pastor Celestial\n[42:59] Clamor de sanidad específico por la madre de la hermana Petronila y por otros enfermos graves\n[49:27] Clamor para que los jóvenes de las familias se involucren activamente en las actividades de la iglesia\n[55:20] Reflexión sobre la importancia de caminar en el temor de Dios y el conocimiento de Su Palabra\n[59:35] Saludos especiales por cumpleaños a las madres y abuelas de la congregación\n[01:04:00] Cántico de victoria ('Con mi Dios yo saltaré los muros'), declaración rema ('Año de dar gracias') y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/665415761690462/",
@@ -2159,6 +2214,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-sKUOzFQk_AQM05sCre5cDV4GFxmiVUgZjUzEqu0b0cruAUVAh1F5pjBZVH_K3ED0wg_9Wg_239576618390286.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-sKUOzFQk_AQM05sCre5cDV4GFxmiVUgZjUzEqu0b0cruAUVAh1F5pjBZVH_K3ED0wg_9Wg_239576618390286.mp4",
     "title": "La Virtud de la Gratitud: La Lección de los Diez Leprosos",
     "message": "A partir de Lucas 17:11-19, el Pastor Daniel Tito enseña sobre la virtud de la gratitud basándose en el milagro de la sanidad de los diez leprosos. Analiza por qué solo uno de ellos regresó a postrarse y dar gracias a Jesús, y explica que la gratitud completa la sanidad física transformándola en salvación espiritual.\n\nÍndice de momentos:\n[00:00] Inicio con cantos de adoración gozosa declarando 'El Señor es mi rey, mi todo, mi luz'\n[04:44] Cánticos de júbilo y expresiones de alabanza en la casa de Dios\n[12:02] Oración de apertura pidiendo un corazón agradecido ante las bendiciones de Dios\n[17:41] Saludos a las misiones en provincia y familias conectadas de forma remota\n[22:05] Reflexión introductoria: la actitud del creyente al recibir favores divinos\n[26:04] Lectura bíblica: Lucas 17:11-19. La sanidad de los diez hombres leprosos camino al sacerdote\n[30:23] El contraste: la partida de los nueve que obtuvieron la sanidad física frente al regreso del samaritano\n[34:23] La pregunta de Jesús: ¿Dónde están los otros nueve? Explicación del pecado de ingratitud\n[39:04] Exhortación práctica: acercarse a Jesús con un corazón humilde y siempre agradecido\n[44:27] Oración en el altar pidiendo liberación del espíritu de queja e ingratitud en la familia\n[49:00] Cántico de acción de gracias ('Inexplicable amor'), saludos de cumpleaños y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/239576618390286/",
@@ -2193,6 +2249,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-sKUOzFQk_AQNPpVZY3HI1oYjT8f6pZZIup16IlaZw_7CWvv8KSCz5zfWLgp5567gWuepQ_1199846007374082.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-sKUOzFQk_AQNPpVZY3HI1oYjT8f6pZZIup16IlaZw_7CWvv8KSCz5zfWLgp5567gWuepQ_1199846007374082.mp4",
     "title": "Jesucristo ha Resucitado: Victoria sobre la Muerte",
     "message": "En este servicio especial de Semana Santa, la iglesia comparte un mensaje grabado en memoria del Pastor Daniel Tito acerca del Domingo de Resurrección. El mensaje enseña sobre el poder de Jesucristo para remover cualquier piedra de obstáculo y de cómo Su victoria sobre la muerte nos garantiza vida eterna.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y presentación de la transmisión memorial de Semana Santa del Pastor Daniel Tito\n[07:16] Introducción de la enseñanza: recordando la pasión, muerte y resurrección de Jesucristo en familia\n[12:56] Reflexión sobre la tristeza y el desánimo de los discípulos ante la crucifixión de Jesús\n[18:05] Meditación sobre la sepultura de Cristo y la tumba sellada con la gran piedra\n[22:41] Interacción con los testimonios de fe y saludos de los hermanos conectados virtualmente\n[26:53] El llamado eficaz de Dios a la salvación y el poder de la resurrección en la vida diaria\n[30:48] Testimonios históricos del poder milagroso de la fe en la iglesia primitiva\n[33:55] Reflexión sobre el desconsuelo de los discípulos camino a Emaús y su posterior gozo al ver a Jesús\n[38:41] Clamor de acción de gracias en el altar por el sacrificio y la resurrección de Jesús\n[44:21] Invitación al arrepentimiento y oración guiada de fe recibiendo a Cristo como Señor y Salvador\n[48:40] Declaración de la palabra rema ('Reino, mi casa, mi familia'), bendición final y saludos",
     "url": "https://www.facebook.com/misioncelreino/videos/1199846007374082/",
@@ -2228,6 +2285,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-sKUOzFQk_AQOHc48lGMc4XMZhiG7dnNzII_a568L6BbgF1eQpTDOQVGgtnrIxh2Bdmhlux_VnTzMaVGsIGrWvxbnrNl7JJ_801309992075955.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-sKUOzFQk_AQOHc48lGMc4XMZhiG7dnNzII_a568L6BbgF1eQpTDOQVGgtnrIxh2Bdmhlux_VnTzMaVGsIGrWvxbnrNl7JJ_801309992075955.mp4",
     "title": "Una Fe más Preciosa que el Oro: Creyendo sin Ver",
     "message": "Desde Madrid, España, los líderes y pastores comparten un mensaje sobre la calidad de la fe basándose en 1 Pedro 1:7 y Juan 20:29. Con el líder Angelito Misari como expositor, se enseña que las pruebas purifican nuestra fe haciéndola más valiosa que el oro, y se bendice a los que creen sin ver, al igual que Tomás.\n\nÍndice de momentos:\n[00:00] Saludos dominicales desde Madrid del Pastor Daniel, mencionando a la familia Estacio Lengua\n[05:27] Oración de apertura pidiendo un avivamiento de la fe en la congregación local y virtual\n[11:07] Presentación del líder Angelito Misari y su introducción al tema de la fe acrisolada\n[15:41] Meditación sobre las pruebas difíciles de la vida y cómo Dios las usa para purificar la fe\n[22:31] Reflexión sobre las quejas humanas en los momentos de crisis frente a la confianza espiritual\n[28:43] Lectura bíblica: Juan 20:29. El encuentro de Jesús con Tomás y la bienaventuranza de creer sin ver\n[33:49] Exhortación a mantener relaciones familiares sanas y a evitar el resentimiento en el hogar\n[39:36] Lectura bíblica: 1 Pedro 1:7. La fe purificada por fuego como un tesoro de gran valor ante Dios\n[45:11] Meditación sobre la paciencia y la resistencia del creyente al atravesar el desierto espiritual\n[53:22] Llamado al altar en Madrid para renovar la fe y hacer un pacto de consagración con Dios\n[01:00:25] Oración final de bendición, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/801309992075955/",
@@ -2264,6 +2322,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-sKUOzFQk_AQPuuoBUTohH3K0bZpp0akNKsTfsomV0zdv2jpz0yRPrYp0oonV8GUBgfW_467174698820506.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-sKUOzFQk_AQPuuoBUTohH3K0bZpp0akNKsTfsomV0zdv2jpz0yRPrYp0oonV8GUBgfW_467174698820506.mp4",
     "title": "La Sabiduría en el Hogar: Edificando la Familia",
     "message": "A partir de Proverbios 14:1, el Pastor Daniel Tito comparte principios espirituales sobre cómo edificar un hogar bendecido. Destaca el papel de la mujer sabia en la edificación familiar y la importancia del respeto mutuo entre esposos para evitar el aislamiento, la división y la soledad en el hogar.\n\nÍndice de momentos:\n[00:00] Saludos dominicales de los pastores y mención especial a las familias conectadas en Australia y EE.UU.\n[10:48] Reflexión sobre los propósitos soberanos de Dios al enviar familias de la iglesia a otros países\n[16:54] Oración pidiendo sabiduría y dirección espiritual para las parejas de la congregación\n[20:57] Reflexión sobre las dificultades conyugales y la necesidad de una comunicación abierta y amorosa\n[24:27] Lectura bíblica: Proverbios 14:1. El contraste entre la mujer sabia que edifica y la necia que destruye\n[27:57] Exhortación práctica sobre los desafíos de la convivencia matrimonial en la sociedad moderna\n[31:27] Consejos bíblicos para las esposas sobre el respeto y apoyo al liderazgo del esposo en el hogar\n[35:23] Reflexión sobre las consecuencias del orgullo y el egoísmo en la ruptura familiar\n[39:03] Clamor intercesor pidiendo la restauración de matrimonios en crisis y sanidad de la soledad\n[42:31] Oración de fe, de perdón y reconciliación con Dios en el altar de la iglesia\n[49:04] Saludos finales, declaración de la palabra rema ('Reino, mi casa, mi familia') y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/467174698820506/",
@@ -2298,6 +2357,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-TRQtvkuW_AQMMeDoubSu4O42QlWuSIaagRoBLvLhde8B8KpoMWQoyua3OjURMFDeN2bIOkxvqrJFW2i8dLbCcGT021WhY5hkg_1445780769345091.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-TRQtvkuW_AQMMeDoubSu4O42QlWuSIaagRoBLvLhde8B8KpoMWQoyua3OjURMFDeN2bIOkxvqrJFW2i8dLbCcGT021WhY5hkg_1445780769345091.mp4",
     "title": "Domingo de Ramos: Entrada Triunfal y Santa Cena",
     "message": "Al inicio de la Semana Santa, el Pastor Daniel Tito preside el servicio dominical de Ramos, rememorando la entrada triunfal de Jesús en Jerusalén (Juan 12:12-19) y guiando a la congregación en la celebración de la Santa Cena (1 Corintios 11:23-26). Exhorta a la iglesia a dar la bienvenida a Jesús en sus corazones y a renovar su compromiso de continuar sirviendo en Su obra.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y reflexión inicial sobre el Domingo de Ramos y la Semana Santa\n[04:35] Meditación sobre la entrada triunfal de Cristo a Jerusalén en humildad y majestad\n[09:28] Clamor de '¡Hosanna!' pidiendo la salvación y bendición del Señor sobre los hogares\n[16:13] Reflexión sobre la sumisión de nuestro corazón al señorío de Jesús\n[21:50] Ilustraciones sobre la sencillez en el servicio cristiano frente a los estándares humanos\n[28:08] Exhortación a valorar la comunión y la asistencia al culto a pesar de las dificultades\n[32:27] Meditación sobre el sacrificio voluntario de Jesucristo por la humanidad\n[37:18] Reflexión pastoral sobre la entrega total en el monte Calvario y la redención\n[41:57] Agradecimiento por la vida y la salvación provistas en la cruz del Calvario\n[46:50] Ceremonia de la Santa Cena: bendición del pan y de la copa en memoria de Cristo\n[49:53] Saludos a los hermanos en el extranjero y en provincias, y declaración de la palabra rema",
     "url": "https://www.facebook.com/misioncelreino/videos/1445780769345091/",
@@ -2334,6 +2394,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-TRQtvkuW_AQPdHGkurbtOvZlfieNViePXwI0ZySvJKuUb4TFDhavXU9ulKmsPm4mvg_v_1019513052136454.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-TRQtvkuW_AQPdHGkurbtOvZlfieNViePXwI0ZySvJKuUb4TFDhavXU9ulKmsPm4mvg_v_1019513052136454.mp4",
     "title": "La Historia de la Biblia y el Poder de la Palabra de Dios",
     "message": "En el marco del Mes de la Biblia, el Pastor Daniel Tito expone sobre la historia de las Sagradas Escrituras y su autoridad. Medita en Nehemías 8:1-6 sobre la lectura solemne de la Ley por el escriba Esdras, examina Éxodo 31:18 acerca de las tablas escritas por el dedo de Dios, y 2 Timoteo 4:13 sobre el cuidado de los pergaminos, instando a valorar y estudiar la Biblia diariamente.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional e inicio del culto de estudio bíblico dedicado al Mes de la Biblia\n[03:54] Cantos de consagración y ruego por la iluminación espiritual al estudiar las Escrituras\n[08:58] Reflexiones sobre la disciplina espiritual de apartar un tiempo para la lectura diaria\n[14:58] Lectura bíblica: Nehemías 8:1-6. La lectura pública de la Ley y la actitud de reverencia del pueblo\n[24:31] Explicación sobre la inspiración divina y quién es el verdadero Autor de la Biblia\n[27:05] Lectura bíblica: Éxodo 31:18. La entrega de las dos tablas del testimonio escritas por el dedo de Dios\n[30:02] Meditación sobre la trascendencia de escuchar la voz de Dios a través de Su palabra escrita\n[41:02] Interacción en vivo con la congregación y saludos especiales a los hermanos conectados\n[53:51] Explicación de la preservación bíblica desde los pergaminos históricos (2 Timoteo 4:13) hasta la actualidad\n[01:01:46] Oración de gratitud por la Biblia y de compromiso a guardar sus mandamientos\n[01:09:54] Saludos a los cumpleañeros de la semana, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1019513052136454/",
@@ -2371,6 +2432,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-TRQtvkuW_AQPrIRbfOk9SaOLaJZqsAzEprg8oSZlGRyOeJQ1Xo9PzmWTLQdswHOcDj86Kqg_1384263108976986.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-TRQtvkuW_AQPrIRbfOk9SaOLaJZqsAzEprg8oSZlGRyOeJQ1Xo9PzmWTLQdswHOcDj86Kqg_1384263108976986.mp4",
     "title": "Mejor es un Día en la Casa de Dios: El Gozo de Servir",
     "message": "A partir de Salmo 84:10, el Pastor Daniel Tito enseña sobre la bendición y el gozo de congregarse en la casa de Dios. Exhorta a valorar la comunión fraternal y el servicio en la iglesia, explicando que la verdadera felicidad se encuentra en la presencia del Señor y no en los deleites mundanos.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y tiempo de alabanza inspirado en Salmo 84:10\n[08:35] Reflexión sobre la sencillez y pureza de corazón necesarias para agradar a Dios\n[14:31] Saludos fraternos y bienvenida a los hermanos del primer turno del servicio dominical\n[19:12] Enseñanza sobre la preservación de la fe ante las dudas y las presiones externas\n[23:57] Meditación sobre la centralidad de las Escrituras en la edificación de la vida del creyente\n[28:45] Testimonios y anécdotas pastorales sobre el servicio fiel en la obra del Señor\n[33:37] Agradecimiento por el espíritu generoso y la calidez de la congregación local\n[38:57] Reflexión sobre la perseverancia en la oración comunitaria e intercesión por las familias\n[44:05] Invitación al discipulado y a asumir una función de servicio en la iglesia\n[49:06] Oración congregacional de consagración y entrega de vidas en el altar\n[54:15] Saludos de cumpleaños de los miembros locales, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1384263108976986/",
@@ -2405,6 +2467,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-TRQtvkuW_AQPtT9eHApJ2JDF5ulsejOacUZlPcQ_5r9lu2D1QCM1onewx6xl3BwTsEAbYOwjwDcbNUETZODWutQ1yKk9E5mm_683395969543069.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-TRQtvkuW_AQPtT9eHApJ2JDF5ulsejOacUZlPcQ_5r9lu2D1QCM1onewx6xl3BwTsEAbYOwjwDcbNUETZODWutQ1yKk9E5mm_683395969543069.mp4",
     "title": "Día de Intercesión: Oración por Sanidad y Fortalecimiento",
     "message": "Servicio de intercesión y oración virtual dirigido por los pastores para clamar por sanidad física y espiritual. Comparten palabras de fortaleza para aquellos que atraviesan pruebas médicas y alientan a la congregación a prepararse para la jornada de ayuno del domingo, confiando en Jesús como el Médico de médicos.\n\nÍndice de momentos:\n[00:00] Inicio con cánticos de adoración congregacional y ruego por la presencia del Espíritu Santo\n[10:55] Cantos de consagración entregando la vida y las familias al señorío de Jesús\n[17:00] Saludos fraternales y bienvenida a la transmisión en vivo del día de intercesión\n[21:09] Convocatoria y orientaciones para la jornada de ayuno y oración familiar del domingo\n[25:15] Clamor inicial pidiendo dirección divina y discernimiento espiritual para la iglesia\n[29:25] Oración de intercesión por las peticiones de oración enviadas por la congregación virtual\n[33:31] Meditación breve sobre los caminos y propósitos providenciales de Dios para nuestras vidas\n[37:42] Acción de gracias por el privilegio de servir al Señor con energía y alegría\n[45:50] Clamor ferviente por sanidad física, declarando a Cristo como el Médico de médicos\n[54:10] Oración específica por intervenciones médicas y diagnósticos favorables de los hermanos\n[01:03:26] Saludos especiales por cumpleaños, declaración de la palabra rema y anuncios finales",
     "url": "https://www.facebook.com/misioncelreino/videos/683395969543069/",
@@ -2437,6 +2500,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-UqsDv01N_AQNe9gZBWSLScM5BNV8IV5Hictf6qIDSie0sdLEtHxxm4ALd5dMvuFGMnv_420973615819504.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-UqsDv01N_AQNe9gZBWSLScM5BNV8IV5Hictf6qIDSie0sdLEtHxxm4ALd5dMvuFGMnv_420973615819504.mp4",
     "title": "Mudados en un Nuevo Hombre: La Unción del Espíritu",
     "message": "A partir del relato bíblico en 1 Samuel 10, el Pastor Daniel Tito enseña sobre el proceso de la unción y la transformación espiritual del creyente. Utilizando el encuentro entre Samuel y Saúl (donde Saúl es ungido y transformado en un 'nuevo hombre' por el Espíritu de Dios), nos exhorta a buscar una renovación interna y a disponer nuestra vida al servicio divino.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración congregacional con cantos de júbilo y acción de gracias\n[22:29] Introducción al mensaje bíblico y llamado a la disposición del corazón para recibir la Palabra\n[27:54] Reflexión introductoria sobre las oportunidades que Dios pone en nuestro camino y nuestra respuesta\n[33:20] Lectura bíblica: 1 Samuel 10:1. Samuel unge a Saúl con la redoma de aceite como capitán sobre Su heredad\n[39:02] Explicación del llamado a salir de la rutina casera para entrar en los planes ministeriales de Dios\n[49:32] Análisis de 1 Samuel 10:6. El Espíritu de Jehová viniendo con poder y la promesa de ser mudado en otro hombre\n[55:20] Aplicación práctica: la fe de que todo le es posible al que es guiado por el Espíritu de Dios\n[01:00:52] Clamor en el altar pidiendo la unción y renovación espiritual de las familias\n[01:06:52] Testimonios y lecciones de fe basadas en la generosidad y la consagración local\n[01:12:12] Oración por los líderes, gobernantes y las autoridades establecidas por Dios\n[01:18:24] Saludos especiales de cumpleaños, declaración de la palabra rema y despedida del servicio",
     "url": "https://www.facebook.com/misioncelreino/videos/420973615819504/",
@@ -2472,6 +2536,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-UqsDv01N_AQNx_y_GG6DRCAcDCEOknOYBkMPVbjwQQ7lPc155b9jDT3ztZTI7k2Q1IBFzQg_621243965465619.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-UqsDv01N_AQNx_y_GG6DRCAcDCEOknOYBkMPVbjwQQ7lPc155b9jDT3ztZTI7k2Q1IBFzQg_621243965465619.mp4",
     "title": "Llamados a Libertad: Sirviendo por Amor",
     "message": "Basado en Gálatas 5:13, el Pastor Daniel Tito predica sobre el verdadero significado de la libertad en Cristo. Explica que la libertad espiritual que hemos recibido no debe ser usada como un pretexto para el pecado o la indulgencia carnal, sino como una oportunidad dorada para servirnos unos a otros con amor y devoción.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración congregacional con el canto 'Libre, yo soy libre'\n[19:48] Expresiones de fe y cánticos de liberación por las cadenas del pecado rotas en Cristo\n[28:27] Saludos de bienvenida e inicio formal del servicio, reconociendo el don divino de la fe\n[35:33] Oración de intercesión pidiendo la dirección del Espíritu Santo en los hogares de la iglesia\n[41:16] Clamor por sanidad física, pidiendo al Señor obrar milagros de restauración\n[46:10] Oración de fortalecimiento y bendición para las siervas y líderes de la congregación\n[50:56] Ministración en el altar con cantos de acción de gracias e intimidad con el Padre\n[55:48] Lectura bíblica central: Gálatas 5:13. El llamado a la libertad y el peligro de usarla para la carne\n[01:00:36] Meditación sobre la verdadera libertad expresada a través del servicio mutuo y el amor\n[01:05:24] Clamor final y oración de consagración y entrega de vidas al Señor\n[01:12:40] Cánticos de celebración por la libertad en Jesús, saludos de cumpleaños y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/621243965465619/",
@@ -2506,6 +2571,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-UqsDv01N_AQOFUXQEMZF66vZDkOaotkLTlYoCbF1hfVaRKN6t6oWly7ylaoIJQ0nBR0F2kp3YTgxTxZfp8pRkMNIBvHOQi9B1_742299366676407.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-UqsDv01N_AQOFUXQEMZF66vZDkOaotkLTlYoCbF1hfVaRKN6t6oWly7ylaoIJQ0nBR0F2kp3YTgxTxZfp8pRkMNIBvHOQi9B1_742299366676407.mp4",
     "title": "Abre mis Ojos, Señor: La Alabanza como Arma Espiritual",
     "message": "En el último servicio dominical de febrero, el Pastor Daniel Tito guía a la congregación en una meditación sobre el poder de la alabanza como una de las armas espirituales más eficaces del creyente. Basado en el clamor por tener los ojos espirituales abiertos para contemplar la majestad y santidad de Dios, nos enseña a adorar en medio de las pruebas.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración enfocado en el cántico 'Abre mis ojos, Señor, yo quiero verte'\n[06:44] Saludos a las diferentes escuelas y ministerios del Reino, destacando la labor en Huancayo\n[10:52] Oración y clamor congregacional por las familias y peticiones del chat virtual\n[20:40] Reflexión sobre la creación de Dios, el Edén y el diseño divino para la felicidad del hombre\n[34:06] Dinámica de participación con la congregación compartiendo testimonios de la semana\n[40:44] Enseñanza sobre la actitud del creyente al presentarse ante la santidad de Dios\n[47:33] Meditación central: la alabanza como una poderosa arma espiritual que rompe cadenas\n[52:26] Testimonios de sanidad y liberación experimentados al acercarse en fe al altar\n[56:12] Bienvenida y oración especial por las personas que se conectan por primera vez\n[59:54] Anuncios semanales de las actividades de intercesión y ruego familiar\n[01:03:52] Clamor final repitiendo el cántico de adoración, declaración de la palabra rema y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/742299366676407/",
@@ -2538,6 +2604,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-UqsDv01N_AQOOwtGXX4BRrQ5tOn3KBFt1EOyRYNwqt9GooRvq0oHb6UnEO3JOMd5E8Aa2_451373340018135.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-UqsDv01N_AQOOwtGXX4BRrQ5tOn3KBFt1EOyRYNwqt9GooRvq0oHb6UnEO3JOMd5E8Aa2_451373340018135.mp4",
     "title": "El Control de las Emociones: El Ejemplo de José",
     "message": "El Pastor Daniel Tito predica acerca de la importancia de someter nuestro carácter y nuestras emociones a la guía del Espíritu Santo, tomando como modelo la vida del patriarca José en Egipto. Explica cómo José supo dominar sus sentimientos ante la provocación y el dolor, actuando con sabiduría y perdón frente a sus hermanos.\n\nÍndice de momentos:\n[00:00] Tiempo inicial de alabanza y adoración exaltando a Jesucristo como el Rey de reyes\n[11:50] Bienvenida congregacional y saludos de aprecio al Pastor Daniel Tito\n[21:19] Introducción al tema: la necesidad de aprender de la palabra de Dios sobre el carácter\n[26:12] Reflexión sobre la disposición al trabajo y a cooperar activamente en la iglesia y en el hogar\n[30:50] Exhortación contra la pasividad y el egoísmo en las relaciones familiares y congregacionales\n[37:52] Enseñanza sobre la rectitud y la responsabilidad de hacer las cosas correctamente en la vida diaria\n[44:15] Definición del dominio propio: cuando el Espíritu de Dios guía y equilibra nuestras emociones\n[50:58] Meditación sobre el amor incondicional de Dios como base para sanar heridas emocionales\n[55:02] Análisis bíblico: la vida de José, su capacidad para controlar sus emociones y otorgar el perdón\n[59:38] Oración de ministración pidiendo sanidad interior y dominio propio para las familias\n[01:03:06] Saludos de cumpleaños, declaración de la palabra rema (\"Confía en Dios, año de dar gracias\") y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/451373340018135/",
@@ -2573,6 +2640,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-vIzEjQBA_AQNeP3qApBD4GiRBxC27i3YXBlmJ8U__Opi30F053sJwHLjvdDlVPqCXYmBrLA_979196029609353.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-vIzEjQBA_AQNeP3qApBD4GiRBxC27i3YXBlmJ8U__Opi30F053sJwHLjvdDlVPqCXYmBrLA_979196029609353.mp4",
     "title": "Libres del Sentimiento de Culpa y del Orgullo",
     "message": "El Pastor Daniel Tito imparte un mensaje de liberación y sanidad interior enfocado en vencer la culpa y el orgullo. Aborda de manera compasiva el sentimiento de culpabilidad que experimentan las personas tras el fallecimiento de un familiar y enseña a despojarse de la coraza del orgullo para recibir la paz de Cristo.\n\nÍndice de momentos:\n[00:00] Inicio del servicio dominical cantando 'Venid todos y celebrad las maravillas de sus prodigios'\n[04:55] Saludos pastorales de bienvenida destacando la presencia del líder Felipe Quilca\n[11:38] Oración inicial pidiendo consuelo espiritual y libertad para los corazones cargados\n[16:50] Diálogo e interacción con las familias conectadas a la transmisión en vivo\n[19:06] Testimonio de un pastor anciano sobre el servicio fiel y la perseverancia ministerial\n[21:16] Clamor de intercesión en el altar por las familias que atraviesan procesos de duelo\n[24:59] Meditación central: cómo identificar y superar el sentimiento de culpa destructivo por pérdidas familiares\n[33:52] Respuestas espirituales ante los cuestionamientos de 'qué habría pasado si...' en momentos de dolor\n[42:45] Exhortación teológica sobre el orgullo como una coraza defensiva que impide la restauración espiritual\n[56:28] Oración final guiada de liberación de culpas y de entrega de cargas al Señor Jesús\n[01:01:05] Declaración de la palabra rema ('2021 Año de construir') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/979196029609353/",
@@ -2606,6 +2674,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQMb2l7moe0XwoeUE7rrG9pJwDWTpVG3igjqVNvhNd9jHtQFNMo2fG6UfJ_558113978207359.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQMb2l7moe0XwoeUE7rrG9pJwDWTpVG3igjqVNvhNd9jHtQFNMo2fG6UfJ_558113978207359.mp4",
     "title": "Natural o Espiritual: Cambiando las Realidades desde el Espíritu",
     "message": "En vísperas del Día del Pastor, el Pastor Daniel Tito imparte la enseñanza titulada 'Natural o Espiritual'. En ella explica que el mundo natural está sujeto al espiritual y que, para ver cambios duraderos en nuestras circunstancias físicas (finanzas, salud, relaciones), primero debemos resolver y batallar en el plano de la fe y el espíritu.\n\nÍndice de momentos:\n[00:00] Bienvenida con la bendición sacerdotal (Números 6:24-26) y mención de las vísperas del Día del Pastor\n[16:53] Oración de inicio guiada por los pastores y agradecimiento por la participación de los líderes Eric y Rocío Gilca\n[26:09] Saludos fraternos a las familias conectadas virtualmente y anuncios generales\n[29:51] Introducción del tema de enseñanza: 'Natural o Espiritual'. Definición de los dos ámbitos de existencia\n[38:19] Explicación teológica: la inutilidad de desgastarse luchando en lo físico sin antes ordenar lo espiritual\n[47:36] El fluir de la bendición espiritual: analogía bíblica del aceite que desciende desde la cabeza hasta los pies\n[51:53] Exhortación a priorizar el alma y el espíritu por encima de los bienes materiales y corporales\n[56:43] Saludos a líderes en diversas provincias y testimonios de la expansión de la obra\n[01:01:27] Clamor en el altar pidiendo discernimiento espiritual y liberación para las familias\n[01:05:45] Interacción con los comentarios de la transmisión en vivo y felicitaciones adicionales\n[01:14:24] Canto de alabanza de despedida, declaración de la palabra rema y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/558113978207359/",
@@ -2638,6 +2707,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQMRqqjx7dAUcziD5dzaCBD80u7ql6UyEMkBGehGsLGnzxKofbsSPAewa8pUDA_254560235809532.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQMRqqjx7dAUcziD5dzaCBD80u7ql6UyEMkBGehGsLGnzxKofbsSPAewa8pUDA_254560235809532.mp4",
     "title": "Los Nombres y Atributos de Dios: Conociendo al Todopoderoso",
     "message": "En esta sesión de estudio bíblico de los jueves, el Pastor Daniel Tito profundiza en los nombres hebreos y atributos revelados de Dios (tales como El Shaddai, Jehová Jireh, Jehová Rafa, entre otros) y analiza la parábola del juez injusto y la viuda importuna en Lucas 18:1-8, motivando a la congregación a persistir en oración.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al estudio bíblico de los jueves e introducción del tema\n[03:55] Saludos especiales a los hermanos conectados en Europa y el extranjero\n[06:59] Saludos locales y aprecio a la Pastora Ricardina y colaboradores de la misión\n[10:30] Oración de apertura pidiendo comunión y revelación espiritual de la verdad divina\n[13:59] Acción de gracias por las familias y el respaldo de la congregación virtual\n[17:29] Cánticos de adoración preparando los corazones para la enseñanza de las Escrituras\n[22:57] Introducción al estudio de los atributos y los nombres de Dios en la Biblia\n[39:29] Análisis de Lucas 18:1-8. La parábola de la viuda y el juez injusto, y la constancia en la oración\n[55:07] Reflexión sobre cómo el carácter de Dios garantiza la justicia y la respuesta a Sus hijos\n[01:03:43] Estudio detallado de los nombres de Dios: El Shaddai, Jehová Jireh, Jehová Rafa, Nissi, Shalom y Tsidkenu\n[01:11:26] Oración final de adoración a Dios por Sus nombres, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/254560235809532/",
@@ -2672,6 +2742,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQNBAKFNf5bTccS69k_ERQzh0zmPvBYcdBSCuMN7iwBq6wRQjjGZnRogW3qeEI3F2VYGhnWnzazy91jJZ624YoOf_694959616152602.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQNBAKFNf5bTccS69k_ERQzh0zmPvBYcdBSCuMN7iwBq6wRQjjGZnRogW3qeEI3F2VYGhnWnzazy91jJZ624YoOf_694959616152602.mp4",
     "title": "El Incomparable Amor de Dios: Salvación y Vida Eterna",
     "message": "El Pastor Daniel Tito predica sobre Juan 3:16, exponiendo la profundidad del amor de Dios al enviar a Su Hijo Jesucristo para ofrecer salvación y vida eterna a la humanidad. Analiza la condición espiritual del pecador y la importancia de responder en fe, concluyendo con una oración de arrepentimiento y confesión.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al servicio del domingo y exhortación sobre la puntualidad en la cita con Dios\n[04:42] Oración de apertura pidiendo disposición para recibir el alimento espiritual de la Palabra\n[08:10] Cantos de adoración preparando los corazones para la enseñanza del Evangelio\n[12:10] Meditación sobre la omnisciencia y soberanía de Dios en la vida de cada creyente\n[14:23] Reflexión bíblica sobre la generosidad y el compartir las bendiciones que Dios nos da\n[18:25] Ejemplos bíblicos de desprendimiento y servicio fiel en la iglesia primitiva\n[24:59] Comentarios de actualidad y el contraste entre los héroes seculares y los héroes de la fe\n[32:03] Explicación sobre la degradación y el olor espiritual de una vida apartada del Señor\n[36:29] Lectura bíblica central: Juan 3:16. La manifestación del amor de Dios a través de Jesucristo\n[40:18] Exhortación a tomar la decisión de recibir la vida eterna e invitación al arrepentimiento\n[44:05] Oración guiada de salvación y fe, declaración de la palabra rema y cántico final",
     "url": "https://www.facebook.com/misioncelreino/videos/694959616152602/",
@@ -2706,6 +2777,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQNVDXWP_YKyt_XKne9RXCxCxvx4DPJYFz9tJj337qftWzD6iaPM3QezTnJ_1734953086657272.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQNVDXWP_YKyt_XKne9RXCxCxvx4DPJYFz9tJj337qftWzD6iaPM3QezTnJ_1734953086657272.mp4",
     "title": "A los Pies de Jesús: Restauración para el Alma Cansada",
     "message": "El Pastor Daniel Tito imparte un mensaje de consuelo y fortalecimiento espiritual dirigido a aquellos que se sienten abrumados, cansados o con deseos de desistir. A través de la invitación a 'sentarse a los pies de Jesús y beber de Su mano', enseña a renovar las fuerzas en Su presencia y examina la madurez en la fe.\n\nÍndice de momentos:\n[00:00] Cántico de ministración: 'Puedes sentarte a sus pies y de sus manos beber la plenitud'\n[06:57] Reflexión sobre la sequedad espiritual y las presiones que nos llevan a querer huir\n[12:39] Enseñanza sobre la suficiencia del amor de Dios para suplir cada vacío emocional\n[18:21] Clamor congregacional buscando la presencia renovadora del Espíritu Santo\n[24:42] Dinámica de oración intercesora por el quebrantamiento y liberación espiritual en el altar\n[31:52] Exhortación and pregunta reflexiva: ¿Cuánto tiempo tienes en la fe y cuál es tu fruto?\n[37:57] Advertencia pastoral sobre el control de la lengua y la necesidad de evitar la murmuración\n[41:55] Clamor por sanidad de los enfermos y fortaleza física para la congregación\n[45:45] Oración especial por los matrimonios, pidiendo unidad, amor y paz en los hogares\n[52:02] Oración por los líderes, agradecimiento por el ministerio del Pastor, saludos de cumpleaños y palabra rema\n[01:04:30] Cierre del servicio con alabanza alegre, abrazos espirituales y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/1734953086657272/",
@@ -2738,6 +2810,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQOlK8bTSKZqHtKKuCuKtjFrB8aZNifIywvrscu7Kqkw4jkXdw_99dxPOkm7lPzNGF7TMfVJHjD53WxXQNIBQ3_2296995717161670.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQOlK8bTSKZqHtKKuCuKtjFrB8aZNifIywvrscu7Kqkw4jkXdw_99dxPOkm7lPzNGF7TMfVJHjD53WxXQNIBQ3_2296995717161670.mp4",
     "title": "Esperanza y Gozo en Tiempos de Crisis: Meditación en 1 Pedro",
     "message": "En medio de un contexto de conflicto social en el país, el Pastor Daniel Tito enseña cómo mantener el gozo y la esperanza cristiana a partir de 1 Pedro. Exhorta a la congregación a comprometerse con la obra de Dios y a recordar que la felicidad del creyente depende del amor eterno de Cristo y de su ciudadanía celestial.\n\nÍndice de momentos:\n[00:00] Saludos iniciales y gozosa bienvenida al servicio dominical en la casa del Señor\n[11:37] Reflexión pastoral sobre la agitación social y política en el país y la paz que da Cristo\n[16:08] Meditación sobre la promesa de la vida eterna que supera las crisis terrenales\n[20:24] Enseñanza sobre el amor incondicional y protector de Dios en momentos de incertidumbre\n[24:40] Lectura bíblica: 1 Pedro. La fe acrisolada por el fuego de las pruebas y la salvación del alma\n[29:32] El Espíritu Santo como derramador del amor de Dios en los corazones de los creyentes\n[34:14] Testimonios y lecciones de fe de hombres y mujeres de la iglesia que perseveran como guerreros\n[38:36] Exhortación a vencer el desánimo y a reavivar el celo espiritual por el servicio cristiano\n[43:26] Ruego de intercesión por la reconciliación nacional, la paz social y la provisión en los hogares\n[48:25] Llamado en el altar a renovar el compromiso con la obra de Dios y el discipulado\n[54:02] Oración de bendición familiar, saludos especiales, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/2296995717161670/",
@@ -2772,6 +2845,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQOOqnp9GVsnRjMAhjx8x3IBK86pLujOspXLZYh098yqFT6WwihIjZHRGSd_4977259632291871.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQOOqnp9GVsnRjMAhjx8x3IBK86pLujOspXLZYh098yqFT6WwihIjZHRGSd_4977259632291871.mp4",
     "title": "Abriendo el Corazón a Dios: Fe en Tiempos de Prueba",
     "message": "El Pastor Daniel Tito enseña sobre la importancia de adorar a Dios y abrirle el corazón en medio de las pruebas más difíciles. Basado en la promesa de que Dios no nos dejará ser tentados más de lo que podemos soportar (1 Corintios 10:13), exhorta a la congregación a permanecer fieles y consagrados en el altar.\n\nÍndice de momentos:\n[00:00] Saludos de bienvenida de la Misión Cristiana El Reino e inicio de la transmisión dominical\n[19:44] Tiempo de alabanza congregacional con cánticos invitando a abrir el corazón a la majestad de Dios\n[26:01] Lectura de pedidos de oración y saludos virtuales a nivel nacional e internacional\n[31:31] Introducción de la enseñanza sobre el propósito de las pruebas en el plan divino\n[36:45] Reflexión sobre la intercesión de los ángeles y la consolación del Espíritu Santo\n[42:01] Testimonios de victoria y fidelidad en los ministerios de servicio de la iglesia\n[47:13] Lectura bíblica: 1 Corintios 10:13. La promesa de que Dios no permitirá una prueba superior a nuestras fuerzas\n[52:25] Exhortación a dejar atrás el pecado y las cargas del pasado para entrar en la santidad\n[57:41] Meditación sobre la comunión en intimidad espiritual con Dios (relación con el huerto de Edén)\n[01:03:09] Oración especial bendiciendo los diezmos y las ofrendas del pueblo de Dios\n[01:10:10] Saludos a los cumpleañeros, declaración de la palabra rema (\"Año de un nuevo comienzo\") y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/4977259632291871/",
@@ -2806,6 +2880,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-WyGjabX0_AQOuymGEVI22Z33S2B5Qcetw2F5TxhR0jHcmljutsc0NYsRvVXePRxIKXr_589150745352174.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-WyGjabX0_AQOuymGEVI22Z33S2B5Qcetw2F5TxhR0jHcmljutsc0NYsRvVXePRxIKXr_589150745352174.mp4",
     "title": "El Sello y Fundamento de Dios: Apartándose de Iniquidad",
     "message": "A partir de 2 Timoteo 2:19, el Pastor Daniel Tito enseña sobre el fundamento firme de Dios y el sello doble de la salvación: la pertenencia del creyente al Señor y la responsabilidad de apartarse de la iniquidad. El servicio incluye testimonios de sanidad y un tiempo de clamor por los enfermos.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al servicio de oración e inicio de cantos de adoración\n[13:12] Tiempo de alabanza entonando el cántico de gratitud 'Si no hubiera sido por el Señor'\n[19:24] Saludos a la congregación virtual y lectura de los pedidos de oración del chat\n[23:05] Reflexión sobre la salvación en Cristo como el único camino para librarse de la condenación\n[29:13] Meditación sobre la gracia divina y el señorío exclusivo de Jesucristo en la vida humana\n[43:35] Lectura bíblica central: 2 Timoteo 2:19. El fundamento firme de Dios y el sello de santidad\n[57:09] Exhortación contra el autoengaño de la justificación propia y la necesidad de arrepentimiento sincero\n[01:05:04] Reflexión pastoral sobre la fidelidad en el servicio y la perseverancia ante las dificultades físicas\n[01:08:26] Clamor congregacional de entrega en el altar renovando el compromiso de santidad ante Dios\n[01:12:12] Saludos especiales y agradecimiento a los líderes ministeriales en Lima y provincias\n[01:21:58] Clamor de sanidad por Juan Chihuam y el niño Tiago, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/589150745352174/",
@@ -2839,6 +2914,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-xmcz0wby_AQMUgGo8VPw4TakSQoeA83Lhug4DWeOCvH5wHqVgpNnwJlstrVexBapP2D2qwmIR2aqaLbmu84A53H0uUbgKqpXA_2919803024922625.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-xmcz0wby_AQMUgGo8VPw4TakSQoeA83Lhug4DWeOCvH5wHqVgpNnwJlstrVexBapP2D2qwmIR2aqaLbmu84A53H0uUbgKqpXA_2919803024922625.mp4",
     "title": "Jesús en tu Casa: La Salvación de Zaqueo",
     "message": "En esta reconexión del culto, el Pastor Daniel Tito enseña sobre el propósito de la venida de Jesús de buscar y salvar lo que se había perdido. Analiza el encuentro de Jesús con Zaqueo en Lucas 19 y exhorta a las familias a abrir las puertas de sus hogares para recibir la salvación y la restauración.\n\nÍndice de momentos:\n[00:00] Aclaración sobre la interrupción técnica y reanudación del mensaje en vivo\n[03:35] Lectura bíblica: Lucas 19. El encuentro de Jesús con Zaqueo en Jericó y Su deseo de hospedarse en su casa\n[06:24] Análisis de la transformación de Zaqueo: la restitución y el desprendimiento tras conocer a Cristo\n[09:13] Clamor congregacional cantando 'Entra a mi casa' e invitando la presencia de Jesús en el hogar\n[12:08] Oración pidiendo que la salvación y la paz lleguen a los hijos y familiares distanciados de la fe\n[14:01] Exhortación a mantener una comunión constante con Dios en la lectura de la Palabra en familia\n[16:13] Reflexión sobre la perseverancia cristiana y el servicio hasta la segunda venida de Cristo\n[18:24] Saludos especiales por cumpleaños, destacando a Alice Patiño y otros colaboradores locales\n[21:31] Oración de intercesión y ruego específico por la sanidad física de familiares enfermos\n[23:47] Declaración de la palabra rema ('Año de construir'), bendición de despedida y saludos",
     "url": "https://www.facebook.com/misioncelreino/videos/2919803024922625/",
@@ -2874,6 +2950,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-xmcz0wby_AQNiHQNgNGvC0Rw4pJOZlbFf_IhrOY5AFVcEcSh0olvwUf1Jtb803N37uq_1335951500135318.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-xmcz0wby_AQNiHQNgNGvC0Rw4pJOZlbFf_IhrOY5AFVcEcSh0olvwUf1Jtb803N37uq_1335951500135318.mp4",
     "title": "El Fuego Purificador: Cómo Habla Dios a Sus Siervos",
     "message": "El Pastor Daniel Tito enseña sobre la voz de Dios y la simbología del fuego en la Biblia. Explica que el fuego divino representa purificación, pasión por la obra y la presencia misma del Espíritu Santo en la vida del creyente, motivándonos a responder con obediencia y entrega al llamado de Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos efusivos a las familias nacionales e internacionales bajo el lema 'Perú y el Mundo para Cristo'\n[15:05] Oración de apertura pidiendo un clima espiritual de visitación y reverencia en el templo\n[22:11] Adoración congregacional con cantos expresando el deseo de escuchar la voz de Dios\n[44:43] Meditación: cómo responde y consuela Dios a Sus siervos y profetas cuando están desanimados\n[53:39] Diálogo en vivo con la congregación y lectura de intenciones de oración del chat\n[01:00:42] Clamor intercesor de sanidad por las peticiones de los enfermos enviadas virtualmente\n[01:06:43] Reflexión bíblica sobre los avivamientos históricos y la manifestación del poder de Dios\n[01:12:19] Análisis doctrinal: el simbolismo del fuego purificador y la llenura del Espíritu Santo\n[01:17:49] Oración de consagración entregando la vida personal como barro en las manos del Alfarero\n[01:25:36] Agradecimiento por la participación de los servidores locales y felicitaciones especiales\n[01:32:04] Declaración de la palabra rema ('Año de construir'), cántico final de despedida y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/1335951500135318/",
@@ -2906,6 +2983,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-xmcz0wby_AQOXkNFn64CNdCWDE7Y1rSZsa521cdNL9mZr4mS5wQfwnCTvZ6OYaRhDYTcM_1331273737260029.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-xmcz0wby_AQOXkNFn64CNdCWDE7Y1rSZsa521cdNL9mZr4mS5wQfwnCTvZ6OYaRhDYTcM_1331273737260029.mp4",
     "title": "La Fe de una Joven Cautiva: La Sanidad de Naamán",
     "message": "En este servicio dominical de marzo de 2021, el Pastor Daniel Tito predica sobre 2 Reyes 5:1-15, analizando el papel crucial de la joven sirvienta israelí cautiva cuya fe y testimonio llevaron a la sanidad del general sirio Naamán. Exhorta a la congregación a ser portadores de esperanza dondequiera que estén.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional e inicio del servicio dominical del 7 de marzo con un grito de júbilo\n[13:31] Tiempo de alabanza y adoración enfocado en el amor incondicional y eterno de Dios\n[24:48] Oración inicial pidiendo discernimiento espiritual y unción para recibir el mensaje bíblico\n[35:10] Reflexión introductoria sobre el orgullo y de cómo Dios resiste a los soberbios y da gracia a los humildes\n[41:01] Lectura bíblica: 2 Reyes 5:1-3. La historia de Naamán y la joven cautiva de Israel que testifica de Dios\n[48:07] El valor de un testimonio de fe discreto pero poderoso en medio de la adversidad o cautiverio\n[52:48] El viaje de Naamán y la lección de humildad al tener que zambullirse siete veces en el Jordán\n[56:09] Clamor en el altar pidiendo sanidad física para los familiares enfermos representados en la reunión\n[01:00:53] Testimonios y oraciones por el bienestar emocional de los esposos e hijos de la iglesia\n[01:06:04] Saludos especiales por cumpleaños, felicitaciones de los pastores y anuncios semanales\n[01:09:56] Declaración de la palabra rema ('Año de construir'), cántico alegre de despedida y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/1331273737260029/",
@@ -2941,6 +3019,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-xmcz0wby_AQPy3lkXanyS3uah7rurV59ngtxyGsooVannVyULgEOYbEXTAE6wFNpwMcNpMA_3079887068920237.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-xmcz0wby_AQPy3lkXanyS3uah7rurV59ngtxyGsooVannVyULgEOYbEXTAE6wFNpwMcNpMA_3079887068920237.mp4",
     "title": "Altar de Clamor: Buscando a Dios como Refugio",
     "message": "En esta noche de oración de los jueves, el Pastor Daniel Tito guía a la iglesia en un tiempo de búsqueda íntima del Espíritu Santo. Clama por necesidades apremiantes de salud (intercediendo especialmente por Donato, la madre Olinda y Carmencita) y nos recuerda que el Señor es nuestro refugio seguro.\n\nÍndice de momentos:\n[00:00] Bienvenida a la noche de oración del jueves y cánticos de adoración expresando el anhelo de oír la voz de Dios\n[18:18] Reflexión pastoral sobre la promesa de la puerta abierta para la oración eficaz de la iglesia\n[22:27] Saludos fraternales a los hermanos de provincias y lectura de peticiones del chat\n[26:17] Oración de intercesión por las familias representadas y bendición para la hermana Carmencita\n[30:09] Clamor de sanidad por las peticiones urgentes de salud enviadas por la congregación virtual\n[34:06] Oración especial por los proyectos familiares, metas de estudio y trabajo de los jóvenes\n[37:46] Tiempo de adoración y clamor en lenguas buscando la unción del Espíritu Santo\n[41:32] Clamor ferviente por sanidad de Donato, declarando la restauración en el nombre de Jesús\n[45:12] Oración especial por la salud de la mamá Olinda y fortalecimiento de su familia local\n[51:23] Oración de intercesión por los pastores y líderes ministeriales en todo el país\n[01:02:02] Declaración de la palabra rema ('Año de construir'), canción final y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/3079887068920237/",
@@ -2974,6 +3053,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-ySTOgGh6_AQM77SvDN0yOADabnK4uXLIQ6y38Icb6E19vufQxLZo4pZ0z7CPQlJoydV4A_2794448403991678.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-ySTOgGh6_AQM77SvDN0yOADabnK4uXLIQ6y38Icb6E19vufQxLZo4pZ0z7CPQlJoydV4A_2794448403991678.mp4",
     "title": "Compartiendo la Vida Familiar y Ministerial",
     "message": "Un servicio dominical festivo y especial donde la congregación celebra el cumpleaños de la Pastora Miriam, reconociéndola como la compañera idónea en el ministerio del Pastor Daniel Tito. El sermón aborda la tipología del tabernáculo bíblico y la importancia de habitar bajo la presencia de Dios en familia.\n\nÍndice de momentos:\n[00:00] Inicio con cantos festivos tradicionales y la canción 'Bienvenidos están' de la Orquesta Maranata (1989)\n[15:52] Saludos pastorales de bienvenida y palabras de aprecio a los hermanos conectados en vivo\n[22:34] Oración de inicio de la intercesión por las familias y reconciliación en la iglesia\n[29:18] Meditación bíblica sobre el tabernáculo del Señor y los que habitan en Su presencia santa\n[35:58] Reflexión pastoral sobre el valor y rol de la mujer en la edificación del hogar cristiano\n[42:40] Saludos fraternales a las escuelas de la iglesia y a los hermanos del extranjero\n[49:30] Exhortación sobre el discipulado y el compromiso personal de servir a Dios con alegría\n[56:14] Reflexión sobre el proceso de ser probados por el Señor para ser siervos aprobados\n[01:03:28] Oración especial por las necesidades del chat virtual e intercesión por las familias\n[01:11:24] Clamor por sanidad física, declarando cobertura con la preciosa sangre de Cristo\n[01:18:46] Homenaje y oración de acción de gracias por el cumpleaños de la Pastora Miriam, palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/2794448403991678/",
@@ -3006,6 +3086,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-ySTOgGh6_AQNFXiql8HMm0_J0j6K9IipTtmsRIP2I78WKaHtbjesHVcwxekDK0idzdRppVYlhIZflZyBhiA9ghAi4ffBtDa_210918633545618.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-ySTOgGh6_AQNFXiql8HMm0_J0j6K9IipTtmsRIP2I78WKaHtbjesHVcwxekDK0idzdRppVYlhIZflZyBhiA9ghAi4ffBtDa_210918633545618.mp4",
     "title": "Jueves Santo: Getsemaní y la Institución de la Cena",
     "message": "En este servicio especial de Jueves Santo, el Pastor Daniel Tito imparte una enseñanza bíblica sobre los sucesos de Getsemaní y el arresto de Jesús. Posteriormente, guía a la congregación en sus hogares en la conmemoración de la Santa Cena ('Haced esto en memoria de mí') en un ambiente de profunda solemnidad.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional al servicio virtual de Jueves Santo y saludos interactivos\n[10:02] Oración inicial pidiendo reverencia y comprensión espiritual en la Semana Santa\n[18:51] Introducción histórica: los momentos agónicos de Jesús en el huerto de Getsemaní antes de ser entregado\n[26:11] Meditación sobre la sumisión de Jesús a la voluntad del Padre y Su sacrificio por nosotros\n[31:34] Reflexión pastoral sobre la sencillez y el verdadero significado espiritual de la Pascua cristiana\n[36:44] Exhortación a las familias a participar activamente y con un corazón limpio en la comunión\n[42:20] Pautas litúrgicas para preparar el pan y el fruto de la vid en los hogares de la iglesia\n[51:34] Celebración de la Santa Cena: bendición de los elementos recordando el cuerpo y la sangre de Cristo\n[57:28] Clamor final de acción de gracias e intercesión por la paz nacional y familiar\n[01:02:30] Saludos a los niños de la congregación (mencionando a Dylan) y anuncios semanales\n[01:07:58] Declaración final de la palabra rema ('Año de un nuevo comienzo') y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/210918633545618/",
@@ -3041,6 +3122,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-ySTOgGh6_AQO44mD9IlywAwLg3_yblm5BvAIe3FEitZJ4U3SqV75xDHn90P0TWYtzRep1_919938208419074.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-ySTOgGh6_AQO44mD9IlywAwLg3_yblm5BvAIe3FEitZJ4U3SqV75xDHn90P0TWYtzRep1_919938208419074.mp4",
     "title": "El Llamado al Servicio frente a la Ambición de Poder",
     "message": "A partir de Mateo 20:20-28, el Pastor Daniel Tito predica sobre la petición de la madre de los hijos de Zebedeo para que sus hijos ocuparan puestos de honor en el Reino. Enseña que en el Reino de Dios la grandeza se mide por el servicio y la humildad, no por la influencia o la búsqueda de poder terrenal.\n\nÍndice de momentos:\n[00:00] Bienvenida dominical, saludos interactivos con los hermanos en el chat e inicio de cantos de júbilo\n[11:25] Oración inicial consagrando las intenciones del pueblo y pidiendo restauración espiritual\n[16:13] Saludos especiales a las misiones en Huancayo y agradecimiento a los colaboradores locales\n[21:11] Reflexión sobre la fortaleza en las dificultades basándose en Filipenses 4:13\n[26:11] Clamor de liberación intercediendo contra toda enfermedad y opresión familiar\n[33:30] Reconocimiento al equipo de ujieres de la iglesia por su servicio voluntario y comprometido\n[41:50] Lectura bíblica: Mateo 20:20-23. La madre de Santiago y Juan pide puestos de preeminencia para sus hijos\n[52:09] Análisis de las influencias sociales, políticas y económicas del mundo frente al orden del Reino\n[01:14:26] La respuesta de Jesús: 'El que quiera ser el primero entre vosotros será vuestro siervo'\n[01:32:08] Clamor en el altar llamando a la humildad y al compromiso desinteresado con la obra de Dios\n[01:37:48] Cierre del servicio con alabanza festiva, declaración de la palabra rema y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/919938208419074/",
@@ -3076,6 +3158,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Z6MgL5oe_AQMeE9nH6PGYDW8eDTDy54fCQvm5pam9ZRo_gc5sDJKoEkB1qV3UJQm_p6tm_340077218063766.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Z6MgL5oe_AQMeE9nH6PGYDW8eDTDy54fCQvm5pam9ZRo_gc5sDJKoEkB1qV3UJQm_p6tm_340077218063766.mp4",
     "title": "El Nombre de Cristo sobre todo Nombre: Nuestra Identidad en Él",
     "message": "A partir de Filipenses 2:9-11, el Pastor Daniel Tito predica sobre el poder del nombre de Jesucristo, el cual está por encima de cualquier crisis o dificultad terrenal. También explica nuestra identidad espiritual como hijos amados y especial tesoro de Dios, llamados a vivir con dignidad cristiana.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional con cánticos de gozo y de libertad espiritual\n[13:09] Reflexión sobre la importancia y el significado espiritual de los nombres que llevamos y declaramos\n[20:14] Dinámica congregacional declarándonos 'especiales' y únicos según el diseño divino de Dios\n[26:17] Reflexión sobre la orfandad espiritual del mundo frente al amor del Padre Celestial que nos adopta\n[32:50] Lectura bíblica: Filipenses 2:9-11. El Nombre de Jesús que está por encima de toda crisis y circunstancia\n[38:50] Exhortación pastoral a perseverar en la tierra con gozo y a cumplir el propósito de Dios aquí abajo\n[43:03] Clamor en el altar buscando la llenura espiritual del Espíritu Santo en los hogares\n[46:13] Tiempo de oración de fe intercediendo por sanidad y paz en las familias de la iglesia\n[51:13] Mirando a Jesús como el autor y consumador de la fe en tiempos de tormenta\n[55:39] Cánticos de adoración exaltando la gracia divina y el amor incondicional del Salvador\n[01:00:37] Saludos de bendición internacional y cierre del servicio con acción de gracias por la misericordia divina",
     "url": "https://www.facebook.com/misioncelreino/videos/340077218063766/",
@@ -3110,6 +3193,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Z6MgL5oe_AQMoyf0w4WAsIRoC_Ccx0AuIK7kHi33_U9cIAUUlvyEdv15UlF2BewaBKwJ8ww_2018447675025077.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Z6MgL5oe_AQMoyf0w4WAsIRoC_Ccx0AuIK7kHi33_U9cIAUUlvyEdv15UlF2BewaBKwJ8ww_2018447675025077.mp4",
     "title": "Dios en Medio de Ti: Poderoso Salvador",
     "message": "A partir de Sofonías 3:17, el Pastor Daniel Tito predica sobre la presencia consoladora de Dios como poderoso Salvador en medio de Su pueblo. Anima a la congregación a clamar por la protección espiritual de sus familiares (hijos, hermanos, sobrinos) y a reavivar una pasión ferviente por la Palabra de Dios.\n\nÍndice de momentos:\n[00:00] Inicio con un grito de júbilo y cánticos de adoración profética sobre la restauración de Sion\n[16:26] Saludos y bienvenida congregacional a la transmisión virtual e interacción con los hermanos\n[22:10] Oración entregando las cargas a Dios y confiando en Su intercesión protectora\n[28:56] Clamor intercesor por las familias, pidiendo bendición para hijos, nietos y sobrinos\n[34:40] Meditación sobre la santidad en la casa de Dios y el respeto al lugar de adoración\n[40:22] Reflexión pastoral sobre la constancia en la oración y la confianza cuando parece no haber respuestas\n[46:04] Exhortación a cultivar en el hogar una pasión profunda por la lectura de las Escrituras\n[51:48] Oración por situaciones difíciles y crisis específicas reportadas por los hermanos\n[57:30] Reconocimiento y bendición para los pastores Daniel y Miriam Tito y sus familias\n[01:03:12] Advertencia sobre los afanes del mundo y la necesidad de llenar la mente con sabiduría celestial\n[01:09:02] Cánticos de adoración finales, saludos por cumpleaños, palabra rema y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/2018447675025077/",
@@ -3143,6 +3227,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-16_06_2025-Z6MgL5oe_AQNUFvVzphl9qgKCO3MB8MM0d8eIweSbGPdPlTrmnyKVRc5lvFeSPvBwdmR_744945986651591.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-16_06_2025-Z6MgL5oe_AQNUFvVzphl9qgKCO3MB8MM0d8eIweSbGPdPlTrmnyKVRc5lvFeSPvBwdmR_744945986651591.mp4",
     "title": "Noche de Oración, Clamor por Sanidad y Santa Cena",
     "message": "Reunión de los jueves dedicada al clamor por sanidad y la celebración de la Santa Cena. El Pastor Daniel Tito intercede fervientemente por miembros de la congregación con diagnósticos de cáncer y otras enfermedades graves, recordando el sacrificio de Jesús en la cruz y el poder sanador de Su sangre.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional a la noche de oración y Santa Cena con presentación de líderes locales\n[05:26] Cantos de adoración reconociendo el amor sacrificial de Dios en la cruz\n[10:29] Interacción con la congregación virtual y lectura de los motivos de oración del chat\n[17:08] Declaración de fe sobre el obrar maravilloso de Dios en las familias de la iglesia\n[24:26] Testimonios de sanidad y ruego general por la liberación de enfermedades en la congregación\n[30:54] Oración de intercesión pidiendo provisión laboral y cobertura espiritual con la Sangre de Cristo\n[37:19] Clamor específico por el hermano José Vásquez tras diagnóstico médico y por la escuela de Huancayo\n[43:15] Clamor por la restauración de la salud de Violeta Parra y la salvación de las almas\n[49:44] Meditación en 1 Corintios 11:23-26 sobre el significado de tomar el pan y la copa del pacto\n[57:30] Enseñanza sobre la oportunidad espiritual de ofrendar al Señor con alegría y fe\n[01:04:16] Distribución de la Santa Cena en los hogares, declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/744945986651591/",
@@ -3177,6 +3262,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-0NzBxBZg_AQN4gmTjtwcQCGF4i_5NdOoQx0Nf8FBU23Z8ka4IwWmkciLF70q7Dihe7qMyeOxz_bgF9VxisTW9VFP3jtzMcs_711262662883544.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-0NzBxBZg_AQN4gmTjtwcQCGF4i_5NdOoQx0Nf8FBU23Z8ka4IwWmkciLF70q7Dihe7qMyeOxz_bgF9VxisTW9VFP3jtzMcs_711262662883544.mp4",
     "title": "Boga Mar Adentro: El Llamado a Pescar Hombres",
     "message": "En el servicio del domingo 21 de febrero de 2021, el Pastor Daniel Tito expone acerca del llamado de Jesús a los discípulos en Lucas 5:1-11. Analiza el mandato de 'bogar mar adentro' como un desafío a salir de nuestra comodidad espiritual ('la orilla') y de nuestra carnalidad para dedicarnos a pescar hombres.\n\nÍndice de momentos:\n[00:00] Bienvenida dominical cantando 'Vengan todos y celebren las maravillas de sus prodigios'\n[22:44] Oración de apertura pidiendo unción y de revelación de la Palabra en los hogares\n[32:48] Saludos y bendición fraternal a los hermanos locales, en provincias y en el extranjero\n[40:15] Reflexión introductoria: el proceso de crecimiento y discipulado en la vida cristiana\n[47:34] Exhortación pastoral sobre el valor del tiempo y de priorizar la atención espiritual a las personas\n[54:59] Meditación sobre la corrección y la exhortación sana dentro del cuerpo de Cristo\n[01:02:23] Análisis del grupo de los doce discípulos: hombres ordinarios llamados a una misión extraordinaria\n[01:09:42] Llamado a dejar la carnalidad y los razonamientos humanos para obedecer los planes de Dios\n[01:17:06] Lectura bíblica: Lucas 5:4. Bogar mar adentro y echar las redes para pescar a pesar del cansancio\n[01:26:42] Clamor en el altar pidiendo valentía para dar pasos de fe y orando por sanidad familiar\n[01:37:17] Declaración de la palabra rema ('Año de construir'), cánticos alegres de despedida y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/711262662883544/",
@@ -3212,6 +3298,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-0NzBxBZg_AQOWxfXChUrfHKf9KPhUZgSTa5ErK04OasTlwoXMlN_kLg5DyrYoFDOKC1Wd_HwEAI_m0wZXov1HEiw3hPdGkYLI_516831389298531.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-0NzBxBZg_AQOWxfXChUrfHKf9KPhUZgSTa5ErK04OasTlwoXMlN_kLg5DyrYoFDOKC1Wd_HwEAI_m0wZXov1HEiw3hPdGkYLI_516831389298531.mp4",
     "title": "Generosidad y Protección del Rebaño: Alerta contra Falsas Enseñanzas",
     "message": "En este estudio bíblico de los jueves, el Pastor Daniel Tito enseña sobre dos temas clave: el principio de la generosidad bíblica ('Dios bendice al dador alegre') y la advertencia de Pablo en Hechos 20:29 sobre los falsos maestros o 'lobos rapaces' que intentan confundir al rebaño, instando a proteger la sana doctrina.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional a la reunión de los jueves y saludos interactivos del Pastor\n[09:08] Tiempo de alabanza congregacional con cánticos de adoración exaltando la soberanía de Dios\n[16:38] Oración inicial pidiendo la cobertura y la presencia del Espíritu Santo en los hogares\n[22:34] Saludos especiales por cumpleaños e intercesión por las familias conectadas en Cajamarca y Huancayo\n[28:28] Reflexión sobre la importancia de mantenerse firmes en la doctrina en tiempos difíciles\n[34:25] La familia como núcleo de la iglesia y la necesidad de edificarla en el amor de Cristo\n[40:34] El valor de la verdadera amistad cristiana y el discipulado basado en la confianza mutua\n[46:31] Intercesión por las necesidades económicas y peticiones laborales de los hermanos\n[52:25] Saludos de aprecio a la Pastora Ricardina Torres y a la iglesia de Huancayo\n[58:22] Meditación en 2 Corintios 9:7 y Hechos 20:29: generosidad alegre y protección contra los lobos rapaces\n[01:04:31] Declaración de la palabra rema ('Año de construir'), cantos finales celebrando el gozo cristiano y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/516831389298531/",
@@ -3248,6 +3335,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-0NzBxBZg_AQPC2xsFH7nZYzyUBkzH36u2nWdS0Sg4nZWksycmb0Vc6QzvLbMlYA1HvWwJ_960362844552641.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-0NzBxBZg_AQPC2xsFH7nZYzyUBkzH36u2nWdS0Sg4nZWksycmb0Vc6QzvLbMlYA1HvWwJ_960362844552641.mp4",
     "title": "No hay otro Nombre: Salvación y Esperanza ante el Duelo",
     "message": "Predicado bajo restricciones de pandemia (mencionando las mascarillas de la familia Capristán), el Pastor Daniel Tito comparte un mensaje de salvación basado en Hechos 4:12. Además, ofrece palabras de consuelo e intercesión por el fallecimiento de la hermana Julita, recordando que solo en Cristo hay esperanza eterna.\n\nÍndice de momentos:\n[00:00] Apertura dominical con saludos del Pastor Daniel Tito cantando 'Toda rodilla se doblará'\n[12:24] Agradecimiento a la familia Capristán por proveer protectores de bioseguridad para el ministerio\n[24:18] Lectura y análisis en Hechos 4:12: 'No hay otro nombre bajo el cielo dado a los hombres para ser salvos'\n[37:44] Exhortación a consagrar el tiempo y los talentos personales al servicio del Señor Jesús\n[49:45] Reflexión sobre la perseverancia: el creyente que no se cansa de servir a pesar de las limitaciones\n[57:40] El derramamiento del Espíritu Santo sobre los siervos y siervas en los últimos días\n[01:03:25] Diálogo en vivo con la congregación y lectura de intenciones en el chat virtual\n[01:12:11] Oración de condolencias y clamor de consuelo por la familia de la hermana Julita tras su deceso\n[01:18:37] Clamor por sanidad de los enfermos de la congregación y provisión de alimentos\n[01:23:41] Saludos de bendición para la Escuela Naranja y misiones locales, palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/960362844552641/",
@@ -3283,6 +3371,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-0NzBxBZg_AQPJuaXDF6yP6y3hoBjWUqvwb0fcevgSMnQxcINz9wPL2WYUrnbB3Ps3oqRv_306290858298155.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-0NzBxBZg_AQPJuaXDF6yP6y3hoBjWUqvwb0fcevgSMnQxcINz9wPL2WYUrnbB3Ps3oqRv_306290858298155.mp4",
     "title": "Buscando Primero el Reino: Prioridades de Bendición",
     "message": "A partir de Mateo 6:33, el Pastor Daniel Tito enseña sobre la ley de las prioridades espirituales en la vida del cristiano. Explica que si decidimos poner a Dios en el primer lugar de nuestra agenda y finanzas, Él se encarga de proveer y bendecir todos los aspectos de nuestro hogar y familia.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional cantando 'Jesús, tú eres el amigo que me ama'\n[12:20] Saludos efusivos y bienvenida a los líderes y miembros de la Escuela Lila en la transmisión\n[17:31] Oración inicial pidiendo sanidad por los hermanos enfermos y paz para los afligidos\n[23:00] Reflexión introductoria sobre las excusas comunes para postergar la vida devocional\n[29:04] Saludos fraternales a los hermanos de la congregación virtual en el distrito de Barranco\n[33:44] Análisis bíblico: por qué es fácil desviarse del camino si no tenemos prioridades correctas\n[39:35] Advertencia pastoral contra las distracciones y tentaciones del mundo secular\n[45:16] Lectura y meditación central en Mateo 6:33: 'Buscad primeramente el reino de Dios y su justicia'\n[53:03] Clamor congregacional en el altar invitando a las familias a restaurar el devocional familiar\n[01:00:05] Cántico de entrega y adoración profunda ('Inexplicable amor') rindiendo el corazón ante Dios\n[01:06:00] Declaración final de la palabra rema ('Año de la gracia'), saludos de cumpleaños y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/306290858298155/",
@@ -3317,6 +3406,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQMbLOeV11WD_Rr9ocpwvJiMzMDvLtMgAXCcpp1tnGztMjc2oRyXnW8S5ugndOU4YvKtwtHcn8ouGoOkWCXptP6_131163372152856.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQMbLOeV11WD_Rr9ocpwvJiMzMDvLtMgAXCcpp1tnGztMjc2oRyXnW8S5ugndOU4YvKtwtHcn8ouGoOkWCXptP6_131163372152856.mp4",
     "title": "Olvidando el Pasado: Prosigo hacia la Meta",
     "message": "A partir de Filipenses 3:13-14, el Pastor Daniel Tito enseña sobre la importancia de dejar ir los errores y dolores del pasado para poder avanzar hacia el propósito de Dios. Exhorta a la congregación a 'enterrar el pasado' y a abrir sus corazones para recibir la visitación del Maestro de Galilea.\n\nÍndice de momentos:\n[00:00] Inicio con cantos de alabanza festiva congregacional cantando 'Bienvenidos todos y celebrad'\n[08:21] Saludos de bienvenida de los pastores y lectura de pedidos de oración del chat virtual\n[13:47] Oración inicial pidiendo libertad de espíritu y sanidad de recuerdos dolorosos en los hogares\n[19:19] Meditación sobre cómo el enemigo usa la culpa del pasado para robar la alegría del creyente\n[24:47] Lectura bíblica: Filipenses 3:13-14. La determinación del apóstol de proseguir hacia la meta\n[30:11] Clamor congregacional en el altar pidiendo sanidad del corazón y liberación emocional\n[35:33] Oración de intercesión contra enfermedades físicas, pidiendo protección divina\n[40:53] Bendición por la unidad de los matrimonios y las relaciones entre padres e hijos\n[46:15] Tiempo de adoración y clamor en el Espíritu Santo sintiendo el fluir de la unción\n[52:13] Cántico de ministración: 'El Maestro de Galilea está pasando por aquí, déjale que te toque'\n[59:29] Declaración final de la palabra rema ('Año de un nuevo comienzo'), saludos de cumpleaños y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/131163372152856/",
@@ -3351,6 +3441,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQMJcpLDWx_LcOb2Km93ELoaw1WH6Rc2BixDbAPEHBmc6WoTI8RlufWzs1vg_672357416765147.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQMJcpLDWx_LcOb2Km93ELoaw1WH6Rc2BixDbAPEHBmc6WoTI8RlufWzs1vg_672357416765147.mp4",
     "title": "Integridad y Obediencia: El Ejemplo de José y María",
     "message": "En un servicio especial que incluye una presentación teatral de los jóvenes de la iglesia, el Pastor Daniel Tito predica sobre la integridad de José y María basados en Mateo 1:18-25. Enfatiza cómo la obediencia al plan de Dios, por encima de las presiones sociales, permite el cumplimiento de las promesas divinas.\n\nÍndice de momentos:\n[00:00] Presentación inicial del teatro de los jóvenes e introducción del mensaje por el Pastor Daniel Tito\n[12:28] Meditación sobre el carácter íntegro de María y de cómo halló gracia ante los ojos de Dios\n[18:00] El dilema de José y su decisión de obedecer al ángel del Señor en sueños\n[24:42] Diálogo en vivo con la congregación y de lectura de comentarios de aprecio por el teatro\n[28:34] Explicación bíblica de la pureza y el respeto conyugal ejemplificados en el noviazgo de José y María\n[33:41] Lectura bíblica: Mateo 1:24-25. La obediencia de José al tomarla por esposa y respetar el diseño de la unción\n[38:33] El nacimiento de Jesús y la proclamación de Su Nombre, que es sobre todo nombre (Filipenses 2:9)\n[42:11] Oración de consagración por los jóvenes de la iglesia, pidiendo vidas íntegras y puras\n[45:17] Tiempo de intercesión por las familias, pidiendo sabiduría para los padres en la crianza\n[49:02] Testimonios y acción de gracias por la reunión de adoración familiar del día anterior\n[01:01:23] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/672357416765147/",
@@ -3386,6 +3477,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQN75YEosmTEQoqL84je3TSv9A8viJebaMFetDqNW2t8irQ0nGMvUvjx9ZA_392857758472471.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQN75YEosmTEQoqL84je3TSv9A8viJebaMFetDqNW2t8irQ0nGMvUvjx9ZA_392857758472471.mp4",
     "title": "Derribando Muros: Esperanza para el Nuevo Año",
     "message": "En el último domingo del año 2020, el Pastor Daniel Tito ofrece un mensaje triunfante y de fe frente a la crisis global de la pandemia. Utilizando la tipología de la caída de los muros de Jericó (Josué 6), declara que toda cadena y obstáculo familiar son derribados en el Nombre de Jesús en el nuevo año.\n\nÍndice de momentos:\n[00:00] Apertura dominical con saludos pastorales tras superar fallas técnicas en la transmisión\n[08:04] Oración de acción de gracias reconociendo que Dios nos creó con propósito y nos sostuvo en 2020\n[13:53] Clamor por la unidad de la iglesia nacional e internacional como un solo cuerpo en Cristo\n[20:30] Saludos fraternales a la Escuela Roja y misiones en provincias (mencionando a Luis Quispe)\n[27:08] Meditación sobre la soberanía de Dios y de cómo Él ordena las circunstancias para bien de Sus hijos\n[33:30] Exhortación a consagrar los proyectos y finanzas del nuevo año 2021 al servicio del Señor\n[38:03] Llamado en el altar a renovar el compromiso con la obra de Dios y a dejar el desánimo\n[42:17] Oración de intercesión rompiendo ligaduras espirituales y trayendo sanidad a los enfermos\n[46:37] Mensaje de consuelo y amor pastoral para los hermanos que sufrieron pérdidas en el año\n[51:15] Diálogo interactivo con los comentarios, saludos por cumpleaños y anuncios finales\n[58:24] Adoración festiva entonando 'Los muros caen', declaración de la palabra rema y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/392857758472471/",
@@ -3420,6 +3512,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQNj28mySJrl14RH4xJZ303zz2iGsBDjGp77zlaUkUBFuGyvURPR_e03Ks_886842748670213.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQNj28mySJrl14RH4xJZ303zz2iGsBDjGp77zlaUkUBFuGyvURPR_e03Ks_886842748670213.mp4",
     "title": "Coherencia Espiritual: Enseñándonos a Nosotros Mismos",
     "message": "El Pastor Daniel Tito imparte una enseñanza sobre la coherencia y la integridad cristiana basada en Romanos 2:21. Explica que antes de enseñar o corregir a otros (hijos, familiares o discípulos), debemos aplicar las Escrituras en nuestras propias vidas, sirviendo como testimonios vivos y coherentes.\n\nÍndice de momentos:\n[00:00] Bienvenida dominical, saludos pastorales e invitación a ponerse de pie para la oración de inicio\n[17:58] Saludos e interacción con los comentarios de la transmisión virtual, felicitando a las familias\n[27:03] Anécdota ilustrativa sobre los paseos familiares y la importancia de cultivar recuerdos sanos en el hogar\n[30:44] Oración de intercesión pidiendo sanidad y dirección del Espíritu Santo para los líderes de la iglesia\n[33:20] Lectura bíblica: Romanos 2:21. El cuestionamiento del apóstol Pablo sobre la coherencia en la enseñanza\n[36:03] Meditación: la responsabilidad de ser maestros y guías espirituales que predican con el ejemplo\n[39:28] Reflexión sobre la pasividad en el servicio y la necesidad de colaborar activamente en la iglesia\n[43:59] Exhortación práctica: la coherencia en el liderazgo pastoral y en el sacerdocio familiar en casa\n[50:59] Clamor en el altar: oración de quebrantamiento pidiendo de arrepentimiento y perdón por la incongruencia\n[57:11] Invitación a la reconciliación e imposición de manos orando por fortaleza espiritual\n[01:01:23] Declaración de la palabra rema ('2021 Año de construir'), saludos por cumpleaños y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/886842748670213/",
@@ -3455,6 +3548,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQN_CrzrasN8iLELEq3Uph6Zak1AanpTUV8FspXHvVEYeO5PUB9UU3fe7WMCwYTwClKNFyuU8rCMGZ_HEy7UK_342808370335742.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQN_CrzrasN8iLELEq3Uph6Zak1AanpTUV8FspXHvVEYeO5PUB9UU3fe7WMCwYTwClKNFyuU8rCMGZ_HEy7UK_342808370335742.mp4",
     "title": "No nos Cansemos de Hacer el Bien: La Ley de la Cosecha",
     "message": "Basado en Gálatas 6:9, el Pastor Daniel Tito enseña sobre la ley espiritual de la siembra y la cosecha. Exhorta a la congregación a persistir haciendo el bien a todos, aun frente a la ingratitud, asegurando que Dios recompensará a Su debido tiempo a quienes no se cansen ni desmayen en el camino.\n\nÍndice de momentos:\n[00:00] Bienvenida dominical cantando 'Ven conmigo a la casa de Dios' y exhortación a la comunión familiar\n[11:49] Oración inicial de agradecimiento por el cuidado y la provisión diaria del Padre Celestial\n[17:07] Saludos fraternales a los hermanos locales y en el extranjero conectados a la transmisión\n[36:15] Tiempo de adoración y clamor intercesor pidiendo sanidad por los enfermos graves de la iglesia\n[42:48] Reflexión sobre la honestidad financiera y la administración correcta de los recursos en el hogar\n[52:42] Exhortación cívica y ética sobre la justicia comercial y el trato honesto hacia el prójimo\n[01:03:16] Lectura y análisis en Gálatas 6:9. El deber de no cansarse de hacer el bien y la promesa de segar\n[01:13:48] Meditación sobre la perseverancia: venciendo el desánimo y la fatiga espiritual en el servicio\n[01:24:31] Saludos a las misiones en provincias, compartiendo testimonios de la expansión de la iglesia\n[01:32:08] Oración en el altar pidiendo un corazón generoso y paciente para servir en la comunidad\n[01:37:42] Declaración final de la palabra rema ('Año de un nuevo comienzo'), saludos por cumpleaños y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/342808370335742/",
@@ -3489,6 +3583,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQO0Pf3GoUtTSULADBisRJKmKPgGh1glHt6rcA811CNkHJqgZDt2dVL2ll4_431664825307730.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQO0Pf3GoUtTSULADBisRJKmKPgGh1glHt6rcA811CNkHJqgZDt2dVL2ll4_431664825307730.mp4",
     "title": "Libres por la Sangre de Jesucristo: Noche de Clamor y Batalla Espiritual",
     "message": "Culto de oración y clamor a mitad de semana dirigido por el Pastor Daniel Tito. Basándose en la libertad ganada por la sangre de Jesucristo, exhorta a la congregación a participar activamente en la intercesión y las reuniones de oración familiar, advirtiendo sobre la responsabilidad del liderazgo en mantener el fuego espiritual.\n\nÍndice de momentos:\n[00:00] Oración inicial declarando libertad espiritual a través de la sangre de Cristo\n[12:00] Saludos a las familias conectadas en vivo y bienvenida congregacional\n[17:23] Reflexión sobre la constancia en el aprendizaje y repaso de las enseñanzas bíblicas\n[21:23] Exhortación a no temer frente a las batallas y pruebas de la vida cotidiana\n[25:23] El deber del discipulado: la comunión constante entre pastores, líderes y la iglesia\n[33:27] Clamor de guerra espiritual pidiendo fortaleza contra los ataques del enemigo\n[37:27] Adoración congregacional y ministración guiada por la presencia de Dios\n[41:27] Oración de cobertura y protección en salud frente a la situación de pandemia (Omicron)\n[47:09] Clamor de acción de gracias por los milagros de sanidad y respuestas de Dios en los hogares\n[01:03:10] Proclamación de la palabra rema ('Año de un nuevo comienzo') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/431664825307730/",
@@ -3523,6 +3618,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQOtIlVdeTM1ZgYlhaqNFN3nsMPKc0n626yICOyxWh_EFCYgfaGuPgyy4Ag_765808147696940.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQOtIlVdeTM1ZgYlhaqNFN3nsMPKc0n626yICOyxWh_EFCYgfaGuPgyy4Ag_765808147696940.mp4",
     "title": "El Diseño Divino del Matrimonio y la Fidelidad en el Servicio",
     "message": "Reunión dominical enfocada en las relaciones de pareja y la providencia de Dios. El Pastor Daniel Tito medita sobre el concepto de la ayuda idónea en el matrimonio y la importancia de persistir en el servicio a pesar de la distancia física, enviando saludos y compartiendo testimonios del ministerio en Parla (Madrid).\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional celebrando las maravillas de Dios\n[23:32] Cánticos de adoración rindiendo honor a Cristo como Rey de la iglesia\n[29:11] Meditación sobre el diseño original de la familia y el rol de ayuda idónea en el matrimonio\n[33:51] Saludos a los hermanos en Parla, España, y reflexiones sobre el trabajo misionero transcultural\n[38:41] Mensaje de consuelo pastoral contra la soledad y la marginación en el extranjero\n[43:29] Exhortación a confiar en la provisión del Señor en medio de los desafíos laborales\n[48:11] Anécdota práctica e ilustración cotidiana para motivar la fe familiar\n[53:05] Reflexión sobre la obediencia y la participación en las actividades virtuales de la iglesia\n[58:01] Testimonio de gratitud por la salud restaurada de varios hermanos de la congregación\n[01:03:53] Ministración en el altar entonando el cántico de fidelidad divina y ruego familiar\n[01:17:45] Exhortación de despedida pidiendo cumplir con las medidas de bioseguridad en casa",
     "url": "https://www.facebook.com/misioncelreino/videos/765808147696940/",
@@ -3558,6 +3654,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQPD7mcy3DEdcnGBy7SqnFxk4rtGr8Fgp487K7k7G0ftOKMtvLD8pc00l0qiU8iKEaVaV3Kkr2tSLE5vN5mTDfX_660998111492439.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQPD7mcy3DEdcnGBy7SqnFxk4rtGr8Fgp487K7k7G0ftOKMtvLD8pc00l0qiU8iKEaVaV3Kkr2tSLE5vN5mTDfX_660998111492439.mp4",
     "title": "Permaneciendo en la Verdad: Estudio de Judas y la Soberanía de Dios",
     "message": "Estudio bíblico y tiempo de oración donde el Pastor Daniel Tito analiza el libro de Judas, advirtiendo sobre las falsas doctrinas y la apostasía. Además, a través de pasajes del Salmo 91 y el libro de Job, insta a la iglesia a buscar refugio en la soberanía de Dios en tiempos de inestabilidad y crisis.\n\nÍndice de momentos:\n[00:00] Apertura de la transmisión con saludos fraternos interactivos y buen humor familiar\n[08:18] Introducción espiritual exhortando a la perseverancia en la comunión diaria\n[20:30] Lectura y meditación del Salmo 91 sobre la protección en el abrigo del Altísimo\n[28:50] Clamor de adoración pidiendo la visitación y consuelo del Espíritu Santo en los hogares\n[44:08] Lectura del libro de Judas 1. Explicación del contexto de la epístola y combate a la herejía\n[53:52] Estudio doctrinal sistemático: la caída de los ángeles rebeldes y la justicia divina\n[01:03:11] Meditación en Job: la respuesta de Dios a Job sobre el orden de la creación\n[01:12:46] Análisis de tipología bíblica y profecías sobre la purificación del pueblo de Dios\n[01:18:44] Advertencia contra el libertinaje espiritual y la importancia de la santidad personal\n[01:24:48] Oración especial por el crecimiento intelectual y espiritual de los líderes locales\n[01:30:46] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición pastoral de cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/660998111492439/",
@@ -3593,6 +3690,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQPGkiKtIZzVNVNaeXo_OhtF0K_5HYCdJ8ymjjxUB9Xcqgr9Fsrx_fYLx93_170072688204697.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-1Pawt0Rk_AQPGkiKtIZzVNVNaeXo_OhtF0K_5HYCdJ8ymjjxUB9Xcqgr9Fsrx_fYLx93_170072688204697.mp4",
     "title": "Altar de Acción de Gracias: Viendo la Mano de Dios en el 2020",
     "message": "Reunión especial de fin de año donde el Pastor Daniel Tito y los líderes de la congregación hacen un recuento del año 2020. Exhorta a la iglesia a levantar un altar de gratitud en sus hogares, reconociendo que a pesar de las dificultades de la pandemia, la mano providencial de Dios los sostuvo con vida.\n\nÍndice de momentos:\n[00:00] Alabanza inicial entonando cánticos de anhelo y comunión en el templo de Dios\n[03:09] Clamor de intercesión pidiendo que el poder sanador de Jesús cubra a la congregación\n[08:19] Oración pidiendo por la transmisión digital y la conexión de los hermanos en provincias\n[13:25] Saludos de fin de año del Pastor Daniel Tito deseando paz a la iglesia virtual\n[14:51] Interacción con comentarios y mención de líderes locales (Carmencita Gamonal, María Madueño)\n[18:44] Cánticos de júbilo y adoración exaltando la grandeza y el poder del Altísimo\n[22:23] Declaración de victoria sobre las aflicciones y el desánimo a través de Jesucristo\n[25:51] Clamor de gratitud congregacional por el sustento diario en los hogares\n[30:19] Oración de rendición personal reconociendo la soberanía divina sobre las familias\n[32:07] Reflexión pastoral sobre la fidelidad de los ministerios durante el año de pandemia\n[33:31] Oración de consagración para recibir el año 2021, palabra rema y despedida pastoral",
     "url": "https://www.facebook.com/misioncelreino/videos/170072688204697/",
@@ -3627,6 +3725,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2cJoVj80_AQM_vBXdZvfdRa0f6rrJl0fcf8ufZjE4N_D4vEUxJZA9P2mn6k7zuVNQe4od_5536099613122597.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2cJoVj80_AQM_vBXdZvfdRa0f6rrJl0fcf8ufZjE4N_D4vEUxJZA9P2mn6k7zuVNQe4od_5536099613122597.mp4",
     "title": "Pruebas de Fe, Mayordomía y la Celebración de la Santa Cena",
     "message": "Servicio dominical especial donde el Pastor Daniel Tito predica sobre la determinación de Abraham al entregar a Isaac y el pacto de Jacob en Betel. En la segunda parte del servicio, dirige a la congregación en la celebración solemne de la Santa Cena y clama por el avance de los proyectos de construcción en Huancayo y Lurín.\n\nÍndice de momentos:\n[00:00] Adoración inicial y saludos a la congregación en el extranjero (España, Italia, EE.UU.)\n[03:59] Felicitación de cumpleaños a Talía Cano e interacciones en vivo con la iglesia virtual\n[05:51] Oración de gratitud reconociendo la soberanía y amor incondicional del Señor\n[08:51] Tiempo de cánticos pidiendo un derramamiento fresco del Espíritu Santo\n[15:00] Exhortación sobre el ayuno congregacional y de la fidelidad de Dios para cumplir Sus promesas\n[22:52] Enseñanza central: la obediencia radical de Abraham en el monte Moriah con Isaac\n[31:10] La mayordomía y los diezmos: el pacto de Jacob con Dios en Betel (Génesis 28)\n[38:09] Clamor por los templos locales de Huancayo y Lurín y las actividades de edificación\n[45:15] Oración especial por la pastora Ricardina Torres y el liderazgo en provincias\n[52:41] Liturgia de la Santa Cena: bendición del pan y la copa como símbolos del sacrificio de Cristo\n[01:01:12] Declaración de la palabra rema ('Año de dar muchas gracias') e invitación a los cultos semanales",
     "url": "https://www.facebook.com/misioncelreino/videos/5536099613122597/",
@@ -3664,6 +3763,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2cJoVj80_AQP6NxvK4htmlE7QBUPje3e0XZmINK8ETWpXakvX8Dujy57JJyFe8OZUgvk4_576765844237068.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2cJoVj80_AQP6NxvK4htmlE7QBUPje3e0XZmINK8ETWpXakvX8Dujy57JJyFe8OZUgvk4_576765844237068.mp4",
     "title": "Compromiso Radical con Cristo y Confianza ante la Necesidad",
     "message": "Reunión de instrucción y oración familiar dirigida por el Pastor Daniel Tito. Aborda de manera práctica los problemas cotidianos como la falta de empleo y de recursos económicos, exhortando a la iglesia a no desmayar, sino a renovar su compromiso radical de seguir a Jesús con fe y coherencia.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos efusivos a los hermanos de provincias y del extranjero\n[08:25] Tiempo de cánticos declarando la promise de Dios de estar con Su pueblo en la prueba\n[13:22] Oración pidiendo limpieza espiritual y un corazón enseñable para recibir la Palabra\n[18:14] Charla pastoral sobre el rol de la mujer virtuosa y su testimonio en el hogar\n[21:58] Meditación sobre la liberación de ataduras emocionales y el perdón en la familia\n[27:44] Consejos prácticos para los que buscan empleo: confiar en las finanzas del Reino de Dios\n[34:37] Reflexión bíblica: el diálogo de Jesús con Pedro sobre dar la vida por el Maestro\n[39:39] El misterio de la redención: la entrega total de Cristo en la cruz por amor\n[44:07] Intercesión especial por las familias de los líderes y pastores en Huancayo\n[48:47] Llamado al quebrantamiento y entrega personal en el altar en vivo\n[53:41] Declaración de la palabra rema ('Año de un nuevo comienzo'), saludos finales y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/576765844237068/",
@@ -3699,6 +3799,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2cJoVj80_AQPOnLKLRiknXb0nS1TTyYCCIiNhErHHlqwThXIwvcrcI3vgJgLu7pf0a_455885062442365.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2cJoVj80_AQPOnLKLRiknXb0nS1TTyYCCIiNhErHHlqwThXIwvcrcI3vgJgLu7pf0a_455885062442365.mp4",
     "title": "El Orden en el Matrimonio y una Vida de Consagración",
     "message": "Desde Huancayo, el Pastor Daniel Tito ofrece un mensaje de consuelo por el luto familiar y enseña sobre las bases de un matrimonio sólido. Detalla la necesidad del perdón entre cónyuges frente a los errores del pasado y hace un llamado a vivir vidas de entrega sincera y mayordomía financiera coherente.\n\nÍndice de momentos:\n[00:00] Saludos a la familia Velázquez en Huancayo y palabras de consuelo por luto familiar\n[15:00] Cánticos de adoración congregacional celebrando la fidelidad de Dios en el templo\n[28:35] Clamor de intercesión pidiendo sanidad por el dolor y renovación de fuerzas espirituales\n[35:41] Reflexión sobre la crianza de los hijos y la responsabilidad pastoral de los padres en casa\n[46:08] Exhortación matrimonial: el perdón incondicional y el respeto mutuo entre los esposos\n[56:35] Meditación sobre la pasividad espiritual y el peligro de descuidar el altar familiar\n[01:02:28] Anécdota sobre el esfuerzo cotidiano en el hogar e interacción con los comentarios\n[01:07:50] Principios de honestidad financiera: la administración correcta de los ingresos familiares\n[01:13:12] Enseñanza central: el perfil del creyente que muestra una vida de entrega y servicio a Dios\n[01:24:49] Saludos interactivos a la red de líderes y misiones en provincias (Luis Quispe)\n[01:32:37] Proclamación de la palabra rema ('Año de construir'), anuncios de la escuela y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/455885062442365/",
@@ -3734,6 +3835,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQM14syQ31cwOXjwPFen2IpBRWno14JmJvm4LRny9F2VmgGT5UR1fcwKHY0w_691922575080609.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQM14syQ31cwOXjwPFen2IpBRWno14JmJvm4LRny9F2VmgGT5UR1fcwKHY0w_691922575080609.mp4",
     "title": "Sanidad de las Emociones y la Unidad del Liderazgo",
     "message": "En este servicio del jueves 5 de noviembre de 2020, el Pastor Daniel Tito aborda la importancia de la salud emocional en el creyente. Explica cómo la amargura y las heridas no resueltas pueden enfermar emocionalmente a una persona y da pautas prácticas para sanar relaciones familiares y mantener la unidad en la iglesia.\n\nÍndice de momentos:\n[00:00] Saludos iniciales del Pastor Daniel Tito animando a valorar la presencia de Dios en el hogar\n[12:49] Diálogo fraterno y saludos humorísticos con los hermanos conectados en la transmisión\n[20:13] Exhortación a los líderes (mencionando a Felipe) sobre la visitación y cuidado del rebaño\n[30:22] Cánticos de adoración rindiendo el corazón ante el trono de la gracia divina\n[39:42] Enseñanza central: identificando y sanando la enfermedad emocional en la familia\n[46:53] Advertencia espiritual contra el desánimo y la huida de las responsabilidades ministeriales\n[53:02] Lectura bíblica exhortativa sobre la perseverancia en los caminos de Dios\n[01:01:23] Análisis exegético del versículo 39 sobre el cuidado mutuo y el amor fraternal\n[01:09:17] Oración en el altar pidiendo liberación emocional y paz para los corazones turbados\n[01:14:30] Ministración especial clamando por la restauración de la salud física y mental\n[01:20:22] Saludos de cumpleaños (Manuelito Rojas, Elvi Bartolo), palabra rema y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/691922575080609/",
@@ -3769,6 +3871,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQM375jupo5db43FirZW_NOfb2__jNeFdPME8M61ksNSaGEyMjpy78ke5McWRw_406594391678034.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQM375jupo5db43FirZW_NOfb2__jNeFdPME8M61ksNSaGEyMjpy78ke5McWRw_406594391678034.mp4",
     "title": "La Oración en el Secreto y el Poder de la Comunión",
     "message": "En este servicio especial, el Pastor Daniel Tito enseña sobre la importancia de la oración en el secreto basada en la instrucción de Jesús. Exhorta a la congregación a buscar la intimidad diaria con el Padre y lidera la conmemoración de la Santa Cena, pidiendo por sanidad física y espiritual de los hermanos.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos fraternos a los hermanos en el extranjero y provincias\n[10:40] Meditación sobre la oración privada en el aposento alto como fuente de poder cristiano\n[15:31] Lectura bíblica detallada sobre la hipocresía religiosa en contraste con la fe genuina\n[20:36] Reflexión: cómo Dios responde en público las oraciones que se hacen en lo secreto\n[25:20] Oración de intercesión por los líderes y sus familias representadas en la misión\n[31:54] Tiempo de alabanza reconociendo la soberanía de Jesucristo en la adoración\n[39:10] Lectura de intenciones del chat en vivo y saludo especial a Mariluz Fonco\n[44:45] Clamor por sanidad y provisión de alimentos para los hogares necesitados\n[55:49] Liturgia de la Santa Cena: bendición y participación del pan y la copa con reverencia\n[01:01:49] Clamor en el altar pidiendo que el Espíritu Santo ministre los hogares directamente\n[01:08:03] Cierre adorando con 'Déjalo que te toque', declaración de la palabra rema y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/406594391678034/",
@@ -3804,6 +3907,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQNDgJ_HWqjPyoAyho_BUJcbJpwz3Qh1FYhXTgCzCkVrBylrom1hvKtBfaDx_486948522276975.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQNDgJ_HWqjPyoAyho_BUJcbJpwz3Qh1FYhXTgCzCkVrBylrom1hvKtBfaDx_486948522276975.mp4",
     "title": "Limpieza Espiritual: Huyendo de la Contaminación del Pecado",
     "message": "Transmitido en vivo desde la misión en Huancayo junto a la Pastora Ricardina, el Pastor Daniel Tito ofrece un mensaje de alerta espiritual. Mediante una analogía sobre el alquitrán, explica cómo los hábitos pecaminosos contaminan el alma, exhortando al pueblo a purificarse y consagrarse para el nuevo año.\n\nÍndice de momentos:\n[00:00] Bienvenida de los pastores desde Huancayo y saludos afectuosos a la iglesia nacional\n[12:02] Interacción con los hermanos de la transmisión virtual y lectura de pedidos de oración\n[18:25] Reflexión sobre la expansión del evangelio en las regiones de la sierra del Perú\n[22:32] Participación especial de la Pastora Ricardina Torres bendiciendo al pueblo\n[25:15] Mensaje de consuelo y ánimo frente a los embates de la crisis sanitaria y económica\n[30:09] Advertencia espiritual contra las corrientes morales del mundo contemporáneo\n[42:35] Enseñanza central: el pecado como el alquitrán que se adhiere y contamina la pureza cristiana\n[48:01] Oración de arrepentimiento en el altar de la iglesia de Huancayo\n[53:46] Clamor de intercesión por las familias representadas y por los niños de la misión\n[58:43] Declaración de la palabra rema ('Año de un nuevo comienzo'), canto final de alabanza y cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/486948522276975/",
@@ -3839,6 +3943,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQNJMkl5LyvksUr2WbOIB7pEUr7W5mkXz9dZm0NpYzenu5dqFSSwenBGLVt0_403711468568873.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQNJMkl5LyvksUr2WbOIB7pEUr7W5mkXz9dZm0NpYzenu5dqFSSwenBGLVt0_403711468568873.mp4",
     "title": "El Llamado de Dios y el Descanso en Jesucristo",
     "message": "Servicio especial en la iglesia de Huancayo. El Pastor Daniel Tito recuerda sus inicios ministeriales a los 17 años y predica sobre Mateo 11:28, invitando a todos los cansados y trabajados a encontrar paz y descanso real en los brazos de Jesucristo, dando sabios consejos para los matrimonios jóvenes.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional con cánticos festivos en el templo de Huancayo\n[06:52] Semblanza del Pastor Daniel Tito: relato de su llamado al ministerio a temprana edad\n[12:41] Consejos bíblicos para jóvenes sobre cómo edificar y sostener un matrimonio en bendición\n[18:41] Meditación: la importancia de aferrarse a las promesas de Jesús en momentos de aflicción\n[24:43] Gratitud por la herencia espiritual de los pioneros de la Misión Cristiana El Reino\n[30:27] Saludos de los pastores de Huancayo a la congregación en línea y local\n[36:01] Clamor de adoración y entrega total en la presencia del Espíritu Santo\n[42:10] Meditación en Mateo 11:28: la invitación de Jesús a los cargados y oprimidos\n[47:51] Testimonio de fidelidad en la prueba de salud y exhortación al servicio abnegado\n[55:23] Oración de imposición de manos por sanidad y liberación en el altar del templo\n[01:01:32] Declaración final de la palabra rema ('Año de un nuevo comienzo') y bendición pastoral",
     "url": "https://www.facebook.com/misioncelreino/videos/403711468568873/",
@@ -3874,6 +3979,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQNoyDYM6xva_gv8q4jOUSU1KRGxV1anpBbY3n9sf5iOZbTnqW8tgENLPIIZj6Sl5DsVQIf4TMdYabTh5DRmVof_229755020126381.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQNoyDYM6xva_gv8q4jOUSU1KRGxV1anpBbY3n9sf5iOZbTnqW8tgENLPIIZj6Sl5DsVQIf4TMdYabTh5DRmVof_229755020126381.mp4",
     "title": "Pasajeros y Peregrinos: Testimonio y Sacerdocio Familiar",
     "message": "Predicado ante la Iglesia de la Renovación, el Pastor Daniel Tito comparte su testimonio personal sobre la paternidad y enseña que somos peregrinos en esta tierra. Llama a la iglesia a vivir con ética laboral, puntualidad y a mantener la fidelidad en el templo a pesar de las limitaciones sanitarias de la pandemia.\n\nÍndice de momentos:\n[00:00] Saludos a la Iglesia de la Renovación y reflexión sobre nuestra ciudadanía celestial\n[10:44] Enseñanza sobre el respeto a las autoridades espirituales y el discipulado bíblico\n[17:30] Testimonio íntimo del Pastor sobre el diseño familiar y la paternidad espiritual en el hogar\n[23:30] Exhortación frente a la oposición espiritual y el escepticismo de la sociedad moderna\n[29:44] Consejos para testificar a los cónyuges no creyentes mediante el amor y la conducta recta\n[35:40] El valor del testimonio laboral: la honestidad, puntualidad y responsabilidad del cristiano\n[41:32] Reflexión pastoral sobre la prudencia y el cuidado de la salud en tiempos de crisis global\n[47:32] Meditación bíblica sobre el carácter de Cristo reflejado en la vida cotidiana\n[53:32] Exhortación a la constancia: vencer la pereza espiritual y congregarse fielmente\n[59:57] Ministración y oración en el altar declarando milagros y sanidades sobre los enfermos\n[01:05:23] Declaración de la palabra rema y cántico profético sobre el crecimiento eterno del Reino de Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/229755020126381/",
@@ -3909,6 +4015,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQNycjSTXBcwJuhPxjZY1bIGbewA19TSAMYT6tm0R65Ioz0CcC6CpfBKPY_u_734647887509238.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQNycjSTXBcwJuhPxjZY1bIGbewA19TSAMYT6tm0R65Ioz0CcC6CpfBKPY_u_734647887509238.mp4",
     "title": "El Quebrantamiento y la Transformación por el Consolador",
     "message": "En este segundo turno dominical, el Pastor Daniel Tito enseña sobre el valor del quebrantamiento personal y el arrepentimiento sincero ante Dios. Enfatiza que es el Espíritu Santo (el Consolador) quien capacita al creyente para superar sus caídas y transformar su carácter a la estatura de Cristo.\n\nÍndice de momentos:\n[00:00] Adoración de inicio rindiendo honor a Jesucristo e invitación a ponerse de pie\n[12:59] Clamor de adoración expresando sed espiritual por la presencia de Dios en el templo\n[18:36] Advertencia doctrinal contra el orgullo espiritual que intenta 'pisotear' la gracia divina\n[22:54] Testimonio de humillación en el altar: la importancia de postrarse físicamente ante Dios\n[27:42] Mensaje de fe instando a realizar cambios prácticos de vida para agradar al Señor\n[31:51] Explicación bíblica de cómo el Espíritu de Dios moldea nuestro carácter imperfecto\n[37:51] Consejos sobre la honra a los líderes espirituales y de evitar las murmuraciones destructivas\n[42:32] Reflexión pastoral sobre la gracia restauradora: el perdón para el que ha fallado\n[48:22] Exhortación a mantener una conducta intachable en el entorno familiar y laboral\n[53:11] Clamor congregacional rogando por la unción del Consolador sobre los presentes\n[01:00:29] Declaración rema ('Año de construir'), cántico 'Inexplicable amor' y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/734647887509238/",
@@ -3944,6 +4051,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQOHRYoS3Z6Pcpwvk0BSA3pmpdRAXwkj61QQvzPih2zszB6fxfO35bOhlM_1015583745654981.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQOHRYoS3Z6Pcpwvk0BSA3pmpdRAXwkj61QQvzPih2zszB6fxfO35bOhlM_1015583745654981.mp4",
     "title": "La Importancia de la Predicación y de la Confianza en Dios",
     "message": "Servicio dominical centrado en la labor evangelizadora de la iglesia basada en Romanos 10:14. El Pastor Daniel Tito expone que para que el mundo crea, alguien debe predicar el evangelio, motivando a los líderes y a la congregación a compartir su fe con firmeza y confianza absoluta en el Señor Jesús.\n\nÍndice de momentos:\n[00:00] Alabanza inicial entonando cánticos de exaltación a la cruz y del nombre de Cristo\n[12:55] Aprecio al ministerio de la mujer de Dios y exhortación a honrar a las pastoras locales\n[17:40] Consejos sobre cómo mantener la armonía cristiana al recibir visitas de parientes en casa\n[23:31] Tiempo de clamor en el altar consagrando las intenciones del corazón al Padre\n[28:52] Enseñanza bíblica central: la urgencia de predicar el evangelio para la salvación de las almas\n[34:34] Oración de bendición y respaldo para los maestros de la escuela bíblica y líderes\n[41:14] Clamor por liberación espiritual y sanidad de enfermedades crónicas en las familias\n[45:55] Acción de gracias congregacional (mención especial de la hermana Ana Melba)\n[51:28] Oración intercesora por peticiones escritas en la transmisión (hermano Willy Mendoza)\n[57:43] Anuncios semanales sobre los horarios de los servicios en línea y presenciales\n[01:03:54] Declaración de la palabra rema ('Año de construir'), cántico final y bendición apostólica",
     "url": "https://www.facebook.com/misioncelreino/videos/1015583745654981/",
@@ -3979,6 +4087,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-2env7E7b_AQPYHteUaW9UoCtPeKrQhV1RyLRRiyPHHtaUYKPc_8IR5ZI22d_7yS7IlQumwSXw7VLqbPIRws4LTCoSIeBY6EO_199082843158060.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-2env7E7b_AQPYHteUaW9UoCtPeKrQhV1RyLRRiyPHHtaUYKPc_8IR5ZI22d_7yS7IlQumwSXw7VLqbPIRws4LTCoSIeBY6EO_199082843158060.mp4",
     "title": "Transmisión en Vivo",
     "message": "05.11.23\nJUNTOS EN FAMILIA \nGracias a DIOS y a la tecnología podemos  escuchar un edificante mensaje en la voz de nuestro Amado Pastor Daniel. \nHay muchos nuevos que disfrutan la oportunidad de verlo, conocerlo y disfrutarlo.\n\nNO TENGO DERECHOS DE AUTOR",
     "url": "https://www.facebook.com/misioncelreino/videos/199082843158060/",
@@ -4003,6 +4112,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-38KErwAP_AQM5WKW3gPPsEBksy6a6JH2Mo3Y6HcgL17J0B22XB3CSk0XMkzI04UICjWYD_737227943510824.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-38KErwAP_AQM5WKW3gPPsEBksy6a6JH2Mo3Y6HcgL17J0B22XB3CSk0XMkzI04UICjWYD_737227943510824.mp4",
     "title": "La Santa Cena: Memoria, Pacto y Consuelo Divino",
     "message": "En una atmósfera de profunda reverencia, el Pastor Daniel Tito dirige a la congregación en la celebración de la Santa Cena. Con base en 1 Corintios 11, resalta la importancia de participar con un corazón limpio y ofrece palabras de consuelo y esperanza eterna para las familias que sufrieron pérdidas físicas.\n\nÍndice de momentos:\n[00:00] Apertura de la reunión virtual con cantos de consagración y ruego en el Espíritu Santo\n[04:24] Saludos del Pastor Daniel y su esposa animando al pueblo en tiempos de pandemia\n[07:21] Meditación previa sobre la santidad y la reverencia requeridas ante los misterios de Dios\n[11:11] Palabras de consuelo pastoral para los hermanos que enfrentan el fallecimiento de seres queridos\n[15:11] Exhortación a mantener la comunión fraterna a través de las transmisiones en vivo\n[25:02] Mensaje de fe: confiar en que el Señor resolverá las crisis imposibles de las familias\n[38:48] Explicación bíblica de la Santa Cena: el significado del pan y del jugo de la vid como el nuevo pacto\n[58:13] Oración de gratitud por el sacrificio redentor de Jesús y de la promesa de Su regreso glorioso\n[01:04:36] Felicitaciones especiales por cumpleaños e interacciones directas con el chat congregacional\n[01:08:14] Agradecimiento por el respaldo de los colaboradores locales en la obra misionera\n[01:14:21] Proclamación de la palabra rema de edificación familiar y despedida con la bendición pastoral",
     "url": "https://www.facebook.com/misioncelreino/videos/737227943510824/",
@@ -4038,6 +4148,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-38KErwAP_AQMxclMsd8rpb66wWiWb8Y3C9GaYAvUjN33G3sdDMVimmhcHy_lqXN6CPth__350510332774130.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-38KErwAP_AQMxclMsd8rpb66wWiWb8Y3C9GaYAvUjN33G3sdDMVimmhcHy_lqXN6CPth__350510332774130.mp4",
     "title": "Venciendo la Ansiedad: Noche de Oración y Discipulado",
     "message": "En esta reunión nocturna de oración, el Pastor Daniel Tito predica sobre cómo superar la ansiedad basada en las palabras de Jesús, animando a la congregación a no afanarse por el mañana. Comparte su testimonio de renovación de fuerzas en el ministerio y anuncia un nuevo curso de liderazgo de 7 lecciones.\n\nÍndice de momentos:\n[00:00] Saludos de apertura e invitación a la iglesia virtual a unirse al altar de intercesión\n[08:18] Oración inicial pidiendo que la presencia divina disipe todo temor y carga del hogar\n[16:07] Reflexión bíblica introductoria sobre el poder de la fe constante frente a la debilidad\n[21:48] Exhortación pastoral: superar el afán y la preocupación por el porvenir confiando en el Padre\n[32:38] Testimonio sincero del Pastor Daniel sobre la superación del cansancio físico en el servicio\n[40:50] Intercesión especial por la salud y necesidades de la hermana Magill Santillán y su familia\n[48:57] Clamor de los padres de la iglesia por la protección espiritual y salvación de sus hijos\n[53:10] Oración de fe que rompe ataduras y declara sanidad física sobre los enfermos graves\n[57:10] Adoración congregacional guiada rindiendo alabanza a Cristo en el santuario virtual\n[01:01:32] Anuncio del curso de liderazgo cristiano de 7 lecciones para la preparación de ministerios\n[01:06:44] Proclamación de la palabra rema ('Año de un nuevo comienzo') y bendición pastoral final",
     "url": "https://www.facebook.com/misioncelreino/videos/350510332774130/",
@@ -4073,6 +4184,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-38KErwAP_AQOG3tiVpixuoOqoQ4YeuQHEo00Z2RzFJtm92zn0NO4DvHk_wOTWxmCFhDYhqUIDFIK3fn0dqrp4KoXstb6ds9_840728556515517.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-38KErwAP_AQOG3tiVpixuoOqoQ4YeuQHEo00Z2RzFJtm92zn0NO4DvHk_wOTWxmCFhDYhqUIDFIK3fn0dqrp4KoXstb6ds9_840728556515517.mp4",
     "title": "La Cobertura Espiritual del Reino en la Iglesia Local",
     "message": "Durante su visita a la Iglesia de la Renovación, el Pastor Daniel Tito enseña sobre la cobertura espiritual y de la providencia divina. Comparte lecciones sobre la madurez cristiana en medio de la soledad y exhorta a las familias a consagrar sus hogares levantando altares diarios de adoración.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional animando al pueblo a activar su fe mediante la alabanza\n[10:38] Reflexión introductoria: el impacto social y espiritual del buen testimonio del cristiano\n[21:01] Saludos fraternos a los hermanos virtuales de la Iglesia de la Renovación y sus pastores\n[27:28] Consejos prácticos sobre la dirección divina en las decisiones de la casa y del trabajo\n[32:58] Advertencia contra la apatía espiritual y la negligencia en los cultos de oración\n[38:26] Mensaje de fe para los que se sienten solos: la cercanía y el consuelo inefable de Jesús\n[43:56] El sacerdocio del hogar: el deber del varón y de la mujer de guiar a su familia a los pies de Cristo\n[49:32] Estudio bíblico analizando la eternidad del Reino de Dios y Su justicia inalterable\n[55:14] Clamor en el altar pidiendo la reconciliación y sanidad emocional de los matrimonios\n[01:06:07] Tiempo de ministración y adoración íntima declarando la fidelidad de Jesucristo\n[01:13:53] Proclamación de la palabra rema ('Año de construir'), anuncios de los cultos y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/840728556515517/",
@@ -4108,6 +4220,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-38KErwAP_AQOvR0pK7_pdNiSYSK3PWnJ3lEa5x9kgpZnkthFuNeywT1c6Q3uCxuUNnn5yug_600518197307765.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-38KErwAP_AQOvR0pK7_pdNiSYSK3PWnJ3lEa5x9kgpZnkthFuNeywT1c6Q3uCxuUNnn5yug_600518197307765.mp4",
     "title": "Edificando el Cuerpo de Cristo: Promesas de Multiplicación",
     "message": "Reunión de edificación espiritual y clamor en vivo. El Pastor Daniel Tito expone el significado de las promesas de multiplicación dadas a Abraham ('padre de muchedumbre de gentes') y reflexiona sobre el secreto de David al confiar en Dios en todo tiempo, animando a la iglesia a perseverar.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos fraternos virtuales\n[07:59] Oración inicial pidiendo que el Espíritu Santo guíe la reunión\n[13:11] Reflexión sobre la importancia de la oración unida e intercesión en el templo\n[17:44] Lectura de comentarios y saludos a la congregación (mencionando a Magali Meza)\n[22:29] Exhortación a mostrar amor fraternal y de cuidado mutuo entre los miembros\n[39:24] Meditación en la promesa de multiplicación y de fe dada a Abraham en Génesis 17\n[52:34] Análisis sobre el carácter y de la vida de David frente a las pruebas\n[01:05:52] Invitación a las próximas reuniones y estudio bíblico de los jueves\n[01:18:27] Proclamación de la palabra rema ('Año de un nuevo comienzo') y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/600518197307765/",
@@ -4142,6 +4255,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-38KErwAP_AQPyejaEnNQAjbKV3GZeIrBGdT7AVHiRd9EG3HcRlZ29AKjD23dxf0ftZ_Y55LjxRxOtm18RKp2NM4FEv8Upzc_292904842363795.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-38KErwAP_AQPyejaEnNQAjbKV3GZeIrBGdT7AVHiRd9EG3HcRlZ29AKjD23dxf0ftZ_Y55LjxRxOtm18RKp2NM4FEv8Upzc_292904842363795.mp4",
     "title": "La Casa de Oración y el Sacramento de la Santa Cena",
     "message": "Servicio dominical especial de adoración y comunión. El Pastor Daniel Tito predica a partir de 1 Corintios 11 sobre el significado de la Santa Cena como recordatorio del sacrificio de Jesús e insta a la congregación a edificar la obra como verdaderos templos y casas de oración.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional celebrando los prodigios de Dios\n[23:54] Adoración íntima rindiendo el corazón y pidiendo cobertura espiritual\n[37:09] Meditación: la iglesia local como casa de oración y puerta del cielo\n[44:10] Exhortación pastoral sobre el valor del tiempo y el testimonio diario en la familia\n[53:27] Reflexión sobre la actitud de los discípulos al seguir a Jesús en obediencia\n[01:12:44] Lectura bíblica principal: 1 Corintios 11. Instrucciones de la Santa Cena\n[01:20:36] Oración de agradecimiento por la restauración y de la salud de los líderes locales\n[01:26:28] Llamado a apoyar y comprometerse con la obra misionera en provincias\n[01:29:16] Proclamación de la palabra rema ('Año de construir') y bendición pastoral de cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/292904842363795/",
@@ -4177,6 +4291,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-47upTMiI_AQMpNk6gIzEIteAoA65kqfIViH0xJ65YxYhs59N6jKvjzSHdOLe_mRwc1YY_592307358761431.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-47upTMiI_AQMpNk6gIzEIteAoA65kqfIViH0xJ65YxYhs59N6jKvjzSHdOLe_mRwc1YY_592307358761431.mp4",
     "title": "Libres para Adorar: El Alcance de las Promesas Divinas",
     "message": "Reunión dominical donde el Pastor Daniel Tito enseña sobre la libertad del pecado ganada en la cruz y de cómo las promesas de Dios transforman nuestra autoimagen y abarcan todas las áreas de la vida familiar, instando al pueblo a verse como herederos de bendición.\n\nÍndice de momentos:\n[00:00] Alabanza alegre declarando que las cadenas del enemigo han sido rotas\n[07:32] Saludos pastorales de bienvenida y consejos prácticos para sintonizar el servicio\n[10:03] Introducción al tema de las promesas divinas y su vigencia actual en el creyente\n[21:28] Clamor de adoración rindiendo honor a Jesucristo por Su sacrificio redentor\n[35:08] Meditación sobre las múltiples dimensiones de la bendición divina (salud, finanzas, familia)\n[44:10] Reflexión práctica sobre la identidad cristiana: verse a través de los ojos de Dios\n[50:38] Exhortación a cambiar la mentalidad de escasez por una mentalidad de fe abundante\n[54:28] Oración especial intercediendo por sanidad y por la superación de crisis del hogar\n[01:03:51] Declaración de la palabra rema ('Año de construir'), saludos y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/592307358761431/",
@@ -4212,6 +4327,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-4Joap1Xq_AQMgN7WTmIrX0bu5rQaJcEMSqDXapa_Kekf5P0_yTXv9f9JX3Ox_9Wkyraew8Q_784102316224741.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-4Joap1Xq_AQMgN7WTmIrX0bu5rQaJcEMSqDXapa_Kekf5P0_yTXv9f9JX3Ox_9Wkyraew8Q_784102316224741.mp4",
     "title": "El Amor Incondicional de Dios: Camino a la Vida Eterna",
     "message": "Este sermón explora el profundo amor de Dios, revelado en San Juan 3:16, que lo llevó a entregar a su Hijo unigénito, Jesús, para la salvación de la humanidad. Se enfatiza el inmenso sacrificio de Jesús en la cruz y cómo, a través de la fe y la creencia en Él, se obtiene la vida eterna. El mensaje invita a reconocer este amor redentor y a entregar la vida a Jesús para experimentar la plenitud de su promesa.\n\nÍndice de momentos:\n[00:51] Introducción: El amor de Dios\n[02:34] Lectura de San Juan 3:16\n[06:22] El sacrificio del Hijo único\n[13:07] Creer para no perderse\n[15:33] La promesa de vida eterna\n[17:31] Invitación a recibir a Jesús\n[20:53] Oración de salvación",
     "url": "https://www.facebook.com/misioncelreino/videos/784102316224741/",
@@ -4249,6 +4365,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-4Joap1Xq_AQNT4egEwLwhNwCVDT9wDL3a29tIJsOxq1cTFFYMhZJ_tQKtgkDtn2g1J4it_514843170709284.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-4Joap1Xq_AQNT4egEwLwhNwCVDT9wDL3a29tIJsOxq1cTFFYMhZJ_tQKtgkDtn2g1J4it_514843170709284.mp4",
     "title": "El Nacimiento del Salvador: Noche de Navidad y Gratitud",
     "message": "En este servicio navideño especial, el Pastor Daniel Tito y su esposa celebran el nacimiento de Jesucristo. Con una dinámica interactiva por teléfono, los hermanos conectados de diversos lugares llaman en vivo para enviar saludos y orar juntos, agradeciendo a Dios por la salvación.\n\nÍndice de momentos:\n[00:00] Bienvenida festiva e invitación a celebrar el nacimiento del Salvador Jesucristo\n[10:39] Reflexión teológica sobre la encarnación de Cristo y el regalo de la salvación\n[19:38] Apertura de la línea telefónica y de lectura de las peticiones de oración de las familias\n[22:46] Mensaje de esperanza: Jesús como el Emmanuel, 'Dios con nosotros' en la prueba\n[25:45] Intercambio de saludos navideños en vivo con los hermanos del extranjero y provincias\n[31:35] Agradecimiento especial por el respaldo de los colaboradores locales en la obra\n[34:35] Exhortación a enfocar la Navidad en el amor familiar y en la adoración a Dios\n[39:48] Saludos especiales y reflexiones sobre el cuidado de la salud en esta temporada\n[46:10] Oración de bendición por las escuelas de líderes y por el nuevo año que inicia\n[50:22] Declaración de la palabra rema ('Año de dar gracias') y cántico navideño de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/514843170709284/",
@@ -4284,6 +4401,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-4Joap1Xq_AQNuQ1d4xK6JUDWxMiHqnqJUR42Wvl3d0TPIhobtsVH7awa2IBGjOLNhUsmL_1622674281523287.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-4Joap1Xq_AQNuQ1d4xK6JUDWxMiHqnqJUR42Wvl3d0TPIhobtsVH7awa2IBGjOLNhUsmL_1622674281523287.mp4",
     "title": "La Bendición de Congregarse y Permanecer en la Casa de Dios",
     "message": "Servicio dominical centrado en el Salmo 84:10. El Pastor Daniel Tito expone sobre el valor de permanecer y de servir en la casa de Dios antes que en el mundo. Alienta a los padres cuyos hijos se han alejado del evangelio a no desmayar, y concluye con la celebración de la Santa Cena.\n\nÍndice de momentos:\n[00:00] Alabanza inicial cantando sobre la dicha de estar en los atrios del Señor\n[05:58] Meditación para los padres: perseverar en la fe aun si los hijos no quieren servir a Dios\n[12:06] Anécdota pastoral sobre la sencillez y el trabajo en el campo, ilustrando la humildad\n[18:12] Exhortación a mantener la fidelidad ministerial por encima de las críticas familiares\n[22:40] Enseñanza central: aprender a vivir según la voluntad de Dios revelada en las Escrituras\n[27:52] Testimonio de bendición sobre el servicio voluntario y de la mayordomía financiera\n[38:14] Análisis de la negación de Pedro y el peligro de alejarse del círculo de Jesús\n[46:50] Oración especial preparando los corazones para participar de la comunión\n[53:29] Participación de la Santa Cena, proclamación de la palabra rema y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/1622674281523287/",
@@ -4319,6 +4437,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-4Joap1Xq_AQOuWE1nwymzaGlGoaMFoY1AmpHDN2Yj4MZECLUUIW6mjpvyd2M675giBWK_891469712211346.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-4Joap1Xq_AQOuWE1nwymzaGlGoaMFoY1AmpHDN2Yj4MZECLUUIW6mjpvyd2M675giBWK_891469712211346.mp4",
     "title": "La Iglesia en Actividad y el Libro de los Sueños de Dios",
     "message": "En este servicio especial, los pastores Daniel y Miriam Tito presentan un reporte del crecimiento de la iglesia y enseñan sobre el 'Libro de Sueños' como un acto de fe. Exhortan a la congregación a proyectar sus metas familiares en Dios y a trabajar activamente para darles cumplimiento.\n\nÍndice de momentos:\n[00:00] Bienvenida pastoral relatando el esfuerzo conjunto del ministerio y de los líderes\n[11:05] Presentación y testimonio de la Pastora Miriam Tito sobre el rol de la ayuda idónea\n[18:53] Lectura de las Escrituras: la perseverancia del pueblo de Dios ante los ataques del enemigo\n[24:48] Reflexión pastoral sobre el llanto y de la consolación en momentos de prueba personal\n[32:13] Acción de gracias por el respaldo de los colaboradores locales y de la provisión de ropa\n[37:10] Anécdota sobre el aprecio congregacional (regalo de una camisa al pastor)\n[43:43] Consejos para superar el desánimo cuando no se puede asistir físicamente al templo\n[49:06] Meditación: la omnipresencia de Dios acompañando a la familia en la vida diaria\n[01:00:04] Oración de consagración para el futuro eterno y de la salvación de las almas\n[01:04:53] Explicación del Libro de Sueños, declaración rema de 2023 y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/891469712211346/",
@@ -4353,6 +4472,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-74bgeYtS_AQMkoQxytEZ4UkTE6aHx0k5G59LjWaXwikTKSQbLmaRtx0xs930jocK3as9C_834715513599973.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-74bgeYtS_AQMkoQxytEZ4UkTE6aHx0k5G59LjWaXwikTKSQbLmaRtx0xs930jocK3as9C_834715513599973.mp4",
     "title": "Humildad en la Oración: Clamor por Sanidad y Restauración",
     "message": "Noche de intercesión virtual guiada por el Pastor Daniel Tito. Exhorta a la iglesia a despojarse de la arrogancia y del orgullo al buscar a Dios, y lidera un tiempo de clamor específico por pedidos de salud, destacando la intercesión por la hermana Irma y la juventud.\n\nÍndice de momentos:\n[00:00] Saludos iniciales del Pastor Daniel Tito invitando a unirse a la noche de oración\n[08:08] Tiempo de alabanza entonando el cántico de exaltación 'Cuán grande es Él'\n[24:38] Exhortación pastoral contra el orgullo y la vergüenza de expresar la fe en público\n[30:59] Mensaje de fe: creer en la respuesta de Dios antes de ver la solución del problema\n[38:58] Reflexión sobre la soberanía divina al preparar bendiciones exclusivas para Sus hijos\n[44:21] Clamor intercesor específico por la salud de Irma y de la familia de Simón Condeso\n[50:06] Oración rompiendo ligaduras espirituales y trayendo paz sobre los hogares afligidos\n[57:06] Ministración final en el Espíritu Santo invitando a los jóvenes a ser la nueva fuerza de la iglesia\n[01:05:29] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/834715513599973/",
@@ -4388,6 +4508,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-74bgeYtS_AQOs8_erj55Szc0Nikzcs4qWOi0QDicJTfakKJTOjCsyB5gc5bSF1peNee8Lw_436816580699408.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-74bgeYtS_AQOs8_erj55Szc0Nikzcs4qWOi0QDicJTfakKJTOjCsyB5gc5bSF1peNee8Lw_436816580699408.mp4",
     "title": "Venciendo la Odisea de la Vida: Cobertura y Santidad",
     "message": "Servicio dominical enfocado en la santidad y de la cobertura espiritual de Dios sobre el creyente. Tomando como base pasajes de Apocalipsis, el Pastor Daniel Tito enseña a superar la 'odisea' de las pruebas terrenales y a vestirse con vestiduras blancas para que no se descubra la vergüenza moral.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional preparando el ambiente para la Palabra\n[19:02] Oración pidiendo que la revelación del Espíritu Santo guíe el entendimiento\n[26:31] Saludos de bienvenida e interacciones con las misiones en provincias (Cajamarca, Chiclayo)\n[32:09] Reflexión sobre la fidelidad en el servicio (mención al comentario de Conita Fernández)\n[37:47] Exhortación contra la tibieza espiritual y la complacencia del creyente contemporáneo\n[43:29] Pautas prácticas para mantener la integridad en el hogar y en las finanzas personales\n[49:17] Enseñanza sobre el valor de la doctrina y la perseverancia de los líderes en Cajamarca\n[54:55] Meditación bíblica: la simbología de las vestiduras blancas y el colirio espiritual\n[01:00:47] Clamor en el altar pidiendo purificación y de perdón por las faltas familiares\n[01:06:53] Anuncios semanales de las escuelas de líderes y cultos infantiles (Escuela Lila)\n[01:13:18] Declaración final de la palabra rema ('Año de construir') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/436816580699408/",
@@ -4422,6 +4543,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-74bgeYtS_AQOtp8XofyiyECId7GnObL6JhsQPgjSdzECh8MVqRTnipR3qV0YQyoC56k9wNUZ0zmMNYhE9mz51Czb0mfFTBIAE_2772406546128466.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-74bgeYtS_AQOtp8XofyiyECId7GnObL6JhsQPgjSdzECh8MVqRTnipR3qV0YQyoC56k9wNUZ0zmMNYhE9mz51Czb0mfFTBIAE_2772406546128466.mp4",
     "title": "Portadores de Vida: Venciendo el Miedo y la Incertidumbre",
     "message": "En medio de la incertidumbre y el temor que nos rodea, este sermón nos invita a ser portadores de vida en vez de muerte. Inspirados por la obediencia y la fe de José y María ante la adversidad, somos llamados a confiar en la guía y protección divina, permanecer unidos en familia y cultivar la paciencia. Mantengámonos conectados con Jesús, la fuente de vida y esperanza, para vencer el miedo y salir en victoria de toda prueba.\n\nÍndice de momentos:\n[00:00] Bienvenida y reflexión inicial\n[04:25] Tiempo de alabanza: Portador de tu Gloria\n[15:43] Mensaje: Portadores de vida o de muerte\n[19:42] Punto clave: No temas, Dios te advierte y protege\n[35:38] La importancia de la paciencia en el hogar\n[47:02] Oración final, intercesión y confesión de fe",
     "url": "https://www.facebook.com/misioncelreino/videos/2772406546128466/",
@@ -4465,6 +4587,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-74bgeYtS_AQOXHPV3dMa1OodeHKmDah19YsxQjobm2C0Zj6gpCsxwgZthZo6EOusTIs3DMac14SkbtOugwF9v9MWHTeF36kc_205912244048804.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-74bgeYtS_AQOXHPV3dMa1OodeHKmDah19YsxQjobm2C0Zj6gpCsxwgZthZo6EOusTIs3DMac14SkbtOugwF9v9MWHTeF36kc_205912244048804.mp4",
     "title": "El Modelo de Oración y la Intercesión ante la Incertidumbre",
     "message": "Estudio bíblico donde el Pastor Daniel Tito enseña sobre el 'Padre Nuestro' como el modelo perfecto de oración. Brinda pautas de aliento para quienes enfrentan el temor al desempleo y explica la doctrina de Jesucristo como nuestro Sumo Sacerdote y Abogado Celestial.\n\nÍndice de momentos:\n[00:00] Bienvenida al estudio bíblico de los jueves e interacciones con el chat virtual\n[02:08] Consejos sobre cómo mejorar las relaciones interpersonales con amor y tolerancia\n[04:35] Exhortación de fe contra el miedo al despido laboral y la inestabilidad económica\n[06:48] Meditación sobre la actitud de reverencia e inclinación del rostro ante Dios\n[10:01] Oración de intercesión pidiendo paz y de sustento providencial en los hogares\n[13:21] Enseñanza central: análisis detallado de la oración del Padre Nuestro (Mateo 6)\n[16:12] Consejos prácticos sobre la persistencia en la oración diaria superando la flojera\n[19:28] Reflexión sobre la auto-evaluación y el evitar juzgar las faltas de los demás\n[22:21] Explicación teológica: Jesucristo como nuestro abogado y mediador ante el Padre\n[26:28] Declaración final de la palabra rema ('Año de un nuevo comienzo') y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/205912244048804/",
@@ -4500,6 +4623,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-74bgeYtS_AQPXN6K0dnVDTgArsX3uGjxzrc_FG6Zh49koOm1Xir3R0bkYZWhwdjfcKy0w_2018142941650836.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-74bgeYtS_AQPXN6K0dnVDTgArsX3uGjxzrc_FG6Zh49koOm1Xir3R0bkYZWhwdjfcKy0w_2018142941650836.mp4",
     "title": "El Cuidado de las Ovejas del Señor y la Educación Infantil",
     "message": "Servicio dominical donde el Pastor Daniel Tito predica sobre el rol del pastoreo y de la enseñanza a la infancia en la iglesia. Felicita a los maestros de niños por vestirse de ovejitas para enseñar de forma lúdica y exhorta a la iglesia a valorar y cuidar de forma responsable a los nuevos creyentes.\n\nÍndice de momentos:\n[00:00] Apertura de la reunión con cantos de júbilo y de regocijo en el Espíritu Santo\n[15:53] Saludos pastorales de bienvenida y felicitación a los hermanos de la congregación virtual\n[24:59] Meditación: la necesidad de quebrantar el corazón ante Dios para dar pasos de fe reales\n[33:06] Exhortación sobre el diezmo y la mayordomía financiera como actos de obediencia bíblica\n[37:11] Reflexión pastoral sobre el compromiso de los líderes y el servicio en la iglesia local\n[40:52] Enseñanza central: el cuidado de las ovejitas del Señor y la responsabilidad del pastoreo\n[49:32] Advertencia contra la pasividad y el peligro de descuidar el crecimiento de los niños\n[01:06:58] Agradecimiento especial a los maestros de la escuela de niños y líderes en provincias\n[01:15:08] Oración especial por las necesidades de salud (mención a la hermana Marisa Torres)\n[01:20:47] Proclamación de la palabra rema ('Año de un nuevo comienzo') y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/2018142941650836/",
@@ -4535,6 +4659,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-7KBfkgJR_AQMdXySGHykLdNtlRmOZW3WpMZp0RleyQtaMYeFfIspxQw0W02v2VuU7cOwsdT80OJ6hlLNY9PagHrceLd9G5SiH_361625116720195.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-7KBfkgJR_AQMdXySGHykLdNtlRmOZW3WpMZp0RleyQtaMYeFfIspxQw0W02v2VuU7cOwsdT80OJ6hlLNY9PagHrceLd9G5SiH_361625116720195.mp4",
     "title": "El Legado de Fe: Día de la Amistad y el Amor Eterno de Cristo",
     "message": "Reunión especial por el Día del Amor y la Amistad, celebrada de manera póstuma tras la partida del Pastor Daniel Tito a la presencia del Señor. La pastora y los líderes recuerdan su legado espiritual, exhortando a la iglesia a permanecer unida y a poner a Jesucristo como su primer y único amor.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional por el Día de la Amistad y lectura de saludos interactivos\n[15:08] Reflexión sobre el amor incondicional de Dios y la verdadera amistad en el cuerpo de Cristo\n[21:50] Invitación a compartir la transmisión para expandir el mensaje de esperanza a más hogares\n[28:41] Homenaje y testimonio: recordando los momentos del Pastor Daniel Tito y su servicio fiel\n[36:08] Consejos prácticos de la pastora sobre la resiliencia familiar en tiempos de duelo y dolor\n[40:24] Exhortación a desarrollar la empatía y la compasión con el prójimo en la comunidad\n[43:34] Meditación en el Salmo 121: la seguridad del creyente bajo el amparo protector de Dios\n[49:02] Oración especial de agradecimiento por la familia pastoral y los líderes comprometidos\n[56:30] Clamor de intercesión por las peticiones personales enviadas en el chat de la reunión\n[01:02:39] Anuncios semanales de las misiones locales y del templo de Huancayo\n[01:08:58] Declaración final de la palabra rema ('Aquí estoy y aquí voy a continuar') y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/361625116720195/",
@@ -4571,6 +4696,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-7KBfkgJR_AQP8aWIq5JdiC1HMSExrWjS0QtffMR8fbXskL7mQfsdDA_qmTSJ_XVbwHoeBbkDdRCYR0vYJB2vlcofzRGNTovdX_630513479208719.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-7KBfkgJR_AQP8aWIq5JdiC1HMSExrWjS0QtffMR8fbXskL7mQfsdDA_qmTSJ_XVbwHoeBbkDdRCYR0vYJB2vlcofzRGNTovdX_630513479208719.mp4",
     "title": "La Consagración de la Visión: Siguiendo las Instrucciones del Pastor",
     "message": "Servicio conmemorativo y de consagración tras la partida del Pastor Daniel Tito. Los discípulos y líderes directos recuerdan las últimas instrucciones que él les dio el 20 de enero para continuar la visión misionera, desafiando a la iglesia a no desmayar, sino a perseverar sirviendo a Dios.\n\nÍndice de momentos:\n[00:00] Adoración íntima entonando el cántico de consagración y entrega 'Junto a tus pies'\n[18:49] Cántico de acción de gracias expresando rendición total a la voluntad divina\n[42:08] Exhortación sobre el valor de la fidelidad doctrinal y de la obediencia al llamado celestial\n[46:55] Reflexión pastoral sobre la brevedad de la vida y el legado de los grandes siervos de Dios\n[52:51] Meditación: cómo servir y adorar de la manera que agrada al Padre Celestial en el altar\n[56:32] Testimonio sobre la vida, el inicio y el glorioso cierre ministerial del Pastor Daniel Tito\n[01:01:00] Oración de consagración del liderazgo para asumir las nuevas responsabilidades de la iglesia\n[01:05:47] Testimonio de milagros y de provisión divina experimentados en la congregación local\n[01:10:09] Relato detallado de la reunión final del 20 de enero donde el Pastor entregó las directrices\n[01:14:27] Exhortación final a los discípulos a mantener la unidad y la fidelidad al pacto eterno\n[01:21:34] Cierre especial con un cántico de intercesión y ruego por las misiones en provincias",
     "url": "https://www.facebook.com/misioncelreino/videos/630513479208719/",
@@ -4606,6 +4732,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-7KBfkgJR_AQPsgkOkUS5eRA0XdTMoIXMopXnbIj2N5zMx86mjKx6B2Ejz_8BbI5C7afR6_263172312749061.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-7KBfkgJR_AQPsgkOkUS5eRA0XdTMoIXMopXnbIj2N5zMx86mjKx6B2Ejz_8BbI5C7afR6_263172312749061.mp4",
     "title": "Dios Cumplidor de Promesas: Mensaje del Pastor Daniel Tito",
     "message": "Transmisión especial donde se reproduce la predicación grabada del Pastor Daniel Tito titulada 'Dios cumplidor de promesas'. La pastora y los líderes guían a la congregación a atesorar esta enseñanza, asumiendo por fe las bendiciones que pertenecen al creyente bajo el pacto divino.\n\nÍndice de momentos:\n[00:00] Presentación del mensaje grabado del Pastor Daniel Tito por parte del equipo de líderes\n[11:08] Palabras de aliento y consolación para las familias atribuladas por crisis emocionales\n[16:44] Exhortación pastoral a levantar las manos en fe y a arrepentirse de la pasividad\n[20:59] Meditación: la protección sobrenatural de Dios que libra al creyente del peligro cotidiano\n[24:52] Enseñanza central: las promesas de Dios son sí y amén en Cristo Jesús (2 Corintios 1)\n[28:36] Anécdota sobre la fidelidad en la asistencia al templo y la constancia del liderazgo\n[32:15] Exhortación a poner a Dios en el primer lugar de la vida familiar y en las finanzas\n[36:04] Oración especial por la confirmación espiritual de los líderes locales y su cobertura\n[39:42] Intercesión por las peticiones de salud y fortaleza de los hermanos virtuales en provincias\n[43:56] Tiempo de adoración y clamor en el altar consagrando el hogar al Padre Celestial\n[49:05] Declaración de la palabra rema ('El Reino, mi casa, mi familia') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/263172312749061/",
@@ -4641,6 +4768,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-81gEQgHE_AQMgzDyywNsciFAQeSCJQT5UdmTdxTqeVmQwEOXufSBeYLY9PTd3MDLxAvh_159890936180495.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-81gEQgHE_AQMgzDyywNsciFAQeSCJQT5UdmTdxTqeVmQwEOXufSBeYLY9PTd3MDLxAvh_159890936180495.mp4",
     "title": "Viviendo con Propósito: Consagración de la Obra en Huancayo",
     "message": "Servicio dominical enfocado en la consagración personal y ministerial de la iglesia de Huancayo. El Pastor Daniel Tito predica sobre la entrega total a la voluntad divina, alentando a la congregación a edificar la obra local y a colaborar activamente con el liderazgo regional.\n\nÍndice de momentos:\n[00:00] Alabanza inicial entonando el cántico de consagración 'Quiero vivir solo para ti'\n[17:44] Saludos pastorales a los hermanos en el extranjero y lectura de comentarios del chat\n[28:11] Meditación sobre la presencia tangible de Dios que consuela al aflicto en el hogar\n[34:21] Reflexión pastoral sobre la trascendencia de las obras hechas por amor a Cristo\n[40:31] Tiempo de clamor congregacional intercediendo por sanidades físicas en la iglesia\n[46:41] Consejos prácticos sobre la humildad y la disposición para servir en cualquier tarea\n[52:49] Meditación teológica: de cómo Jesús, siendo rico, se hizo pobre por nosotros\n[59:21] Exhortación a practicar la generosidad y el apoyo mutuo en tiempos de crisis global\n[01:06:23] Oración de entrega de vidas en el altar y consagración de los planes familiares\n[01:12:27] Anuncios sobre las clases de niños en Huancayo y el rol de los líderes locales\n[01:18:33] Declaración de la palabra rema ('Año de construir') y bendición pastoral final",
     "url": "https://www.facebook.com/misioncelreino/videos/159890936180495/",
@@ -4676,6 +4804,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-81gEQgHE_AQPH8B_xUbsf_lWG7TuVkWwrHEbIQXbwHB4fc0xmNgMa2g6FiJJHhNoKHm_713218532556594.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-81gEQgHE_AQPH8B_xUbsf_lWG7TuVkWwrHEbIQXbwHB4fc0xmNgMa2g6FiJJHhNoKHm_713218532556594.mp4",
     "title": "Música de Adoración Instrumental: Paz en la Presencia de Dios",
     "message": "Una producción instrumental especial que reúne cánticos y melodías de adoración interpretadas por la Misión Cristiana El Reino. Diseñado para acompañar los tiempos de devocional personal, oración en el hogar y meditación silenciosa, propiciando un ambiente de paz.\n\nÍndice de momentos:\n[00:00] Apertura con melodías suaves de adoración de la Misión El Reino\n[09:30] Transición a acordes instrumentales del cántico 'Quiero vivir solo para ti'\n[19:30] Tiempo de meditación musical guiada para la comunión espiritual\n[27:20] Melodías de gratitud y cánticos tradicionales interpretados en piano y cuerdas\n[30:30] Cierre instrumental con una oración de acción de gracias y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/713218532556594/",
@@ -4710,6 +4839,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-BpB6V1rn_AQMBVSHwB9Xs53DgP1yPBqC17xY6E4WAFxo2KTTXnmNo0Eo8zRceylQVr_362308508918145.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-BpB6V1rn_AQMBVSHwB9Xs53DgP1yPBqC17xY6E4WAFxo2KTTXnmNo0Eo8zRceylQVr_362308508918145.mp4",
     "title": "Renovando la Confianza en las Pruebas de la Vida",
     "message": "Servicio especial con motivo del onomástico del Pastor Daniel Tito, contando con la visita de la pastora Raquel Valentino. El pastor predica sobre cómo renovar la confianza en Dios cuando parece que las fuerzas y la fe se están agotando, liderando un tiempo de oración familiar.\n\nÍndice de momentos:\n[00:30] Apertura del servicio con saludos interactivos y celebración del cumpleaños del Pastor Daniel\n[14:10] Presentación de la invitada Pastora Raquel Valentino y su familia compartiendo saludos\n[22:37] Oración inicial pidiendo la manifestación del Espíritu Santo en la congregación virtual\n[28:33] Meditación: la confianza del creyente frente a las tormentas emocionales y crisis\n[34:38] Exhortación pastoral a no claudicar ni dudar de la fidelidad y el amor de Jesucristo\n[39:10] Clamor especial de sanidad física por los hermanos enfermos del chat virtual\n[43:24] Oración de cobertura y protección sobre los niños y jóvenes de la misión\n[47:38] Intercesión por las familias en el extranjero (España, Italia) y necesidades financieras\n[51:54] Ministración en el altar de oración y ruego por las misiones en provincias\n[56:18] Declaración final de la palabra rema ('Año de construir'), cantos de gratitud y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/362308508918145/",
@@ -4745,6 +4875,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-BpB6V1rn_AQMbwWjo108Qvl2asE1OQNG03_h5o3wafrPJZatyMK9nGVYEVF9WxoG1J9Q_667138680648909.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-BpB6V1rn_AQMbwWjo108Qvl2asE1OQNG03_h5o3wafrPJZatyMK9nGVYEVF9WxoG1J9Q_667138680648909.mp4",
     "title": "La Promesa de la Descendencia y la Conquista del Terreno",
     "message": "El Pastor Daniel Tito enseña sobre el pacto de Dios con Abraham y su descendencia (Isaac). Comparte el testimonio de la compra del terreno y la construcción del púlpito local en Huancayo, exhortando a la iglesia a no temer a los obstáculos ('tarántulas y víboras') del camino.\n\nÍndice de momentos:\n[00:00] Alabanza alegre 'Ven conmigo a la casa del Rey' e inicio del servicio dominical\n[21:51] Saludos pastorales de bienvenida y lectura de comentarios del chat en vivo\n[31:35] Reporte misionero sobre el avance del templo y el trabajo de los líderes en Huancayo\n[40:17] Reflexión pastoral sobre la disciplina amorosa del Padre Celestial en nuestra vida\n[49:07] Enseñanza central: las promesas de bendición hereditaria de Abraham a Isaac\n[57:37] Análisis bíblico de la obediencia familiar como clave para la prosperidad espiritual\n[01:06:19] Advertencia espiritual: la protección de Dios sobre Su iglesia contra víboras y ataques del enemigo\n[01:14:49] Testimonio de la adquisición del terreno local y los planos de construcción\n[01:23:11] Relato del esfuerzo de los hermanos al edificar el primer púlpito y altar congregacional\n[01:31:27] Clamor de intercesión en el altar por las necesidades financieras de los hogares\n[01:40:05] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/667138680648909/",
@@ -4781,6 +4912,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-BpB6V1rn_AQPggCl4mokyoKnLsIuxeOsSPma2hpJtZXbhhLC7aQktXZQMXOC9OiDykjljvA_648824669147423.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-BpB6V1rn_AQPggCl4mokyoKnLsIuxeOsSPma2hpJtZXbhhLC7aQktXZQMXOC9OiDykjljvA_648824669147423.mp4",
     "title": "Mayordomía Cristiana: Sabiduría Financiera en el Hogar",
     "message": "Estudio bíblico impartido por el Pastor Daniel Tito sobre los principios de la mayordomía cristiana. Enseña sobre el uso correcto de los recursos que Dios nos confía, advierte contra las deudas irresponsables ('en Ica prestan') y da pautas para lograr la estabilidad financiera en la familia.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional e inicio con cánticos de adoración exaltando la grandeza de Dios\n[10:34] Saludos del Pastor Daniel y su esposa a los hermanos de provincias (destacando la misión en Ica)\n[17:11] Oración de apertura pidiendo sabiduría y discernimiento para la clase del día\n[35:51] Enseñanza central: definición bíblica de la mayordomía y administración de recursos\n[45:14] Análisis doctrinal de la diferencia entre la avaricia y de la previsión responsable\n[51:38] Ilustración sobre los gastos hormiga y superfluos (el ejemplo de la pollería)\n[57:40] Consejos bíblicos para alcanzar la estabilidad financiera familiar y salir de deudas\n[01:03:36] Advertencia pastoral sobre los peligros de los préstamos informales y de la usura\n[01:09:38] Meditación: reconocer que todo lo que tenemos le pertenece al Señor y somos administradores\n[01:15:36] Oración especial en el altar pidiendo la bendición de Dios sobre los trabajos y negocios\n[01:21:34] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición de cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/648824669147423/",
@@ -4816,6 +4948,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-cHYayBhW_AQMIFs3DjER5_Vri2SnhwhIHiT7sIRi_gBjAaj0trOgGpWRJNhvGfwGE91H_383178759668379.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-cHYayBhW_AQMIFs3DjER5_Vri2SnhwhIHiT7sIRi_gBjAaj0trOgGpWRJNhvGfwGE91H_383178759668379.mp4",
     "title": "Bendición y Unidad en Cristo",
     "message": "El pastor Daniel Tito inicia el culto con saludos, oración de agradecimiento y palabras de aliento a los líderes. Destaca la bendición de Dios sobre las familias y la unidad de la iglesia, invitando a declarar victoria y milagros. La presencia de Dios se manifiesta en la alabanza.\n\n[00:00] Saludos y bienvenida\n[10:57] Oración de agradecimiento y declaración\n[13:49] Palabras de aliento a líderes\n[14:47] Inicio de alabanza\n[17:41] Manifestación de la presencia de Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/383178759668379/",
@@ -4852,6 +4985,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-cHYayBhW_AQPHwQMISCjS3HEWHzTiJznsAXpEW392iDAhHOoFmJHYbDBb5gN_yg2g8QmQ_635801163770695.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-cHYayBhW_AQPHwQMISCjS3HEWHzTiJznsAXpEW392iDAhHOoFmJHYbDBb5gN_yg2g8QmQ_635801163770695.mp4",
     "title": "Formación de líderes en la iglesia",
     "message": "El pastor Daniel Tito da inicio a un estudio bíblico enfocado en la formación de líderes, destacando la necesidad de conocer a Dios y prepararse para servir. Tras los saludos y una oración, invita a la congregación a recibir la enseñanza con gozo.\n\nÍndice de momentos:\n[00:00] Saludos y conexión\n[01:40] Inicio del estudio bíblico\n[02:18] Propósito de la clase: formación de líderes\n[08:30] Oración de apertura",
     "url": "https://www.facebook.com/misioncelreino/videos/635801163770695/",
@@ -4885,6 +5019,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQMNa1HMaBoiBrGnF1uiPXFIGlZ4_iOazW60poFkdxVUGoVA1Aaz3Cafxf_847632892688204.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQMNa1HMaBoiBrGnF1uiPXFIGlZ4_iOazW60poFkdxVUGoVA1Aaz3Cafxf_847632892688204.mp4",
     "title": "El Siervo Fiel y la Cosecha Espiritual",
     "message": "Estudio bíblico y tiempo de clamor a partir del libro de Apocalipsis. El Pastor Daniel Tito expone el perfil del siervo fiel tomando como ejemplo la obediencia de Moisés y declara que la iglesia está entrando en un tiempo de gran cosecha espiritual y familiar, animando a persistir.\n\nÍndice de momentos:\n[00:00] Apertura de la transmisión con saludos pastorales disculpando los detalles técnicos de sonido\n[13:13] Oración de inicio encomendando la reunión al Espíritu Santo y pidiendo cobertura\n[19:37] Lectura bíblica introductoria en el libro de Apocalipsis sobre el servicio cristiano\n[25:57] Reflexión pastoral sobre la identidad de siervo y de la sumisión al señorío de Jesús\n[32:19] Meditación teológica: la obediencia incondicional de Moisés descrita en las Escrituras\n[38:43] Consejos sobre cómo servir en equipo y evitar divisiones en los ministerios de la iglesia\n[45:07] Advertencia contra el orgullo y de la falsa espiritualidad de quienes se dicen siervos\n[51:29] Exhortación a aprovechar el tiempo y valorar los años de vida que Dios nos concede\n[57:51] Clamor congregacional por el avivamiento y por la cosecha de almas en los hogares\n[01:04:13] Oración especial de sanidad y de provisión para las familias representadas\n[01:10:36] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/847632892688204/",
@@ -4920,6 +5055,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQMqsnFQTT3DDMIM67l6RzH9HhwKt8AqwSMqufv_wSaGOLv22kDK9UUmCJjuQ_451637993335692.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQMqsnFQTT3DDMIM67l6RzH9HhwKt8AqwSMqufv_wSaGOLv22kDK9UUmCJjuQ_451637993335692.mp4",
     "title": "Las Bienaventuranzas y la Paz Conyugal",
     "message": "Servicio dominical centrado en las Bienaventuranzas (Mateo 5). El Pastor Daniel Tito expone cómo la mansedumbre y la paz interior ayudan a resolver las discusiones de pareja en el matrimonio y felicita a la hermana Esmeralda por su cumpleaños, con un tiempo de adoración profunda.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional 'Llegó el tiempo de adorar al Rey' e inicio del servicio\n[11:54] Saludos pastorales de bienvenida a los hermanos locales y en el extranjero\n[16:57] Reflexión introductoria sobre el testimonio y la historia de fe de la congregación\n[20:21] Meditación en Mateo 5: las Bienaventuranzas y la recompensa de los mansos\n[23:44] Análisis del carácter pacificador del creyente frente a los conflictos cotidianos\n[27:05] Consejos pastorales prácticos para resolver discusiones y malentendidos conyugales\n[30:35] Exhortación a los matrimonios a cultivar la paciencia, el perdón y de la comunicación\n[36:57] Testimonios de reconciliación familiar y de la restauración de hogares rotos\n[48:18] Oración especial por los matrimonios que atraviesan crisis económicas y emocionales\n[54:51] Adoración congregacional cantando el tema de la fidelidad de Dios 'Inexplicable amor'\n[01:03:03] Saludo por cumpleaños a la hermana Esmeralda, palabra rema de 2022 y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/451637993335692/",
@@ -4955,6 +5091,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQNAAHl7fld_1pbikzFydsJBQA6R_JrQYAcHLIauFAuhk78LJC1o7LxHIe_7064939776913856.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQNAAHl7fld_1pbikzFydsJBQA6R_JrQYAcHLIauFAuhk78LJC1o7LxHIe_7064939776913856.mp4",
     "title": "Jesucristo, el Verdadero Amigo de la Familia",
     "message": "En este servicio especial, el Pastor Daniel Tito enseña sobre la amistad según los estándares de Jesús. Exhorta a la congregación a perdonarse mutuamente en el seno familiar, tomando a Cristo como el modelo supremo de fidelidad y amistad en medio de cualquier aflicción.\n\nÍndice de momentos:\n[00:00] Apertura dominical con cánticos de adoración rindiendo gloria a Cristo\n[08:12] Saludos pastorales e introducción del tema de la amistad espiritual en el Reino\n[15:17] Dinámica de perdón: exhortación a la reconciliación entre esposos y amigos de la iglesia\n[21:00] Reflexión sobre la constancia en el amor fraternal y la unidad de propósitos doctrinales\n[26:41] Meditación: los límites de la amistad humana en contraste con la fidelidad perfecta de Dios\n[32:26] Palabras de consuelo frente a la pérdida de familiares, declarando esperanza eterna\n[38:09] Clamor de intercesión por las peticiones de salud presentadas en el chat en vivo\n[43:21] Meditación bíblica: 'Ya no os llamaré siervos, sino amigos' (Juan 15:15)\n[47:14] Oración de consagración en el altar de las metas y proyectos de las familias\n[52:20] Ministración final cantando 'Inexplicable amor' en intimidad con el Espíritu Santo\n[57:19] Declaración de la palabra rema ('Año de dar gracias'), saludos y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/7064939776913856/",
@@ -4990,6 +5127,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQNlFv2rjnXgQ2fKUawMFEvbM0yZpbK4UwLL7myc_UbBoN07cdKyLLt5mTLOA_735381977413496.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQNlFv2rjnXgQ2fKUawMFEvbM0yZpbK4UwLL7myc_UbBoN07cdKyLLt5mTLOA_735381977413496.mp4",
     "title": "Estudio de la Palabra y la Perseverancia de Jesús",
     "message": "Reunión de estudio bíblico a mitad de semana dirigida por el Pastor Daniel Tito (quien se integra tras recibir terapia física). Enseña sobre la resistencia de Cristo en la cruz ('nunca se quejó de sed' en un sentido de murmuración) y motiva al liderazgo (Escuela Marrón) a persistir sin queja.\n\nÍndice de momentos:\n[00:00] Apertura de la reunión de los jueves con una oración de consagración doctrinal\n[05:24] Reflexión inicial sobre el anhelo de estudiar las Sagradas Escrituras en el hogar\n[14:20] Saludos a la Escuela Marrón y exhortación a los líderes a participar del discipulado\n[25:59] Meditación histórica sobre las primeras comunidades cristianas y su perseverancia\n[31:26] Análisis teológico sobre las siete palabras de Cristo en la cruz y de su significado\n[36:48] Explicación del trasfondo espiritual de la crucifixión y de la redención de la humanidad\n[42:04] Reflexión pastoral sobre la paciencia de Jesús al no murmurar en medio del dolor físico\n[47:24] Aplicación práctica: cómo reaccionar con fe y no con queja ante las dificultades diarias\n[52:46] Oración especial por las necesidades del chat y peticiones de sanidad familiar\n[58:12] Ministración y ruego por fortaleza espiritual sobre el liderazgo y de diáconos locales\n[01:03:30] Declaración de la palabra rema ('Año de construir') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/735381977413496/",
@@ -5025,6 +5163,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQNo8rDWS1JtkV6lCCDPmOMEcauLlooJACsuVA5Ph0qUfcCkCZuACaraOHQV_669374673787254.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQNo8rDWS1JtkV6lCCDPmOMEcauLlooJACsuVA5Ph0qUfcCkCZuACaraOHQV_669374673787254.mp4",
     "title": "El Cristo del Poder: Testimonio y Cobertura Espiritual",
     "message": "Servicio de intercesión y ruego donde el Pastor Daniel Tito proclama el poder del nombre de Jesús para romper cadenas familiares. Envía saludos a las misiones en Tarma y Carabayllo y ora por el liderazgo local (Juana Hupla, líderes Quispe Acuña y la mamita Reina).\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza entonando cánticos sobre la victoria del Cristo del Poder\n[04:21] Oración de inicio consagrando la transmisión de intercesión a Dios\n[06:46] Exhortación a alabar a Dios en medio de la adversidad familiar o de la enfermedad\n[09:07] Saludos de bendición pastoral a las familias conectadas en vivo en provincias\n[11:31] Saludos especiales a los hermanos en las misiones de Tarma y Carabayllo (Carabarí)\n[13:52] Reconocimiento y oración por el liderazgo activo de Juana Hupla y otros servidores\n[16:13] Mensaje de ánimo: superar la amargura y las heridas del pasado a través de Cristo\n[18:34] Intercesión especial por la salud y fortaleza de la mamita Reina y la familia Quispe Acuña\n[21:07] Clamor en el altar pidiendo milagros financieros y provisión en los hogares\n[23:28] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición de cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/669374673787254/",
@@ -5060,6 +5199,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQPFKeUT1YRRjQwjQKyFg_oTGPre9Ag9bF9b_2PTXxFaUM96TJr62OzPqV_4891052837587376.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5dQQ2kz_AQPFKeUT1YRRjQwjQKyFg_oTGPre9Ag9bF9b_2PTXxFaUM96TJr62OzPqV_4891052837587376.mp4",
     "title": "El Poder de Jesús para Calmar la Tempestad Familiar",
     "message": "Estudio bíblico y oración familiar donde el Pastor Daniel Tito enseña sobre la autoridad de Jesucristo para traer paz a los hogares. Con base en la sanidad y la liberación, explica cómo Dios calma las tempestades de la vida y nos llena de gozo y fiesta espiritual.\n\nÍndice de momentos:\n[00:00] Bienvenida de los pastores al culto de estudio y buen humor al inicio de transmisión\n[09:31] Saludos a las misiones y de lectura de las peticiones del chat congregacional en Lima\n[21:27] Oración de apertura consagrando el tiempo de estudio de la Palabra al Señor\n[28:58] Meditación: la sanidad física y la restauración espiritual como diseño de Dios\n[37:12] Reflexión práctica sobre las prioridades: la relación vertical con Dios y la horizontal con el prójimo\n[45:20] Enseñanza central: el poder de Jesús para reprender los vientos y calmar la tempestad (Marcos 4)\n[53:47] Meditación sobre la libertad espiritual del creyente al ser justificado en Cristo\n[01:00:08] Anuncios locales de la escuela de líderes y actividades de fin de semana\n[01:04:54] Consejos para edificar un hogar armónico y resolver los conflictos de pareja\n[01:10:02] Oración especial en el altar declarando sanidad y de liberación de ataduras de pecado\n[01:15:18] Declaración de la palabra rema, cántico final 'Hay una fiesta en mí' y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/4891052837587376/",
@@ -5095,6 +5235,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5UQKOxS_AQNLDPnDOgmtH4u26I02GsQqsdUAs5BXv6U_bgvrzQDLkhvjWSfW6n2OXVh2QVH0P1A677KBzez9KniedBnqrp_335719217864229.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5UQKOxS_AQNLDPnDOgmtH4u26I02GsQqsdUAs5BXv6U_bgvrzQDLkhvjWSfW6n2OXVh2QVH0P1A677KBzez9KniedBnqrp_335719217864229.mp4",
     "title": "Jesús en Jericó: Sanidad y Nuevos Comienzos",
     "message": "Reunión dominical donde el Pastor Daniel Tito enseña sobre el encuentro de Jesús en Jericó (la sanidad de Bartimeo). Exhorta a la congregación a clamar con fe persistente para recibir sus milagros y felicita a los cumpleañeros de la semana (Javier Sosa y su hija Yarita).\n\nÍndice de momentos:\n[00:00] Alabanza inicial entonando cánticos de regocijo y de victoria espiritual\n[10:16] Saludos pastorales de bienvenida y lectura de comentarios en vivo\n[18:34] Tiempo de clamor intercesor preparando los corazones para recibir la Palabra\n[24:53] Lectura bíblica: el paso de Jesús por Jericó y el clamor del ciego Bartimeo\n[29:46] Reflexión sobre la persistencia en la oración a pesar de las voces de desánimo\n[34:36] Meditación teológica sobre la gracia transformadora de Cristo al restaurar la vista espiritual\n[39:26] Acción de gracias por el respaldo de los líderes en misiones locales y extranjeras\n[44:16] Oración especial por la paz en los matrimonios de la iglesia y restauración del altar\n[49:48] Saludos e interacciones virtuales con la congregación internacional\n[54:53] Homenaje por el cumpleaños de Javier Sosa y su hija Yarita, con oración pastoral\n[01:01:21] Declaración de la palabra rema ('Año de un nuevo comienzo') y bendición apostólica",
     "url": "https://www.facebook.com/misioncelreino/videos/335719217864229/",
@@ -5129,6 +5270,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-D5UQKOxS_AQNrranrOCLmj_4nEy8h77LUcKGwRTiMuBoaTDVpVu3ygXV97rkTu5C8cHq5_305158364091741.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-D5UQKOxS_AQNrranrOCLmj_4nEy8h77LUcKGwRTiMuBoaTDVpVu3ygXV97rkTu5C8cHq5_305158364091741.mp4",
     "title": "La Soberanía de Dios y el Respeto en el Hogar",
     "message": "Servicio de acción de gracias donde el Pastor Daniel Tito predica sobre la soberanía divina en medio de las peores crisis de salud. Comparte testimonios de sanidad (mencionando a Connie y al familiar de la líder Selenia) y aconseja sobre la importancia del respeto mutuo en la familia Teo Orihuela.\n\nÍndice de momentos:\n[00:00] Alabanza inicial cantando sobre la bondad de Dios en la casa de oración\n[17:40] Saludos pastorales y bienvenida a la familia Teo Orihuela en la reunión virtual\n[26:30] Testimonio de sanidad: de cómo Dios restauró milagrosamente a la hermana Connie de su dolencia\n[36:03] Meditación sobre la soberanía de Dios: entender que todo ayuda para bien a los creyentes\n[42:28] Exhortación matrimonial sobre el respeto, la sumisión mutua y de la comunicación con amor\n[49:00] Consejos pastorales para los padres en la dirección espiritual y de valores de los hijos\n[55:38] Relato de la milagrosa sanidad del familiar de la líder Selenia tras un tiempo de clamor\n[01:02:14] Oración especial por los enfermos de la congregación y provisión de alimentos en provincias\n[01:08:46] Ministración en el altar instando a la humildad y la reconciliación con el Señor\n[01:15:26] Agradecimiento por el apoyo ministerial, palabra rema y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/305158364091741/",
@@ -5164,6 +5306,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-DEau1iUB_AQMBn80lU1rayD3UryCANOc797gfoG9oTfyuX_p19wkMYoWk8YCVYrLYWeyJMA_2603833426588731.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-DEau1iUB_AQMBn80lU1rayD3UryCANOc797gfoG9oTfyuX_p19wkMYoWk8YCVYrLYWeyJMA_2603833426588731.mp4",
     "title": "Perú, tierra bendita de Dios",
     "message": "En el marco del bicentenario, el mensaje llama a bendecir al Perú, orar por sus autoridades y vivir como ciudadanos responsables. Dios quiere que su pueblo sea difusor de paz, lleve bendición a su nación y recuerde que la verdadera prosperidad viene del Señor.\n\nÍndice de momentos:\n[02:53] Bienvenida y gratitud por el reencuentro\n[05:18] Celebración patria e himno nacional\n[23:46] Inicio de la predicación pastoral\n[28:18] Jeremías 29:7: orar por la ciudad\n[41:28] Respetar y bendecir a las autoridades\n[51:32] Salmo 33: nación cuyo Dios es Jehová",
     "url": "https://www.facebook.com/misioncelreino/videos/2603833426588731/",
@@ -5207,6 +5350,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-DEau1iUB_AQNaY260lnq8VBvibiQ_H2DDXvdWYITZW5_wukG1s7cQnxEaiFisEPEN6WytLQ_791888028814250.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-DEau1iUB_AQNaY260lnq8VBvibiQ_H2DDXvdWYITZW5_wukG1s7cQnxEaiFisEPEN6WytLQ_791888028814250.mp4",
     "title": "La Casa de Dios como Refugio en la Aflicción",
     "message": "Reunión dominical donde el Pastor Daniel Tito predica sobre la casa de Dios como el verdadero refugio en momentos de aflicción. Enseña que aunque tengamos problemas legales o familiares ('requisitorias', deudas), en Cristo hallamos justificación y paz para restaurar la vida.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza congregacional 'Ven conmigo a la casa de Dios' y regocijo\n[09:54] Meditación: la insuficiencia humana en contraste con el poder restaurador de Dios\n[13:45] Exhortación a los hermanos en el extranjero a permanecer conectados a la palabra\n[16:47] Enseñanza central: justificación por fe y liberación de las deudas del pasado\n[19:37] Reflexión sobre la honestidad cívica y espiritual frente a las leyes terrenales\n[22:41] Meditación sobre el amor incondicional de Jesús manifestado en la cruz por el pecador\n[26:01] Clamor de arrepentimiento y consagración del hogar al Padre Celestial\n[29:35] Testimonios de fe: adorar a Dios en medio de las pruebas y escasez financiera\n[34:39] Oración especial por la unción sanadora sobre los enfermos de la congregación\n[37:45] Exhortación a los líderes locales sobre la ética legal y el buen testimonio social\n[40:43] Declaración de la palabra rema ('Año de dar gracias') y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/791888028814250/",
@@ -5242,6 +5386,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-DEau1iUB_AQNHARUd7wpf0RjJJ1Tmf0Zrev9HbQzDHRwpUJdrYdL6PCRQQMklbump4J1p3w_970966320143160.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-DEau1iUB_AQNHARUd7wpf0RjJJ1Tmf0Zrev9HbQzDHRwpUJdrYdL6PCRQQMklbump4J1p3w_970966320143160.mp4",
     "title": "Consagración Personal y la Santidad en 1 Tesalonicenses",
     "message": "Servicio dominical donde el Pastor Daniel Tito enseña sobre el llamado a la santidad basado en 1 Tesalonicenses. Exhorta a la congregación a consagrar sus talentos a Dios y a edificar una iglesia madura, orando especialmente por los líderes de las misiones locales.\n\nÍndice de momentos:\n[00:00] Alabanza inicial entonando cánticos de devoción y consagración personal\n[22:34] Oración de inicio encomendando la reunión y las misiones al Espíritu Santo\n[36:47] Reflexión introductoria: cómo aplicar los principios bíblicos en la vida cotidiana\n[43:13] Lectura de las Escrituras en 1 Tesalonicenses sobre la pureza y de la conducta recta\n[49:39] Enseñanza central: el llamado de Dios a vivir en santidad y a apartarse del pecado\n[56:15] Consejos prácticos sobre la vida devocional familiar y el sacerdocio del hogar\n[01:02:39] Diálogo interactivo con los pastores locales y lectura de comentarios del chat\n[01:09:21] Meditación sobre la obediencia financiera y la bendición de ofrendar con gozo\n[01:16:59] Clamor en el altar pidiendo sanidad y provisión (mencionando a Camuchita Gamonal)\n[01:24:04] Oración especial por la juventud y la escuela de niños (mención a la familia de Junior)\n[01:30:46] Declaración de la palabra rema ('Año de construir') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/970966320143160/",
@@ -5276,6 +5421,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-DEau1iUB_AQP4m7NDVfBKDD964EhiIo_w7ViaJ7ftei6kCPWWqknBu41c5n1Rm_gbJ9Nx_1443363539419947.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-DEau1iUB_AQP4m7NDVfBKDD964EhiIo_w7ViaJ7ftei6kCPWWqknBu41c5n1Rm_gbJ9Nx_1443363539419947.mp4",
     "title": "Preparando el Corazón para el Retorno de Cristo",
     "message": "Servicio de adoración e instrucción espiritual. El Pastor Daniel Tito predica sobre la inminente segunda venida de Cristo y la urgencia de preparar el corazón en santidad, enseñando sobre la igualdad de todas las personas ante Dios, sin importar su condición social ('gente importante').\n\nÍndice de momentos:\n[00:00] Alabanza inicial entonando cantos sobre la libertad y el nuevo comienzo en Cristo\n[10:14] Reflexión escatológica sobre el mensaje 'Ya viene el Señor' y de la preparación espiritual\n[16:56] Mención pastoral sobre las misiones (saludo especial a los hermanos en la Padula)\n[23:00] Exhortación a la oración constante en la familia y a mantener una vida consagrada\n[27:59] Consejos prácticos sobre cómo abandonar los hábitos pecaminosos del viejo hombre\n[33:41] Meditación teológica: la justicia divina en contraste con los estándares del mundo\n[40:23] Oración de intercesión por la conversión y de protección de los hijos de la congregación\n[46:36] Meditación sobre la humildad: no hay distinción de personas o de 'importancia' para Dios\n[53:50] Testimonio sobre el poder transformador del evangelio en las familias de provincias\n[01:00:50] Clamor en el altar pidiendo un derramamiento de la unción del Espíritu Santo\n[01:05:17] Declaración de la palabra rema ('Año de un nuevo comienzo'), canto final de agradecimiento",
     "url": "https://www.facebook.com/misioncelreino/videos/1443363539419947/",
@@ -5311,6 +5457,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-DEau1iUB_AQPd7i4WaN3OF_Pe9ZjSkDp_RafQ2JamxG_3yUxPCitrKOpxk8_xJVqBh4Etsy2WUNTqYz93z0QZvDla_z7_1346574042521873.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-DEau1iUB_AQPd7i4WaN3OF_Pe9ZjSkDp_RafQ2JamxG_3yUxPCitrKOpxk8_xJVqBh4Etsy2WUNTqYz93z0QZvDla_z7_1346574042521873.mp4",
     "title": "La Zarza Ardiente: Entrando en la Presencia Santa de Dios",
     "message": "Estudio bíblico y oración a partir de Éxodo 3 (el relato de la zarza ardiente). El Pastor Daniel Tito predica sobre el respeto y de la reverencia en la adoración ('quita las sandalias de tus pies') y testifica que solo Dios puede hacer verdaderamente feliz al ser humano.\n\nÍndice de momentos:\n[00:00] Apertura de la reunión con cánticos solemnes de reverencia a la presencia de Dios\n[10:39] Reflexión introductoria: la diligencia y la búsqueda diaria de sabiduría en las Escrituras\n[19:15] Consejos pastorales sobre la obediencia filial y el respeto mutuo en el matrimonio\n[27:22] Clamor congregacional intercediendo por sanidades físicas en la iglesia local\n[37:22] Adoración íntima expresando rendición y consagración total en el altar\n[43:23] Acción de gracias por el respaldo de los colaboradores locales y de la provisión de empleo\n[48:10] Meditación sobre la honestidad y de la ética en las actividades comerciales del creyente\n[52:56] Enseñanza central: Éxodo 3 y la zarza que no se consumía. Santidad en los atrios de Dios\n[57:36] Explicación teológica del Mesías como el renuevo y la raíz de David (Jehová)\n[01:02:16] Exhortación a estudiar la historia bíblica directamente en las Escrituras antes que en internet\n[01:07:18] Declaración final de la palabra rema ('Año de dar gracias') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1346574042521873/",
@@ -5346,6 +5493,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-dUiVbrsz_AQNMgrIEfyxUXsl2ChmEB0cjaPY1pdhdGNzpti3Gnjp0wBqDLZi7f_0e2_4742708249100080.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-dUiVbrsz_AQNMgrIEfyxUXsl2ChmEB0cjaPY1pdhdGNzpti3Gnjp0wBqDLZi7f_0e2_4742708249100080.mp4",
     "title": "Características de la Iglesia Primitiva",
     "message": "El Pastor Daniel Tito enseña sobre las características de la iglesia primitiva según Hechos 2: pasión por ganar almas, perseverancia en la doctrina, comunión fraterna, unidad en el partimiento del pan, oración y preparación para las pruebas. Destaca la importancia de mantener el amor, la sujeción a líderes y una vida espiritual genuina.\n\n[00:00] Alabanza y adoración\n[10:42] Bienvenida y aprecio por la iglesia\n[25:09] Lectura de Hechos 2:40-41\n[33:41] Perseverancia en la doctrina y comunión\n[50:51] Esteban: preparados para las pruebas\n[01:00:57] Llamado a la oración y rendición",
     "url": "https://www.facebook.com/misioncelreino/videos/4742708249100080/",
@@ -5386,6 +5534,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-dUiVbrsz_AQOJVWCMkpbsLJl1zGixzPcimhKTAEyWS8Fv4v91f0GCEKp8IJj9G8W__9_167457578888846.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-dUiVbrsz_AQOJVWCMkpbsLJl1zGixzPcimhKTAEyWS8Fv4v91f0GCEKp8IJj9G8W__9_167457578888846.mp4",
     "title": "De la tristeza al triunfo en Cristo",
     "message": "El pastor Daniel Tito nos recuerda que Dios siempre nos lleva en triunfo, incluso en medio de la adversidad. A través del testimonio de la 'niña flaca y fea' y la parábola de la vaca, nos anima a no conformarnos con bendiciones pequeñas, sino a soltar lo que nos limita para recibir la victoria que Dios tiene para nosotros. Con gozo y fe, podemos declarar que aunque todo falle, nos alegraremos en el Dios de nuestra salvación.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[15:22] Inicio de la adoración\n[28:24] Mensaje central: Dios nos lleva en triunfo\n[33:26] Testimonio de la niña flaca y fea\n[40:30] La parábola de la vaca\n[55:10] Lectura de Habacuc 3:17-19\n[01:08:23] Santa Cena",
     "url": "https://www.facebook.com/misioncelreino/videos/167457578888846/",
@@ -5425,6 +5574,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-FpxigE57_AQMsDs6JP6afT6iHPMltYozCY3TXmNC2l_ou6qn1ddZgUDUcPWBlKgLQXyF_2742973299252044.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-FpxigE57_AQMsDs6JP6afT6iHPMltYozCY3TXmNC2l_ou6qn1ddZgUDUcPWBlKgLQXyF_2742973299252044.mp4",
     "title": "Celebrando la Presencia de Jesús en el Hogar",
     "message": "Breve y emotivo servicio de oración enfocado en consagrar las familias al Señor. El Pastor Daniel Tito anima a los hogares a dar gracias por la provisión divina y clama por sanidad de los enfermos, destacando la alabanza guiada por el liderazgo (Christopher y Katy).\n\nÍndice de momentos:\n[00:00] Apertura con cánticos de júbilo celebrando la presencia de Jesucristo en la casa\n[04:17] Saludos de bienvenida e interacciones virtuales con las misiones en el interior de Perú\n[06:30] Oración de gratitud reconociendo la provisión material y de salud en los hogares\n[08:17] Presentación y oración especial por el liderazgo local (Christopher y Katy)\n[10:19] Saludos fraternos a los hermanos en el extranjero (España, Italia, EE.UU.) y misiones\n[13:43] Meditación breve sobre el amor y de la gracia inmerecida de Dios en nuestras vidas\n[14:56] Clamor intercesor por fortaleza espiritual y liberación de adicciones en los jóvenes\n[15:53] Oración de fe declarando milagros de sanidad en vivo sobre las peticiones del chat\n[16:56] Ministración final entonando el cántico de fe 'El Maestro de Galilea está pasando'\n[20:02] Anuncios semanales de las actividades, palabra rema y bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/2742973299252044/",
@@ -5460,6 +5610,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-FpxigE57_AQOW0PvCJbejxqQ7w0Bj4sbEun2Mqxp43gP819YIGPdl_dnnvlEDq42wyYp3t8j5CxpL5jO6BtHaDSdebbwC25q_276816846625518.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-FpxigE57_AQOW0PvCJbejxqQ7w0Bj4sbEun2Mqxp43gP819YIGPdl_dnnvlEDq42wyYp3t8j5CxpL5jO6BtHaDSdebbwC25q_276816846625518.mp4",
     "title": "El Tiempo de la Canción ha Llegado: Restauración Primaveral",
     "message": "Estudio bíblico y alabanza inspirados en Cantares 2:12. El Pastor Daniel Tito proclama una temporada de restauración y de bendición ('primaveral') para las familias de la iglesia. Explica la doctrina de la gracia de Cristo al hacerse pobre por nosotros y convoca al culto de niños.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos pastorales a las familias conectadas en vivo\n[12:25] Oración de inicio pidiendo unción y de revelación de las Sagradas Escrituras\n[24:11] Meditación en Cantares 2:12: la primavera espiritual y el florecimiento del creyente\n[33:36] Tiempo de alabanza congregacional con cánticos de júbilo y acción de gracias\n[40:08] Exhortación pastoral sobre la importancia de la educación y de la guía espiritual de los hijos\n[51:47] Advertencia contra las influencias del mundo secular que intentan desviar a los jóvenes\n[01:02:43] Meditación teológica: la gracia redentora de Jesús al hacerse pobre para enriquecernos\n[01:13:10] Oración especial por la consagración del matrimonio y de perdón de ofensas del pasado\n[01:26:25] Saludos interactivos con los líderes en provincias (misión en Huancayo, Acuña)\n[01:30:19] Invitación al culto especial de niños y actividades infantiles del fin de semana\n[01:35:21] Declaración de la palabra rema ('Año de dar gracias'), saludos finales y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/276816846625518/",
@@ -5495,6 +5646,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Hdn0ht4a_AQOWCOryUYEdUg0TEq9Ezm4ltLoMU9B1tQ54YaNCc8hd32XvfES10jEjrrX_520658312244420.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Hdn0ht4a_AQOWCOryUYEdUg0TEq9Ezm4ltLoMU9B1tQ54YaNCc8hd32XvfES10jEjrrX_520658312244420.mp4",
     "title": "La Lealtad en la Amistad y la Celebración de la Comunión",
     "message": "Reunión dominical enfocada en la lealtad y el valor de la amistad bíblica ('defender al amigo en su ausencia'). El Pastor Daniel Tito predica sobre el carácter íntegro del creyente, comparte testimonios de sanidad física (hermano Marcos) y dirige la conmemoración de la Santa Cena.\n\nÍndice de momentos:\n[00:00] Apertura dominical con cánticos de júbilo y adoración en el templo\n[03:28] Saludos pastorales de bienvenida y de lectura de comentarios virtuales (Janeth Salzavilca)\n[05:48] Oración inicial pidiendo que la paz de Cristo reine en las relaciones de la iglesia\n[08:38] Exhortación a la constancia en el servicio y a apoyar activamente a los líderes locales\n[12:15] Testimonio de sanidad: relato de cómo Dios sanó al hermano Marcos de una enfermedad grave\n[21:15] Saludos de bendición a los hermanos en el extranjero (España, Italia) y misiones\n[30:51] Enseñanza central: la amistad verdadera y de la lealtad de defender al amigo ausente\n[39:24] Consejos bíblicos para padres sobre cómo cultivar la amistad y confianza con sus hijos\n[48:26] Clamor de arrepentimiento y de consagración personal preparando la mesa del Señor\n[57:56] Liturgia de la Santa Cena: bendición del jugo de uva y del pan en familia\n[01:05:28] Declaración final de la palabra rema ('Año de construir') y bendición de despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/520658312244420/",
@@ -5531,6 +5683,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-i4qTHxMd_AQM1e0U9YudLQLiF_8euhXCZjjeEz3hPhTQ34EskHv2vj8Emj4IhMLaWWXB5_703669076881097.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-i4qTHxMd_AQM1e0U9YudLQLiF_8euhXCZjjeEz3hPhTQ34EskHv2vj8Emj4IhMLaWWXB5_703669076881097.mp4",
     "title": "Propósito del ayuno según Esdras",
     "message": "El pastor Daniel Tito celebra el cierre de dos semanas de ayuno y oración, destacando la victoria y gratitud. Basado en Esdras 8:21-23, enseña que el ayuno tiene tres propósitos: humillarnos delante de Dios, buscar su dirección y pedir su protección. El ayuno propicio atrae el favor de Dios. La iglesia comparte testimonios de milagros y sanidades.\n\n[01:42] Anuncio del cierre del ayuno\n[04:07] Culto de Acción de Gracias\n[49:04] Inicio del mensaje sobre Esdras\n[50:35] Lectura de Esdras 8:21-22\n[51:28] Propósito de humillación\n[01:00:58] Búsqueda de protección",
     "url": "https://www.facebook.com/misioncelreino/videos/703669076881097/",
@@ -5571,6 +5724,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-i4qTHxMd_AQNzy4Ap1kjdkzjrkuibN4Fkn1DuQN0_VCXnPzXB0aLuCsZa_qh0Euvv1nNzw4Jhvxu771cT_IloxkPK7YUqWP_1591718564322803.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-i4qTHxMd_AQNzy4Ap1kjdkzjrkuibN4Fkn1DuQN0_VCXnPzXB0aLuCsZa_qh0Euvv1nNzw4Jhvxu771cT_IloxkPK7YUqWP_1591718564322803.mp4",
     "title": "El Gozo y el Lamento de Jesús",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a redescubrir el verdadero carácter de Jesús: un Cristo lleno de alegría que se regocijaba en el Espíritu, pero que también experimentó tristeza y lloró por amor a su pueblo. A través de pasajes como Lucas 15, Judas 1 y Juan 11, el mensaje nos anima a gozarnos en el Señor, sabiendo que nuestra tristeza se convertirá en gozo.\n\nÍndice de momentos:\n[03:08] Bienvenida y oración\n[26:26] Parábola de la oveja perdida\n[33:02] Jesús se presenta con alegría\n[49:20] Jesús llora por Jerusalén\n[57:42] La tristeza se convertirá en gozo",
     "url": "https://www.facebook.com/misioncelreino/videos/1591718564322803/",
@@ -5615,6 +5769,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-i4qTHxMd_AQORE6QsnjtmSNNREpuNuklVP5X_wyqANfnRxXiW1l6Oc46n_nTXb8Cw6KCjZW3GtJlDpmNTAKwR_GdLzCXAjoqw_973212633304582.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-i4qTHxMd_AQORE6QsnjtmSNNREpuNuklVP5X_wyqANfnRxXiW1l6Oc46n_nTXb8Cw6KCjZW3GtJlDpmNTAKwR_GdLzCXAjoqw_973212633304582.mp4",
     "title": "La Fe que Vence al Mundo",
     "message": "Mensaje basado en 1 Juan 5:4 sobre la fe que vence al mundo. Testimonio de pérdida de empleo muestra cómo la fe y la oración traen victoria. Se anima a confiar en Dios en las pruebas.\n\n[15:31] Lectura de 1 Juan 5:4\n[16:06] Enfrentando pruebas con fe\n[19:44] Testimonio personal\n[22:42] Oración final\n[25:36] Intercesión comunitaria",
     "url": "https://www.facebook.com/misioncelreino/videos/973212633304582/",
@@ -5652,6 +5807,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-i4qTHxMd_AQPyJNFWGWJvrHb7jmI3_d1Nf4GV2rApBG0McXWQBOR5l1RmDvkNNDoIxd_320803990147705.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-i4qTHxMd_AQPyJNFWGWJvrHb7jmI3_d1Nf4GV2rApBG0McXWQBOR5l1RmDvkNNDoIxd_320803990147705.mp4",
     "title": "Rendido ante la Majestad de Dios",
     "message": "Una canción de adoración que exalta la majestad de Dios, recordándonos que su gracia nos encuentra tal cual somos, su sacrificio nos da valor y su amor transforma nuestras vidas. Somos rendidos ante su presencia.\n\n[00:00] Introducción de la misión\n[00:57] Comienzo de la alabanza\n[03:33] Invitación a declarar\n[04:01] Declaración de majestad\n[05:25] Transformación por el amor",
     "url": "https://www.facebook.com/misioncelreino/videos/320803990147705/",
@@ -5686,6 +5842,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-IUGD1SAb_AQOBoXjTJxbyNyqex5HZ2pmj6WzKgpGLaUXPc8pG_Qh37X3AAD1kLZfG_887839715227464.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-IUGD1SAb_AQOBoXjTJxbyNyqex5HZ2pmj6WzKgpGLaUXPc8pG_Qh37X3AAD1kLZfG_887839715227464.mp4",
     "title": "Apresúrate a la Verdadera Navidad: Corazón Puro para Jesús",
     "message": "Este sermón nos invita a reflexionar sobre la verdadera esencia de la Navidad, recordándonos que no se trata de adornos o regalos, sino de apresurarnos a limpiar y preparar nuestros corazones para recibir a Jesús. La predicación enfatiza la importancia de erradicar amarguras y resentimientos para que Cristo more plenamente en nosotros, transformándonos en templos puros y transparentes. Se nos anima a vivir una fe activa, diciendo 'heme aquí' al llamado divino y siendo luz para nuestras familias, construyendo espiritualmente este año.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[05:22] Oración inicial y adoración\n[13:30] Lectura bíblica: Lucas 2:15-16\n[15:20] Mensaje: La prisa por el verdadero significado de Navidad\n[20:22] Tiempo de oración y peticiones\n[49:48] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/887839715227464/",
@@ -5724,6 +5881,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-IUGD1SAb_AQPCsTsxyvtinUmeOAjsc3nZMUpmje4Pa9W5Zi_4MP8ezgXKYb6kJFNWf_761452877947905.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-IUGD1SAb_AQPCsTsxyvtinUmeOAjsc3nZMUpmje4Pa9W5Zi_4MP8ezgXKYb6kJFNWf_761452877947905.mp4",
     "title": "Música de Alabanza",
     "message": "Un tiempo de alabanza musical para preparar el corazón a la Palabra.\n\nÍndice de momentos:\n[00:00] Inicio de la alabanza\n[30:00] Continuación de la música\n[01:00:00] Cierre de la alabanza",
     "url": "https://www.facebook.com/misioncelreino/videos/761452877947905/",
@@ -5758,6 +5916,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-IUGD1SAb_AQPoXRn6ACAegRHXS_gwDf1CThv8UGjBbjcjJE1m4KoaLZLhJZ7Oo9G4k7cn_573395566662890.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-IUGD1SAb_AQPoXRn6ACAegRHXS_gwDf1CThv8UGjBbjcjJE1m4KoaLZLhJZ7Oo9G4k7cn_573395566662890.mp4",
     "title": "El Espíritu Siempre Dispuesto",
     "message": "En esta tercera lección sobre el templo de Dios, el Pastor Daniel explica la naturaleza tripartita del ser humano (cuerpo, alma y espíritu) y la importancia de cuidar el espíritu. Destaca que el espíritu siempre está dispuesto, aunque la carne sea débil, y nos llama a ser guiados por el Espíritu Santo. A través de pasajes bíblicos, aclara cómo el espíritu vuelve a Dios y cómo el hombre espiritual produce el fruto del Espíritu. Un mensaje que nos desafía a vivir en santidad y a no dar lugar al enemigo.\n\n[00:00] Bienvenida y alabanza\n[09:40] Inicio de la tercera lección: el espíritu\n[23:53] Explicación de la fusión espíritu y cuerpo\n[33:24] El espíritu siempre está dispuesto\n[43:57] Discusión sobre espíritus inmundos\n[51:38] Hombre natural vs espiritual y fruto del Espíritu",
     "url": "https://www.facebook.com/misioncelreino/videos/573395566662890/",
@@ -5801,6 +5960,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-IUGD1SAb_AQPs0EDPex54YJGkSRCbpAhUgvFByEHtNe6FG91wOLdvx82yXpP2b3V9naKO_469077627435663.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-IUGD1SAb_AQPs0EDPex54YJGkSRCbpAhUgvFByEHtNe6FG91wOLdvx82yXpP2b3V9naKO_469077627435663.mp4",
     "title": "Tu Barca No Se Hunde: Fe Inquebrantable en la Tormenta",
     "message": "Este sermón nos inspira a mantener una fe inquebrantable, recordando que nuestro Dios es imparable y de imposibles. A través del relato de Jesús calmando la tempestad, se nos anima a confiar plenamente en que, aunque la barca de nuestra vida se sacuda, Él tiene el control y no permitirá que nos hundamos. Se nos invita a transformar la angustia en gratitud, sabiendo que Él provee y protege en medio de cualquier adversidad, incluso la pandemia y la pérdida, porque su mano poderosa siempre nos guía.\n\nÍndice de momentos:\n[03:18] Bienvenida y llamado a la intercesión\n[04:45] Adoración a Dios Imparable\n[17:12] La historia de Jesús calmando la tempestad\n[23:26] Jesús cuestiona la fe y calma el mar\n[26:30] Testimonios de fe en la pandemia\n[30:38] La fe y el agradecimiento transforman la oración",
     "url": "https://www.facebook.com/misioncelreino/videos/469077627435663/",
@@ -5840,6 +6000,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQNgIOWKAHY3Ucv57_YyVuwZ7HL_2lZ5KS2oqRwBqL516d4RodVT_uoI81FS_156919422805042.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQNgIOWKAHY3Ucv57_YyVuwZ7HL_2lZ5KS2oqRwBqL516d4RodVT_uoI81FS_156919422805042.mp4",
     "title": "Levántate y come: fortaleza para el camino",
     "message": "Dios te permite estar triste un momento, pero no te quedes ahí. Como a Elías, te dice: 'Levántate y come'. Aliméntate de Su Palabra para recibir fortaleza y seguir adelante, porque aún hay mucho camino por recorrer y muchas almas que alcanzar. La comida física y espiritual es un regalo de Dios que nos sostiene.\n\nÍndice de momentos:\n[27:15] Inicio del mensaje: no te decaigas, solo come\n[43:57] Daniel decide no contaminarse con la comida del rey\n[58:55] Elías en la cueva: el ángel le ordena comer\n[01:11:24] La verdadera comida: hacer la voluntad de Dios y Su Palabra",
     "url": "https://www.facebook.com/misioncelreino/videos/156919422805042/",
@@ -5885,6 +6046,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQNSzm3a6Qs07uRfTWyVV_a0eq198c1HM8Y1Aj8hEQLD8Ytz9oP8biqKRUyg_600748865113455.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQNSzm3a6Qs07uRfTWyVV_a0eq198c1HM8Y1Aj8hEQLD8Ytz9oP8biqKRUyg_600748865113455.mp4",
     "title": "Actitud Agresiva en la Guerra Espiritual",
     "message": "En esta poderosa predicación, el Pastor Daniel Tito nos exhorta a dejar la pasividad y tomar una actitud agresiva en la guerra espiritual. Usando los ejemplos de David frente a Goliat y la promesa de Josué, nos anima a avanzar, pisar territorio y declarar que Perú y el mundo son para Cristo. Nos recuerda que no debemos tratar de convencer al diablo, sino ejercer la autoridad que Dios nos ha dado. Es tiempo de avanzar y poseer lo que Dios nos ha prometido.\n\nÍndice de momentos:\n[03:55] Llamado a avanzar\n[11:40] Tomar una actitud agresiva\n[17:24] Ser soldados de Dios\n[22:05] David y Goliat\n[27:42] Promesa de Josué\n[42:38] Oración y altar call",
     "url": "https://www.facebook.com/misioncelreino/videos/600748865113455/",
@@ -5925,6 +6087,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQOHdS2FrvkFqg3rQ19H5zLuubqR1P42BzunWLvCOc2HZu6lJ0yI5cnUHfN_544649090835808.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQOHdS2FrvkFqg3rQ19H5zLuubqR1P42BzunWLvCOc2HZu6lJ0yI5cnUHfN_544649090835808.mp4",
     "title": "Un Espíritu Superior: Diez Veces Mejor",
     "message": "El Pastor Daniel Tito enseña que Dios nos ha dado un espíritu superior que nos hace diez veces mejores. Nos llama a ser valientes, sin victimización, sirviendo a Dios con fe y determinación. Un mensaje de empoderamiento espiritual.\n\nÍndice de momentos:\n[00:00] Bienvenida y oración inicial\n[04:03] Introducción del tema 'Espíritu Superior'\n[05:15] Referencia a Daniel 1:9\n[07:27] Cero victimización\n[48:04] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/544649090835808/",
@@ -5963,6 +6126,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQP2R1PT7crRqDbCfGmtYrarbkqvMI1sWIOe3vNzTjh8xyj0hTIH9GTQyclbVvCrodoDNhmCenIn4HvxVBbnA17_706545600261324.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQP2R1PT7crRqDbCfGmtYrarbkqvMI1sWIOe3vNzTjh8xyj0hTIH9GTQyclbVvCrodoDNhmCenIn4HvxVBbnA17_706545600261324.mp4",
     "title": "Jesús se da a conocer: los Yo Soy",
     "message": "El Pastor Daniel Tito nos invita a conocer a Jesús más allá de su nombre, explorando sus declaraciones 'Yo Soy' en la Biblia: luz, camino, verdad, vida, buen pastor y puerta. Cada revelación nos acerca a su corazón y transforma nuestra identidad. Una enseñanza que llena de esperanza y fe.\n\nÍndice de momentos:\n[00:00] Bienvenida, saludos y oración inicial\n[09:39] Oración por la paz del país\n[18:38] Lectura de Mateo 16:13-15\n[24:37] Enseñanza principal: Jesús se da a conocer\n[43:56] Yo soy el buen pastor y la puerta",
     "url": "https://www.facebook.com/misioncelreino/videos/706545600261324/",
@@ -6005,6 +6169,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQP9afaHi9NSWJUbSUwNDb4Zynuf44VV1yn8VpUesmPzQGkmCQ3oZnn4xq___443903094093884.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-J0Wmn21Z_AQP9afaHi9NSWJUbSUwNDb4Zynuf44VV1yn8VpUesmPzQGkmCQ3oZnn4xq___443903094093884.mp4",
     "title": "La Fidelidad de Dios",
     "message": "En esta predicación, el Pastor Daniel Tito nos recuerda que la fidelidad de Dios es para todos, sin excepción. A través de varios pasajes bíblicos, destaca cómo Dios nos protege, nos corrige y nos perdona. Nos invita a corresponder a su amor siendo fieles en lo poco y hasta la muerte. La fidelidad de Dios se extiende por mil generaciones, asegurando bendición para nuestros hijos y nietos. Un mensaje de esperanza y llamado a la fidelidad.\n\nÍndice de momentos:\n[00:00] Adoración y alabanza\n[15:30] Lectura de Hechos 10:38 y presencia de Dios\n[24:18] La parábola de los talentos: fidelidad en lo poco\n[27:44] Apocalipsis 2:10: sé fiel hasta la muerte\n[43:14] Canción 'Háblame' y llamado al arrepentimiento\n[50:44] Bendición final",
     "url": "https://www.facebook.com/misioncelreino/videos/443903094093884/",
@@ -6046,6 +6211,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQMBpaup8_3s5_6IwFZ5n2fGyKEus9vwxf2INLe0i8dsfMHVT2V80eFMaY1_687175112409977.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQMBpaup8_3s5_6IwFZ5n2fGyKEus9vwxf2INLe0i8dsfMHVT2V80eFMaY1_687175112409977.mp4",
     "title": "¿Puedo confiar en ti?",
     "message": "El Pastor Daniel Tito expone sobre la confianza: en Dios, en los líderes y en las relaciones. Basado en 2 Corintios 7:16 y 2 Tesalonicenses 3:4, enseña que aunque es fácil confiar en Dios, cuesta confiar en personas imperfectas. Sin embargo, Dios confía en nosotros a pesar de nuestras fallas. Advierte sobre no confiar en el hombre apartándose de Dios (Jeremías 17:5) y exhorta a ser dignos de confianza (1 Timoteo 6:20). Incluye ilustraciones sobre la confianza en la familia y el matrimonio.\n\nÍndice de momentos:\n[12:46] Introducción del tema: ¿Puedo confiar en ti?\n[15:08] Lectura de 2 Corintios 7:16\n[21:00] Confianza en el matrimonio\n[28:04] Jeremías 17:5 - confiar en Dios sobre los hombres\n[39:08] 1 Timoteo 6:20 - guardar lo encomendado\n[51:58] Oración final",
     "url": "https://www.facebook.com/misioncelreino/videos/687175112409977/",
@@ -6085,6 +6251,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQMPKOa4qbXlEaz8e4fHyw8T3bXXoFYKsMnd3rAuLowiLA6JllOMRXKrnjYBD0UcKC4AyD7sQeb6NBCWDIlmSF_237759477634924.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQMPKOa4qbXlEaz8e4fHyw8T3bXXoFYKsMnd3rAuLowiLA6JllOMRXKrnjYBD0UcKC4AyD7sQeb6NBCWDIlmSF_237759477634924.mp4",
     "title": "El mandato de congregarse",
     "message": "El mensaje central es que congregarse no es una opción, sino un mandato de Dios. El pastor explica que Dios ordena no dejar de reunirnos, y que hacerlo trae bendición y fortaleza espiritual. Destaca que la iglesia también puede estar en casa, como en tiempos de Aquila y Priscila, y que la presencia de Dios se manifiesta cuando nos juntamos en Su nombre.\n\nÍndice de momentos:\n[00:00] Introducción y bienvenida\n[10:58] Lectura de Hebreos 10:25\n[22:44] Salmos 84:10 - Preferir la casa de Dios\n[29:52] 1 Corintios 16:19 - La iglesia en casa\n[38:14] Hechos 4:31 - La presencia de Dios al congregarse",
     "url": "https://www.facebook.com/misioncelreino/videos/237759477634924/",
@@ -6124,6 +6291,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQMt7HWxBv84VW5KErQSHM67K_4Nb8ntYVVRsf9nGA9VvoeqtWEp662E_JGl_448683153023801.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQMt7HWxBv84VW5KErQSHM67K_4Nb8ntYVVRsf9nGA9VvoeqtWEp662E_JGl_448683153023801.mp4",
     "title": "El Pacto de Dios: Fidelidad y Promesa",
     "message": "El Pastor Daniel Tito nos recuerda que Dios es un Dios de pactos eternos. Al igual que con Abraham, Él nos hace promesas y espera nuestra fe y fidelidad. Incluso en tiempos difíciles, si clamamos, Él se acuerda de su pacto y nos sostiene. Somos llamados a guardar su pacto para ser su especial tesoro.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[08:44] Introducción y contexto del día\n[38:39] El pacto de Dios con Abraham (Génesis 15)\n[49:20] La fe de Abraham probada (Génesis 22)\n[55:52] Dios recuerda su pacto (Éxodo 2)\n[01:07:56] Oración para entrar en pacto",
     "url": "https://www.facebook.com/misioncelreino/videos/448683153023801/",
@@ -6164,6 +6332,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQNl3l1PZqCWm8ezXsZoPbIRKJ6fA6MldCDlvNNN3nU8V6c1vktGVQ0_Zclg_410629777196590.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQNl3l1PZqCWm8ezXsZoPbIRKJ6fA6MldCDlvNNN3nU8V6c1vktGVQ0_Zclg_410629777196590.mp4",
     "title": "El Bautismo: Un Paso de Fe y Obediencia",
     "message": "El Pastor Daniel Tito y la Pastora explican que el bautismo en agua es un paso de obediencia tras recibir a Cristo, simbolizando muerte y resurrección. Destacan ejemplos bíblicos de Jesús, los apóstoles y un testimonio personal, instando a los creyentes a bautizarse como acto de fe.\n\nÍndice de momentos:\n[13:24] Introducción de la pastora\n[18:05] ¿Qué es el bautismo en agua?\n[19:04] Jesús fue bautizado\n[30:58] Bautismo de los gentiles\n[35:18] Testimonio del bautismo del pastor\n[41:32] Llamado a los no bautizados",
     "url": "https://www.facebook.com/misioncelreino/videos/410629777196590/",
@@ -6207,6 +6376,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQNmSKIek4qRyIajK5zdA5NlD6sO70tvtUc7Ew32AKCU2aldFWqt927JST_FUPyDN6JtrY4SMyoA9QCtRsTWUYHx_259007469173415.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQNmSKIek4qRyIajK5zdA5NlD6sO70tvtUc7Ew32AKCU2aldFWqt927JST_FUPyDN6JtrY4SMyoA9QCtRsTWUYHx_259007469173415.mp4",
     "title": "Esperanza y Sanidad en Cristo",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a confiar en Dios en medio de las pruebas, recordándonos que Él es soberano y poderoso para sanar. Se ora por los enfermos y sus familias, y se anuncia una semana de ayuno para fortalecer la vida espiritual. Un mensaje de fe y esperanza para todos.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[01:57] Oración por sanidad\n[04:26] Petición por familiares de enfermos\n[06:54] Saludos y conexión con la congregación\n[12:36] Anuncio de semana de ayuno",
     "url": "https://www.facebook.com/misioncelreino/videos/259007469173415/",
@@ -6243,6 +6413,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQNylr_FeiIBExP1AEyUqf70WZFpimUju7oaTIRRif8SWBQB85YH9oEIKa8lDFVD1PHY7_Hmfgd4hJkj1kNnk_683081312451317.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQNylr_FeiIBExP1AEyUqf70WZFpimUju7oaTIRRif8SWBQB85YH9oEIKa8lDFVD1PHY7_Hmfgd4hJkj1kNnk_683081312451317.mp4",
     "title": "La Resurrección: Vida y Promesa Cumplida",
     "message": "El Pastor Daniel Tito nos guía en una profunda reflexión sobre la resurrección de Jesucristo, enfatizando que no es solo un hecho histórico o teológico, sino el fundamento de nuestra vida y salvación. A través de este mensaje, comprendemos que Cristo cumple sus promesas, que nada lo detiene, y que su resurrección nos ofrece una nueva oportunidad para vivir en fe y abundancia, dejando atrás las quejas y abrazando la vida que Él nos da.\n\nÍndice de momentos:\n[04:06] Bienvenida y significado de la Resurrección\n[22:18] Inicio del mensaje: ¿Por qué resucitó Cristo?\n[28:29] Las mujeres en el sepulcro y la piedra removida\n[47:40] El motivo bíblico: Cristo es la resurrección y la vida (Juan 11:25)\n[51:54] Superando la queja y el culpar a Dios\n[56:46] Oración de decisión y vivir para Cristo",
     "url": "https://www.facebook.com/misioncelreino/videos/683081312451317/",
@@ -6284,6 +6455,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-jBaxZZcj_AQP6cj8AKAWFSa3Vvw7rv4SX7FaIedWfeB323eVWjZClGYhdWRxjdToVuN9QuoMMdX8VAIqrlxqtC0sqDBQlbhY_892687424527829.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-jBaxZZcj_AQP6cj8AKAWFSa3Vvw7rv4SX7FaIedWfeB323eVWjZClGYhdWRxjdToVuN9QuoMMdX8VAIqrlxqtC0sqDBQlbhY_892687424527829.mp4",
     "title": "Camina según el Espíritu",
     "message": "Dios nos llama a dejar la vida guiada por la carne y caminar conforme al Espíritu. Aunque muchas veces queremos hacer lo bueno y fallamos, en Cristo no hay condenación para quienes buscan su presencia, obedecen su Palabra y permiten que el Espíritu Santo transforme su manera de vivir.\n\nÍndice de momentos:\n[00:26] La alegría de conversar con Dios\n[03:11] Oración de apertura y gratitud\n[05:14] Adoración: Ven Espíritu, ven\n[11:07] Intercesión por líderes y familias\n[54:10] Meditación en Romanos 8\n[57:04] No hay condenación en Cristo",
     "url": "https://www.facebook.com/misioncelreino/videos/892687424527829/",
@@ -6325,6 +6497,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQNfkjhsVXk05h8b7TjBSINiPwnNUqEK1ZcpZ0JQW4DpvUNEHY9kF1p50dBt_216284503712289.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQNfkjhsVXk05h8b7TjBSINiPwnNUqEK1ZcpZ0JQW4DpvUNEHY9kF1p50dBt_216284503712289.mp4",
     "title": "La Edad de Oro: Honra a tus Mayores",
     "message": "En esta predicación, el Pastor Daniel Tito nos enseña sobre la 'Edad de Oro', una etapa de vida que inicia a los 60 años, llena de sabiduría y experiencia. Basado en Levítico 19:32 y otros pasajes, nos exhorta a honrar, respetar y no abandonar a los ancianos, recordándonos que Dios tiene promesas de bendición y fruto incluso en la vejez. La enseñanza nos llama a valorar a nuestros mayores y a vivir cada etapa con la certeza de que Dios renueva nuestras fuerzas día a día.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[20:57] Anuncio del título: La Edad de Oro\n[25:27] Lectura de Levítico 19:32: Honrar a los ancianos\n[34:27] Proverbios 20:29: La gloria de los jóvenes y el esplendor de los ancianos\n[52:27] Salmo 92:14: Fructificar en la vejez\n[57:39] Lamentaciones 4:16: Advertencia contra despreciar a los ancianos",
     "url": "https://www.facebook.com/misioncelreino/videos/216284503712289/",
@@ -6373,6 +6546,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQOHsSm5sZN8brVKQ2akUpTY2ywXI2EH_NWq2Zman82PZDr4f_pXPGgY7HJb_557002539332871.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQOHsSm5sZN8brVKQ2akUpTY2ywXI2EH_NWq2Zman82PZDr4f_pXPGgY7HJb_557002539332871.mp4",
     "title": "Edifica tu vida sobre la Roca",
     "message": "En esta predicación, el Pastor Daniel Tito nos exhorta a edificar nuestras vidas sobre la roca firme que es Cristo, no sobre hombres imperfectos. A través del testimonio de su padre constructor y pasajes como Mateo 16:18, nos recuerda que edificar es un proceso difícil pero necesario, y que Dios quiere restaurar nuestras familias y llamarnos reparadores de portillos. \n\nÍndice de momentos:\n[15:37] Testimonio del padre constructor\n[22:59] Lectura de Mateo 16:18\n[28:51] Explicación: Pedro es piedra, Cristo es la roca\n[35:23] Mateo 7:24-25: Edificar sobre la roca\n[51:54] Isaías 58:12: Tus hijos edificarán ruinas antiguas\n[58:46] Llamado al altar y oración de entrega",
     "url": "https://www.facebook.com/misioncelreino/videos/557002539332871/",
@@ -6414,6 +6588,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQOiKz382cXNL8c0KAYbgAaTykkc6HIt5FowY37s2EZU6dGsUq9C8WUk1pXg_3288377458100055.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQOiKz382cXNL8c0KAYbgAaTykkc6HIt5FowY37s2EZU6dGsUq9C8WUk1pXg_3288377458100055.mp4",
     "title": "Resistiendo la Tentación con Oración",
     "message": "En esta predicación, el Pastor Daniel Tito nos exhorta a resistir la tentación, recordándonos que el enemigo conoce nuestras debilidades y busca apartarnos del camino de Dios. A través de Salmos 143:3, 2 Timoteo 3:1 y Santiago 1:12, nos anima a mantenernos firmes en oración y a desear a Dios con sed, para recibir la corona de vida prometida a los que aman al Señor. La oración es la llave para superar la tentación.\n\nÍndice de momentos:\n[00:00] Bienvenida y oración inicial\n[13:36] Lectura de Salmos 143:3\n[14:04] El enemigo conoce nuestras debilidades\n[18:41] Ejemplos bíblicos de tentación\n[19:25] Promesa de corona de vida (Santiago 1:12)\n[20:12] Oración por peticiones de los hermanos",
     "url": "https://www.facebook.com/misioncelreino/videos/3288377458100055/",
@@ -6454,6 +6629,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQOTeW_O6c5zg5fGeyWv8qc3_H3jXoBYjb7uQTpILr_CGQZKHjlyidMCLh_x86PvCNgLUJ_TwOV7ZxVw41IBoEW_5611817288834564.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQOTeW_O6c5zg5fGeyWv8qc3_H3jXoBYjb7uQTpILr_CGQZKHjlyidMCLh_x86PvCNgLUJ_TwOV7ZxVw41IBoEW_5611817288834564.mp4",
     "title": "Oración y Anuncios para Semana Santa",
     "message": "Sermón de oración y anuncios. Se intercede por el país, peticiones personales y la preparación para la Semana Santa, incluyendo la Santa Cena y el ayuno. Se invita a la congregación a participar en las celebraciones.\n\n[00:00] Oración inicial por peticiones\n[15:06] Oración por el país y gobernantes\n[17:47] Oración por ofrendas\n[18:17] Anuncios de la semana\n[19:13] Santa Cena y programa de Semana Santa\n[22:32] Despedida y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/5611817288834564/",
@@ -6488,6 +6664,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQOWAz8ufcBRBIUJCGARGCqm17v3vIleji8HEESR3rf6mktr625akrG6IiBb_819259898778204.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQOWAz8ufcBRBIUJCGARGCqm17v3vIleji8HEESR3rf6mktr625akrG6IiBb_819259898778204.mp4",
     "title": "Dios tiene planes para ti",
     "message": "En medio de crisis, enfermedad, alza de precios, pandemia o incertidumbre nacional, Dios recuerda a su pueblo que sus planes son de bienestar, esperanza y bendición. El mensaje anima a confiar, obedecer, no maldecir las circunstancias y creer que el Señor cumplirá sus promesas de generación en generación.\n\nÍndice de momentos:\n[03:14] Bienvenida y gratitud por la presencia de Dios\n[23:43] Adoración: espera el tiempo de Dios\n[30:34] Testimonio de salud del pastor Daniel\n[35:28] Tema central: Dios tiene planes para ti\n[50:21] Jeremías 29:11: planes de bienestar\n[01:07:18] Los planes de Dios continúan por generaciones",
     "url": "https://www.facebook.com/misioncelreino/videos/819259898778204/",
@@ -6530,6 +6707,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQOZOh_hNLBPqgbwd3e43sBiDjd1vmrZYsAj1E9c3SUXSQNln1C6hEvK8qqx_1603062043363702.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQOZOh_hNLBPqgbwd3e43sBiDjd1vmrZYsAj1E9c3SUXSQNln1C6hEvK8qqx_1603062043363702.mp4",
     "title": "Controla tus reacciones, vive en paz",
     "message": "En este culto de oración, el Pastor Daniel Tito nos exhorta a controlar nuestras reacciones y buscar la reconciliación, especialmente en la temporada navideña. Basado en 1 Timoteo 2:8 y Efesios 4:26, nos recuerda que la ira no debe llevarnos a pecar, sino a corregir con amor. La oración y la unidad familiar son claves para experimentar la paz de Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida y adoración\n[03:25] Inicio del culto de oración\n[10:45] Lectura de 1 Timoteo 2:8\n[14:15] Lectura de Efesios 4:26\n[18:49] Reflexión sobre la ira y la reconciliación\n[01:04:49] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/1603062043363702/",
@@ -6567,6 +6745,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-lwXOron8_AQPXwALSsES8NzCpwzI89Hs_t8Lz4pKu9L3IEMheArJk6mDiSzLW4sdSyArr_1111289259702378.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-lwXOron8_AQPXwALSsES8NzCpwzI89Hs_t8Lz4pKu9L3IEMheArJk6mDiSzLW4sdSyArr_1111289259702378.mp4",
     "title": "El más grande se hizo pequeño",
     "message": "En esta predicación de Navidad, el Pastor Daniel Tito nos recuerda que Jesús, el más grande y poderoso, se hizo un niño pequeño y humilde para enseñarnos que las cosas pequeñas son las que realmente importan. Nos invita a dejar la arrogancia y a humillarnos como niños para entrar en el reino de los cielos, dependiendo de Dios en todo momento. Comparte su testimonio personal sobre la muerte de su madre, mostrando que Dios responde de maneras que no esperamos.\n\nÍndice de momentos:\n[23:04] Inicio del sermón y agradecimiento\n[28:14] Lectura de Lucas 2:9-16\n[30:02] El más grande se hizo niño\n[35:22] Lectura de Mateo 18:1-3\n[44:52] Testimonio personal sobre la muerte de su madre\n[55:58] Cierre con villancicos y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/1111289259702378/",
@@ -6608,6 +6787,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mfVgabvX_AQMUkJI0kFAOqhQQncBT2ofHXQZnpZ3B1HZycL08IU2DWQBxSCy5wKQwL4w_710802373047481.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mfVgabvX_AQMUkJI0kFAOqhQQncBT2ofHXQZnpZ3B1HZycL08IU2DWQBxSCy5wKQwL4w_710802373047481.mp4",
     "title": "No Dejes de Pedir el Poder de Dios",
     "message": "En esta noche de oración, el Pastor Daniel Tito nos recuerda la importancia de no dejar de pedir el poder de Dios en medio de las dificultades. Basado en Hechos 4:29-31, nos exhorta a concentrarnos en el poder divino y no en las amenazas o problemas. La fe y la confianza en Dios nos llevan a experimentar su gloria y poder sobrenatural. No dejes de clamar por el poder de Dios en tu vida.\n\nÍndice de momentos:\n[00:00] Alabanza inicial\n[25:57] Inicio de peticiones de oración\n[52:51] Mensaje central: No dejes de pedir el poder de Dios\n[01:02:44] Bendición y cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/710802373047481/",
@@ -6647,6 +6827,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mfVgabvX_AQMyMmcFVtyeagw_dkn769QH_GmkB5fsNCD8m4O1nQgcE8c3o_xmva7rRSR_1043203279661936.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mfVgabvX_AQMyMmcFVtyeagw_dkn769QH_GmkB5fsNCD8m4O1nQgcE8c3o_xmva7rRSR_1043203279661936.mp4",
     "title": "Adoración y Arrepentimiento",
     "message": "En esta predicación, el Pastor Daniel Tito nos lleva a un tiempo de adoración intensa y arrepentimiento genuino. Comienza con una alabanza donde se expresa la libertad de perder la compostura delante de Dios, sin importar el qué dirán. Luego, la atmósfera cambia a un profundo arrepentimiento por haber fallado a Dios, reconociendo la necesidad de su perdón y transformación. Es un llamado a adorar con sinceridad y a volverse a Dios con un corazón contrito.\n\nÍndice de momentos:\n[00:00] Adoración y danza ante Dios\n[07:16] Momento de arrepentimiento y confesión\n[10:33] Clamor por perdón",
     "url": "https://www.facebook.com/misioncelreino/videos/1043203279661936/",
@@ -6681,6 +6862,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mfVgabvX_AQNLzFl0uDre5ekq7GQNsD2Aok4PhBjF5yyFMTcvPhlEOqDQhMC3A0vBJJcd263joBtTtPyRoPT4E_3VPY_gMVtF_154822979176734.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mfVgabvX_AQNLzFl0uDre5ekq7GQNsD2Aok4PhBjF5yyFMTcvPhlEOqDQhMC3A0vBJJcd263joBtTtPyRoPT4E_3VPY_gMVtF_154822979176734.mp4",
     "title": "Uno más que quiere ingresar a Jerusalén",
     "message": "El mensaje se centra en el pollino que Jesús eligió para su entrada triunfal. Aunque era un animal común, atado y sin voz, Jesús lo hizo especial, útil y con respaldo. Así, nosotros, sin Jesús, somos como ese pollino, pero al recibirlo, Él nos transforma y nos da propósito, llevándonos a la verdadera entrada al cielo.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[13:23] Inicio del mensaje: título y contexto\n[19:18] Lectura de Lucas 19:28-36\n[20:50] El pollino especial y necesario\n[24:20] El respaldo de Jesús: \"El Señor lo necesita\"\n[31:36] Aplicación: sin Jesús somos solo burros",
     "url": "https://www.facebook.com/misioncelreino/videos/154822979176734/",
@@ -6720,6 +6902,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mfVgabvX_AQNXXOf4E_vi1aFULID5HIYK5H3OKJWNEWDwWGLMFEWMGkczHWuba_M0LLKYw_741918716999071.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mfVgabvX_AQNXXOf4E_vi1aFULID5HIYK5H3OKJWNEWDwWGLMFEWMGkczHWuba_M0LLKYw_741918716999071.mp4",
     "title": "Portadores de Vida: El Poder de tu Toque",
     "message": "Todos hemos sido creados únicos y especiales por Dios. Somos portadores de bendición y vida a donde vayamos. Nuestras palabras y nuestro toque tienen poder espiritual. Al bendecir, atraemos bendición; al maldecir, maldición. Como la mujer del flujo de sangre, al tocar a Jesús con fe, recibimos sanidad. Incluso los huesos de Eliseo resucitaron a un muerto. Es tiempo de dejar la vida antigua y abrazar nuestra identidad en Cristo.\n\n[10:04] Inicio del mensaje: Todos fuimos creados únicos\n[17:37] Promesa de bendición: Génesis 12:3\n[24:00] Testimonio: La mujer que bendijo a su esposo\n[35:00] La mujer del flujo de sangre: Poder al tocar\n[42:00] Huesos de Eliseo: Portadores de vida\n[47:00] Llamado al altar y oración",
     "url": "https://www.facebook.com/misioncelreino/videos/741918716999071/",
@@ -6759,6 +6942,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mfVgabvX_AQOmOoxgcUNItVupxTrOay5eANgnpS9t6WxEM1TNYY8TTlQThrnfJ_tIpQwy_1058381774905368.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mfVgabvX_AQOmOoxgcUNItVupxTrOay5eANgnpS9t6WxEM1TNYY8TTlQThrnfJ_tIpQwy_1058381774905368.mp4",
     "title": "Cómo conociste a Jesús",
     "message": "El pastor Daniel Tito nos invita a recordar y valorar el momento en que conocimos a Jesús, destacando que cada encuentro es único y transformador. A través de su testimonio personal y personajes bíblicos como Simón el mago, el cojo de la puerta hermosa y la conversión de Saulo, nos recuerda que Dios nos busca en medio de nuestras dificultades y que nunca debemos olvidar su gracia. El mensaje culmina con un llamado a tener un encuentro personal con Dios y a servirle con gratitud.\n\nÍndice de momentos:\n[32:25] Inicio del mensaje: \"¿Cómo conociste a Jesús?\"\n[41:20] Testimonio personal del pastor sobre su familia\n[49:42] Encuentro de Simón el mago (Hechos 8)\n[54:27] Sanidad del cojo en la puerta hermosa (Hechos 3)\n[58:29] Llamado de los primeros discípulos (Mateo 4)\n[1:02:47] Conversión de Saulo (Hechos 9)",
     "url": "https://www.facebook.com/misioncelreino/videos/1058381774905368/",
@@ -6798,6 +6982,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mfVgabvX_AQPOwomkNODvC_DfGiToMQHdfMq696dM39sti40hl4G_t1PHjwBOEeYXDb3_183352500431780.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mfVgabvX_AQPOwomkNODvC_DfGiToMQHdfMq696dM39sti40hl4G_t1PHjwBOEeYXDb3_183352500431780.mp4",
     "title": "Sermón no disponible",
     "message": "El texto proporcionado solo contiene aplausos.",
     "url": "https://www.facebook.com/misioncelreino/videos/183352500431780/",
@@ -6823,6 +7008,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mHKbI8t2_AQMwDY5gTgjWgGB8fwwDFapl3F9vW_SNS1b2qbVQ0pSSJMyHqeG2_CR8jDmd_M2a1xnQ6h6V5ruRS8gKwXzMy_903895804312234.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mHKbI8t2_AQMwDY5gTgjWgGB8fwwDFapl3F9vW_SNS1b2qbVQ0pSSJMyHqeG2_CR8jDmd_M2a1xnQ6h6V5ruRS8gKwXzMy_903895804312234.mp4",
     "title": "No te canses de salvar familias",
     "message": "El Pastor Daniel Tito nos motiva a no cansarnos de interceder y trabajar por la restauración de nuestras familias, usando la historia de Jonás como ejemplo. Jonás conocía la misericordia de Dios, pero se cansó de predicar. No debemos rendirnos, porque Dios nos da fuerzas y nos llama a perseverar. Este mensaje nos prepara para el Día de Santificación Familiar el 8 de diciembre.\n\n[00:00] Bienvenida y oración inicial\n[14:04] La historia de Jonás: un profeta que se cansó\n[19:22] La misericordia de Dios y la lección de Jonás\n[21:16] No te canses de hacer el bien a tu familia\n[23:03] Anuncio del Día de Santificación Familiar\n[56:06] Celebración de la Santa Cena",
     "url": "https://www.facebook.com/misioncelreino/videos/903895804312234/",
@@ -6860,6 +7046,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mHKbI8t2_AQNwbEgdM4c_xHnu_L_hMzzjmH1_MQ2_et5wZAi7LKfWfujFCI8eTLxR9JYpPgluhETGGdlSGjETwTifJYMzQT2_3365371837078265.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mHKbI8t2_AQNwbEgdM4c_xHnu_L_hMzzjmH1_MQ2_et5wZAi7LKfWfujFCI8eTLxR9JYpPgluhETGGdlSGjETwTifJYMzQT2_3365371837078265.mp4",
     "title": "Transformados en Nuevas Criaturas",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a buscar una transformación profunda por el Espíritu Santo, basándose en la historia del rey Saúl en 1 Samuel 10. El mensaje central es que Dios quiere convertirnos en nuevas criaturas, mudándonos de nuestra vieja naturaleza. Para ello, es necesario caminar con hombres y mujeres de Dios que nos influencien positivamente, y permitir que el Espíritu Santo venga sobre nosotros con poder, para que podamos hacer cualquier cosa que Dios ponga en nuestras manos. El mundo se sorprenderá al vernos cambiados, y seremos cabeza y no cola.\n\n[00:00] Bienvenida y sueño del pastor\n[08:53] Llamado a ser nueva criatura\n[13:06] Lectura de 1 Samuel 10\n[15:34] Promesa de ser mudado en otro hombre\n[21:15] Exhortación a caminar con hombres de Dios\n[28:23] El Espíritu Santo da poder para hacer cualquier cosa",
     "url": "https://www.facebook.com/misioncelreino/videos/3365371837078265/",
@@ -6900,6 +7087,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-mHKbI8t2_AQPmtV8dFPy32wddUkYotFnZrWXoeAy38kjc0QF3udjzfyybN_yZC6ZW49uEl3Tz0f875tnGH2q0qH81rxQbpjal_989789911465369.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-mHKbI8t2_AQPmtV8dFPy32wddUkYotFnZrWXoeAy38kjc0QF3udjzfyybN_yZC6ZW49uEl3Tz0f875tnGH2q0qH81rxQbpjal_989789911465369.mp4",
     "title": "Gratitud que Activa las Bendiciones",
     "message": "En esta predicación, el Pastor Daniel Tito nos enseña la importancia de mantener un corazón agradecido en todo tiempo. La gratitud glorifica a Dios, reconoce Su voluntad, caracteriza a un verdadero adorador y multiplica las bendiciones. Al recordar de dónde nos rescató el Señor, nuestra fe se fortalece y nuestro vínculo con Él se hace más estrecho. Un corazón agradecido trae gozo, paz y mueve el corazón de Jesucristo.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[09:22] Meditación sobre la gratitud\n[22:04] Oración y pedidos de la congregación\n[56:57] Adoración final\n[59:36] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/989789911465369/",
@@ -6943,6 +7131,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-N2Yiyckn_AQM5e7eqKbnEl7m1m2D1phJjmzk_UI4_fQdTE6ZYIEVNsDjUu5GRxglJxdvdw_830410290847911.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-N2Yiyckn_AQM5e7eqKbnEl7m1m2D1phJjmzk_UI4_fQdTE6ZYIEVNsDjUu5GRxglJxdvdw_830410290847911.mp4",
     "title": "Regocijaos siempre en el Señor",
     "message": "En esta predicación, el Pastor Daniel Tito nos recuerda que la verdadera alegría no depende de las circunstancias, sino de nuestra relación con Dios. A través de pasajes como Proverbios 15:13, Mateo 5:11-12 y Filipenses 4:4, nos anima a regocijarnos siempre, confiando en que Dios tiene el control y su gozo es nuestra fortaleza. Un mensaje que transforma el corazón y nos invita a sonreír aún en medio de las pruebas.\n\nÍndice de momentos:\n[31:02] El origen de la felicidad verdadera\n[37:21] Proverbios 15:13: el corazón alegre\n[46:10] Mateo 5:11-12: gozo en la persecución\n[52:51] Santiago 1:2: gozo en las pruebas\n[56:40] Filipenses 4:4: regocijaos siempre\n[01:02:57] Oración de entrega y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/830410290847911/",
@@ -6986,6 +7175,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-N2Yiyckn_AQNS211zpbL49PWHLnA0TblIckdIhMD3NptxAKTE2eXpdEJoX5wtqHxSBJ2IJw_541741360319102.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-N2Yiyckn_AQNS211zpbL49PWHLnA0TblIckdIhMD3NptxAKTE2eXpdEJoX5wtqHxSBJ2IJw_541741360319102.mp4",
     "title": "Armas Espirituales con Autoridad",
     "message": "En esta segunda parte del estudio sobre las armas del cristiano, el pastor Daniel Tito profundiza en herramientas espirituales como el nombre de Jesús, la Palabra, la sangre de Cristo, la alabanza, la oración y el ayuno, la fe, las declaraciones y la autoridad. Destaca que estas armas son efectivas solo cuando se usan con convicción y autoridad espiritual, recordando que el creyente está equipado para vencer toda batalla.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[04:16] Inicio del estudio y oración\n[18:36] Repaso de armas previas\n[33:46] Nueva arma: oración y ayuno\n[39:16] El poder de la fe\n[42:05] Declaraciones y autoridad",
     "url": "https://www.facebook.com/misioncelreino/videos/541741360319102/",
@@ -7027,6 +7217,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-N2Yiyckn_AQOHjsIc4oc05E5L7Vz2AL9dykQfcbKgXPvVnzFoYBHvEZE7bII5mz5dk4N_3088218404588758.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-N2Yiyckn_AQOHjsIc4oc05E5L7Vz2AL9dykQfcbKgXPvVnzFoYBHvEZE7bII5mz5dk4N_3088218404588758.mp4",
     "title": "La Oración de la Mañana: Espera en Dios",
     "message": "En esta intercesión, se destaca la importancia de madrugar para orar sin distracciones, presentándose con humildad y alabanza ante Dios. Se anima a perseverar con fe, confiando en que Él responde en el tiempo preciso. Se intercede por pastores, líderes, ministerios, autoridades y la iglesia.\n\nÍndice de momentos:\n[00:00] Introducción y saludos\n[04:39] Oración de confesión\n[08:43] Lectura de Salmos 5:3\n[09:24] Explicación de la oración matutina\n[22:19] Intercesión por pastores\n[38:47] Intercesión por autoridades e iglesia",
     "url": "https://www.facebook.com/misioncelreino/videos/3088218404588758/",
@@ -7065,6 +7256,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-N2Yiyckn_AQPevgiifb5TZqyEnsIsqMpvJlqDX3KQr34mLOKwwoZkdLQuL4B3taDJze0_653527618952282.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-N2Yiyckn_AQPevgiifb5TZqyEnsIsqMpvJlqDX3KQr34mLOKwwoZkdLQuL4B3taDJze0_653527618952282.mp4",
     "title": "La Palabra de Dios",
     "message": "En este sermón, el Pastor Daniel Tito enseña sobre la autoridad y el poder transformador de la Palabra de Dios. Destaca que las Escrituras son inspiradas por Dios y útiles para enseñar, redargüir, corregir e instruir. Llama a los creyentes a ser hacedores de la palabra, no solo oidores, y a permanecer en ella para conocer la verdad que libera. Subraya la importancia de obedecer la palabra para recibir bendiciones, advirtiendo que desobedecer trae maldición. Finaliza proclamando la eternidad de la palabra de Dios.\n\nÍndice de momentos:\n[29:22] Inicio del mensaje: La palabra de Dios\n[31:38] 2 Timoteo 3:16-17: Inspiración divina\n[39:50] Lucas 11:27-28: Bienaventurados los que oyen y guardan\n[50:28] Santiago 1:22: Sed hacedores de la palabra\n[59:10] Juan 8:31-32: La verdad os hará libres",
     "url": "https://www.facebook.com/misioncelreino/videos/653527618952282/",
@@ -7110,6 +7302,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQMmXXvohstHqOg7bnSVYs_csmtWYN1ko4LQ2Kj3CS_DSpm331VwitqJTJa_TfyqGuQfdGzGGWZVsifv9nll253l_167300437863113.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQMmXXvohstHqOg7bnSVYs_csmtWYN1ko4LQ2Kj3CS_DSpm331VwitqJTJa_TfyqGuQfdGzGGWZVsifv9nll253l_167300437863113.mp4",
     "title": "Cómo orar con fe y perseverancia",
     "message": "En esta noche de oración, el pastor Daniel Tito y la pastora Miriam enseñan sobre la importancia de orar siempre sin desmayar, basados en Lucas 18:1. Explican que la oración incluye adoración, confesión, petición e intercesión por otros. Animan a acercarse a Dios con confianza, reconociendo que Él es un Padre amoroso que responde a sus hijos. El mensaje central es que, a pesar de las dificultades, debemos mantener la fe y la paz, sabiendo que Dios obra a nuestro favor.\n\nÍndice de momentos:\n[00:00] Saludos y testimonios de milagros\n[15:30] Inicio de la oración por peticiones\n[58:11] Meditación: cómo orar según Lucas 18:1\n[01:09:15] Cierre, bendición y anuncios",
     "url": "https://www.facebook.com/misioncelreino/videos/167300437863113/",
@@ -7151,6 +7344,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQNbtzJY_cvvzPG5EBQarK9V9vceZ0JcENwb2iRWbIGIkrT4x_OP7j5v87QZvha356ixN2XW1_Cv8fRc7HjX9M_701494550662917.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQNbtzJY_cvvzPG5EBQarK9V9vceZ0JcENwb2iRWbIGIkrT4x_OP7j5v87QZvha356ixN2XW1_Cv8fRc7HjX9M_701494550662917.mp4",
     "title": "Nuestro Socorro Viene de Jehová",
     "message": "En esta predicación, el Pastor Daniel Tito nos recuerda que en medio de las dificultades y cuando no encontramos respuestas, debemos alzar nuestros ojos a Dios, porque nuestro socorro viene de Jehová, creador de los cielos y la tierra. Basado en el Salmo 121, nos anima a confiar en que Dios es nuestra única y verdadera ayuda, incluso en los momentos de mayor desesperación.\n\nÍndice de momentos:\n[00:00] Bienvenida y oración inicial\n[12:15] Lectura de Salmos 121:1-2\n[15:20] Reflexión sobre la búsqueda de respuestas\n[21:29] Declaración: 'Mi socorro viene de Jehová'\n[22:58] Oración final y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/701494550662917/",
@@ -7189,6 +7383,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQNcTai5uphQRfTUhDaFieHj1PUFVXf9lPS4ZLOmENDPc0axufp2aG9YYOpNYxCExgKRYFp5aR2nmgEXO00hJMSC_270466231022319.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQNcTai5uphQRfTUhDaFieHj1PUFVXf9lPS4ZLOmENDPc0axufp2aG9YYOpNYxCExgKRYFp5aR2nmgEXO00hJMSC_270466231022319.mp4",
     "title": "Jesús Invita",
     "message": "El pastor Daniel Tito, usando la metáfora de una invitación personal, nos muestra que Jesús nos llama a dejar la pobreza, el cansancio y el pecado. En Isaías 55:1, Juan 6:35-37, Mateo 9:9 y 11:28, vemos que Él ofrece provisión, descanso y una nueva vida. Acepta hoy su invitación especial.\n\n[00:00] Bienvenida y oración inicial\n[10:18] Adoración y familia\n[15:08] Historia personal de invitaciones\n[20:46] Título: Jesús invita\n[35:02] Invitación a Mateo\n[44:04] Oración de aceptación",
     "url": "https://www.facebook.com/misioncelreino/videos/270466231022319/",
@@ -7229,6 +7424,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQOO58MTQ2Wol_AIoZhDnTgipdrKUwaBMsovKBS1UPQ3a9uHCN9NIWTSvw_1250627348976905.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQOO58MTQ2Wol_AIoZhDnTgipdrKUwaBMsovKBS1UPQ3a9uHCN9NIWTSvw_1250627348976905.mp4",
     "title": "Cinco cosas que no podemos negar a mamá",
     "message": "En este mensaje del Día de las Madres, el Pastor Daniel Tito comparte cinco enseñanzas bíblicas sobre cómo honrar y valorar a nuestras madres. Desde no menospreciar sus consejos hasta acompañarlas en la fe, cada punto nos reta a decir 'sí' a mamá en lo que realmente importa. Un llamado a la gratitud, la unidad familiar y a caminar en la verdad, con un tiempo de oración y dedicación.\n\nÍndice de momentos:\n[00:00] Introducción y anécdotas\n[07:05] Cinco cosas que no podemos decir no a mamá\n[09:33] No menospreciar la enseñanza de mamá (Proverbios 6:20)\n[12:28] Honrar a padre y madre (Efesios 6:2-3)\n[21:13] No abandonar a mamá en su vejez (Proverbios 23:22)\n[29:07] Unidad entre hermanos (Salmo 133:1)\n[31:01] Andar en la verdad (3 Juan 1:4)\n[36:36] Oración final y dedicación",
     "url": "https://www.facebook.com/misioncelreino/videos/1250627348976905/",
@@ -7269,6 +7465,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQOqwohqAX9LIijlzLCbf0lgSSPHeOM1GulE2LEJx2ureZv9DfGoP7GtNpKFTSAwAHrZ53DqaaUi7LzwobzDTWia_176608994562921.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQOqwohqAX9LIijlzLCbf0lgSSPHeOM1GulE2LEJx2ureZv9DfGoP7GtNpKFTSAwAHrZ53DqaaUi7LzwobzDTWia_176608994562921.mp4",
     "title": "La Palabra Determina la Crianza de los Hijos",
     "message": "En esta enseñanza, el Pastor Daniel Tito nos recuerda que la Palabra de Dios debe ser el fundamento para criar a nuestros hijos. A través del ejemplo de Lot, quien priorizó lo material sobre lo espiritual y perdió a su familia, aprendemos la importancia de instruir, disciplinar, amar y proveer conforme a las Escrituras. Deuteronomio 6, Proverbios y las Epístolas nos guían para formar hijos que honren a Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida y oración inicial\n[18:52] La lección de Lot: prioridades equivocadas\n[26:59] Instruir según Deuteronomio 6:6-7\n[38:32] Disciplina correcta según Proverbios\n[52:44] Proveer para los hijos (1 Timoteo 5:8)\n[58:05] Oración final y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/176608994562921/",
@@ -7314,6 +7511,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQO_qTU7bD89Y7AbUvG5xGITPzWLb_ujql2jCOe1HWfvK6gOkcBzZrxdsUM_1237999326902486.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQO_qTU7bD89Y7AbUvG5xGITPzWLb_ujql2jCOe1HWfvK6gOkcBzZrxdsUM_1237999326902486.mp4",
     "title": "Una Gota de Sangre",
     "message": "El Pastor Daniel Tito utiliza la metáfora de una abuelita con frascos de gotas que representan actitudes como amor, odio o gozo. Muestra cómo una sola gota de influencia negativa puede llevar a la ruina, como en los casos de Adán, Saraí, Jezabel y Sansón. Pero la buena noticia es que una gota de la sangre de Jesús es suficiente para limpiar, sanar y dar vida. Decide qué gotas dejas caer sobre tu vida y la de los demás.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[07:14] La historia de la abuelita y los frasquitos\n[14:37] Adán y Eva: las gotas de desobediencia\n[27:29] Jezabel y Acab: influencia maligna\n[35:07] Sansón y Dalila: las gotas de engaño\n[41:50] Una gota de la sangre de Jesús",
     "url": "https://www.facebook.com/misioncelreino/videos/1237999326902486/",
@@ -7355,6 +7553,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQP6oLSE8JgcE7ljftkwbaeJhTPSHmSsyAHJt_vEkTdbILCpqh6G1I6dpVblVosFEXvhbFxhExOhxjDiOio56Nt_519178802300761.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQP6oLSE8JgcE7ljftkwbaeJhTPSHmSsyAHJt_vEkTdbILCpqh6G1I6dpVblVosFEXvhbFxhExOhxjDiOio56Nt_519178802300761.mp4",
     "title": "La Biblia: Nuestra Comida Espiritual",
     "message": "El pastor Daniel Tito compara la Biblia con el alimento físico, destacando que leerla diariamente es esencial para la fortaleza espiritual. Así como la comida nutre el cuerpo, la Palabra de Dios da vida y energía al creyente. El descuido de la lectura bíblica lleva a debilidad, enfermedad espiritual y muerte. El mensaje urge a leer la Biblia en casa, con el líder y en la iglesia, resaltando su unidad divina a través de los siglos.\n\nÍndice de momentos:\n[00:00] Alabanza y oración inicial\n[22:40] La comida de Jesús: hacer la voluntad del Padre\n[30:00] Consecuencias de no comer la Palabra: debilidad, enfermedad, muerte\n[43:20] Dónde leer la Biblia: casa, líder, iglesia\n[47:00] Divisiones de la Biblia y su unidad",
     "url": "https://www.facebook.com/misioncelreino/videos/519178802300761/",
@@ -7393,6 +7592,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQP9liMfpuaHl1CafTvdILP7PpoXB3SfXlG5Un6zYHsz1kU_ENPMEp1mgUGg_367476361501664.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQP9liMfpuaHl1CafTvdILP7PpoXB3SfXlG5Un6zYHsz1kU_ENPMEp1mgUGg_367476361501664.mp4",
     "title": "Doy porque tengo, tengo porque doy",
     "message": "El Pastor Daniel Tito nos invita a reflexionar sobre el principio de dar: dar amor, paz, comprensión y nuestros dones. Basado en Mateo 7:7 y la parábola de los talentos (Mateo 25:14-30), nos recuerda que al dar recibimos más. No solo se trata de lo material, sino de compartir lo que Dios ha puesto en nosotros para bendición de otros.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[05:42] Oración inicial\n[20:03] Mensaje central: 'Doy porque tengo'\n[22:00] Lectura de Mateo 7:7\n[23:57] Parábola de los talentos",
     "url": "https://www.facebook.com/misioncelreino/videos/367476361501664/",
@@ -7431,6 +7631,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-n5EWlmdm_AQPRKitPXKaDyJ2Hx4yQA2BqbZATJ0GR2wCVobeVKIJpYXmCNSDgPxypJD3FgVPXTdld7b80vDfrhtaOkrdmWh_914537085649343.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-n5EWlmdm_AQPRKitPXKaDyJ2Hx4yQA2BqbZATJ0GR2wCVobeVKIJpYXmCNSDgPxypJD3FgVPXTdld7b80vDfrhtaOkrdmWh_914537085649343.mp4",
     "title": "Dirige tu alabanza a Dios",
     "message": "En esta predicación, el Pastor Daniel Tito enseña que la alabanza va más allá de cantar un coro; es una actitud de vida que debemos dirigir correctamente a Dios. Dios nos creó con un ritmo y alegría natural, y debemos canalizarlos hacia Él, no hacia el mundo. A través de pasajes como Salmos 9, 65 e Isaías 43, explica cómo alabar con todo el corazón, con posturas de humildad y júbilo. El verdadero gozo en la alabanza se manifiesta cuando vivimos en santidad.\n\n[00:00] Bienvenida y oración inicial\n[08:32] La alabanza: más que un coro\n[15:28] Publicar las obras de Dios (Salmo 9:11)\n[23:00] Alabar con todo el corazón (Salmo 9:1)\n[30:06] Posturas de alabanza: postrarse y aplaudir\n[47:45] El cojo sanado: alabar con saltos (Hechos 3:8)",
     "url": "https://www.facebook.com/misioncelreino/videos/914537085649343/",
@@ -7479,6 +7680,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQM0RR6Q0Y7JtwGofNozRvUjulAObtZEB7BkUvRSEkUBvsZVTMgWhk5Mw2X_751504705449420.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQM0RR6Q0Y7JtwGofNozRvUjulAObtZEB7BkUvRSEkUBvsZVTMgWhk5Mw2X_751504705449420.mp4",
     "title": "De Invisible a Visible: El Poder de Servir",
     "message": "Aprende que no importa tu edad o circunstancias; Dios te ve y quiere hacerte visible para bendecir a otros. Como Dorcas y Gedeón, Dios transforma tu mentalidad y te da fuerzas para cumplir su propósito.\n\nÍndice de momentos:\n[00:00] Introducción y bienvenida\n[34:10] El ejemplo de la anciana que limpiaba el templo\n[45:36] La historia de Dorcas (Tabita)\n[58:53] La historia de Gedeón\n[01:08:00] Cambio de mentalidad y llamado\n[01:22:00] Oración final y desafío",
     "url": "https://www.facebook.com/misioncelreino/videos/751504705449420/",
@@ -7518,6 +7720,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQMKhUswyvC3cBZ6OaWjD_EK5DbKMmEcZWPKDvTPnCQwxkulUuPuCku0bzd_230296778574801.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQMKhUswyvC3cBZ6OaWjD_EK5DbKMmEcZWPKDvTPnCQwxkulUuPuCku0bzd_230296778574801.mp4",
     "title": "Año de construir: ¿Con quién te juntas?",
     "message": "El Pastor Daniel Tito exhorta a los creyentes a edificar en el año 2021, basándose en el ejemplo de Nehemías. Enseña que debemos juntarnos con personas que no son indiferentes, que tienen visión de Dios, que actúan, que son espirituales y, sobre todo, con Jesús. El mensaje desafía a no solo hablar, sino a hacer, y a depender de Dios, quien hace posible lo imposible.\n\nÍndice de momentos:\n[00:00] Introducción y alabanza\n[33:37] Saludo y agradecimiento a la Pastora Miriam\n[40:04] Lectura de Nehemías 1:3-4: El lamento de Nehemías\n[41:42] Enseñanza: No ser indiferente a la necesidad\n[55:57] Nehemías 2:17-18: Visión de reconstrucción\n[01:03:23] Acción: El sumo sacerdote trabaja\n[01:14:40] Llamado a juntarse con Jesús",
     "url": "https://www.facebook.com/misioncelreino/videos/230296778574801/",
@@ -7559,6 +7762,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQN9bNvOD10OYfILFMscw2buTB16BmKsd9EstwzG7434FJFjTVNvYL35bkYS_204795131930723.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQN9bNvOD10OYfILFMscw2buTB16BmKsd9EstwzG7434FJFjTVNvYL35bkYS_204795131930723.mp4",
     "title": "La Fidelidad de Dios: Confía y Corresponde",
     "message": "Dios es fiel a todos sin excepción: nos guarda, protege y corrige por amor. Debemos corresponder con gratitud y fidelidad, incluso en lo pequeño. Él es fiel para perdonar si nos arrepentimos. Confía en su fidelidad para tus hijos y generaciones.\n\nÍndice de momentos:\n[00:00] Saludos y apertura\n[02:07] Tema: La fidelidad de Dios\n[05:08] Dios guarda de todo mal\n[10:42] Corresponder con fidelidad (Mateo 25)\n[15:34] Dios fiel en advertencias y corrección\n[27:27] Dios fiel para perdonar (1 Juan 1:9)",
     "url": "https://www.facebook.com/misioncelreino/videos/204795131930723/",
@@ -7601,6 +7805,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQNIYWkXng2606j_Thfp6Dq1uGDi2kPhjTNdaJNOogLghw20dWLXLYbduwOo_3622686624500397.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQNIYWkXng2606j_Thfp6Dq1uGDi2kPhjTNdaJNOogLghw20dWLXLYbduwOo_3622686624500397.mp4",
     "title": "La Bendición para Toda tu Familia",
     "message": "En este mensaje por el Día de la Familia, el pastor Daniel Tito nos recuerda que el plan de Dios no es solo para nosotros, sino para toda nuestra casa. A través de historias bíblicas como Noé, Abraham, Zaqueo y el carcelero de Filipos, vemos que la salvación y la bendición de Dios alcanzan a nuestras generaciones. Es tiempo de valorar, perdonar y orar por nuestra familia, sabiendo que Dios quiere salvar y bendecir a cada miembro.\n\nÍndice de momentos:\n[26:10] Saludo y celebración del Día de la Familia\n[41:21] Parábola del rico y Lázaro: el valor de la familia\n[53:30] Noé: la salvación incluye a toda la casa\n[01:02:18] Zaqueo: la salvación llegó a su casa\n[01:07:22] Hechos 16:31: cree y serás salvo tú y tu casa\n[01:14:46] Oración final por las familias",
     "url": "https://www.facebook.com/misioncelreino/videos/3622686624500397/",
@@ -7645,6 +7850,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQN_6og03cs0eUu6XQ5_OzkiQmaS2I2xKxsa3AQXAFEoBz6DzDoqKMXHFeT0mw_688836616304303.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQN_6og03cs0eUu6XQ5_OzkiQmaS2I2xKxsa3AQXAFEoBz6DzDoqKMXHFeT0mw_688836616304303.mp4",
     "title": "Servir a Dios con un corazón agradecido",
     "message": "El mensaje central es que servir a Dios es una respuesta natural al amor y la misericordia que hemos recibido. Usando ejemplos bíblicos como la suegra de Pedro, que al ser sanada sirvió inmediatamente, y María, que escogió pasar tiempo con Jesús antes que el activismo, el pastor anima a los creyentes a servir con gratitud y a priorizar la intimidad con Dios.\n\nÍndice de momentos:\n[00:00] Introducción y testimonios de agradecimiento\n[05:27] La suegra de Pedro: sanada y sirviendo al instante\n[18:57] Las mujeres que servían con sus bienes\n[38:18] Marta y María: servicio vs. intimidad con Jesús\n[46:43] Llamado a servir y pasar tiempo con Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/688836616304303/",
@@ -7685,6 +7891,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQOkU3PCZYYUobRlMBe19JxqL867popPTKgchAIDWSTCZpyG80KO44Tw2XnR_205120677932720.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-p3AvQZ5I_AQOkU3PCZYYUobRlMBe19JxqL867popPTKgchAIDWSTCZpyG80KO44Tw2XnR_205120677932720.mp4",
     "title": "Unidos en Alabanza y Santa Cena",
     "message": "En este servicio, el Pastor Daniel Tito nos invita a unirnos en adoración a pesar de las dificultades técnicas y personales. Destaca la importancia de la unidad familiar y congregacional, el gozo de alabar a Dios, y la preparación para recibir la Santa Cena. Un mensaje de perseverancia y fe, recordando que Dios nunca nos abandona. \n\n[02:38] Oración de apertura y gratitud\n[06:38] Saludo y testimonio de sanidad del Pastor Daniel\n[14:48] Tiempo de alabanza y adoración\n[19:00] Gozo y unidad en la iglesia\n[21:00] Saludos a hermanos de distintas regiones",
     "url": "https://www.facebook.com/misioncelreino/videos/205120677932720/",
@@ -7721,6 +7928,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-q25A44oL_AQM1b4UkNeW8470cSsCSER4CBgO1I12aasbGGwkVuGGPDkiT6GDvr_Xwmi_338556117629762.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-q25A44oL_AQM1b4UkNeW8470cSsCSER4CBgO1I12aasbGGwkVuGGPDkiT6GDvr_Xwmi_338556117629762.mp4",
     "title": "Confía en el Señor, no en tu poder",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a reflexionar sobre la verdadera fuente de nuestra confianza. A través de tres poderosos ejemplos bíblicos (Jericó, Goliat y el Mar Rojo), muestra que mientras el mundo confía en su propia fuerza, los hijos de Dios confían en Jehová. Nos anima a dejar de quejarnos, guardar silencio y esperar en Él, recordándonos que aunque los gigantes parezcan invencibles, Dios pelea por nosotros. Un mensaje de fe y entrega total.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanzas\n[30:10] Lectura de Salmos 20:7\n[36:26] Ejemplo de Jericó: confiar en Dios\n[38:48] Ejemplo de Goliat: vencer gigantes\n[40:00] Ejemplo del Mar Rojo: liberación divina\n[51:20] Salmos 28:7: Jehová es mi fortaleza\n[1:04:20] Job 13:15: confianza hasta la muerte",
     "url": "https://www.facebook.com/misioncelreino/videos/338556117629762/",
@@ -7764,6 +7972,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-q25A44oL_AQMO1soIk_5GG3riwGF6bpcOZgJPnFe6P7LuY7gCQdvcIl5jh0YUVVa67XQ_327540332330809.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-q25A44oL_AQMO1soIk_5GG3riwGF6bpcOZgJPnFe6P7LuY7gCQdvcIl5jh0YUVVa67XQ_327540332330809.mp4",
     "title": "Dar con fe y obediencia",
     "message": "El pastor Daniel Tito nos enseña que la obediencia y la fe en Dios son clave para recibir su provisión. Usando la historia de la viuda de Sareta y el ejemplo de las iglesias de Macedonia, nos reta a dar incluso de lo que no tenemos, confiando en que Dios multiplica nuestra generosidad. Un mensaje que transforma nuestra perspectiva sobre el dar y el servicio.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[03:23] Bienvenida y oración inicial\n[27:27] Lectura de 1 Reyes 17:8-14\n[44:46] Lectura de 2 Corintios 8:1-4\n[55:58] Oración de entrega y consagración",
     "url": "https://www.facebook.com/misioncelreino/videos/327540332330809/",
@@ -7800,6 +8009,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-q25A44oL_AQNIiKDKmeKHCnPWCFuXiIpqXaN7tg6Q6ZSISw9OvePNHvT7hKvOnxW35C_1072458923374736.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-q25A44oL_AQNIiKDKmeKHCnPWCFuXiIpqXaN7tg6Q6ZSISw9OvePNHvT7hKvOnxW35C_1072458923374736.mp4",
     "title": "El Reino de Dios: Búscalo Primero",
     "message": "El sermón enseña que el Reino de Dios es presente, pero debe buscarse primero. No consiste en comida, bebida o palabras, sino en poder, justicia, paz y gozo. Usando ejemplos como la oración del Padrenuestro, Jesús caminando sobre el agua, la sanidad de la mujer con flujo de sangre y la resurrección de Lázaro, muestra que el Reino está activo. Advierte que puede ser quitado de quienes no producen fruto y exhorta a tener un corazón de niño para heredarlo.\n\n[04:28] Saludo y llamado a la alegría\n[10:40] La oración del Padrenuestro\n[14:59] El reino llegó: Mateo 12:28\n[16:51] ¿Qué es el reino de Dios? Romanos 14:17\n[33:45] Busca primero el reino: Mateo 6:33\n[46:39] Corazón de niño: Mateo 19:14",
     "url": "https://www.facebook.com/misioncelreino/videos/1072458923374736/",
@@ -7846,6 +8056,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Q9hTquau_AQNrqP8w0UzUl0BNqPXhagPwSD5fJAkjdy16ylprMUILimcHpdlemuNEH6KunhIaijLqRnPbdWPggqWxmh6f12m_418864666454491.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Q9hTquau_AQNrqP8w0UzUl0BNqPXhagPwSD5fJAkjdy16ylprMUILimcHpdlemuNEH6KunhIaijLqRnPbdWPggqWxmh6f12m_418864666454491.mp4",
     "title": "Dios Responde Nuestras Preguntas",
     "message": "En este mensaje, el Pastor Daniel Tito nos recuerda que Dios siempre está dispuesto a escuchar nuestras preguntas y responderlas. A través de Salmos 17:6 e Isaías 58:9, vemos que Dios inclina su oído a nuestra voz. También reflexionamos sobre el propósito de la Santa Cena, basado en 1 Corintios 11:23, como un tiempo de comunión y recuerdo del sacrificio de Cristo. Dios es fiel y nos responde en su amor.\n\n[00:00] Bienvenida y oración inicial\n[10:43] Introducción: Preguntas para Dios\n[14:55] Lectura de Salmos 17:6\n[16:04] Referencia a Isaías 58:9\n[17:22] El propósito de la Santa Cena\n[17:46] Lectura de 1 Corintios 11:23",
     "url": "https://www.facebook.com/misioncelreino/videos/418864666454491/",
@@ -7884,6 +8095,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-quBAvhkn_AQMllUjXxM0UFF5lEt6QB1OJSImFoPYF4jPLBqzMnyuTa_wceVKUawx_558007909449047.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-quBAvhkn_AQMllUjXxM0UFF5lEt6QB1OJSImFoPYF4jPLBqzMnyuTa_wceVKUawx_558007909449047.mp4",
     "title": "El Corazón Generoso: Construyendo un Altar para Dios",
     "message": "El Pastor Daniel Tito nos recuerda que Dios tiene un corazón generoso y desea que seamos igual. A través de historias bíblicas como la mujer de flujo de sangre, el endemoniado liberado y la promesa a Isaac, vemos que Dios cumple sus promesas. Pero también nos desafía a levantar un altar para Él con ofrendas generosas, como lo hizo el pueblo de Israel y David anheló hacer. Un llamado a dar no por obligación, sino con un corazón dispuesto.\n\nÍndice de momentos:\n[00:00] Introducción y lucha espiritual\n[06:58] La mujer de flujo de sangre y su fe\n[09:57] Promesa de bendición a Isaac\n[13:58] Ofrenda voluntaria para el santuario\n[26:55] David y su deseo de construir casa a Dios\n[33:28] Reflexión sobre la generosidad en el mundo vs. la iglesia",
     "url": "https://www.facebook.com/misioncelreino/videos/558007909449047/",
@@ -7922,6 +8134,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQMmH9gPmPHpvpqWEQRanAM4pxJZ_EGfxVchPEBFH6KphN4xZDAiWyNl7K7LJPBncteW3Rf_BHwJxUrMcHiFxEg_2025212710948240.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQMmH9gPmPHpvpqWEQRanAM4pxJZ_EGfxVchPEBFH6KphN4xZDAiWyNl7K7LJPBncteW3Rf_BHwJxUrMcHiFxEg_2025212710948240.mp4",
     "title": "Dios también te pide algo",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a reflexionar sobre una verdad a menudo olvidada: así como nosotros le pedimos a Dios, Él también nos pide algo. Desde peticiones pequeñas hasta grandes anhelos, muchos buscan a Dios, pero ¿estamos atentos a lo que Él requiere de nosotros? Un mensaje que desafía nuestra perspectiva de la oración y la entrega.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[01:38] La pregunta: ¿Has pedido algo a Dios?\n[03:06] Ejemplos de peticiones simples\n[04:03] Dios también nos pide\n[05:12] Reflexión sobre la soberanía de Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/2025212710948240/",
@@ -7958,6 +8171,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQMO0PPcFgESOeVXaLSxgOmXoc8uTmjCX3XWvbsGjpPP_LfuwVuTtLygNQaK_634809754048253.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQMO0PPcFgESOeVXaLSxgOmXoc8uTmjCX3XWvbsGjpPP_LfuwVuTtLygNQaK_634809754048253.mp4",
     "title": "El Buen Predicador: Prepárate y Enseña",
     "message": "El Pastor Daniel Tito enseña sobre las características de un buen predicador según Eclesiastés 12:9-10. Destaca la necesidad de preparación espiritual e intelectual, buscar palabras agradables con pasión, y enseñar a otros. Un llamado a ser discípulos activos que prediquen el Evangelio.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[12:36] Oración y adoración\n[30:29] Llamado a ser predicadores\n[33:25] Lectura de Eclesiastés 12:9-10\n[37:25] Preparación espiritual e intelectual\n[53:03] Palabras agradables y pasión",
     "url": "https://www.facebook.com/misioncelreino/videos/634809754048253/",
@@ -7999,6 +8213,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQMY7kOlKPFeOdBfLoZgodsQrBbXEJcTcinDc0GmKjLClzIS2Qw6lCmBS_2m_812945592674137.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQMY7kOlKPFeOdBfLoZgodsQrBbXEJcTcinDc0GmKjLClzIS2Qw6lCmBS_2m_812945592674137.mp4",
     "title": "Cómo enfrentar el duelo con Dios",
     "message": "El pastor Daniel Tito enseña cómo enfrentar el duelo por la pérdida de un ser querido. Explica cuatro pasos: entregar el dolor a Dios, reaccionar con libertad cumpliendo las honras fúnebres, entender que con la partida no se acaba todo, y aferrarse a la esperanza de la resurrección. Dios sustenta, consuela y da esperanza a los que lloran.\n\n[05:09] Inicio de la enseñanza\n[18:13] Primer punto: Entregar el dolor a Dios\n[24:01] Segundo punto: Reaccionar con libertad\n[40:29] Tercer punto: La partida no es el fin\n[47:01] Cuarto punto: Hay esperanza después",
     "url": "https://www.facebook.com/misioncelreino/videos/812945592674137/",
@@ -8047,6 +8262,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQN618p4aGjOiinB45vDlIfsoEWrA6loNhSwUhe3atwRXyVdEzfsRjfA9vk_587570348840355.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQN618p4aGjOiinB45vDlIfsoEWrA6loNhSwUhe3atwRXyVdEzfsRjfA9vk_587570348840355.mp4",
     "title": "La paz verdadera en Cristo",
     "message": "En este culto de oración, el pastor Daniel Tito y la pastora Miriam nos recuerdan que solo en Cristo encontramos paz verdadera, a pesar de las pruebas y conflictos del mundo. Basados en Salmos 119:165 y Juan 16:33, nos animan a permanecer en Dios y en su Palabra para experimentar una paz que sobrepasa todo entendimiento. Un mensaje de esperanza y fe para tiempos difíciles.\n\n[00:15] Bienvenida y saludos\n[05:12] Lectura de Salmos 119:165\n[15:28] Enseñanza sobre la paz en Cristo\n[25:00] Oración por peticiones\n[01:05:13] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/587570348840355/",
@@ -8087,6 +8303,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQN9Yj5DcXKrWB8ttZ0zpxCTcJDLHmy8PSb7eNE8Xtb6Zio022QMGwG5ooH_300243278001289.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQN9Yj5DcXKrWB8ttZ0zpxCTcJDLHmy8PSb7eNE8Xtb6Zio022QMGwG5ooH_300243278001289.mp4",
     "title": "Dios es el que da la vida y la quita",
     "message": "Dios soberano sobre nuestra vida. Con ejemplos de Ezequías (vida extendida) y David (hijo muerto), el pastor muestra que Dios decide, pero la oración puede tocar su corazón. No presumamos del mañana; confiemos en que Él da vida. Rindámonos a Cristo.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[25:13] Introducción: ¿Podemos alargar nuestra vida?\n[30:02] Ezequías: la oración que extendió su vida\n[35:44] David: oración y ayuno ante la muerte de su hijo\n[43:33] Nuestra vida es neblina: Santiago 4\n[1:05:19] Dios da la vida y la quita: Deuteronomio 32",
     "url": "https://www.facebook.com/misioncelreino/videos/300243278001289/",
@@ -8129,6 +8346,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQNBpvebW6vrBIp8PDachMNOM3mC6eRyn9xErx8UcYrGLHaODCB9MkYUdrlQuDrTU2UBRCMGIP3u3o896fk5kJSe_262515058384457.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQNBpvebW6vrBIp8PDachMNOM3mC6eRyn9xErx8UcYrGLHaODCB9MkYUdrlQuDrTU2UBRCMGIP3u3o896fk5kJSe_262515058384457.mp4",
     "title": "Toda Oración Tiene Respuesta",
     "message": "Basado en 1 Samuel 7, el pastor nos recuerda que toda oración tiene respuesta, pero requiere un corazón arrepentido y perseverancia. Samuel intercedió sin cesar y Dios dio la victoria, estableciendo la piedra Ebenezer como señal de su ayuda. Hoy, Dios sigue respondiendo cuando clamamos a Él.\n\nÍndice de momentos:\n[00:00] Saludo y bienvenida\n[05:56] Introducción al tema de oración\n[13:58] Lectura de 1 Samuel 7:3\n[15:06] Explicación sobre arrepentimiento\n[19:06] No cesar de orar\n[21:28] La piedra Ebenezer",
     "url": "https://www.facebook.com/misioncelreino/videos/262515058384457/",
@@ -8168,6 +8386,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQNCWWRfbc5mK73OeM5jjpQ7tnosntYJue5Z8fQQylzEzAtFkLpmhrKsnj3EQUjVSHNEX7esAQ3YouxadeP5WrZ_256393532365093.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQNCWWRfbc5mK73OeM5jjpQ7tnosntYJue5Z8fQQylzEzAtFkLpmhrKsnj3EQUjVSHNEX7esAQ3YouxadeP5WrZ_256393532365093.mp4",
     "title": "Salva a otros como has sido salvo",
     "message": "El Pastor Daniel Tito nos exhorta a cumplir el llamado de Dios: así como fuimos salvos y enseñados, debemos salvar y enseñar a otros. Basado en Eclesiastés 12, nos recuerda que la sabiduría del predicador se demuestra al compartir la Palabra. Un mensaje de acción y multiplicación.\n\nÍndice de momentos:\n[00:00] Introducción y llamado a compartir\n[00:54] Lectura de Eclesiastés 12:9-10\n[01:48] El mensaje central: salva a otros como fuiste salvo\n[03:33] Anuncios y oración del sábado\n[06:34] Saludos y llamado a líderes",
     "url": "https://www.facebook.com/misioncelreino/videos/256393532365093/",
@@ -8207,6 +8426,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQNQbbJHFhun7cDzycLuGwh6fZetHcOS9Opw9iUwSDKUoHbsFWgux1Rmxf_3929112697130894.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQNQbbJHFhun7cDzycLuGwh6fZetHcOS9Opw9iUwSDKUoHbsFWgux1Rmxf_3929112697130894.mp4",
     "title": "Vigilia de Revolución y Milagros",
     "message": "En esta vigilia de la Misión Cristiana El Reino, el Pastor Daniel Tito invita a la congregación a un tiempo de oración, alabanza y expectativa de milagros, sanidades y reconciliación. Se enfatiza la unidad de la familia del reino y la humillación ante Dios.\n\nÍndice de momentos:\n[00:00] Inicio y oración\n[07:00] Bienvenida y propósito de la vigilia\n[07:59] Inicio de alabanzas\n[11:50] Exhortación y ánimo",
     "url": "https://www.facebook.com/misioncelreino/videos/3929112697130894/",
@@ -8240,6 +8460,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQOng7sWaCnbeWsxNyJE67fupSgDBmGyzMYgAQhDr2ijdDoZZlkH1IkhT5mty4ehGyKuPmlhHrEd2kBgQg60MCxY_243167713695306.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQOng7sWaCnbeWsxNyJE67fupSgDBmGyzMYgAQhDr2ijdDoZZlkH1IkhT5mty4ehGyKuPmlhHrEd2kBgQg60MCxY_243167713695306.mp4",
     "title": "El Propósito de la Vigilia",
     "message": "El Pastor Daniel Tito enseña que la vigilia es velar y cuidar lo que Dios nos ha dado, orar por los necesitados y tener comunión con el Padre. Basado en Mateo 24:42-43 y 26:38-39, destaca que Jesús pidió a sus discípulos velar con Él, mostrando que la vigilia trasciende lo personal y nos conecta con Dios. Invita a la próxima vigilia como un tiempo de encuentro espiritual.\n\nÍndice de momentos:\n[00:17] Lectura de Mateo 24:42-43\n[01:38] Lectura de Mateo 26:38-39\n[02:49] Vigilia no solo por uno mismo\n[04:51] Orar por los tristes\n[06:24] Comunión con el Padre\n[08:18] Anuncio de la próxima vigilia",
     "url": "https://www.facebook.com/misioncelreino/videos/243167713695306/",
@@ -8278,6 +8499,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-RMytC6e0_AQPS207UMuwzdI5UxBkiZTSPZIXBdtqLXaSb_COgw5U3QC5MHqUysD4K6A3_498779391196391.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-RMytC6e0_AQPS207UMuwzdI5UxBkiZTSPZIXBdtqLXaSb_COgw5U3QC5MHqUysD4K6A3_498779391196391.mp4",
     "title": "El Poder de la Lengua",
     "message": "En esta enseñanza, el Pastor Daniel Tito revela que nuestras palabras tienen poder de vida o muerte (Proverbios 18:21). Usando ejemplos bíblicos como Israel en Números 14 y testimonios personales, exhorta a cuidar lo que decimos, evitar quejas y declaraciones negativas, y usar la lengua para bendecir, edificar y declarar sanidad. El mensaje culmina con un llamado a dominar la lengua para vivir en victoria.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[27:43] Inicio del mensaje sobre el poder de la lengua\n[28:50] Proverbios 18:21: Vida y muerte en la lengua\n[35:50] El error de Israel al quejarse (Números 14)\n[48:02] Testimonio: El pastor rechaza la insulina\n[01:00:05] Oración final y compromiso",
     "url": "https://www.facebook.com/misioncelreino/videos/498779391196391/",
@@ -8325,6 +8547,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQMnEhEUuhY97mPYAuMoYZmhTt8lmvhgL4H01RJtM5aBBfAVXkW5ovHMCX_3043369819264179.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQMnEhEUuhY97mPYAuMoYZmhTt8lmvhgL4H01RJtM5aBBfAVXkW5ovHMCX_3043369819264179.mp4",
     "title": "Libérate de la Raíz de Amargura",
     "message": "El pastor Daniel Tito nos enseña sobre el peligro de guardar rencor y amargura en el corazón, usando la historia de José como ejemplo de perdón radical. Nos recuerda que una pequeña raíz de amargura puede crecer y contaminar nuestra vida, alejándonos de la gracia de Dios. Además, nos exhorta a volver a nuestro primer amor, ya que Dios también siente dolor cuando nos alejamos de Él. Es un llamado a la reconciliación y a restaurar nuestra relación con Dios y con los demás.\n\nÍndice de momentos:\n[32:33] Inicio del mensaje: Dolor y perdón\n[46:23] La historia de José: ejemplo de perdón\n[58:41] Advertencia: raíz de amargura\n[01:06:10] Dios reclama: has dejado tu primer amor\n[01:11:18] Llamado al altar: vuelve a Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/3043369819264179/",
@@ -8363,6 +8586,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQMwfwZGa_U5FZBwameQ8b0GWbloEfB5hI49cYMcti2enAGI3gtxEyjQ3xto53kmOXeeLn02a3UdqTnbHqmHd_280929546360578.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQMwfwZGa_U5FZBwameQ8b0GWbloEfB5hI49cYMcti2enAGI3gtxEyjQ3xto53kmOXeeLn02a3UdqTnbHqmHd_280929546360578.mp4",
     "title": "El mejor padre del mundo",
     "message": "En este sermón del Día del Padre, el Pastor Daniel Tito nos presenta a Noé como un modelo de padre justo, pero también humano. A través de la historia de Noé, aprendemos que incluso los mejores padres cometen errores, pero debemos honrarlos y cubrir sus faltas, como hicieron Sem y Jafet. El mensaje central es que Dios es el mejor Padre, y nos llama a honrar a nuestros padres terrenales y espirituales.\n\nÍndice de momentos:\n[00:00] Bienvenida y oración inicial\n[29:07] Título y lectura de Génesis 6\n[41:47] Testimonio personal del pastor sobre su padre\n[59:52] Lección sobre honrar a los padres\n[01:04:47] Oración final y bendición",
     "url": "https://www.facebook.com/misioncelreino/videos/280929546360578/",
@@ -8403,6 +8627,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQMzHY0n_PIospoKQDrGg1c9LjE6ldLOZWTtWfoK01BBxaPg43tQYsT_HKg1_702394027282855.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQMzHY0n_PIospoKQDrGg1c9LjE6ldLOZWTtWfoK01BBxaPg43tQYsT_HKg1_702394027282855.mp4",
     "title": "Alabando al Dios de Bendiciones",
     "message": "El Pastor Daniel Tito guía a la congregación en un tiempo de alabanza y adoración, recordando que servimos a un Dios de bien, justicia y bendiciones. Invita a confiar en Él y a adorarle con gratitud, incluso en medio de pruebas.\n\nÍndice de momentos:\n[00:00] Inicio del servicio\n[15:17] Palabras de gratitud\n[17:16] Llamado a la adoración\n[21:04] Exhortación final",
     "url": "https://www.facebook.com/misioncelreino/videos/702394027282855/",
@@ -8436,6 +8661,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQOPZRT7X6nbWjtg1sv3akZxUb7O_K2SLg7VNL2r13jrnwpyzLuBXFinRcenwcWkEo_tjINCjfUNu8zALcAdzVm_332276101844633.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQOPZRT7X6nbWjtg1sv3akZxUb7O_K2SLg7VNL2r13jrnwpyzLuBXFinRcenwcWkEo_tjINCjfUNu8zALcAdzVm_332276101844633.mp4",
     "title": "El Peligro del Chisme",
     "message": "El Pastor Daniel Tito expone el pecado del chisme a la luz de la Palabra. Revela cómo daña a tres personas: el que cuenta, el que escucha y el del que se habla. Dios aborrece el chisme y llama a sus hijos a ser dignos de confianza, guardar secretos y refrenar la lengua. El mensaje invita al arrepentimiento y a buscar ayuda de Dios para vencer este pecado.\n\nÍndice de momentos:\n[13:15] Estudio bíblico: El chisme como pecado\n[19:36] Lectura de Levítico 19:16: No andarás chismeando\n[32:21] Proverbios 18:8: Las palabras del chismoso son bocados suaves\n[44:36] Consecuencias del chisme: aparta a los mejores amigos\n[47:35] Cómo romper el pecado: oración y arrepentimiento",
     "url": "https://www.facebook.com/misioncelreino/videos/332276101844633/",
@@ -8482,6 +8708,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQPjasNckgb62TjpRGg_8XQjZBFMZ8Xe_kXxAuFwo4ZlyYz1JRc5SWaIo36_400206475136450.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Rrh3wvA0_AQPjasNckgb62TjpRGg_8XQjZBFMZ8Xe_kXxAuFwo4ZlyYz1JRc5SWaIo36_400206475136450.mp4",
     "title": "Los tres enemigos del creyente",
     "message": "El pastor Daniel Tito enseña sobre los tres enemigos del cristiano: el mundo, la carne y el diablo, basándose en Santiago, 1 Juan y Romanos. Exhorta a no amar al mundo, a resistir la tentación carnal y a recordar que Satanás está derrotado bajo nuestros pies. Llama a vivir en santidad y victoria en Cristo.\n\nÍndice de momentos:\n[00:00] Alabanza y oración inicial\n[15:54] Introducción del tema: los enemigos del creyente\n[17:29] Primer enemigo: el mundo (Santiago 4:4)\n[36:26] Segundo enemigo: la carne (Santiago 1:14-15)\n[47:58] Tercer enemigo: el diablo (Romanos 16:20)\n[58:33] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/400206475136450/",
@@ -8526,6 +8753,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQNBdj2cZCipKFDBa1avNsYC2h5ZV6e_LikO6RUPbn5LlMalvSfvYvlWUV_nsw_2664561960528010.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQNBdj2cZCipKFDBa1avNsYC2h5ZV6e_LikO6RUPbn5LlMalvSfvYvlWUV_nsw_2664561960528010.mp4",
     "title": "Santidad: Separados para Dios",
     "message": "En esta predicación, el Pastor Daniel Tito nos recuerda que la santidad no es solo un concepto, sino un llamado a vivir separados del mundo y de la carne, así como Sansón fue apartado como nazareo. Dios es santo y su nombre es santo, por lo que debemos ser santos en toda nuestra manera de vivir. Sin santidad, nadie verá al Señor. Es un compromiso diario de buscar la paz y la pureza para agradar a Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[15:04] Homenaje a la hermana Marlene\n[28:19] Introducción al tema: Pecado vs Santidad\n[31:30] Sansón y el llamado nazareo (Jueces 13)\n[50:59] Santidad de Dios y llamado a ser santos (Salmos 103)\n[59:00] Sin santidad nadie verá al Señor (Hebreos 12:14)",
     "url": "https://www.facebook.com/misioncelreino/videos/2664561960528010/",
@@ -8567,6 +8795,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQOcH8eWt9gdq4HlZvTzILmYtnbcsaXja7ojpZ8SSInZ7LXrQgKyq2irg9N_299451724631638.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQOcH8eWt9gdq4HlZvTzILmYtnbcsaXja7ojpZ8SSInZ7LXrQgKyq2irg9N_299451724631638.mp4",
     "title": "A sus pies: Honra y humildad",
     "message": "En este sermón, el Pastor Daniel Tito explora el profundo significado bíblico de estar 'a los pies' de alguien, desde la honra y hospitalidad en la cultura judía hasta la humildad y servicio ejemplificados por Jesús. A través de pasajes como la mujer que ungió sus pies, la promesa a Caleb y el lavatorio de pies, nos invita a postrarnos ante el Señor para recibir su perdón y bendición. El lugar más alto es a los pies de Jesucristo.\n\nÍndice de momentos:\n[31:58] Introducción al mensaje\n[55:20] La mujer que ungió los pies de Jesús\n[01:01:27] Jesús lava los pies de los discípulos\n[01:07:20] Llamado a la humildad y postración",
     "url": "https://www.facebook.com/misioncelreino/videos/299451724631638/",
@@ -8615,6 +8844,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQOovCwwns0YoxfNvIQ4KL6UthXTwKSuR8mHxCQ5UdWq5lHU3rPNY74S3etX_179674834286698.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQOovCwwns0YoxfNvIQ4KL6UthXTwKSuR8mHxCQ5UdWq5lHU3rPNY74S3etX_179674834286698.mp4",
     "title": "Nada Te Detenga",
     "message": "El pastor Daniel Tito nos exhorta a no permitir que nada nos detenga en nuestro caminar con Dios. Usando ejemplos de David, la mujer con flujo de sangre y la viuda pobre, muestra que las pruebas no deben frenar nuestra fe. El mensaje inspira a seguir adelante, confiando en que Dios tiene un propósito. \n\nÍndice de momentos:\n[25:46] Introducción: frustraciones y sueños\n[29:15] Lectura de 2 Samuel 12:14-21\n[40:28] Lectura de Lucas 8:43-44\n[49:38] Lectura de Lucas 21:1-3\n[01:02:26] Lectura de Gálatas 5:7-9\n[01:07:11] Llamado a no detenerse",
     "url": "https://www.facebook.com/misioncelreino/videos/179674834286698/",
@@ -8654,6 +8884,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQOTOGAm1hoU_sXQN4prlkn76CrxeIDtRkQ_xuy0r7G2C_heRQswOz5zhBoMAg_4245313688917539.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQOTOGAm1hoU_sXQN4prlkn76CrxeIDtRkQ_xuy0r7G2C_heRQswOz5zhBoMAg_4245313688917539.mp4",
     "title": "Somos un milagro de Jesús",
     "message": "El pastor Daniel Tito nos recuerda que cada uno es un milagro de Dios y que los milagros de Jesús tienen un propósito: mostrarnos su poder y amor. Desde convertir agua en vino hasta resucitar a Lázaro, cada señal revela que Él puede transformar nuestra vida, saciar nuestras necesidades, calmar nuestras tormentas y hacer posible lo imposible. El mayor milagro es la salvación, sellada con su sangre.\n\nÍndice de momentos:\n[25:14] Presentación del pastor\n[26:34] Mensaje: Somos un milagro de Jesús\n[33:03] Agua en vino: fiesta y pacto\n[47:48] Multiplicación de panes y peces\n[54:48] Jesús calma la tempestad\n[56:49] Jesús camina sobre las aguas\n[01:02:43] Resurrección de Lázaro\n[01:08:07] Llamado a aceptar a Jesús",
     "url": "https://www.facebook.com/misioncelreino/videos/4245313688917539/",
@@ -8697,6 +8928,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQP84t_1UynexTCm4Igfw_mvHldQOEu29G_HN3MciUqonZZUDpoc0VmxiI_275775557411832.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQP84t_1UynexTCm4Igfw_mvHldQOEu29G_HN3MciUqonZZUDpoc0VmxiI_275775557411832.mp4",
     "title": "Celebrando al Poderoso de Israel",
     "message": "En este culto dominical, iniciamos con alabanzas y adoración al Dios todopoderoso. Se destaca la grandeza y majestad de Dios, y se invita a los creyentes a tener intimidad con Él. El mensaje central es exaltar el nombre de Dios y reconocer su poder. Índice de momentos:\n[00:00] Inicio con alabanza\n[02:43] Saludos y conexión\n[04:22] Oración de inicio\n[07:17] Alabanza y adoración\n[11:50] Momento de adoración íntima\n[16:51] Cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/275775557411832/",
@@ -8729,6 +8961,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQPwjdteN3T1OqsomOPrBeqzoXb3JdTii__EyZ3QELmoIxyyyw8cHAbGONSCTdTWtxxdtPT6YwDLkOD3XNZaw63o_480379176611793.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-s1eM0Fx4_AQPwjdteN3T1OqsomOPrBeqzoXb3JdTii__EyZ3QELmoIxyyyw8cHAbGONSCTdTWtxxdtPT6YwDLkOD3XNZaw63o_480379176611793.mp4",
     "title": "Esperanza para los que cuidan enfermos",
     "message": "La pastora Miriam Tito comparte un mensaje de esperanza y aliento para los familiares que cuidan a enfermos, especialmente durante la pandemia. Basándose en la historia de Séfora, la esposa de Moisés, destaca la importancia de la oración y la fe para sostener a quienes enfrentan el dolor y la angustia de ver sufrir a un ser querido. Invita a clamar a Dios no solo por los enfermos, sino también por aquellos que los atienden, reconociendo su sacrificio y fortaleza. Un llamado a ser ángeles de cuidado y a confiar en que Dios obra en medio de la adversidad.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[19:02] Introducción al tema de Séfora\n[26:15] Reflexión sobre cuidadores de enfermos\n[36:20] Llamado a orar por familiares\n[40:54] Oración de intercesión\n[47:07] Testimonio personal y gratitud",
     "url": "https://www.facebook.com/misioncelreino/videos/480379176611793/",
@@ -8768,6 +9001,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-sFM2DXoC_AQMfILETroYQLrvnlJ7J6H2b6HHFs7eSqLEjNih_84D0czy53KwjjxEr7Z5gg_996846967629081.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-sFM2DXoC_AQMfILETroYQLrvnlJ7J6H2b6HHFs7eSqLEjNih_84D0czy53KwjjxEr7Z5gg_996846967629081.mp4",
     "title": "Sí se puede dar gracias",
     "message": "El mensaje central es que la gratitud es posible y necesaria en toda circunstancia. A través de la historia de la viuda de Sarepta, el pastor muestra cómo la gratitud abre puertas a la provisión y los milagros de Dios. Nos anima a agradecer no solo por las bendiciones, sino también en las pruebas, siguiendo el ejemplo de Jesús antes de resucitar a Lázaro. El llamado es a vivir una vida de gratitud, reconociendo la fidelidad de Dios y la ayuda de los demás.\n\nÍndice de momentos:\n[04:06] Inicio del mensaje y bienvenida\n[30:05] Afirmación: \"Yo sí puedo dar gracias\"\n[38:29] Lectura de 1 Reyes 17:10-15\n[57:33] Lectura de 1 Tesalonicenses 5:18\n[01:11:13] Jesús da gracias antes de la resurrección de Lázaro\n[01:16:32] Oración final y llamado a la gratitud",
     "url": "https://www.facebook.com/misioncelreino/videos/996846967629081/",
@@ -8808,6 +9042,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-sFM2DXoC_AQNn3OmUac2PEaiL7X1enxmuvH6IjPJ33iE16_dWXY6hH7tpWiWaI2blPZyxNg_684348372721299.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-sFM2DXoC_AQNn3OmUac2PEaiL7X1enxmuvH6IjPJ33iE16_dWXY6hH7tpWiWaI2blPZyxNg_684348372721299.mp4",
     "title": "Escogidos para conquistar",
     "message": "Dios nos ha escogido de entre lo vil y menospreciado para hacer de nosotros un linaje de reyes. Jesús es nuestro abogado perfecto, quien nos defiende sin cobrar. Es tiempo de despertar del conformismo y salir a conquistar naciones, confiando en que toda enfermedad y temor ya fueron vencidos en la cruz. \n\n[00:00] Inicio y adoración\n[07:04] Somos el linaje escogido\n[10:52] Jesús, nuestro abogado\n[14:34] Oración por peticiones\n[41:27] Cumpleaños y anuncios",
     "url": "https://www.facebook.com/misioncelreino/videos/684348372721299/",
@@ -8844,6 +9079,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-sFM2DXoC_AQOYeqpv3_yVx6BX1l19MnYAfb9RGO5NghcIbkx4kuNmuHnwFiCr2cJzg_Cxw_521492819008453.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-sFM2DXoC_AQOYeqpv3_yVx6BX1l19MnYAfb9RGO5NghcIbkx4kuNmuHnwFiCr2cJzg_Cxw_521492819008453.mp4",
     "title": "Llenos del Espíritu Santo",
     "message": "El Pastor Daniel Tito nos recuerda que el Espíritu Santo es nuestro Consolador, que nos llena de gozo y fortaleza en medio de las pruebas. Basado en Hechos 2:2, nos invita a ser llenos del Espíritu Santo y a confiar en su poder para vencer el miedo y la enfermedad. Un mensaje de esperanza y fe.\n\nÍndice de momentos:\n[00:00] Alabanza inicial\n[05:25] Lectura de Hechos 2:2\n[06:26] El Consolador prometido\n[09:42] Testimonio personal del Espíritu Santo\n[11:06] Oración por pastores y líderes\n[48:43] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/521492819008453/",
@@ -8884,6 +9120,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQMeKaM1yfw4rEVSUrUT9MxZHsNuwy8rMHdVdUdgzLh1gQsouXC5dRkNoLwz_389960189329730.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQMeKaM1yfw4rEVSUrUT9MxZHsNuwy8rMHdVdUdgzLh1gQsouXC5dRkNoLwz_389960189329730.mp4",
     "title": "Lecciones de la primera familia",
     "message": "En esta predicación, el pastor Daniel Tito explora la historia de la primera familia (Adán, Eva, Caín y Abel) para enseñar sobre la importancia de instruir a los hijos en el camino del Señor, el libre albedrío y la necesidad de servir a Dios con un corazón sincero. Advierte contra el rencor y la envidia entre hermanos, y nos recuerda que Jesús invita a los niños a acercarse a Él.\n\n[00:00] Alabanza y bienvenida\n[29:47] Inicio del mensaje sobre la primera familia\n[33:31] Lectura de Génesis 4:1-3\n[45:23] Dios confronta a Caín\n[59:59] Referencia a 1 Juan 3:12\n[1:06:43] Jesús bendice a los niños",
     "url": "https://www.facebook.com/misioncelreino/videos/389960189329730/",
@@ -8928,6 +9165,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQNeVTbsTg4f9OvhzAU2XPNiG_M2lZI6UgmwN4uoG_PUCp956odbHh5oSYz_577546580572752.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQNeVTbsTg4f9OvhzAU2XPNiG_M2lZI6UgmwN4uoG_PUCp956odbHh5oSYz_577546580572752.mp4",
     "title": "Dios busca adoradores",
     "message": "El pastor Daniel Tito enseña que la verdadera adoración no solo consiste en pedir, sino en buscar a Dios en espíritu y verdad. Destaca que el Padre busca adoradores que le adoren genuinamente, como los sabios de Oriente y el rey David. Nos invita a priorizar la adoración sobre las peticiones, y a sostener la casa de Dios con ofrendas y gratitud.\n\nÍndice de momentos:\n[00:00] Inicio con alabanza\n[15:11] Saludos y presentación del equipo de alabanza\n[24:30] Enseñanza sobre santificar el nombre de Dios\n[28:57] Lectura de 1 Samuel 1:1-3\n[30:50] Lectura de Juan 4:23-24\n[36:53] Lectura de Mateo 2:1-2\n[44:00] Reflexión sobre la importancia de la casa de Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/577546580572752/",
@@ -8968,6 +9206,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQNR3VkXI5R4mJxhENvLKd5t9MMafD57gUAACcNy8oXhSzNObgjP2a9_1006156993383875.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQNR3VkXI5R4mJxhENvLKd5t9MMafD57gUAACcNy8oXhSzNObgjP2a9_1006156993383875.mp4",
     "title": "Libertad para Atar y Desatar",
     "message": "El mensaje explora la paradoja de la libertad a través del atamiento. Usando Marcos 3:27, el Pastor Daniel Tito explica que para saquear la casa del hombre fuerte, primero hay que atarlo. Aplica esto a la guerra espiritual, instando a los creyentes a orar por sus familias para que permanezcan libres en Cristo. Referenciando a Sansón, el atamiento de Jesús y Mateo 18:18, enfatiza nuestra autoridad para atar y desatar en la tierra, lo cual es ratificado en el cielo. La predicación culmina con una invitación a aceptar a Jesús y vivir en Su libertad.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[10:04] Introducción: Libertad en Cristo\n[10:20] Lectura: Marcos 3:27 - El hombre fuerte\n[17:05] Oración por la libertad de la familia\n[19:44] Sansón y Dalila: No perder la fuerza\n[22:15] Autoridad para atar y desatar (Mateo 18:18)\n[29:25] Oración final y altar call",
     "url": "https://www.facebook.com/misioncelreino/videos/1006156993383875/",
@@ -9009,6 +9248,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQOsblwMZc8GHGf5xOIwmHDK03mVYJFwR3zL8HYXETEUEVz81K1okLDcdi_3229708013938239.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQOsblwMZc8GHGf5xOIwmHDK03mVYJFwR3zL8HYXETEUEVz81K1okLDcdi_3229708013938239.mp4",
     "title": "Un Pueblo Fortalecido por Dios",
     "message": "El Pastor Daniel Tito anima a los creyentes a abrazar su identidad como pueblo fortalecido y próspero de Dios, basado en Éxodo 1:7. Contrasta la libertad y bendición del pueblo de Dios con los intentos del enemigo de esclavizar y desanimar. Llama a la fidelidad, a enseñar a la próxima generación y a declarar audazmente 'Aquí estoy, Señor' para ser usado por Dios en la transformación.\n\nÍndice de momentos:\n[10:00] Oración por Perú\n[19:36] Lectura de Éxodo 1:7\n[22:44] La identidad del pueblo fortalecido\n[28:53] El diablo teme al fortalecido\n[37:00] Exhortación a la fidelidad (Apocalipsis 2:10)\n[44:54] Clamor del pueblo y respuesta de Dios\n[53:24] Llamado a responder: 'Aquí estoy yo'",
     "url": "https://www.facebook.com/misioncelreino/videos/3229708013938239/",
@@ -9051,6 +9291,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQOWO89gLr3u0IYvLRN51uOo4c9b1Tui09Qa7JOXUH35VwniYMnvaxrrreD_418614956267088.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQOWO89gLr3u0IYvLRN51uOo4c9b1Tui09Qa7JOXUH35VwniYMnvaxrrreD_418614956267088.mp4",
     "title": "La Biblia y la Historia",
     "message": "En esta predicación, el Pastor Daniel Tito enseña sobre la confiabilidad de la Biblia y su historia. Explica la diferencia entre libros canónicos y apócrifos, los 66 libros de la Biblia protestante, los evangelios sinópticos y apócrifos, y la importancia de la Septuaginta. Un estudio profundo que fortalece la fe en la Palabra de Dios.\n\n[16:32] Introducción al tema\n[20:18] Lectura bíblica: 1 Tesalonicenses 2:13\n[24:02] Diferencia entre canónicos y apócrifos\n[36:35] Los 66 libros canónicos\n[43:42] Evangelios canónicos y apócrifos\n[52:02] La Septuaginta",
     "url": "https://www.facebook.com/misioncelreino/videos/418614956267088/",
@@ -9090,6 +9331,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQP2yyVJokyqpB2hF0wjvMyDdSczPracr6axWZHw_JOBucgH71So5RjUPYe_580881146249239.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQP2yyVJokyqpB2hF0wjvMyDdSczPracr6axWZHw_JOBucgH71So5RjUPYe_580881146249239.mp4",
     "title": "Libres de la Envidia",
     "message": "La envidia es un pecado destructivo que carcome el alma y daña las relaciones. A través de ejemplos bíblicos como Isaac, Raquel y José, aprendemos a rechazarla y alegrarnos por las bendiciones ajenas. Jesús venció la envidia, y en Él podemos ser libres.\n\nÍndice de momentos:\n[00:00] Introducción y alabanzas\n[16:53] Proverbios 14:30: El corazón apacible\n[29:17] Isaac y los filisteos: Envidia por prosperidad\n[36:55] Raquel: Envidia entre hermanas\n[44:23] José: Envidia en la familia\n[52:59] Envidia contra Jesús",
     "url": "https://www.facebook.com/misioncelreino/videos/580881146249239/",
@@ -9134,6 +9376,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-T7KFETgH_AQPL4B90MOnDrY6iRlcq5ZhCv_74e68wDN2xtJBNtbcUHBPJ5pHPVKiZIvfBKaVIR4kqcPkdkBNCa_hVfOSXQxd_1021960115286663.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-T7KFETgH_AQPL4B90MOnDrY6iRlcq5ZhCv_74e68wDN2xtJBNtbcUHBPJ5pHPVKiZIvfBKaVIR4kqcPkdkBNCa_hVfOSXQxd_1021960115286663.mp4",
     "title": "La Palabra que Nunca Pasará",
     "message": "El pastor Daniel Tito expone cómo a lo largo de la historia, personajes como el rey Joacim, Antíoco IV, Diocleciano y Voltaire intentaron destruir la Biblia, pero Dios siempre ha preservado Su Palabra. La enseñanza concluye que el peor daño contra la Biblia es ignorarla y no vivir conforme a ella.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[05:33] Inicio del estudio bíblico\n[18:28] El rey Joacim destruye los rollos\n[30:24] Diocleciano persigue y quema Biblias\n[40:36] La casa de Voltaire se convierte en Sociedad Bíblica\n[45:00] Reflexión final y llamado a la obediencia",
     "url": "https://www.facebook.com/misioncelreino/videos/1021960115286663/",
@@ -9177,6 +9420,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Txw2eXmn_AQMbO6a2nPNxC8qzbn67oMbUkrkTcjcjQgB8Szhku_RmvtiGA30zQBQK7XMz_3537919046229080.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Txw2eXmn_AQMbO6a2nPNxC8qzbn67oMbUkrkTcjcjQgB8Szhku_RmvtiGA30zQBQK7XMz_3537919046229080.mp4",
     "title": "Personas Especiales: Un Regalo de Dios",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a reflexionar sobre las personas especiales que Dios ha puesto en nuestras vidas, aquellas que nos sirven, nos brindan cariño, paz, perdón y alegría. Destaca que la persona más especial es Jesucristo, quien nos amó incondicionalmente. Nos anima a expresar gratitud y a convertirnos en bendición para los demás.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[33:05] Inicio del mensaje\n[41:30] Las personas especiales en nuestra vida\n[1:00:00] La persona más especial: Jesucristo\n[1:14:30] Llamado a expresar gratitud\n[1:22:55] Oración y cierre",
     "url": "https://www.facebook.com/misioncelreino/videos/3537919046229080/",
@@ -9220,6 +9464,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Txw2eXmn_AQN2CrDRrxoOLWbXoPF2mGdiG9OZMvNay5FS3cgNy9rtBG8_hkiPVONuwPDXA_340283013782241.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Txw2eXmn_AQN2CrDRrxoOLWbXoPF2mGdiG9OZMvNay5FS3cgNy9rtBG8_hkiPVONuwPDXA_340283013782241.mp4",
     "title": "Noche de Acción de Gracias",
     "message": "Un sermón sobre la importancia de la gratitud y la alabanza. El pastor Daniel Tito enseña que en lugar de estar afanosos, debemos presentar nuestras peticiones con acción de gracias, entrando por sus puertas con alabanza. Es una noche para agradecer a Dios por sus bendiciones, sanidades y cuidado.\n\nÍndice de momentos:\n[00:00] Entrada musical\n[02:10] Saludos y bienvenida\n[08:17] Oración de inicio\n[20:50] Lectura de Filipenses 4:6\n[28:17] Explicación sobre acción de gracias\n[31:11] Lectura de Salmos 100:4\n[35:19] Tiempo de gratitud y oración\n[51:23] Ofrenda y anuncios\n[01:00:21] Oración final y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/340283013782241/",
@@ -9258,6 +9503,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Txw2eXmn_AQNqBdOos2g_xFW97CxEJtNlucIvqQWsmDHZgQ4g7Wa7MewEr7xCsPLQv1Y_495656465521581.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Txw2eXmn_AQNqBdOos2g_xFW97CxEJtNlucIvqQWsmDHZgQ4g7Wa7MewEr7xCsPLQv1Y_495656465521581.mp4",
     "title": "Dios escoge a los no escogidos",
     "message": "Dios no mira el pasado ni las apariencias; Él escoge a personas comunes, rotas y menospreciadas para cumplir propósitos extraordinarios. A través de Simón el Zelote, María Magdalena, el endemoniado gadareno y la mujer samaritana, vemos que nadie está fuera del alcance de su gracia. Tú también has sido escogido para ser feliz, salvar tu familia y servir en su reino.\n\n[00:00] Introducción y alabanza\n[09:00] Personajes bíblicos: Simón el Zelote\n[21:00] María Magdalena: liberada de 7 demonios\n[27:55] El endemoniado gadareno: legión de demonios\n[34:00] La mujer samaritana: evangelista improbable\n[38:30] Aplicación personal: Dios te escogió",
     "url": "https://www.facebook.com/misioncelreino/videos/495656465521581/",
@@ -9298,6 +9544,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-Txw2eXmn_AQOMgBXUsmUB5gQ7mbxcR5_8TfElgafjKbuLNRL0w0OBoJvRV0lEtQZSNbUpQ_1554562418705994.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-Txw2eXmn_AQOMgBXUsmUB5gQ7mbxcR5_8TfElgafjKbuLNRL0w0OBoJvRV0lEtQZSNbUpQ_1554562418705994.mp4",
     "title": "El matrimonio: un pacto para toda la vida",
     "message": "En esta predicación, el Pastor Daniel Tito enseña que el matrimonio es un pacto eterno, no una conveniencia temporal. Basado en pasajes como Mateo 19 y Efesios 5, enfatiza que los cónyuges son un solo equipo, donde el amor y el respeto mutuo son fundamentales. Advierte contra la infidelidad y el divorcio, llamando a los esposos a tratar a sus esposas con ternura y a las esposas a respetar la autoridad del marido. Destaca que la presencia de Dios fortalece la unión, y que el verdadero amor es inquebrantable. Finaliza con una oración por restauración y unidad familiar.\n\n[00:00] Saludo y apertura\n[00:35] Mateo 19: El matrimonio para siempre\n[11:50] Eclesiastés 4: Mejor dos que uno\n[19:52] 1 Pedro 3: Tratar con ternura\n[25:00] Ananías y Safira: No apoyar lo malo\n[27:00] Cantar 8: El amor poderoso",
     "url": "https://www.facebook.com/misioncelreino/videos/1554562418705994/",
@@ -9340,6 +9587,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-U7pRX3Fs_AQOgzYlQiDGzXJ3Xh_KgdPd1poTVd7ftQUKvYxnjuswE4bsp7yfASuNr8rD4wG9XW7VMd3XjYVKSMn3l5bydrV_736717737328359.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-U7pRX3Fs_AQOgzYlQiDGzXJ3Xh_KgdPd1poTVd7ftQUKvYxnjuswE4bsp7yfASuNr8rD4wG9XW7VMd3XjYVKSMn3l5bydrV_736717737328359.mp4",
     "title": "Transmisión en Vivo",
     "message": "(No tengo derechos de autor)",
     "url": "https://www.facebook.com/misioncelreino/videos/736717737328359/",
@@ -9364,6 +9612,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-UgMswR3A_AQMSiawFMzqZbWUfNr7WgXSKZwHNmqeU7kxL6URCJsmRmczPxXBKDmuARA_344316037844866.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-UgMswR3A_AQMSiawFMzqZbWUfNr7WgXSKZwHNmqeU7kxL6URCJsmRmczPxXBKDmuARA_344316037844866.mp4",
     "title": "No es bueno que el hombre esté solo",
     "message": "El Pastor Daniel Tito nos recuerda que Dios creó todo en abundancia, pero hay algo que no es bueno: la soledad. Basado en Génesis 2:18, enseña que fuimos diseñados para la compañía y el complemento. A través de ejemplos bíblicos y experiencias personales, muestra cómo la soledad puede afectarnos y nos invita a confiar en la promesa de Salmo 27:10: aunque padres y madres nos dejen, Jehová nos recogerá. Un mensaje de esperanza y restauración para quienes se sienten solos.\n\nÍndice de momentos:\n[02:08] Dios crea en abundancia\n[05:10] No es bueno que el hombre esté solo\n[15:31] Eva y la influencia\n[28:55] Invitación a compartir\n[44:27] Salmo 27:10 consuelo\n[52:00] Oración de liberación",
     "url": "https://www.facebook.com/misioncelreino/videos/344316037844866/",
@@ -9405,6 +9654,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-UgMswR3A_AQNlrd6Mvg4rdnDXYVG6QY6VRAVImsU5WNuuctbmIR2xGOwPdWveLpWNGE9sBzwFZ4sY2NywL8smzbvijJwi6gD1_221985382367180.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-UgMswR3A_AQNlrd6Mvg4rdnDXYVG6QY6VRAVImsU5WNuuctbmIR2xGOwPdWveLpWNGE9sBzwFZ4sY2NywL8smzbvijJwi6gD1_221985382367180.mp4",
     "title": "La familia en el corazón de Dios",
     "message": "El pastor Daniel Tito nos recuerda que, después de Dios, la familia es lo más valioso. A través de las historias de Noé, Abraham, Obed-Edom, Zaqueo y el carcelero de Filipos, vemos que Dios tiene planes para toda nuestra casa. Somos portadores de salvación para nuestra familia; al creer en Jesús, no solo nosotros somos salvos, sino también nuestra casa. Es tiempo de valorar, cuidar y guiar a los nuestros hacia Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida y adoración\n[25:00] Parábola del rico y Lázaro: El rico clama por su familia\n[34:00] Noé: Dios salva a toda su casa\n[37:00] Pacto de Dios con Abraham: Bendición para su descendencia\n[46:00] El carcelero de Filipos: Cree en el Señor Jesús y serás salvo tú y tu casa\n[51:00] Oración por las familias",
     "url": "https://www.facebook.com/misioncelreino/videos/221985382367180/",
@@ -9446,6 +9696,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-UgMswR3A_AQOvY35QkL0rgQzINNjsWnCFOgufFRcFcSsC6Od2yEugEc5vYtWsYrBazRUJOcI4GJU0JyAkG2HDJJNUKXO4w0_256139942433118.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-UgMswR3A_AQOvY35QkL0rgQzINNjsWnCFOgufFRcFcSsC6Od2yEugEc5vYtWsYrBazRUJOcI4GJU0JyAkG2HDJJNUKXO4w0_256139942433118.mp4",
     "title": "Mujeres de Fe: El Legado de la Madre en la Visión Divina",
     "message": "Este sermón es un hermoso homenaje a las madres biológicas y espirituales, celebrando su amor, sacrificio y guía. A través del estudio de nueve mujeres bíblicas ejemplares como Sara, Miriam y María, se resalta la fe, el valor y la obediencia que las convierten en pilares fundamentales para sus familias y la obra de Dios. Es un llamado a honrar y disfrutar a nuestras madres en vida, reconociendo su invaluable impacto.\n\nÍndice de momentos:\n[00:00] Bienvenida y propósito de la noche\n[03:09] Momento de alabanza y adoración\n[10:31] Interacción con llamadas de saludo a madres\n[30:47] Mensaje: Nueve mujeres ejemplares de la Biblia\n[52:01] Oración por las madres y despedida inspiradora\n[01:03:59] Reflexión final: Honrar a mamá en vida",
     "url": "https://www.facebook.com/misioncelreino/videos/256139942433118/",
@@ -9490,6 +9741,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-UgMswR3A_AQPlTnEGhIjc8Zl_rS5zxSMCnkN4Fd3XoqDz63j7zG65r0L8OgMAoWxYE45_4039381916135839.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-UgMswR3A_AQPlTnEGhIjc8Zl_rS5zxSMCnkN4Fd3XoqDz63j7zG65r0L8OgMAoWxYE45_4039381916135839.mp4",
     "title": "Intercesión y Gratitud: El Poder de la Oración Unida",
     "message": "Este sermón matutino nos invita a una profunda intercesión y gratitud, recordándonos la importancia de buscar la presencia de Dios desde temprano. A través de oraciones por pastores, líderes, ministerios y la nación, se enfatiza la renovación espiritual, la sanidad y la fortaleza que provienen de la fe y el servicio. Las conmovedoras experiencias personales de sanidad y reencuentro demuestran el amor y la misericordia divina, animándonos a vivir en constante agradecimiento y a compartir esta bendición.n\nÍndice de momentos:\n[00:00] Inicio de adoración: Sentir Su Presencia\n[03:18] Bienvenida y llamado a la oración\n[06:30] Oración por pastores y líderes\n[20:32] Momento de alegría y adoración activa\n[46:48] Reflexión bíblica sobre la gratitud y humillación\n[53:11] Testimonios de gratitud y fe",
     "url": "https://www.facebook.com/misioncelreino/videos/4039381916135839/",
@@ -9529,6 +9781,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-UgMswR3A_AQPWw2bylivMa4FkXapL77w70Dz6T1E7kNpmXjUKPt3y3TnsirHAnUijuCM_351196286009345.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-UgMswR3A_AQPWw2bylivMa4FkXapL77w70Dz6T1E7kNpmXjUKPt3y3TnsirHAnUijuCM_351196286009345.mp4",
     "title": "El Verdadero Significado de la Santa Cena",
     "message": "El pastor Daniel Tito nos recuerda la alegría y sencillez de la iglesia primitiva al partir el pan, y nos llama a no olvidar el verdadero significado de la Santa Cena: el cuerpo partido y la sangre derramada de Cristo para nuestra salvación, sanidad y reconciliación. Un llamado a volver a la esencia del evangelio con gozo y gratitud.\n\nÍndice de momentos:\n[05:14] Saludos y bienvenida\n[37:00] Lectura de Hechos 2:46\n[53:44] Llamada de atención de Pablo\n[01:00:46] Recordando el verdadero significado\n[01:07:43] Oración y participación de la Santa Cena\n[01:19:47] Anuncios y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/351196286009345/",
@@ -9569,6 +9822,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQMoe8YG3HBAFLwSUKLxjtk7yUepnwm2K1uS5xmjqKvJEdPdszygnSIETS_305900667734762.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQMoe8YG3HBAFLwSUKLxjtk7yUepnwm2K1uS5xmjqKvJEdPdszygnSIETS_305900667734762.mp4",
     "title": "Dios te eligió: Eres especial para Él",
     "message": "Dios no te eligió porque fueras bueno, sino porque Él es bueno. Aunque el mundo te vea como necio, débil o menospreciado, Dios te escogió para avergonzar a los sabios y fuertes. Tu valor no está en tu pasado o cicatrices, sino en que Él puso su amor en ti. Acércate a Él y descubre tu verdadera identidad como príncipe o princesa de su reino.\n\nÍndice de momentos:\n[35:00] Tú no me elegiste, Dios te eligió\n[43:00] Lo necio del mundo escogió Dios\n[56:00] Historia de la niña con cicatriz\n[01:00:00] Oración de entrega y aceptación",
     "url": "https://www.facebook.com/misioncelreino/videos/305900667734762/",
@@ -9608,6 +9862,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQNHs0laRPcy8mEqXGQ1DaShK6ch3ntvqqvHCZAAAv5AFtwHD7jOXtKEzk3hEuubSOVUSJHC44WjVds91aRojMOX_836657840526613.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQNHs0laRPcy8mEqXGQ1DaShK6ch3ntvqqvHCZAAAv5AFtwHD7jOXtKEzk3hEuubSOVUSJHC44WjVds91aRojMOX_836657840526613.mp4",
     "title": "Dios pone y quita reyes",
     "message": "En este estudio bíblico, el Pastor Daniel Tito enseña que Dios es soberano sobre las autoridades, basado en Daniel 2:21. Con las elecciones peruanas en puerta, exhorta a los creyentes a someterse, obedecer, honrar y orar por los gobernantes, recordando que nuestro voto es valioso y debe ser guiado por el Espíritu Santo.\n\n[08:00] Oración inicial\n[21:40] Lectura de Daniel 2:21-22\n[28:00] Someterse a las autoridades\n[34:00] Honrar al rey\n[41:44] Orar por los gobernantes\n[50:58] Oración final",
     "url": "https://www.facebook.com/misioncelreino/videos/836657840526613/",
@@ -9652,6 +9907,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQOQhDn65i6BHfLh9lv_WU990YIeKyF22sTBVUbfWQSPoP6kUsgiEFoDV4q_861845754643342.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQOQhDn65i6BHfLh9lv_WU990YIeKyF22sTBVUbfWQSPoP6kUsgiEFoDV4q_861845754643342.mp4",
     "title": "Cuerpo y sangre de Cristo: nuestra redención y victoria",
     "message": "El Pastor Daniel Tito proclama que en medio de la crisis, los hijos de Dios tienen victoria. Explica que el cuerpo y la sangre de Cristo nos limpian del pecado, nos dan acceso a Dios y nos otorgan victoria sobre el enemigo. Un mensaje que culmina con la Santa Cena.\n\nÍndice de momentos:\n[00:00] Apertura y fe en la crisis\n[40:43] Lectura de Lucas 22:19 y tema\n[47:50] Razones de la sangre: limpieza, acceso, victoria\n[1:14:30] Celebración de la Santa Cena",
     "url": "https://www.facebook.com/misioncelreino/videos/861845754643342/",
@@ -9696,6 +9952,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQPMHOjTpFf9EDX8_vQJqt2qicVoG51fQ1zCMrx697DjWhdP18QYvtwUNf8LP8gUZEpVcyKnokyKCzfMBHOIgH_805313446706929.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQPMHOjTpFf9EDX8_vQJqt2qicVoG51fQ1zCMrx697DjWhdP18QYvtwUNf8LP8gUZEpVcyKnokyKCzfMBHOIgH_805313446706929.mp4",
     "title": "El Engaño de Halloween: Origen y Advertencia",
     "message": "El pastor Daniel Tito revela el trasfondo ocultista de Halloween, originado en los druidas y su culto al dios de la muerte Samain. Advierte que estas prácticas, disfrazadas de juego, son abominación ante Dios, citando Levítico 20:27 y Deuteronomio 18:9-11. Llama al arrepentimiento y a no participar en obras de tinieblas, sino a reprenderlas (Efesios 5:11). Destaca que Satanás se disfraza como ángel de luz (2 Corintios 11:14) y exhorta a vivir en santidad.\n\n[00:00] Inicio y saludos\n[45:46] Trasfondo histórico de Halloween y los druidas\n[57:48] Lectura de Levítico 20:27 y advertencia bíblica\n[01:05:24] La tabla de Ouija y otros juegos ocultos\n[01:21:28] Oración de arrepentimiento y consagración",
     "url": "https://www.facebook.com/misioncelreino/videos/805313446706929/",
@@ -9738,6 +9995,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQP_DnrP5QVUVbxOU7YIYl19w022WOWsdYFrv7fHdOwPjiQZCOnyMi8NklcP_1526331530887574.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-wARyJ5Zs_AQP_DnrP5QVUVbxOU7YIYl19w022WOWsdYFrv7fHdOwPjiQZCOnyMi8NklcP_1526331530887574.mp4",
     "title": "Confianza en el poder de Dios",
     "message": "En esta predicación, el pastor Daniel Tito nos recuerda que Dios todo lo puede, incluso en medio de la pandemia. A través de la oración y el ayuno, renovamos nuestra confianza en Su poder. Un mensaje de esperanza y fe para la familia del Reino.\n\nÍndice de momentos:\n[06:12] Oración inicial\n[09:00] Saludos a las familias\n[18:52] Inicio de la enseñanza\n[19:07] Tiempo de alabanza",
     "url": "https://www.facebook.com/misioncelreino/videos/1526331530887574/",
@@ -9774,6 +10032,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQM1TUHQoXceIh_N44xJAhoQTLFEB7ggXViWiuTHnteRCr7_2H0S5kGwBug_492753735040760.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQM1TUHQoXceIh_N44xJAhoQTLFEB7ggXViWiuTHnteRCr7_2H0S5kGwBug_492753735040760.mp4",
     "title": "2021: Año de Construir",
     "message": "El Pastor Daniel Tito nos recuerda que, a pesar de la pandemia y la crisis económica, Dios nos ha llamado a construir en 2021. Basado en Nehemías 2:20, nos anima a confiar en que el Dios de los cielos nos prosperará, a levantarnos como sus siervos y a edificar en todas las áreas de nuestra vida. Es un mensaje de fe y acción para un año de restauración.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[15:11] Lectura de Nehemías 2:20\n[26:10] Primera enseñanza: Dios nos prosperará\n[31:36] Segunda enseñanza: Nos levantaremos y edificaremos\n[34:42] Oración por las peticiones",
     "url": "https://www.facebook.com/misioncelreino/videos/492753735040760/",
@@ -9812,6 +10071,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQML4rlzAblGxlzeUnnnI2FPyKWkyznxdsrPZtdV5eQM6LSCWREDi1icydkUg_3616868555094373.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQML4rlzAblGxlzeUnnnI2FPyKWkyznxdsrPZtdV5eQM6LSCWREDi1icydkUg_3616868555094373.mp4",
     "title": "Empecemos a construir",
     "message": "En este primer culto del año, el Pastor Daniel Tito proclama que 2021 es año de construir. Basado en 1 Crónicas 28, destaca que Dios elige a quién usar, y requiere servicio con corazón perfecto y ánimo voluntario. Además, debemos seguir los planes de Dios, confiar en su provisión y no temer. Es tiempo de empezar a construir con fe y determinación.\n\nÍndice de momentos:\n[00:00] Inicio del culto\n[28:54] Título: Empecemos a construir\n[35:27] \"Yo te elegí\"\n[44:52] Servir con corazón perfecto\n[01:00:00] Planos para construir\n[01:09:58] Anímate y manos a la obra",
     "url": "https://www.facebook.com/misioncelreino/videos/3616868555094373/",
@@ -9854,6 +10114,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQNRdvEXPVSEENoti82EuszsC0HLclHdH3x9eMbROkmPC7wuZIwww1v9p6_421485776736687.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQNRdvEXPVSEENoti82EuszsC0HLclHdH3x9eMbROkmPC7wuZIwww1v9p6_421485776736687.mp4",
     "title": "Vida a los Huesos Secos",
     "message": "El pastor Daniel Tito nos recuerda que, como Ezequiel, somos llamados a profetizar sobre las situaciones muertas a nuestro alrededor. Aunque estemos en cautiverio o pasando por tiempos difíciles, la presencia de Dios nunca nos abandona. Debemos levantarnos y declarar palabra de vida sobre nuestras circunstancias, confiando en que Dios puede restaurar lo que parece imposible.\n\nÍndice de momentos:\n[00:00] Bienvenida y saludos\n[05:20] Lectura de Ezequiel 37\n[13:19] La mano de Dios sobre Ezequiel\n[28:01] Apelación a la humanidad\n[42:26] Llamado a profetizar\n[50:36] Declaración sobre los huesos secos",
     "url": "https://www.facebook.com/misioncelreino/videos/421485776736687/",
@@ -9892,6 +10153,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQNzBjnZ8AfX8aj0thc7TbTuAY5_qwQqo67VMZXx_IznLejsaTK2tOJ3HWJ095rYOsD2bY53kcAcBq8hXZ_YplB1_1462411264094292.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQNzBjnZ8AfX8aj0thc7TbTuAY5_qwQqo67VMZXx_IznLejsaTK2tOJ3HWJ095rYOsD2bY53kcAcBq8hXZ_YplB1_1462411264094292.mp4",
     "title": "Celebrando el Nacimiento de Jesús",
     "message": "El pastor Daniel Tito dirige un culto navideño lleno de gozo, destacando el verdadero significado de la Navidad: el nacimiento de Jesucristo. A través de un emotivo teatro presentado por los líderes de Huancayo, se revive la historia de José, María, los pastores y los sabios, recordándonos que Jesús es el centro de nuestra fe y la fuente de nuestra alegría.\n\nÍndice de momentos:\n[00:00] Canción de apertura\n[03:08] Introducción al Calendario Cristiano\n[04:54] Oración de gratitud\n[14:25] Llamado a celebrar el cumpleaños de Jesús\n[20:44] Teatro: El nacimiento de Jesucristo\n[28:51] Agradecimiento por el teatro",
     "url": "https://www.facebook.com/misioncelreino/videos/1462411264094292/",
@@ -9926,6 +10188,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQP28SAcNfUEnwjcsQd6Sdzhip6I_i382WUBMnFfFuC3NPGzaqwx_TOnrwH9g_767093520570041.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZHfZh1k8_AQP28SAcNfUEnwjcsQd6Sdzhip6I_i382WUBMnFfFuC3NPGzaqwx_TOnrwH9g_767093520570041.mp4",
     "title": "Construyendo una habitación para Dios",
     "message": "En este tiempo de adoración, somos invitados a construir un lugar íntimo para Dios en nuestros corazones, ofreciendo adoración, gratitud y amor a cada instante. Es un llamado a la entrega total y la comunión continua con el Señor.\n\nÍndice de momentos:\n[12:12] Inicio de la adoración\n[13:32] Declaración de amor eterno\n[15:24] Actitud de gratitud constante\n[16:49] Alabanza y reconocimiento a Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/767093520570041/",
@@ -9959,6 +10222,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQN2f60eNZanSYQdZoUQGVntY7Fx0nWLIjxf_Q_zJe33_pIq67Z2B4ALhX1hQ_862546807601928.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQN2f60eNZanSYQdZoUQGVntY7Fx0nWLIjxf_Q_zJe33_pIq67Z2B4ALhX1hQ_862546807601928.mp4",
     "title": "Cuidando el Alma: Tu Templo Interior",
     "message": "En esta segunda parte sobre el templo del Espíritu Santo, el pastor Daniel Tito nos enseña la importancia del alma como parte esencial de nuestro ser. A través de pasajes como 1 Tesalonicenses 5:23, 1 Samuel 18:1, Salmos 42:1 y Mateo 10:28, explica que el alma es el centro de emociones, voluntad y destino eterno. Debemos cuidarla porque el alma que peca morirá, pero Cristo vino a salvarla. El mensaje nos invita a entregar nuestra alma a Dios y hacer un pacto con Él.\n\n[00:00] Alabanza inicial\n[02:49] Introducción: segunda parte del templo\n[29:34] Lectura de 1 Tesalonicenses 5:23\n[35:12] El alma de Jonathan ligada a David\n[39:30] Salmos 42:1: el alma clama por Dios\n[48:47] Mateo 10:28: el alma puede ser destruida\n[53:06] Ezequiel 18:4: el alma que peca morirá\n[55:52] Oración de entrega del alma",
     "url": "https://www.facebook.com/misioncelreino/videos/862546807601928/",
@@ -10002,6 +10266,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQO7RHgaYmR1KR9rGVmRFYdiBRx5EvHpsTMGxDahu6ydHENgmOOIUQ_lY4or_621711312313766.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQO7RHgaYmR1KR9rGVmRFYdiBRx5EvHpsTMGxDahu6ydHENgmOOIUQ_lY4or_621711312313766.mp4",
     "title": "Seamos Agradecidos: Volver a Jesús",
     "message": "En esta poderosa predicación, la pastora nos invita a reflexionar sobre la gratitud a partir de la historia de los diez leprosos en Lucas 17. Jesús sanó a diez, pero solo uno regresó a dar gracias. Somos llamados a no ser como los nueve que se alejan tras recibir bendiciones, sino a volver constantemente a Dios con un corazón agradecido, incluso en medio de las pruebas. Es tiempo de regresar y renovar nuestra fe.\n\nÍndice de momentos:\n[10:29] Lectura de Lucas 17:17\n[12:25] Meditación sobre la gratitud\n[16:04] Los diez leprosos sanados\n[21:33] Llamado a agradecer en la prueba\n[27:56] Invitación a volver a Dios",
     "url": "https://www.facebook.com/misioncelreino/videos/621711312313766/",
@@ -10038,6 +10303,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQOVbVRytoei5WQRkUetiGGvEPaiL86Ko0ziHaWCM1wVJ40ZsXQdzam53l_651561782676892.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQOVbVRytoei5WQRkUetiGGvEPaiL86Ko0ziHaWCM1wVJ40ZsXQdzam53l_651561782676892.mp4",
     "title": "La Gota de Sangre que Transforma",
     "message": "El pastor Daniel Tito usa la analogía de las gotas —buenas y malas— que decidimos tomar o permitir en nuestra vida. Con ejemplos de Adán, Sarai, Jezabel y Dalila, muestra cómo las gotas de odio, rencor o desobediencia traen pérdida y muerte. Pero la buena noticia es que una sola gota de la sangre de Jesús es suficiente para limpiar, sanar y dar vida. Nos invita a recibir esa gota divina y reconciliarnos con Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida y oración inicial\n[02:30] Alabanza y adoración\n[15:20] Introducción al mensaje: analogía de las gotas\n[29:38] Ejemplos bíblicos de gotas de maldad\n[55:50] La gota de la sangre de Cristo y llamado al altar",
     "url": "https://www.facebook.com/misioncelreino/videos/651561782676892/",
@@ -10079,6 +10345,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQOYlTVRau_IGttS65RVVcHdVkYaLZVoFUNHXDuleWV4KJ0WfFLzRDVVY0u_432108604946515.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZKBbVf2l_AQOYlTVRau_IGttS65RVVcHdVkYaLZVoFUNHXDuleWV4KJ0WfFLzRDVVY0u_432108604946515.mp4",
     "title": "Dios de Vivos, no de Muertos",
     "message": "El pastor Daniel Tito exhorta a no celebrar el Día de los Muertos ni Halloween, pues son tradiciones humanas que honran la muerte. Basado en 2 Timoteo 3:16-17 y Mateo 22:32, recuerda que Dios es Dios de vivos, y que en Cristo tenemos vida eterna. Llama a rechazar costumbres paganas y a vivir en la verdad de la Palabra.\n\nÍndice de momentos:\n[00:00] Inicio y bienvenida\n[04:26] Rechazo al Halloween y llamado a Festichicos\n[29:28] Introducción al tema: ¿Debemos celebrar el Día de los Muertos?\n[55:36] Advertencia: Halloween como culto a la muerte\n[01:01:12] Mateo 22:32: Dios no es Dios de muertos",
     "url": "https://www.facebook.com/misioncelreino/videos/432108604946515/",
@@ -10119,6 +10386,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZygnS1hC_AQMili6s9WxVoFfZfYfvhn5LYWvfD6kGfrN8TDW3KdIz1cIeK_oRWuHkZ4BEw_1511994139170850.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZygnS1hC_AQMili6s9WxVoFfZfYfvhn5LYWvfD6kGfrN8TDW3KdIz1cIeK_oRWuHkZ4BEw_1511994139170850.mp4",
     "title": "2022: Año de Gratitud en Todo",
     "message": "El pastor Daniel Tito nos recuerda que, a pesar de las pruebas y dificultades del año pasado, debemos dar gracias a Dios en todo, porque esa es su voluntad. Inspirado en Santiago 1:17 y 1 Tesalonicenses 5:18, nos anima a confiar en que Dios nunca nos abandona y que todo don perfecto viene de Él. La gratitud debe ser nuestra respuesta constante, incluso en los momentos difíciles.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración\n[20:06] Testimonio de la pandemia\n[33:34] Inicio del mensaje: 2022 año de gratitud\n[38:55] Lectura de Santiago 1:17\n[53:18] Lectura de 1 Tesalonicenses 5:18\n[56:12] Lectura de Santiago 1:2",
     "url": "https://www.facebook.com/misioncelreino/videos/1511994139170850/",
@@ -10160,6 +10428,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZygnS1hC_AQMQ39JqOABNsscKGZ_rYDvsH0gvKvnHI8dmDJ1xqDwY4ypw2RUjcxdsuIYM_392273111872975.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZygnS1hC_AQMQ39JqOABNsscKGZ_rYDvsH0gvKvnHI8dmDJ1xqDwY4ypw2RUjcxdsuIYM_392273111872975.mp4",
     "title": "Sardis: ¿Vives o Estás Muerto?",
     "message": "En esta enseñanza, el Pastor Daniel Tito nos advierte sobre el peligro de tener una fe de apariencia, como la iglesia de Sardis: viva de nombre pero muerta espiritualmente. Dios nos llama a la vigilancia, al arrepentimiento y a vivir obras perfectas delante de Él, recordando que siempre hay un remanente fiel.\n\nÍndice de momentos:\n[00:00] Saludos y bienvenida\n[23:27] Lectura de Apocalipsis 3:1-6\n[31:10] Ejemplo de los diez leprosos\n[42:31] Dios de obras perfectas\n[47:32] El remanente fiel\n[55:02] Oración final",
     "url": "https://www.facebook.com/misioncelreino/videos/392273111872975/",
@@ -10200,6 +10469,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZygnS1hC_AQMZl6WhmTMI1vYCrxYerAx7GVq5MPAJv3qPM6CRUivpZR8N2fNCGzDnKPpIo5uk5zg9BYdbNpUQdDvw4n6M_HR9_1046591076390324.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZygnS1hC_AQMZl6WhmTMI1vYCrxYerAx7GVq5MPAJv3qPM6CRUivpZR8N2fNCGzDnKPpIo5uk5zg9BYdbNpUQdDvw4n6M_HR9_1046591076390324.mp4",
     "title": "Lo pequeño de la Navidad",
     "message": "En esta predicación, el Pastor Daniel Tito nos invita a reflexionar sobre el verdadero significado de la Navidad, destacando que el más grande de todos se hizo pequeño, naciendo en un pesebre. Nos reta a dejar la superficialidad de las celebraciones 'a lo grande' y a humillarnos como niños, dependiendo totalmente de Dios. Con la historia personal de su madre, nos recuerda que Dios responde de maneras que no siempre entendemos, pero siempre para nuestro bien.\n\nÍndice de momentos:\n[00:00] Introducción y bienvenida\n[02:18] El concepto 'a lo grande' y la Navidad\n[04:29] Lectura de Lucas 2:9-16\n[07:00] Contraste entre lo grande y lo pequeño\n[11:10] Lectura de Mateo 18:1-4\n[13:37] La humildad como un niño\n[16:46] Testimonio personal sobre su madre",
     "url": "https://www.facebook.com/misioncelreino/videos/1046591076390324/",
@@ -10239,6 +10509,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZygnS1hC_AQNTrQ9_I4g3uQfcTny7qUHAeR383i3UB_juPanlk_RoIe1NYVJx1DMCWCWfMxIBrjz7efDJ7wiulmqmms63b_787893553263699.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZygnS1hC_AQNTrQ9_I4g3uQfcTny7qUHAeR383i3UB_juPanlk_RoIe1NYVJx1DMCWCWfMxIBrjz7efDJ7wiulmqmms63b_787893553263699.mp4",
     "title": "Jehová Nuestro Guerrero: Esfuérzate Siempre y Vence",
     "message": "La Pastora Miriam Tito nos inspira a ser valientes y a esforzarnos siempre, recordando que Jehová es nuestro guerrero invencible. A través de la fe, podemos vencer miedos, inseguridades y dudas para continuar el legado de servicio a Dios, tal como lo hizo el Pastor Daniel Tito. La oración y la unidad son armas poderosas para mantenernos firmes y lograr los propósitos divinos.\n\nÍndice de momentos:\n[01:54] Bienvenida y presentación de la Pastora Miriam\n[05:11] Invitación a compartir y alabar a Jehová\n[15:41] Tiempo de adoración y gratitud a Dios\n[25:19] Predicación: Esfuérzate siempre y la valentía en la fe\n[30:29] Testimonio personal sobre vencer miedos\n[35:45] Oración por peticiones y agradecimiento\n[55:16] Anuncios de la iglesia y despedida",
     "url": "https://www.facebook.com/misioncelreino/videos/787893553263699/",
@@ -10278,6 +10549,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZygnS1hC_AQOfPXGU9HH3Cba1_ym9WvVthnTHVMhzUJRMt04h_39ec2cfoWKmPDzTBAw_4954749771266483.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZygnS1hC_AQOfPXGU9HH3Cba1_ym9WvVthnTHVMhzUJRMt04h_39ec2cfoWKmPDzTBAw_4954749771266483.mp4",
     "title": "Jesús Construyendo",
     "message": "En este sermón, el Pastor Daniel Tito nos recuerda que Jesús no construyó templos de piedra, sino que vino a construir vidas. En el año de construir (2021), somos desafiados a decidir cuánto tiempo tomaremos para permitir que Jesús edifique en nosotros: ¿tres días o cuarenta y seis años? La Santa Cena es una oportunidad para recibir la construcción divina en nuestro ser. No esperes más, hoy es el día de construir.\n\nÍndice de momentos:\n[03:49] Inicio del culto y anuncio del año de construir\n[30:40] Anuncio del título: \"Jesús Construyendo\"\n[38:06] Jesús no construye templos, construye vidas\n[41:38] Lectura de Juan 2:19-21: Destruid este templo\n[50:51] Decisión personal: 3 días o 46 años\n[55:56] La Santa Cena: construcción espiritual",
     "url": "https://www.facebook.com/misioncelreino/videos/4954749771266483/",
@@ -10317,6 +10589,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "facebook-misioncelreino-17_06_2025-ZygnS1hC_AQOOBiYHTbN8s6f19Ui3oP41_B3IxUSQCNRLPsLtb5xJaz5nsn8FlURdQBvf9EKQdelx4yuOwsGcGkH6npXjNJC2_918104302077462.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/facebook-misioncelreino-17_06_2025-ZygnS1hC_AQOOBiYHTbN8s6f19Ui3oP41_B3IxUSQCNRLPsLtb5xJaz5nsn8FlURdQBvf9EKQdelx4yuOwsGcGkH6npXjNJC2_918104302077462.mp4",
     "title": "Dios quiere cambiar tu nombre",
     "message": "Dios no cambia nuestro nombre solo por llamarnos distinto, sino para revelar una nueva identidad, propósito y gloria en nuestra vida. Así como Abraham, Sara, Jacob, Pedro y Pablo fueron transformados, el Señor también quiere que dejemos atrás etiquetas de derrota para reflejar su carácter, humildad y victoria.\n\nÍndice de momentos:\n[00:11] Bienvenida a la familia del Reino\n[08:17] Tiempo de adoración y exaltación a Cristo\n[19:17] Abraham y Sara reciben una nueva identidad\n[28:43] Jacob es llamado Israel: el que lucha y vence\n[34:54] Simón es llamado Pedro para servir con firmeza\n[42:55] Saulo es llamado Pablo: humildad para servir",
     "url": "https://www.facebook.com/misioncelreino/videos/918104302077462/",
@@ -10361,6 +10634,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQM0BjUxIOVW33YKWE4noK7GMv4YBPWe6zgtiFor1h-vQi1hhj6qGng6Jwd7.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQM0BjUxIOVW33YKWE4noK7GMv4YBPWe6zgtiFor1h-vQi1hhj6qGng6Jwd7.mp4",
     "title": "Jesús: La Resurrección, la Vida y Nuestra Solución",
     "message": "Este inspirador sermón aborda el profundo dolor y la confusión que experimentamos ante la pérdida, reflejando la tristeza de los discípulos tras la muerte de Jesús. Se nos revela que Jesús es la solución definitiva a todos nuestros problemas, el consuelo en la aflicción y la fuente de una vida plena y sin miedo. El mensaje central nos insta a honrar a nuestros seres amados en vida y a creer en el poder transformador de la resurrección, que remueve obstáculos y nos libera de toda ansiedad, demostrando que Él es la fuerza suprema.\n\nÍndice de momentos:\n[00:00] Inicio y alabanza\n[12:49] El sacrificio de Jesús y el dolor por la pérdida\n[20:09] María Magdalena en el sepulcro\n[39:03] Jesús, la verdadera solución a nuestros problemas\n[47:45] Jesús: La resurrección y la vida\n[51:11] Venciendo el miedo con la presencia de Dios",
     "url": null,
@@ -10402,6 +10676,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQM4l6NXPz9pEzwK7aar1CZAlUG3m5q0WfD7Xaelk2ujimcp8j2BBH3_tRWK.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQM4l6NXPz9pEzwK7aar1CZAlUG3m5q0WfD7Xaelk2ujimcp8j2BBH3_tRWK.mp4",
     "title": "El Corazón Generoso: Construyendo un Altar Digno para Dios",
     "message": "El sermón de Daniel Tito nos confronta con la constante oposición espiritual, recordándonos las promesas divinas de sanidad, liberación y prosperidad, ilustradas con la fe de la mujer del flujo de sangre y la bendición de Isaac. El pastor enfatiza la vital importancia de un corazón generoso hacia Dios, contrastando la facilidad con que se gasta en lo mundano versus la reticencia en la obra del Señor. Nos invita a imitar la generosidad del pueblo de Israel para el Tabernáculo y el deseo de David de edificar una casa digna para Dios, fomentando una ofrenda voluntaria y no por obligación.\n\nÍndice de momentos:\n[00:30] La oposición del diablo y las promesas de Dios\n[02:08] Ejemplos de sanidad y liberación en la Biblia\n[07:55] La promesa de bendición a Isaac y la edificación de un altar\n[13:09] El corazón generoso de Israel al construir el Tabernáculo\n[27:47] El deseo de David de construir una casa para Dios\n[34:59] La ofrenda generosa y voluntaria",
     "url": null,
@@ -10443,6 +10718,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQM8M5-cn2ZcUpVxRSq_ndWEfGT_E94XiNU4bc6-sZTCH7F82YbjDzk4pqb4.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQM8M5-cn2ZcUpVxRSq_ndWEfGT_E94XiNU4bc6-sZTCH7F82YbjDzk4pqb4.mp4",
     "title": "La Fidelidad de Dios: Amor, Protección y Nuestra Gratitud",
     "message": "El Pastor Daniel Tito explora la inquebrantable fidelidad de Dios: su amor y protección constante para todos. Nos exhorta a corresponder con gratitud, siendo fieles en todo, incluso hasta la muerte, para recibir la corona de la vida. La corrección divina es un acto de amor paternal para guiarnos. Dios es fiel para perdonar nuestros errores y extender su pacto por generaciones, eligiéndonos no por mérito, sino por su amor.\n\nÍndice de momentos:\n[00:00] Adoración y bienvenida\n[14:58] La fidelidad de Dios para todos\n[22:00] Cómo corresponder a su fidelidad\n[27:39] Sé fiel hasta la muerte\n[32:51] La fidelidad de Dios en la corrección\n[44:20] Dios fiel para perdonar nuestros pecados",
     "url": null,
@@ -10487,6 +10763,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMB2V1MlX0jYaDHB5bFz7EQY77WvM2V_wJ1sYTJad65efTc3tOn5TaxhgTFrw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMB2V1MlX0jYaDHB5bFz7EQY77WvM2V_wJ1sYTJad65efTc3tOn5TaxhgTFrw.mp4",
     "title": "El Mejor Consejo: Sirviendo a Dios con Corazón Perfecto",
     "message": "Este sermón nos reta a examinar la calidad de nuestros consejos y prioridades, revelando que el mejor consejo es siempre buscar a Dios y servirle con un corazón perfecto y ánimo voluntario. El Pastor Daniel Tito nos inspira a reconocer la presencia de Dios en todo y a confiar en Su fidelidad, compartiendo testimonios de cómo la obediencia y la fe abren puertas celestiales y traen descanso a los cargados. Un llamado a entregarle todo a Él.\n\nÍndice de momentos:\n[02:43] Inicio del mensaje pastoral\n[13:24] El consejo supremo: buscar a Dios\n[21:38] Análisis de 1 Crónicas 28:9 sobre el servicio perfecto\n[36:06] La importancia del ánimo voluntario en el servicio\n[48:31] Testimonio personal de fe y bendiciones\n[54:17] La invitación de Jesús en Mateo 11:28",
     "url": null,
@@ -10526,6 +10803,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMb3GHaRGWPONgCJ8UUYzDbVAFt3mb11-QavzI2TgTW8fy2Devvw4PGXeaY.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMb3GHaRGWPONgCJ8UUYzDbVAFt3mb11-QavzI2TgTW8fy2Devvw4PGXeaY.mp4",
     "title": "La Verdadera Navidad: El Valor de Hacerse Pequeño",
     "message": "Reflexión inspiradora del Pastor Daniel sobre el verdadero sentido de la Navidad, recordándonos que el Salvador del mundo nació en un humilde pesebre. A través de lecturas en Lucas y Mateo, nos enseña la importancia de la humildad y de depender enteramente de Dios como niños, compartiendo un emotivo testimonio sobre su madre y el poder de confiar en su soberanía.\n\nÍndice de momentos:\n[02:44] Ministerio de Alabanza\n[11:08] Teatro especial de Navidad por los jóvenes\n[22:54] Inicio de la predicación del Pastor Daniel\n[28:14] Lectura bíblica: Lucas 2:9-16 (Nacimiento de Jesús)\n[35:11] Lectura bíblica: Mateo 18:1-3 (Hacerse pequeño como niños)\n[45:05] Testimonio sobre la partida de su madre y la confianza en Dios\n[48:46] Reflexión final y llamado a un abrazo fraterno\n[54:17] Cantos navideños en comunidad",
     "url": null,
@@ -10563,6 +10841,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMcQUeFxbNOKBlHaBQ9jZ_H8RyrBWikETb9uNcn8VcLDdF9iALHCHA2N2X-.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMcQUeFxbNOKBlHaBQ9jZ_H8RyrBWikETb9uNcn8VcLDdF9iALHCHA2N2X-.mp4",
     "title": "Portadores de Vida: El Poder de la Bendición y la Fe",
     "message": "Sermón del Pastor Daniel Tito centrado en nuestra identidad espiritual como portadores de la bendición y la vida de Dios. A través de pasajes en Génesis 12, Números 22, Lucas 8 y 2 Reyes 13, enseña el impacto de nuestras palabras en el reino espiritual, ilustrando con testimonios reales cómo la fe perseverante y la bendición rompen maldiciones y transforman vidas.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración\n[14:23] Testimonio de superación tras una prueba de asalto\n[17:37] Reflexión sobre el llamado a ser bendición (Génesis 12:3)\n[20:51] El poder de las palabras: Testimonio de fe familiar\n[29:09] Lectura bíblica: La importancia de bendecir (Números 22:5-6)\n[32:42] El secreto de la victoria de David frente a Goliat\n[34:53] Lectura bíblica: La fe de la mujer del flujo de sangre (Lucas 8:43)\n[41:30] La unción divina en el siervo de Dios (2 Reyes 13:20-21)\n[45:31] Salir de la vida antigua para alcanzar la promesa\n[52:24] Palabra Rema final y despedida",
     "url": null,
@@ -10602,6 +10881,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMfNhxpdjXAgKbNfoP_oFafKuHXJr_gfQLS5hOfb4FjfTLxxQDVJFx-dHr79g.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMfNhxpdjXAgKbNfoP_oFafKuHXJr_gfQLS5hOfb4FjfTLxxQDVJFx-dHr79g.mp4",
     "title": "El Reino: Mi Casa, Mi Familia - Palabra Rema 2023",
     "message": "Emotivo sermón de fin de año del Pastor Daniel Tito, donde se presenta la visión espiritual para el 2023. A través de la historia bíblica del Tabernáculo y del Templo de Salomón (Salmos 5 y 138), el pastor hace un paralelo con los humildes inicios de la iglesia y consagra las metas de la congregación con la oración del Libro de Sueños.\n\nÍndice de momentos:\n[00:00] Bienvenida y testimonios de sanidad y victoria del año 2022\n[11:15] Donación y presentación del nuevo proyector para la obra de Dios\n[13:03] Inicio del sermón: La visión hacia el Santo Templo (Salmos 5:7)\n[23:28] La añoranza del templo destruido (Salmo 137) y la gloria de Salomón\n[27:04] El Tabernáculo en el desierto: La presencia de Dios en la sencillez\n[39:33] Testimonio de fe: Los inicios del ministerio en casas y calles\n[58:14] Declaración de compromiso pastoral inquebrantable\n[60:42] Acto de fe: Oración y consagración del Libro de Sueños 2023\n[64:34] Declaración de la palabra Rema 2023: \"El Reino, mi casa, mi familia\"",
     "url": null,
@@ -10642,6 +10922,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMnqKHaCvZqenc99deDltUyYucFRK9ZpVnHL0Ynw6Ry2MkCG-RgoXYQYT7New.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMnqKHaCvZqenc99deDltUyYucFRK9ZpVnHL0Ynw6Ry2MkCG-RgoXYQYT7New.mp4",
     "title": "Sin Excusas Para Dios: El Privilegio de Servirle",
     "message": "Sermón del Pastor Daniel Tito previo al retorno a los cultos presenciales en noviembre de 2021. Basado en Marcos 10 y Colosenses 3, nos confronta a servir a Dios sin excusas ni argumentos, detallando los beneficios espirituales del servicio (honra, herencia y protección divina) e ilustrando con impactantes testimonios de restauración familiar y liberación milagrosa.\n\nÍndice de momentos:\n[00:00] Adoración y anuncios sobre el retorno presencial (Cine Aviación)\n[07:35] Tiempo de alabanza y cánticos en comunidad\n[36:00] Inicio de la predicación y lectura de Marcos 10:29-30\n[42:42] Testimonio de esfuerzo: Los inicios del ministerio y limpieza del templo\n[45:42] Testimonio de restauración matrimonial de la hermana Evangelina\n[49:42] Exhortación a no poner excusas al llamado de Dios\n[53:24] Lectura bíblica: La recompensa de la herencia (Colosenses 3:24)\n[66:04] Testimonio de protección milagrosa (Dios lo hace invisible ante un asalto)\n[72:00] Homenaje a la hermana Julita, ejemplo de servicio hasta la vejez\n[79:58] Oración final y despedida del líder Christopher Villa",
     "url": null,
@@ -10680,6 +10961,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMNrQ1cmt9dlLAP2PVI8F68poWQXe9nRJ8p7F7t-LSE6rl0D8jhTTsXva-l.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMNrQ1cmt9dlLAP2PVI8F68poWQXe9nRJ8p7F7t-LSE6rl0D8jhTTsXva-l.mp4",
     "title": "El Pecado del Orgullo: Humildad Ante la Presencia de Dios",
     "message": "Profundo sermón del Pastor Daniel Tito acerca del peligro espiritual del orgullo y la altivez. Mediante una ilustrativa anécdota y el análisis de pasajes en Proverbios, Gálatas e Isaías, enseña a identificar actitudes soberbias, la importancia de saber recibir consejos y de reconocer errores para pedir perdón a nuestros seres queridos, atrayendo la mirada protectora de Dios.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración inicial\n[11:59] Introducción: La divertida anécdota del oficial del gobierno y el toro\n[16:42] Definición del orgullo como una forma de autoadoración\n[18:31] Lectura bíblica: Proverbios 8:13 (La soberbia que Dios aborrece)\n[22:53] Preguntas de autoevaluación: Saber recibir consejo y reconocer errores\n[28:42] La importancia práctica y familiar de pedir perdón a los padres y cónyuges\n[36:21] Lectura bíblica: Proverbios 21:4 (El pecado de la altivez de ojos)\n[37:11] La caída de Lucifer por querer ser semejante al Altísimo (Isaías 14:12-14)\n[39:38] Lectura bíblica: Las cosas que Dios aborrece (Proverbios 6:16-17)\n[40:22] Contraste espiritual: Dios atiende al humilde y mira de lejos al altivo (Salmo 138:6)\n[43:53] Oración de arrepentimiento y liberación de cadenas de soberbia",
     "url": null,
@@ -10721,6 +11003,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMqWpNzkTe5JB8wM6UkpJj0aQ79ANuDbjMDowoHWXDDbPmRfYooyLEFS4t_.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMqWpNzkTe5JB8wM6UkpJj0aQ79ANuDbjMDowoHWXDDbPmRfYooyLEFS4t_.mp4",
     "title": "Edificando sobre la Roca: Tu Vida y la Iglesia en Cristo",
     "message": "El sermón explora la edificación de nuestras vidas y la iglesia sobre Cristo, la Roca inquebrantable, distinguiéndola de construir sobre bases humanas frágiles. Se subraya la sabiduría para construir hogares y la facilidad de destruir, llamando a la unidad para levantar la casa de Dios. Culmina en un acto profético de colocar la primera piedra para un lugar de restauración y propósito divino, donde familias y vidas serán transformadas.\n\nÍndice de momentos:\n[00:00] Introducción y adoración inicial\n[15:38] El desafío de construir y edificar\n[23:03] Cristo: La Roca sobre la que se edifica la Iglesia\n[39:09] La importancia de edificar sobre la Roca\n[01:05:04] Acto simbólico: Colocación de la primera piedra\n[01:23:00] Unidad y reconciliación para la edificación",
     "url": null,
@@ -10763,6 +11046,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMR9vnK2FB7ltO0GvegH5xA7Sml_Ccnb74qoUKl2X732symKKMAXpnslams.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMR9vnK2FB7ltO0GvegH5xA7Sml_Ccnb74qoUKl2X732symKKMAXpnslams.mp4",
     "title": "Decídete: La Palabra Transformadora y la Fe Genuina",
     "message": "El sermón resalta el poder inquebrantable de la Palabra de Dios, presentándola como la herencia más valiosa y la fuerza transformadora en nuestras vidas. A través del ejemplo de Elías, se nos desafía a una fe genuina y un compromiso total con Dios, rechazando la hipocresía y confiando en que Él responderá con su fuego divino en nuestras batallas diarias. Se enfatiza que Dios es nuestro único juez y protector, y que su palabra es vida y victoria.\n\nÍndice de momentos:\n[03:56] Oración de inicio por el líder Lucianito\n[05:11] Bienvenida y llamado a la alabanza\n[20:59] La Palabra de Dios como fuerza transformadora\n[31:18] Elías y el poder de la Palabra de Dios en 1 Reyes 18\n[01:03:31] El poder de la lengua según Proverbios 18:21\n[01:09:57] Un llamado a la sinceridad y fin de la hipocresía",
     "url": null,
@@ -10805,6 +11089,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMRWZ5mvxieEBqVtS4h1ibK0ipEpwl2pbD6wrnWfuHCH3XCkXILyNfpuj3d.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMRWZ5mvxieEBqVtS4h1ibK0ipEpwl2pbD6wrnWfuHCH3XCkXILyNfpuj3d.mp4",
     "title": "Anhelo Divino: Tu Presencia Antes que la de los Ángeles",
     "message": "El sermón explora la protección angelical y las manifestaciones de ángeles en lo cotidiano, animando a los oyentes a reconocer la ayuda divina. Sin embargo, enfatiza el anhelo del creyente por la presencia directa de Dios, como lo experimentó Moisés, valorándola por encima de cualquier ayuda angelical. Es un llamado a buscar una relación íntima con el Padre, reconociendo que Él es quien orquesta toda ayuda. \n\nÍndice de momentos:\n[00:00] Bienvenida y oración del Ángel de la Guarda\n[03:40] Anécdota personal sobre ayuda inesperada\n[08:47] Los ángeles en las Escrituras y la hospitalidad\n[19:14] Dios envía un ángel pero no Su presencia (Éxodo 33)\n[26:53] La necesidad de la presencia de Dios\n[33:36] Oración por la presencia de Dios",
     "url": null,
@@ -10846,6 +11131,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMSv1ChGkmV5Dq1NXTj6Lnpi9izag-9uVP_4t94YCUGhE-tNbTVUj5LoYHr.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMSv1ChGkmV5Dq1NXTj6Lnpi9izag-9uVP_4t94YCUGhE-tNbTVUj5LoYHr.mp4",
     "title": "Mi Casa, El Reino: Servicio y Gratitud en la Iglesia",
     "message": "El sermón explora la iglesia como nuestro segundo hogar, resaltando la importancia de la participación activa y la gratitud. Inspirándose en la historia de los diez leprosos, nos desafía a considerar qué podemos hacer por la casa de Dios y a nunca olvidar las bendiciones recibidas. Es un llamado a la entrega y el servicio de corazón, recordándonos que fuimos transformados por Su amor y paz.\n\nÍndice de momentos:\n[09:47] Bienvenida del Pastor Daniel Tito\n[10:43] La iglesia: nuestro segundo hogar\n[14:15] Tu rol en la casa de Dios\n[16:30] La historia de los diez leprosos\n[27:01] El valor de la gratitud\n[33:35] La pregunta de Jesús: ¿Dónde están los nueve?\n[39:25] Testimonio personal y llamado a la acción",
     "url": null,
@@ -10884,6 +11170,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMTccmAGngRulkeW2t2hzAr07Kc9Z5IBIMevGHaWkbISDLWTevKxmg5zy_ZJw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMTccmAGngRulkeW2t2hzAr07Kc9Z5IBIMevGHaWkbISDLWTevKxmg5zy_ZJw.mp4",
     "title": "El Poder de una Gota: Decisión y Transformación Divina",
     "message": "Este sermón utiliza la metáfora de las \"gotas\" para ilustrar cómo nuestras decisiones y las influencias que permitimos en nuestras vidas pueden llevarnos a la bendición o a la destrucción. A través de ejemplos bíblicos, se explora el impacto devastador de las \"gotas de maldad\" (desobediencia, resentimiento, manipulación, traición) en la vida de Adán, Sarai, Jezabel y Sansón. Sin embargo, el mensaje culmina en la esperanza transformadora de la \"gota de sangre\" de Jesús, que ofrece redención, perdón y una nueva vida para quienes eligen aceptarla.\n\nÍndice de momentos:\n[00:00] Bienvenida y Alabanza inicial\n[22:06] La parábola de las gotas y la decisión personal\n[29:35] Consecuencias de las malas gotas: Adán y Sarai\n[43:08] El daño de las malas influencias: Jezabel y Sansón\n[55:44] El poder de la gota de sangre de Jesús\n[01:02:00] Llamado a la reconciliación y oración final",
     "url": null,
@@ -10925,6 +11212,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQMzKjUNS0xQdVjq9e4i18wSqOX3_fRCAJZ7cRoG5-lyqdPQceDN_th9mnRs.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQMzKjUNS0xQdVjq9e4i18wSqOX3_fRCAJZ7cRoG5-lyqdPQceDN_th9mnRs.mp4",
     "title": "La Confianza que Edifica: Imitemos a Cristo y seamos Restaurados",
     "message": "En un mundo donde la confianza es escasa, este sermón nos desafía a ser personas dignas de imitar, reflejando el carácter de Cristo. Se nos insta a cumplir promesas, guardar confidencias y vivir con madurez. A través de Pablo y Bernabé, el Pastor Daniel nos recuerda que Dios es un Dios de segundas oportunidades y restauración, que nos ama incondicionalmente y nos levantará, devolviéndonos nuestro lugar en Su propósito.\n\nÍndice de momentos:\n[01:23] Oración por un viaje\n[08:28] El desafío de Pablo: Sé mi imitador\n[16:10] Una historia personal de dolor y fe\n[28:38] Sé coherente: Predica y vive la Palabra\n[34:44] Cumple tus promesas a Dios\n[50:22] Bernabé: El valor de un apoyo fiel\n[56:10] Llamado a la restauración y la oración",
     "url": null,
@@ -10970,6 +11258,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQN0aO0S060di5JPijfQ_F8a3ApCsIEe6PVcO3yDIo-Js9pEYJhX8a7JOGth.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQN0aO0S060di5JPijfQ_F8a3ApCsIEe6PVcO3yDIo-Js9pEYJhX8a7JOGth.mp4",
     "title": "El Poder Transformador de la Gratitud en Todo Momento",
     "message": "Descubre el poder transformador de la gratitud en este sermón, que nos enseña a dar gracias a Dios en cada faceta de la vida. Desde reconocer su presencia en nuestros milagros diarios hasta encontrar gozo en medio de las pruebas, este mensaje inspirador subraya que un corazón agradecido es la clave para la bendición y una relación profunda con el Padre, recordándonos la importancia de no olvidar sus maravillas.\n\nÍndice de momentos:\n[00:00] Apertura con alabanza y gozo\n[03:33] Bienvenida y oración por milagros\n[32:31] La estrella de su presencia: Mateo 2\n[43:05] La voluntad de Dios: Gracias en todo (1 Tesalonicenses 5:18)\n[53:03] Gozo en la adversidad: Santiago 1:2\n[01:15:19] Celebración de la Santa Cena",
     "url": null,
@@ -11014,6 +11303,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNAyxkP5jh9uTBdJxCWty9tz0um2s2O2nupK9EVPbXI482z-Gku_nL21ZhZ.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNAyxkP5jh9uTBdJxCWty9tz0um2s2O2nupK9EVPbXI482z-Gku_nL21ZhZ.mp4",
     "title": "Instruyendo a los Niños: El Amor que Dios Anhela para la Familia",
     "message": "En el Día del Niño, el Pastor Daniel Tito nos invita a reflexionar sobre la familia, desde la creación de Adán y Eva hasta la importancia de instruir a los hijos en la fe. A través del contraste entre Caín y Abel, aprendemos sobre la devoción genuina a Dios, evitando rencores y malas obras que alejan del propósito divino. La familia es el cimiento donde se cultiva el amor y la obediencia, llevando a los niños a Jesús y sembrando en ellos Su Palabra.\n\nÍndice de momentos:\n[02:42] Celebración del Día del Niño\n[31:17] La primera familia: Adán y Eva\n[38:50] Las ofrendas de Caín y Abel\n[48:38] El rencor entre hermanos y sus consecuencias\n[55:22] La importancia de instruir a los niños\n[01:06:51] Jesús y los niños: El Reino de los Cielos",
     "url": null,
@@ -11059,6 +11349,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNbkM7j9YP_xe2nET3BtFxyADjnQ7cIgmHWq8jgWW4EBpTqXHxT8rhV44e5.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNbkM7j9YP_xe2nET3BtFxyADjnQ7cIgmHWq8jgWW4EBpTqXHxT8rhV44e5.mp4",
     "title": "Vivir con Propósito en la Espera: Oración, Unión y Gozo",
     "message": "Este sermón nos inspira a vivir con propósito y alegría mientras esperamos el regreso de Cristo. El Pastor Daniel Tito nos anima a perseverar en la oración constante, mantenernos unidos en la congregación y regocijarnos diariamente en que nuestro nombre está escrito en el Libro de la Vida. Nos recuerda que Dios nos guarda y nos llama a anunciar su mensaje, sin hacer \"hora\" sino viviendo plenamente en Él, confiando en su tiempo perfecto.\n\nÍndice de momentos:\n[09:37] La promesa de la venida de Cristo\n[16:02] ¿Qué hacer mientras Cristo tarda?\n[18:29] Perseverar en oración y evangelismo\n[25:25] La importancia de congregarse\n[38:33] Regocijarse en el nombre escrito en el cielo\n[54:17] Anunciar a Jesús hasta su regreso",
     "url": null,
@@ -11105,6 +11396,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNbVF0ZbWPhpo-tTc1_GNUlZoTRTGv6FH3eGlNd6m3FMNXEfCfSY0Oxea5i.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNbVF0ZbWPhpo-tTc1_GNUlZoTRTGv6FH3eGlNd6m3FMNXEfCfSY0Oxea5i.mp4",
     "title": "Cuando Mis Ojos Te Ven",
     "message": "Este sermón nos guía desde el mero oír acerca de Dios hasta experimentarlo verdaderamente: verlo, sentirlo y comprender Su amor incondicional. El Pastor Daniel Tito comparte su propia lucha al intentar explicar a un incrédulo la existencia de Dios, destacando cómo solo el Espíritu Santo puede revelarnos estas verdades profundas. Es una invitación a dejar la confusión, abrir el corazón y permitir que la gracia transformadora de Jesús nos libere de la ceguera espiritual, el orgullo y la dureza, para vivir una fe auténtica y personal.\n\nÍndice de momentos:\n[05:00] Oración y bienvenida\n[09:42] Tiempo de adoración\n[24:23] Inicio de la predicación: El deseo de servir a Dios\n[30:05] La frustración de no poder explicar a Dios\n[39:31] Profundizando en Job 42:3-5: \"Mis ojos te ven\"\n[01:04:34] Oración de entrega y transformación",
     "url": null,
@@ -11144,6 +11436,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNBVzdXIc5EKfM6VqQPtHtgbL5WnUZc2GqI_W6ZCSRH8Q2V125aXuSJKUZmtQ.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNBVzdXIc5EKfM6VqQPtHtgbL5WnUZc2GqI_W6ZCSRH8Q2V125aXuSJKUZmtQ.mp4",
     "title": "El Corazón del Verdadero Adorador: Buscar a Dios y Adorarle",
     "message": "El sermón nos invita a reflexionar sobre la esencia de la adoración genuina, destacando que, antes de cualquier petición, debemos santificar el nombre de Dios. Explorando pasajes como 1 Samuel 1, Juan 4 y Mateo 2, el Pastor Daniel Tito enfatiza que el Padre busca adoradores que le ofrezcan su ser en espíritu y verdad, incluso con sacrificio, garantizando la permanencia de la casa de Dios.\n\nÍndice de momentos:\n[00:30] Inicio del tiempo de alabanza\n[15:37] Reconocimiento al Ministerio de Alabanza\n[20:09] La bondad de Dios y la oración del Padre Nuestro\n[27:07] Elcana y la adoración en 1 Samuel\n[30:57] Dios busca adoradores en espíritu y verdad (Juan 4:23-24)\n[35:50] Los Magos y el sacrificio en la adoración (Mateo 2:1-2)",
     "url": null,
@@ -11184,6 +11477,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNcG_VHihDUEQ0QWSgw_Ot9w-f98Ibow7vmNtXz3pRbeW_sGIN7CWmiJNfojw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNcG_VHihDUEQ0QWSgw_Ot9w-f98Ibow7vmNtXz3pRbeW_sGIN7CWmiJNfojw.mp4",
     "title": "Conquistando Naciones para Cristo: La Misión del Reino",
     "message": "Este sermón inspirador recalca la importancia de edificar la casa de Dios y expandir el Reino en cada lugar donde los creyentes han sido enviados. Se enfatiza la fe, la alegría en el servicio y la convicción de que Dios se encarga de sus propósitos, incluso a través del liderazgo fiel que \"conquista esa tierra para Cristo\". Un mensaje de compromiso con la misión divina en el hogar y en las naciones.\n\nÍndice de momentos:\n[00:00] Bienvenida y anuncios\n[02:22] Oración inicial y agradecimiento\n[07:20] Saludos a la familia del Reino nacional e internacional\n[13:37] Testimonio de liderazgo fiel y comprometido\n[15:13] Llamado a evangelizar y bendecir naciones\n[15:30] Momento de Alabanza a Dios",
     "url": null,
@@ -11220,6 +11514,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNCR8Q33E6HR2RHfYiAg93xWLepRVQRgevC-_pLQ9YBb_h6Wv7EZwugmeNK1g.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNCR8Q33E6HR2RHfYiAg93xWLepRVQRgevC-_pLQ9YBb_h6Wv7EZwugmeNK1g.mp4",
     "title": "Venciendo la Soledad: Dios Nunca te Dejará Solo",
     "message": "Este sermón explora la soledad desde una perspectiva bíblica, enfatizando que Dios nos creó para la compañía y la abundancia, no para estar solos. Se discuten diversas formas de soledad, desde la ausencia de pareja o familia hasta la falta de afecto o propósito. Sin embargo, el mensaje central resalta la promesa inquebrantable de Dios de recogernos y acompañarnos, recordándonos que su amor llena todo vacío y nos llama a ser seres sociales y de influencia positiva.\n\nÍndice de momentos:\n[02:07] Dios crea en abundancia y no le gusta la soledad\n[05:07] Génesis 2:18: No es bueno que el hombre esté solo\n[19:50] La soledad como arma y el llamado a sociabilizar\n[30:00] Ejemplos bíblicos de soledad y abandono (Isaac, José, Abraham)\n[44:01] Salmos 27:10: Dios nunca nos dejará ni abandonará\n[52:03] Oración por aquellos que se sienten solos",
     "url": null,
@@ -11262,6 +11557,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNftocEbbYjuU8FlFK6ZM7I_NXr-9HPk_LBabiGb65ZCCMXnl7QazmoGK1j.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNftocEbbYjuU8FlFK6ZM7I_NXr-9HPk_LBabiGb65ZCCMXnl7QazmoGK1j.mp4",
     "title": "Navidad: Más que Fiesta, Es Jesús",
     "message": "El Pastor Daniel Tito revela que la Navidad es mucho más que una celebración social; es la conmemoración del humilde nacimiento de Jesús, nuestro Salvador. A través de ejemplos bíblicos de los sabios, los pastores, María y José, el mensaje enfatiza la importancia de honrar a Jesús, quien se despojó de su divinidad para venir como siervo. Reflexionemos sobre su amor y nuestra entrega a Él.\n\nÍndice de momentos:\n[09:34] El significado de la Navidad\n[17:29] Respeto en la casa de Dios y el hogar\n[22:13] El nacimiento de Jesús y los Magos (Mateo 2)\n[36:56] La invitación a los Pastores (Lucas 2)\n[43:07] La humildad de Jesús en su nacimiento (Mateo 1)\n[52:30] Oración y llamado a honrar a Jesús",
     "url": null,
@@ -11303,6 +11599,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNiSzsYYUH65821g4ufF_kRL3XiCuY6w0Qb8oWlmck-ZMkZtVHSPPuaqib-.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNiSzsYYUH65821g4ufF_kRL3XiCuY6w0Qb8oWlmck-ZMkZtVHSPPuaqib-.mp4",
     "title": "El Bautismo: Un Mandato de Obediencia y Nueva Vida",
     "message": "Este sermón explora la profunda importancia del bautismo en agua como un acto de obediencia fundamental para todo creyente. Se enfatiza que no es para salvación, sino una declaración pública de fe, simbolizando la muerte al viejo yo y el renacer a una nueva vida en Cristo. A través del ejemplo de Jesús y los apóstoles, somos inspirados a seguir este mandamiento divino con alegría y convicción. El bautismo es un paso personal de fe que nos alinea con el propósito de Dios, abriendo cielos y trayendo Su complacencia sobre aquellos que le obedecen.\n\nÍndice de momentos:\n[13:57] Introducción al mandamiento del bautismo\n[19:04] Jesús: Ejemplo y propósito del bautismo\n[23:44] Simbolismo: Muerte, sepultura y resurrección\n[25:15] El bautismo como decisión personal y sumersión\n[35:18] Testimonio personal del Pastor Daniel\n[40:27] Llamado a la obediencia para los no bautizados",
     "url": null,
@@ -11346,6 +11643,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNJ7Dv7Wj2IR0yzrPmGOJKYm7Ak-CcnZ5zTXSBiDiiDh_kKYsfJpUPZoxvoBw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNJ7Dv7Wj2IR0yzrPmGOJKYm7Ak-CcnZ5zTXSBiDiiDh_kKYsfJpUPZoxvoBw.mp4",
     "title": "Servicio Genuino: Agradecimiento y Tiempo con Jesús",
     "message": "Este sermón nos invita a reflexionar sobre el verdadero servicio a Dios, que nace de un corazón agradecido por Su sanidad y bendiciones. A través de ejemplos bíblicos, el pastor Daniel Tito enfatiza que servir no es una obligación, sino una respuesta espontánea de amor. Destaca la importancia de la generosidad y, sobre todo, de priorizar nuestro tiempo con Jesús, ya que es el fundamento para un servicio genuino y perdurable, evitando el afán y la turbación.\n\nÍndice de momentos:\n[00:22] El corazón agradecido por la sanidad y bendición\n[05:17] La pregunta clave: ¿Qué espera Dios de ti?\n[05:44] Jesús sana a la suegra de Pedro (Lucas 4:38-39)\n[11:39] ¿Qué es servir a Dios? Trabajar en Su obra\n[18:46] Mujeres que servían con sus bienes (Lucas 8:1-3)\n[39:03] Marta y María: La mejor parte (Lucas 10:38-42)\n[44:51] La prioridad de pasar tiempo con Jesús",
     "url": null,
@@ -11386,6 +11684,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNM__YxvVmZCnoEc_5ULrhAXkiHTpW6Tr-0N5Xzw9QPKd-O7AL5i8WbCf9c.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNM__YxvVmZCnoEc_5ULrhAXkiHTpW6Tr-0N5Xzw9QPKd-O7AL5i8WbCf9c.mp4",
     "title": "La Presencia de Dios en Tu Hogar: Bendición Familiar",
     "message": "El Pastor Daniel Tito nos inspira a reconocer el inmenso amor de Dios y Su deseo de bendecir a cada individuo y a toda su familia. Este sermón nos anima a llevar la presencia divina a nuestros hogares, creyendo en las promesas de salvación y prosperidad para nuestra descendencia. Nos invita a orar con fe y a amar sin juzgar, recordando que el plan de Dios abarca a cada miembro de la casa, transformando el dolor en esperanza y seguridad.\n\nÍndice de momentos:\n[00:00] Bienvenida y gratitud familiar\n[02:29] Oración inicial y clamor por prosperidad\n[04:56] Lo más valioso que Dios nos ha regalado\n[13:09] Lectura bíblica: El rico y Lázaro (Lucas 16)\n[23:23] Planes de Dios para ti y tu casa\n[35:09] Oración por la familia y por salvación",
     "url": null,
@@ -11429,6 +11728,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNOHO-52NUfH9TbeGEavr9Z2Krh9xCAxLPMm2RcBCLaHcwAfMhLVRppK6YY.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNOHO-52NUfH9TbeGEavr9Z2Krh9xCAxLPMm2RcBCLaHcwAfMhLVRppK6YY.mp4",
     "title": "Sé Cabeza y No Cola: El Espíritu Superior que Dios te dio",
     "message": "El Pastor Daniel Tito nos desafía a ser extraordinarios, abrazando la identidad de hijos de Dios con un espíritu superior. Inspirados en ejemplos bíblicos como Caleb y Daniel, somos llamados a la excelencia, a ser \"diez veces mejores\" y a vivir como \"cabeza y no cola\" en cada aspecto de nuestra vida. Este mensaje nos impulsa a desechar la mediocridad y a proponer en nuestro corazón una vida de convicción y propósito divino, marcando una diferencia dondequiera que estemos.\n\nÍndice de momentos:\n[00:00] Anuncios y preparación para el día de santificación familiar\n[07:06] Lectura bíblica: El espíritu diferente de Caleb\n[11:16] El espíritu superior de Daniel\n[16:16] Dios te pondrá por cabeza y no por cola\n[38:12] La decisión de Daniel de no contaminarse\n[42:09] Oración final y llamado a ser especial",
     "url": null,
@@ -11471,6 +11771,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNSeLg6hlxFmKb306Z7EpLWAVV5FgG3KxYX0IZ-kjsPAUgfbZi3pv1Td7YeQA.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNSeLg6hlxFmKb306Z7EpLWAVV5FgG3KxYX0IZ-kjsPAUgfbZi3pv1Td7YeQA.mp4",
     "title": "Decisión Inquebrantable: La Voluntad Férrea de Quien Quiere a Dios",
     "message": "Este sermón poderoso revela que la fe genuina se manifiesta en una voluntad inquebrantable para servir a Dios, superando excusas y reclamando sus promesas. A través de ejemplos bíblicos de Caleb, Josué, Pablo y Jesús, se enfatiza que la edad, el miedo o las circunstancias no deben impedirnos perseguir el propósito divino con diligencia y compromiso. Aquel que realmente quiere a Dios, no buscará pretextos, sino que actuará con convicción, ya que la fe sin obras es estéril. Este mensaje inspira a vivir con una determinación espiritual que transforma vidas y hogares.\n\nÍndice de momentos:\n[00:00] La importancia de estar en la casa de Dios\n[05:18] Introducción al mensaje: \"El que quiere, quiere\"\n[10:41] El ejemplo de Caleb reclamando su herencia en Hebrón\n[24:00] Josué y su firme decisión de servir a Jehová\n[40:26] La inquebrantable determinación del apóstol Pablo\n[46:38] Jesús en el templo: en los negocios de su Padre\n[01:01:15] Oración y llamado a la decisión por Cristo",
     "url": null,
@@ -11513,6 +11814,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNUr0CUOqTJooQp0FrOG10M3v4ZZQwn3Zd7jfJ_gzcojGK2YUAko4fyLxld.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNUr0CUOqTJooQp0FrOG10M3v4ZZQwn3Zd7jfJ_gzcojGK2YUAko4fyLxld.mp4",
     "title": "Dios Tiene Planes Para Ti: Esperanza en Tiempos Inciertos",
     "message": "El Pastor Daniel Tito nos inspira a confiar en los planes perfectos de Dios, incluso en medio de las adversidades globales y personales. A través de poderosos testimonios y promesas bíblicas, el mensaje enfatiza que Dios siempre tiene planes de bienestar, un futuro lleno de esperanza y bendición para sus hijos. La fe y la oración son el camino para ver Su propósito cumplido en cada área de nuestras vidas.\n\nÍndice de momentos:\n[00:00] Inicio y Alabanza\n[09:31] Saludos y Agradecimiento\n[30:17] Testimonio Personal y Mensaje Central\n[50:14] Jeremías 29:11: Planes de Bienestar\n[01:07:08] Salmos 33:11: Bendición Generacional\n[01:10:10] Oración y Adoración Final",
     "url": null,
@@ -11555,6 +11857,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQNVNIOn3PNGMnV_VGcXTSiofiT8t4ce0j-ncJY0INKpJI9_KdsuH5xUUleGGVAzpQin6eAUSxfYmFFWqW_sVvvU.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQNVNIOn3PNGMnV_VGcXTSiofiT8t4ce0j-ncJY0INKpJI9_KdsuH5xUUleGGVAzpQin6eAUSxfYmFFWqW_sVvvU.mp4",
     "title": "El Legado Invaluable de una Madre: Honra y Verdad",
     "message": "Este conmovedor sermón celebra el amor incondicional y el sacrificio de las madres, recordándonos las cinco verdades bíblicas que no debemos ignorar. Nos invita a honrar sus enseñanzas, cuidarles en la vejez, mantener la unidad familiar y, sobre todo, andar en la verdad, pues no hay mayor gozo para una madre que ver a sus hijos caminando con Dios. Un llamado a la gratitud y la acción para bendecir a quienes nos dieron la vida.\n\nÍndice de momentos:\n[00:00] Dedicatoria musical a las madres\n[08:48] Introducción y anécdotas sobre la autoridad materna\n[15:28] Primer mandamiento: No menosprecies la enseñanza de tu madre\n[20:59] Segundo mandamiento: Honra a tu padre y a tu madre\n[29:33] Tercer mandamiento: No abandones a tu madre en la vejez\n[37:47] Cuarto mandamiento: La alegría de los hijos unidos\n[39:23] Quinto mandamiento: La verdad y el caminar con Dios",
     "url": null,
@@ -11597,6 +11900,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQO-4g-KCgloGIFvcZyMUZFu0a9W2ZRqON-5trLI9g7S12d0cb5I8p_cgRrt.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQO-4g-KCgloGIFvcZyMUZFu0a9W2ZRqON-5trLI9g7S12d0cb5I8p_cgRrt.mp4",
     "title": "¿Puedo Confiar en Ti? La Esencia de la Confianza Verdadera",
     "message": "Este sermón analiza la esencia de la confianza, un pilar fundamental en nuestra relación con Dios y con los demás. Se explora cómo, a pesar de nuestras imperfecciones humanas, Dios deposita una confianza inquebrantable en nosotros, y cómo estamos llamados a reflejar esa confianza en nuestras interacciones diarias, especialmente dentro de la iglesia y la familia. La predicación nos desafía a ser personas dignas de esa confianza, guiándonos a través de las escrituras para mantenernos firmes en la verdad y evitar distracciones mundanas, siempre honrando la fe que se nos ha encomendado.\n\nÍndice de momentos:\n[00:30] El Impacto de la Gloria de Dios\n[11:58] Bienvenida y el Tema: ¿Puedo Confiar en Ti?\n[14:36] Confianza Mutua en la Comunidad Cristiana\n[28:02] La Perspectiva Bíblica sobre la Confianza\n[41:00] Pilares para Ser Digno de Confianza\n[50:14] Compromiso y Oración Final",
     "url": null,
@@ -11638,6 +11942,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQO1htkAHFHCUGTGKoLP5NLgtFhqbzz3mGzAdYJewkTa_iVaLZrCx1oysuGd.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQO1htkAHFHCUGTGKoLP5NLgtFhqbzz3mGzAdYJewkTa_iVaLZrCx1oysuGd.mp4",
     "title": "La Familia: El Propósito Divino de Salvación y Unión",
     "message": "Este sermón profundiza en el valor fundamental de la familia según el corazón de Dios, especialmente en el Día de la Familia. El Pastor Daniel Tito enfatiza cómo Dios tiene un propósito de salvación y bendición no solo para el individuo, sino para toda su casa y generaciones. A través de poderosos ejemplos bíblicos, se nos insta a amar, perdonar y honrar a nuestros seres queridos, dejando atrás rencores y acercándonos a Dios para que su presencia transforme nuestros hogares. Un llamado inspirador a valorar la familia hoy.\n\nÍndice de momentos:\n[02:21] Bienvenida y Celebración Familiar\n[06:06] Adoración y Danza\n[26:09] La Familia según Dios y la ley\n[41:18] El rico y Lázaro: Un llamado a la reflexión\n[53:28] Promesas bíblicas de salvación familiar\n[01:14:52] Oración y compromiso por la familia",
     "url": null,
@@ -11682,6 +11987,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQO28tk3rkDWLfeH6aQfexYNdzJEZmUxY4UJjs_VYwZu2eYpgJfQjNsgs6JK.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQO28tk3rkDWLfeH6aQfexYNdzJEZmUxY4UJjs_VYwZu2eYpgJfQjNsgs6JK.mp4",
     "title": "El Reino de Dios: Un Llamado a la Fe y al Corazón de Niño",
     "message": "El sermón explora la profunda verdad del Reino de Dios: su presencia ya ha llegado y no es algo mundano, sino poder que se manifiesta en milagros reales. El Pastor Daniel Tito enfatiza la primacía de buscar el Reino y su justicia, y la importancia de cultivar un corazón humilde y perdonador, como el de un niño, para heredar y permanecer en él, evitando la hipocresía y la superficialidad. Es un llamado a vivir con autenticidad y propósito divino en este Reino. \n\nÍndice de momentos:\n[04:28] Bienvenida y alabanza inicial\n[12:48] La llegada y cercanía del Reino de Dios\n[17:32] Lo que no es el Reino de Dios: Más allá de lo terrenal\n[33:42] Busca primero el Reino y su justicia\n[46:50] El corazón de niño para heredar el Reino\n[52:02] Oración final y llamado a la acción",
     "url": null,
@@ -11727,6 +12033,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQO3SJssDBI-OwsgBRSa_8SMGVsL9uj1Fmt5Sc-rTaJcF1XPjqzeAyN8l1b4Ew.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQO3SJssDBI-OwsgBRSa_8SMGVsL9uj1Fmt5Sc-rTaJcF1XPjqzeAyN8l1b4Ew.mp4",
     "title": "Fortalecidos en Extremo: Fe, Familia y Fidelidad ante la Opresión",
     "message": "En el marco de las Fiestas Patrias, el Pastor reflexiona sobre cómo Dios multiplicó y fortaleció al pueblo de Israel en Egipto (Éxodo 1:7). Explica que cuando el creyente se fortalece, el enemigo intenta amargar su vida y la de su familia a través de la opresión. Exhorta a enseñar a los hijos a buscar a Dios y permanecer fieles en la prueba, sabiendo que el clamor sincero activa el pacto de Dios para traer libertad.\n\nÍndice de momentos:\n[05:30] Oración especial de intercesión por el Perú y las Fiestas Patrias.\n[08:18] Lectura bíblica en Éxodo 1:7 y la prosperidad extrema del pueblo de Dios.\n[09:20] Qué significa ser un pueblo próspero y fortalecido por Dios.\n[12:35] La reacción del diablo ante el crecimiento y fortaleza del cristiano.\n[14:15] Análisis de Éxodo 1:8-10: El temor del enemigo y la opresión duradera.\n[16:40] El peligro de la opresión familiar y la necesidad de guiar a los hijos hacia Dios.\n[19:10] Reflexión en Apocalipsis 2:10: Llamado a la fidelidad en medio de la tribulación.\n[23:30] La verdadera causa de la caída del hombre: El alejamiento de Dios.\n[25:10] El clamor de libertad del pueblo (Éxodo 2:23) y el pacto divino.\n[27:50] El llamado de Moisés en la zarza ardiendo (Éxodo 3:4) y la respuesta del creyente.\n[30:20] Oración de consagración, arrepentimiento y libertad de toda esclavitud espiritual.",
     "url": null,
@@ -11769,6 +12076,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOfBv9Vh63iRCspUrsnA0LX_MUjOCVgIae3T-yr5VqfoNNj6poLsBoktWsUvw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOfBv9Vh63iRCspUrsnA0LX_MUjOCVgIae3T-yr5VqfoNNj6poLsBoktWsUvw.mp4",
     "title": "Dios Cumplidor de Promesas: Fe y Fidelidad ante la Dificultad",
     "message": "Pastor Daniel predica en medio de un corte de energía que el Dios del primer, segundo y tercer turno es el mismo que cumple Sus promesas. Basado en Isaías, Jeremías y Pedro, nos enseña que Dios siempre está presente para ayudarnos, pensar bien de nosotros y librarnos del peligro, llamándonos a mantenernos fieles a Él a pesar de nuestras flaquezas.\n\nÍndice de momentos:\n[00:00] Bienvenida e inicio del culto sin energía eléctrica\n[02:55] Mensaje: Dios, cumplidor de promesas\n[07:00] Promesa de presencia y auxilio (Isaías 41:10)\n[11:36] Pensamientos de paz y bienestar (Jeremías 29:11)\n[17:31] Protección en agua y fuego (Isaías 43:2)\n[22:21] Paciencia y tiempo de Dios (2 Pedro 3:9)\n[25:00] Testimonio: La sanidad de la Pájara y la fidelidad\n[32:55] Advertencia y ruego de Jesús por Pedro (Lucas 22:31-34)\n[38:50] Altar de oración y renovación de promesas\n[46:00] Ofrendas y cántico de adoración\n[50:00] Ministración y oración de fe por los necesitados\n[54:20] Despedida con la palabra rema de la iglesia",
     "url": null,
@@ -11809,6 +12117,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOggyDDvZKb1m99fcbZ2go7OE9K5slscJqasIcniKIO2qrurVNyaM09ovBINQ.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOggyDDvZKb1m99fcbZ2go7OE9K5slscJqasIcniKIO2qrurVNyaM09ovBINQ.mp4",
     "title": "No es Bueno Estar Solo: Rompiendo la Soledad con Dios",
     "message": "En este conmovedor sermón, el pastor Daniel aborda el tema de la soledad, recordando que es lo único en la creación que Dios declaró que 'no era bueno'. Nos anima a romper con el aislamiento y a confiar en la fidelidad del Señor, quien nos recoge cuando otros nos dejan y promete habitar con nosotros para siempre a través de Su Espíritu y la comunidad de fe.\n\nÍndice de momentos:\n[00:00] Introducción, alabanza y saludos al extranjero\n[03:34] El diseño de Dios en abundancia y hermosura\n[05:19] Génesis 2:18: Lo único que no es bueno es la soledad\n[06:16] El impacto de la soledad en la salud emocional y espiritual\n[11:11] Invitación a dejar el aislamiento y buscar comunión\n[33:15] Reflexión personal: Sentirse solo y superarlo\n[38:21] Salmo 27:10: Aunque mi padre y mi madre me dejen\n[40:01] La promesa divina: Nunca más estarás solo\n[42:31] Ministración y oración para romper la soledad\n[48:49] Despedida y palabra rema de la congregación",
     "url": null,
@@ -11845,6 +12154,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOJoLSergIsDiAHCcrZ2uwB-BN9zEsXEKJsoh2JGbxilHJK6fFUSQu0Cw7e.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOJoLSergIsDiAHCcrZ2uwB-BN9zEsXEKJsoh2JGbxilHJK6fFUSQu0Cw7e.mp4",
     "title": "El Privilegio de Servir a Dios: Salvados y Formados para Buenas Obras",
     "message": "El Pastor Daniel Tito nos enseña que servir a Dios no es una opción, sino el propósito de nuestra creación y salvación (Efesios 2:10). Reflexiona sobre cómo Jesús vino como siervo (Mateo 20:28), invitándonos a imitarle. Nos anima a administrar los dones recibidos para bendecir a otros y recuerda la hermosa promesa de Jesús: el Padre honrará a todos aquellos que le sirven con amor y sinceridad.\n\nÍndice de momentos:\n[00:00] Alabanza de bienvenida y saludos en la víspera del Bicentenario de la Independencia del Perú.\n[03:20] Saludos a las escuelas y hermanos en Huancayo, Cajamarca, Italia, Mallorca y Estados Unidos.\n[05:40] Tiempo de oración de inicio y bienvenida al Pastor Daniel Tito.\n[07:15] Bloque de alabanza y adoración de la congregación (\"No quiero perder las cosas\", \"Porque Cristo vive\").\n[16:40] Introducción al mensaje bíblico: El privilegio de servir a Dios.\n[18:15] Lectura bíblica en Efesios 2:10 y el propósito de las buenas obras.\n[21:40] Reflexión sobre Dios como Creador del hombre para buenas obras.\n[24:10] Lectura de 2 Timoteo 1:8-9: Salvados y llamados con llamamiento santo.\n[27:00] Fuimos salvados para servir a otros de corazón.\n[28:10] Análisis de Mateo 20:27-28: El modelo de servicio de Jesucristo.\n[32:20] El lavado de pies como la máxima enseñanza de humildad y servicio de Jesús.\n[34:10] Lectura de 1 Pedro 4:10: Administrando los dones y formando discípulos en amor.\n[38:15] Importancia del ejemplo personal en la formación y el servicio en la iglesia.\n[40:10] Lectura de 2 Corintios 4:7 y la gloria de Dios en vasos de barro.\n[42:50] Canto especial de entrega y reflexión: \"No por el pan, sino por amor\".\n[45:15] Explicación de Juan 12:26: La recompensa divina de que el Padre honrará al que le sirve.\n[47:45] Oración final de consagración, diezmos y ofrendas.\n[53:40] Saludos de cumpleaños, aniversarios matrimoniales y anuncios de la semana.",
     "url": null,
@@ -11888,6 +12198,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOKA7q8kkH6XNrbP0ktWHJxO2eUvlPejC9NMT9CbE0zoLABb5CEgZ6fR6rV.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOKA7q8kkH6XNrbP0ktWHJxO2eUvlPejC9NMT9CbE0zoLABb5CEgZ6fR6rV.mp4",
     "title": "La Libertad en Cristo y la Derrota del Hombre Fuerte",
     "message": "En el contexto de las fiestas patrias, el Pastor Daniel Tito predica sobre la verdadera libertad espiritual. Analiza Marcos 3:27 y explica que el enemigo busca atar al \"hombre fuerte\" de cada hogar para saquear las familias. Nos exhorta a usar la autoridad de atar y desatar (Mateo 18:18) y nos recuerda que Jesús se dejó atar y encadenar para otorgarnos libertad y victoria sobre toda opresión.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración de la iglesia (\"El Señor es mi Rey, mi todo\").\n[03:15] Canto de confianza: \"No me soltarás en la calma o la tormenta\".\n[08:15] Lectura bíblica en Marcos 3:27: La parábola del hombre fuerte y el saqueo de los bienes.\n[10:30] Contexto histórico de la independencia del Perú y la verdadera libertad en Cristo.\n[12:35] Cómo el enemigo ataca la libertad en el hogar y la importancia de interceder por los padres.\n[14:40] El diablo busca neutralizar al guardián de la familia para destruir el hogar.\n[16:20] Reflexión en Jueces 16:6: La historia de Sansón y el intento de Dalila por atar su fuerza.\n[19:25] La autoridad espiritual: Explicación de Mateo 18:18 (atar y desatar en la tierra y el cielo).\n[21:10] Lectura de Hechos 21:33 y el simbolismo de las cadenas de Pablo y la entrega de Jesús.\n[23:05] Jesús se dejó encadenar y maltratar para darnos autoridad y libertad legal sobre el pecado.\n[25:35] Cántico especial de fe y consagración del liderazgo de la iglesia.\n[27:00] Invitación al altar para oración de liberación, sanidad familiar y reconciliación espiritual.\n[28:10] Agradecimiento especial a la comunidad, saludos a Huancayo y despedida.",
     "url": null,
@@ -11929,6 +12240,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOLS8ARav5bX_jbkfsaetXVscBGZAPZYqVvZW2vo_Imi9cnWrvN7ZGxtFHJK1QnowUZrc3KV4NPdAYHGMVc-95j.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOLS8ARav5bX_jbkfsaetXVscBGZAPZYqVvZW2vo_Imi9cnWrvN7ZGxtFHJK1QnowUZrc3KV4NPdAYHGMVc-95j.mp4",
     "title": "Pelea la Buena Batalla: Estrategias para Vencer en la Guerra Espiritual",
     "message": "En medio de conflictos sociales, el Pastor Daniel Tito enseña que los cristianos enfrentamos una batalla espiritual mayor (1 Timoteo 6:12). Analizando 1 Pedro 5:8 y Números 1, identifica los enemigos que nos impiden luchar: la indiferencia, la falta de compromiso, el desánimo y el pecado oculto (Josué 7). Nos insta a despertar, ser sobrios y perseverar firmes en la fe para ver la victoria en nuestras familias.\n\nÍndice de momentos:\n[00:00] Alabanza inicial (\"Un día en la casa de Dios\") y saludos cariñosos a la congregación.\n[02:00] Reflexión pastoral sobre la situación de conflicto social en el Perú y el deber de la oración cristiana.\n[04:20] El llamado a cuidar y vigilar la propia familia y el bienestar espiritual de los hijos.\n[05:40] Introducción al tema: La guerra espiritual del cielo contra el infierno.\n[06:50] Advertencia contra el espíritu de religiosidad y de ocultismo (horóscopos y rituales).\n[10:45] Lectura bíblica de 1 Timoteo 6:12: El mandato de pelear la buena batalla de la fe.\n[12:10] La importancia de no pelear entre cónyuges, sino unirse contra el verdadero enemigo espiritual.\n[15:20] Lectura de 1 Pedro 5:8: Estar alertas y sobrios frente al diablo que busca devorar.\n[17:35] El peligro de la indiferencia en la vida del creyente y en el liderazgo.\n[19:15] Falta de compromiso y la analogía con el servicio militar.\n[21:40] Lectura de Números 1:1-3 y el censo de Dios para aquellos aptos para la guerra.\n[24:50] El desaliento como arma de retroceso espiritual y cómo Dios renueva nuestras fuerzas.\n[28:10] El pecado oculto y la lección de Josué 7:2-12 (la historia de Acán y la derrota familiar).\n[30:30] Invitación al altar para oración de liberación, compromiso renovado y arrepentimiento.\n[32:20] Oración de fe y salvación junto a los nuevos creyentes y anuncios finales.",
     "url": null,
@@ -11970,6 +12282,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOO7ue4rBRQe0yGz5bZOV0jLSpDdgmPlIryRGVFPKHmRRcqDmTRMBXWw6UN.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOO7ue4rBRQe0yGz5bZOV0jLSpDdgmPlIryRGVFPKHmRRcqDmTRMBXWw6UN.mp4",
     "title": "De Tal Manera: El Sacrificio en la Cruz y el Amor de Dios",
     "message": "En una visita a Huancayo, el Pastor Daniel Tito reflexiona profundamente sobre Juan 3:16. Explica la inmensidad del amor del Padre al entregar a su único Hijo en la cruz y detalla los sufrimientos que Jesús padeció voluntariamente por nosotros. Nos recuerda que la vida eterna es un regalo accesible mediante la fe sincera en Cristo, sin necesidad de ritos humanos.\n\nÍndice de momentos:\n[00:00] Bienvenida a los hermanos en el extranjero y saludos especiales a las sedes de Huancayo y Lima.\n[00:45] Introducción al tema: El amor de Dios manifestado en sus planes y propósitos.\n[01:50] Reflexión sobre la soberanía de Dios para traer a las personas a su camino.\n[02:30] Recuerdos de sus primeros años en la fe y la sencillez en los templos de adobe y tablas.\n[03:40] El valor del mensaje bíblico por encima de las apariencias o las personas.\n[05:00] Lectura bíblica en Juan 3:16: El versículo más conocido sobre el amor de Dios.\n[06:05] Análisis de la frase \"de tal manera\" y la comparación con el amor de un padre terrenal (Mateo 7:11).\n[08:45] Los detalles del sufrimiento físico de Jesús en la cruz: Los latigazos y la corona de espinas.\n[11:00] El dolor de los clavos y el sacrificio voluntario de Cristo como sustituto del pecador.\n[12:35] La única condición para la salvación: Creer en Él de corazón y no a través de ritos o penitencias.\n[15:10] La promesa de la vida eterna para el creyente (Juan 11:25).\n[17:00] Exhortación final: Amar a Dios y al prójimo (1 Juan 4:8).\n[18:10] Invitación al altar y oración de entrega, fe y arrepentimiento.\n[21:10] Oración de bendición por las vidas consagradas y despedida.",
     "url": null,
@@ -12011,6 +12324,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOOYTuy2SC8ywOgwhIOEDaliwdYuuRakalozfOn5zd4v8NjZcnSFm7CDk7E3A.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOOYTuy2SC8ywOgwhIOEDaliwdYuuRakalozfOn5zd4v8NjZcnSFm7CDk7E3A.mp4",
     "title": "Para Toda la Vida: El Diseño de Dios para el Matrimonio y la Familia",
     "message": "En una celebración de graduación de matrimonios, el Pastor Daniel Tito enseña sobre el diseño sagrado de la relación conyugal. Basándose en Mateo 19 y Efesios 5, destaca que el matrimonio es un pacto indestructible (\"cordón de tres dobleces con Dios\" - Eclesiastés 4:12). Exhorta a la fidelidad (Hebreos 13:4), al respeto mutuo y a cultivar el amor incondicional que nada puede apagar (Cantares 8:7). \n\nÍndice de momentos:\n[00:00] Bienvenida en la graduación de matrimonios en Misión Cristiana El Reino.\n[00:45] Lectura y explicación de Mateo 19:4-6: El origen divino del matrimonio y la indisolubilidad del lazo conyugal.\n[02:15] El valor de la perseverancia en la pareja a lo largo de los años y el envejecimiento.\n[03:40] Advertencia directa contra la infidelidad y la ligereza moral en la era digital (redes sociales).\n[04:50] Lectura de Efesios 5:23 y la responsabilidad del esposo como cabeza espiritual del hogar.\n[06:10] La importancia de la sujeción mutua, la oración sincera y el orden bíblico en la familia.\n[07:15] Lectura de Eclesiastés 4:9-11: El valor del trabajo en equipo y el apoyo mutuo ante las caídas.\n[09:20] Dinámica con las parejas sobre el compromiso y la unidad en el matrimonio.\n[10:45] Lectura de Eclesiastés 4:12: El cordón de tres dobleces (el esposo, la esposa y Cristo) como garantía de permanencia.\n[13:10] Lectura de 1 Pedro 3:7: El trato sabio y delicado hacia la mujer como vaso más frágil.\n[14:20] Lectura de Hebreos 13:4 y el juicio de Dios sobre los fornicarios y adúlteros.\n[16:45] Apoyo y lealtad conyugal: La historia de Ananías y Safira (Hechos 5) y el límite moral del acuerdo de pareja.\n[19:10] Lectura de Cantares 8:6-7: La fuerza del amor verdadero que no puede ser apagado por las muchas aguas.\n[21:15] Exhortación final: El mejor regalo para los hijos es que vean que sus padres se aman.\n[22:20] Invitación al altar para oración de restauración familiar, consagración matrimonial y bendición de parejas.\n[25:50] Oración final y bendición pastoral en Huancayo y Lima.",
     "url": null,
@@ -12055,6 +12369,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOPn0mxXgHdoYtCYFNxj17bXMwAtlklElHx8UQZrzs-7T7iI4qdwN2c5N1aqQ.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOPn0mxXgHdoYtCYFNxj17bXMwAtlklElHx8UQZrzs-7T7iI4qdwN2c5N1aqQ.mp4",
     "title": "Mata tu Vaca: Fe y Triunfo sobre el Desaliento y la Mediocridad",
     "message": "A partir de la historia de superación de Ann Mangro y la parábola de 'La Vaca', el Pastor Daniel Tito enseña cómo romper con el conformismo de las bendiciones pequeñas (Corintios 2:14). Explica que Dios nos ha diseñado para triunfar siempre y nos reta a confiar como el profeta Habacuc (Habacuc 3:17-19), alegrándonos en Dios aun cuando no queden vacas en los corrales.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración de la iglesia (\"No puedo parar de alabarte\", \"Con mi fe te tocaré\").\n[03:20] Adoración especial y oración de entrada: \"Quiero levantar mis manos, maravilloso Jesús\".\n[06:30] Saludo virtual e inicio del culto junto al líder Jan Marco de la Escuela Plata (desde el extranjero).\n[09:10] Introducción al tema: El desaliento frente a las dificultades cotidianas y pérdidas afectivas.\n[11:00] El testimonio de Ann Mangro (la niña 'flaca y fea'): Del trauma de la violencia a la alegría en Cristo.\n[14:15] La parábola de 'La Vaca' y el peligro de conformarse con las bendiciones limitadas.\n[17:35] Lectura bíblica en 2 Corintios 2:14: Dios nos lleva siempre en triunfo en Cristo Jesús.\n[21:10] El llamado a \"matar la vaca\" de la mediocridad para forjar un carácter excelente con Dios.\n[23:05] Análisis de Habacuc 3:17-19: La fe inquebrantable del profeta frente a la escasez absoluta.\n[25:15] Cómo alegrarse y regocijarse en Dios en los peores momentos financieros y familiares.\n[27:50] Invitación a la Santa Cena (1 Corintios 11) y momento de reconciliación en el altar.\n[30:20] Oración por los diezmos y ofrendas a cargo de la líder Selenia de la Escuela Azul.\n[32:20] Anuncios semanales (Escuela de Niños, Estudios Bíblicos, Clamor de Madrugada) a cargo de la líder Judith.\n[34:10] Saludos por los cumpleaños de octubre (Cirilo Chauca, Rita Galarza, Felipe Quilca, Simena Velasquez) y bendición final.",
     "url": null,
@@ -12095,6 +12410,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQORX9WyTwl1SJpY26LukjXqOMRgoGxOd18RW3GRSDGSCr1KzUPtdj3dOqrt.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQORX9WyTwl1SJpY26LukjXqOMRgoGxOd18RW3GRSDGSCr1KzUPtdj3dOqrt.mp4",
     "title": "Año de Dar Gracias: Fe y Esperanza ante el Nuevo Comienzo",
     "message": "En el inicio de año, el Pastor Daniel Tito proclama el lema del 2022: 'Año de dar gracias' (1 Tesalonicenses 5:18). Reflexiona sobre las duras pruebas de la pandemia de COVID-19 y el desafío de la virtualidad. Nos enseña que la madurez de la fe consiste en dar gracias a Dios en todo (Santiago 1:17), regocijándonos en las pruebas y reconociendo su mano protectora.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y oración de bienvenida para el año 2022.\n[03:20] Bloque de alabanza y adoración (\"Oh gracias, encontré la vida\", \"Tengo razones para vivir\", \"Gracias mi Señor Jesús\").\n[10:45] Video especial: Recuento de la pandemia en 2020 y la respuesta de fe de la iglesia Misión Cristiana El Reino.\n[12:35] Mensaje de fin de año 2021 de la familia pastoral.\n[14:40] El agradecimiento de los pastores a los líderes y colaboradores que mantuvieron la iglesia viva en la virtualidad.\n[19:10] Introducción al tema: La crisis y los momentos difíciles vividos en el año 2021.\n[21:20] Lectura bíblica en Mateo 2:1-2: El nacimiento de Jesús y la actitud de los sabios al buscarle para adorar.\n[24:15] La diferencia entre la religiosidad y una relación personal de gratitud con Cristo.\n[27:10] Explicación de Santiago 1:17: Todo don perfecto e inmerecido proviene del Padre Celestial.\n[30:20] Lectura de 1 Tesalonicenses 5:18: El mandato y voluntad de Dios de dar gracias en todo momento.\n[33:10] Reflexión sobre Santiago 1:2: Gozarse y madurar a través de las diversas pruebas de la vida.\n[35:10] Análisis de Romanos 1:21: Las consecuencias de endurecer el corazón y dejar de dar gracias a Dios.\n[37:35] Lectura de Zacarías 14:16 y el grupo de adoradores que sube año tras año a celebrar las fiestas de Dios.\n[40:10] Oración de consagración del Libro de Sueños 2022.\n[45:15] Canto de entrega en el altar y oración de salvación y reconciliación espiritual.",
     "url": null,
@@ -12138,6 +12454,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOTw8JBVUWhNIzuONXLQrB1Q8FFZ-Pvip_ybFOihu0XM5gmtjfrWi03BLDQaw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOTw8JBVUWhNIzuONXLQrB1Q8FFZ-Pvip_ybFOihu0XM5gmtjfrWi03BLDQaw.mp4",
     "title": "Desafíos para Crecer: Viendo los Problemas como Oportunidades",
     "message": "Tras retornar de su viaje ministerial por Europa, el Pastor Daniel Tito predica sobre la importancia de expandir nuestra visión y crecer en Dios. Basándose en 1 Corintios 9:24 y Jueces 1:12, enseña que los problemas no son obstáculos, sino desafíos y oportunidades que Dios permite para forjar nuestro carácter, prosperarnos y llevarnos a conquistar nuevas metas.\n\nÍndice de momentos:\n[00:00] Alabanza inicial (\"Un día en la casa de Dios\") y saludos de retorno de los pastores de su viaje por Europa.\n[02:00] Agradecimiento especial a la congregación y testimonios de las vidas alcanzadas en el extranjero.\n[03:20] El relato del retraso de su vuelo desde Madrid y el testimonio de la protección de Dios.\n[05:40] Introducción al tema: La necesidad natural de crecer física, intelectual y espiritualmente.\n[07:15] Cómo Dios nos llama a expandir la visión y abrir camino para las próximas generaciones.\n[10:30] La definición de desafío como una incitación al crecimiento y la superación personal.\n[12:35] El peligro de la pereza y el conformismo en la vida cotidiana de los jóvenes y familias.\n[15:20] Lectura de 1 Corintios 9:24: Correr la carrera de la vida para obtener el premio.\n[17:35] Lectura de Jueces 1:12-13: El desafío de Caleb en Quiriat-sefer y la valentía de Otoniel.\n[19:15] La historia de Noé y cómo aceptó el inmenso desafío de construir el arca para salvar a su casa.\n[21:40] Lectura de 1 Samuel 17:26: David y el desafío frente al gigante Goliat.\n[24:50] El Dios que bendice a los pastores es el mismo Dios de toda la iglesia: Sus promesas son universales.\n[28:10] Invitación al altar para oración de fe, crecimiento personal y superación del desánimo.\n[32:20] Oración de consagración del Libro de Sueños y bendición de nuevos creyentes.\n[35:10] Despedida del culto con la palabra Rema 2022 \"Año de la gracia\".",
     "url": null,
@@ -12178,6 +12495,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOWmWtEjrUNFTF-ymffplq-5zq2jM7EYGLycJuFLGoQgay5T7qcIIeSadXxuw.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOWmWtEjrUNFTF-ymffplq-5zq2jM7EYGLycJuFLGoQgay5T7qcIIeSadXxuw.mp4",
     "title": "La Palabra de Dios: Fuente de Verdad, Libertad y Obediencia",
     "message": "El Pastor Daniel Tito nos enseña sobre la autoridad e inspiración divina de las Sagradas Escrituras (2 Timoteo 3:16). Explica que la madurez espiritual consiste en ser hacedores de la palabra (Santiago 1:22) y no solo oidores. Nos advierte sobre las consecuencias de ignorarla (Malaquías 2:2) y proclama la gran promesa de libertad para quienes permanecen fieles en ella (Juan 8:32).\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y saludos de bienvenida de la familia pastoral.\n[03:20] Bloque de alabanza y adoración de la iglesia (\"La Palabra es mi delicia\", \"Enéñame Señor a dar amor\").\n[08:15] Reflexión sobre la importancia de la comunión virtual y saludos a hermanos de España, Australia, Estados Unidos y provincias.\n[12:35] Introducción al tema: Qué es la Biblia en la vida diaria de los hogares cristianos.\n[14:40] Lectura de 2 Timoteo 3:16-17: La inspiración de la Escritura y su utilidad para instruir en justicia.\n[16:20] La palabra como el medio principal en el que Dios se relaciona con sus hijos.\n[19:15] Lectura de Lucas 11:27-28 y el llamado de Jesús a priorizar la obediencia sobre el sentimentalismo.\n[21:40] El significado bíblico de \"guardar\" la palabra de Dios como sinónimo de obrar con ella.\n[24:50] Lectura de Malaquías 2:2: Advertencia sobre la desobediencia de corazón y la pérdida de bendiciones.\n[28:10] Análisis de Santiago 1:22: Exhortación a ser hacedores de la palabra y no solo oyentes pasivos.\n[32:20] Qué significa ser hacedor: Ejemplos prácticos de servicio en la iglesia y ayuda al prójimo.\n[35:10] Lectura de Juan 8:31-32 y las tres promesas de permanecer en la palabra: Discipulado, Verdad y Libertad.\n[38:15] Lectura de Mateo 24:35: La eternidad de las palabras de Cristo frente a la caducidad de la tierra.\n[40:10] Invitación al altar para oración de consagración y entrega de vidas a Dios.\n[43:20] Oración de bendición por diezmos, ofrendas y anuncios de la semana (Escuela de Niños, Clamor).\n[45:15] Saludos de cumpleaños de setiembre (Carito Caprizan, Gemelas Gisela y Fiorela, Carlos y Marisa) y bendición final.",
     "url": null,
@@ -12221,6 +12539,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQOWpqeFlc4M6bMvINzpqfVtwJocEf55c_suRUq6KvNDVHwpld9yEQxd00-I.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQOWpqeFlc4M6bMvINzpqfVtwJocEf55c_suRUq6KvNDVHwpld9yEQxd00-I.mp4",
     "title": "Somos un Milagro de Jesús: Fe, Promesa y Sobrabundancia",
     "message": "Un poderoso sermón de Pastor Daniel sobre cómo cada uno de nosotros es un milagro viviente de Dios. A través del análisis de cinco milagros bíblicos clave, nos recuerda que no importa cuán grande sea la necesidad, la tempestad o la soledad, el Señor tiene poder absoluto para saciar, calmar y resucitar, habiendo sellado un pacto eterno con Su propia sangre.\n\nÍndice de momentos:\n[00:00] Alabanza y adoración de inicio\n[06:20] Bienvenida de líderes y oración\n[25:40] Mensaje: Somos un milagro de Jesús\n[32:58] 1. El agua en vino: Pacto de gozo y sangre (Juan 2)\n[47:52] 2. Multiplicación: Saciar toda necesidad (Mateo 14:13-21)\n[55:18] 3. Calmar la tempestad: Resolución de problemas (Mateo 8:23-27)\n[58:12] 4. Caminar sobre el mar: Nada es imposible (Mateo 14:22-27)\n[64:16] 5. Resurrección de Lázaro: Fe frente a incredulidad (Juan 11:38-44)\n[68:14] Oración final y ministración\n[70:26] Ofrendas y cantos de gratitud\n[74:06] Anuncios generales de la iglesia\n[77:16] Cumpleaños y despedida del culto",
     "url": null,
@@ -12261,6 +12580,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQP22LzCh24y7f72A5r5RL5lHhpH1kCkRvJ-NM4putndAUc7WYSH4hlrH3nJ5Sk2In1u_7k8ouN626wxDjzOVYM2.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQP22LzCh24y7f72A5r5RL5lHhpH1kCkRvJ-NM4putndAUc7WYSH4hlrH3nJ5Sk2In1u_7k8ouN626wxDjzOVYM2.mp4",
     "title": "Convocados por Dios: Llamados a Cumplir un Propósito Eterno",
     "message": "Pastor Daniel nos exhorta a reconocer el inmenso valor de haber sido elegidos y convocados por Dios. Con la analogía de las convocatorias deportivas de los mejores atletas, expone cómo Dios selecciona a Sus hijos, no por ser los peores, sino para que vivan a la altura de Su propósito, guiándolos en fe como hizo con Moisés, Pablo y los doce apóstoles.\n\nÍndice de momentos:\n[00:00] Oración y exhortación a priorizar la cita con Dios\n[01:47] Analogía de los convocados en el fútbol mundial\n[05:07] Mensaje principal: Los convocados de Dios\n[07:45] La convocatoria de Moisés y su misión (Éxodo 3:6)\n[20:03] Dirección y propósito en la salida de Egipto (Éxodo 12:37-38)\n[24:27] Cumplimiento de la obra encomendada (Éxodo 31:7-8)\n[31:03] La conversión y llamado del apóstol Pablo (Hechos 9:5-6)\n[35:10] La elección de los doce discípulos en oración (Lucas 6:12-16)\n[40:02] Altar call: Responder al llamado de la cruz\n[45:31] Oración final de fe y agradecimiento a Dios",
     "url": null,
@@ -12301,6 +12621,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQP7zHQeNBudiZ_ZNlBSe8dToS4_QD-NUelyM7wRegT1hzNN3UK86DVpnHmj.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQP7zHQeNBudiZ_ZNlBSe8dToS4_QD-NUelyM7wRegT1hzNN3UK86DVpnHmj.mp4",
     "title": "El Valor del Trabajo: Diseño Divino, Actitud y Servicio",
     "message": "En este edificante sermón, el pastor Daniel expone la dignidad e importancia del trabajo como un diseño ordenado por Dios desde el Edén. A través de lecturas en Lucas, Génesis y Corintios, y un testimonio práctico sobre la proactividad, nos motiva a rechazar la pereza, a servir a Dios con diligencia y a dejarnos guiar siempre por el Espíritu Santo en nuestras labores cotidianas.\n\nÍndice de momentos:\n[00:00] Alabanzas iniciales de adoración\n[10:10] Reconocimiento al esfuerzo del ministerio de danza y música\n[11:32] Bienvenida y presentación del Pastor Daniel\n[12:00] Mensaje: El valor del trabajo y el deber cristiano\n[18:34] Lucas 17:10: Cumplir con nuestro deber como siervos\n[27:49] Génesis 2:15: El trabajo como diseño original en el Edén\n[41:42] 2 Corintios 8:3: Esfuerzo, generosidad y servicio al Señor\n[50:15] Juan 16:13: La guía del Espíritu Santo en todo camino\n[55:22] Ilustración: La actitud proactiva de un joven que busca trabajo\n[63:12] Altar de oración final, ministración y despedida del culto",
     "url": null,
@@ -12340,6 +12661,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQP8ogFLexsPfDUxhJ5RiCJUHgDMAVzjXaViUzcqT-kL-WNHk37GmVIPvO6jEJOM76qKZCiF1v-3RTtItAzHADDd.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQP8ogFLexsPfDUxhJ5RiCJUHgDMAVzjXaViUzcqT-kL-WNHk37GmVIPvO6jEJOM76qKZCiF1v-3RTtItAzHADDd.mp4",
     "title": "Dios Tiene Planes Contigo: Su Propósito en tu Vida",
     "message": "Pastor Daniel Tito predica sobre cómo el plan de Dios en nuestra vida trasciende nuestras limitaciones humanas y orígenes. Analizando las curaciones de ciegos y sordomudos (Juan 9, Marcos 8, Marcos 7), nos enseña que el Señor actúa con métodos y tiempos soberanos, invitándonos a rendir nuestra vida a Su propósito.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración\n[01:31] Mensaje: Dios te creó con un propósito\n[08:26] Testimonio: El anciano predicador y la unción\n[20:25] Dios tiene planes contigo más allá de tus limitaciones\n[28:32] Sanación del ciego de nacimiento (Juan 9)\n[32:59] Sanación del ciego en Betsaida (Marcos 8:22)\n[39:52] Sanación del sordomudo en Decápolis (Marcos 7:31)\n[45:23] Oración de ministración y llamado al altar\n[47:05] Ministración y oración de salvación\n[52:20] Despedida y bendición final",
     "url": null,
@@ -12378,6 +12700,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPBuZisp_fxSBykHShS8Lg_fqPutUKStEr4kSzcaHmThJQEgPjFTswBTtP4.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPBuZisp_fxSBykHShS8Lg_fqPutUKStEr4kSzcaHmThJQEgPjFTswBTtP4.mp4",
     "title": "Jesús, Dios de Vivos: Fe Frente a las Tradiciones Humanas",
     "message": "Sermón del Pastor Daniel Tito enseñando que Jesús es un Dios de vivos y no de muertos (Mateo 22:32). Exhorta a la congregación a fundamentar su fe en las Escrituras (2 Timoteo 3) en lugar de celebrar costumbres y tradiciones humanas como el Día de los Muertos o Halloween, compartiendo también testimonios de servicio alegre y detalles sobre el esperado retorno a los cultos presenciales.\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración de la iglesia\n[04:25] Saludos especiales a las escuelas de Lima y a la sede de Huancayo\n[29:22] Introducción al tema: ¿Deben los cristianos celebrar el Día de los Muertos?\n[35:21] La autoridad de la Biblia frente a las tradiciones humanas (2 Timoteo 3:16-17)\n[45:37] Advertencia contra el engaño de filosofías y costumbres del mundo (Colosenses 2:8)\n[51:31] Reflexión sobre Halloween y el peligro espiritual del ocultismo (2 Corintios 11:14)\n[57:43] Lectura bíblica: La destrucción final de la muerte (Isaías 25:8)\n[60:54] Dios es Dios de vivos, no de muertos (Mateo 22:32)\n[72:53] Ofrendas y oraciones de agradecimiento por el liderazgo de Christopher Villa\n[79:17] Anuncios finales y detalles para el gran retorno presencial al Cine Aviación\n[82:39] Testimonio de fe y gratitud de la tía Bene al recoger a los pastores",
     "url": null,
@@ -12418,6 +12741,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPbV4QH5pYUpMQHzvruMZeRufjeDk5EdCON4ptLTPrcqY0hYDnp0ChYzgFQ.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPbV4QH5pYUpMQHzvruMZeRufjeDk5EdCON4ptLTPrcqY0hYDnp0ChYzgFQ.mp4",
     "title": "El Poder de Levantar las Manos: Victoria y Bendición",
     "message": "El Pastor Daniel Tito enseña que levantar las manos es un acto profético y espiritual con gran poder. Con pasajes en Timoteo, Lucas y el relato de Moisés venciendo a Amalec (Éxodo 17), expone cómo mantener nuestras manos en alto desata la bendición del Padre, nos cubre con Su victoria y nos fortalece en la batalla diaria.\n\nÍndice de momentos:\n[00:00] Introducción: Críticas del mundo frente a la libertad de adoración\n[03:20] Mensaje: Levantar las manos como acto profético y espiritual\n[05:28] Mandato bíblico de orar levantando manos santas (1 Timoteo 2:8)\n[09:20] El significado de extender las manos al Padre como niños\n[10:42] Cimiento de bendición en la partida (Lucas 24:50)\n[13:46] Moisés y la batalla contra Amalec (Éxodo 17:8-13)\n[18:46] Mantener la guardia en la batalla espiritual\n[24:05] Las manos extendidas de Jesús en la cruz por amor\n[29:24] Canto: \"Levanto mis manos\" de Samuel Hernández\n[35:41] Oración de ministración y llamado al altar\n[37:45] Testimonio: La protección divina al levantar las manos ante delincuentes\n[39:00] Despedida y bendición final",
     "url": null,
@@ -12456,6 +12780,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPCpyBy304Jvxk4D8hllNPOY-ep45wwCiXKnRqDKbJ_YQJMz2TpsGH6mzxW.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPCpyBy304Jvxk4D8hllNPOY-ep45wwCiXKnRqDKbJ_YQJMz2TpsGH6mzxW.mp4",
     "title": "Volviendo al Primer Amor y Venciendo la Raíz de Amargura",
     "message": "Pastor Daniel Tito predica sobre el peligro espiritual de albergar resentimiento y amargura (Hebreos 12:15). Usando la historia de reconciliación de José con sus hermanos (Génesis 37) y la advertencia del primer amor (Apocalipsis 2:4), exhorta a la congregación a purificar sus corazones, perdonar y volver al amor ardiente del inicio.\n\nÍndice de momentos:\n[00:00] Alabanza inicial: \"No puedo parar de alabarte\"\n[02:21] Bienvenida y oración de inicio por los líderes\n[11:00] Cánticos de adoración congregacional\n[46:15] Mensaje: José, sus hermanos y la provisión (Génesis 37)\n[57:15] El testimonio de José como ejemplo de perdón\n[58:41] La raíz de amargura que contamina la gracia (Hebreos 12:15)\n[65:41] El reclamo de Dios: Has dejado tu primer amor (Apocalipsis 2:4)\n[70:00] Oración de arrepentimiento y llamado al altar\n[85:00] Ministración y oración de entrega\n[87:12] Despedida y declaración de la palabra rema",
     "url": null,
@@ -12494,6 +12819,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPdlbVHW-asatRHObC7OHj1V-RbhxIBJd6IeaFlzywnnabrN7WLxRT0zyiTxKAm2cU9J_s-1ic1Z9jKAj7os_ZI.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPdlbVHW-asatRHObC7OHj1V-RbhxIBJd6IeaFlzywnnabrN7WLxRT0zyiTxKAm2cU9J_s-1ic1Z9jKAj7os_ZI.mp4",
     "title": "Mudados en Otro Hombre por el Espíritu Santo",
     "message": "A partir de la unción de Saúl por Samuel (1 Samuel 10:2-8), el Pastor Daniel Tito enseña que la verdadera transformación de vida ocurre cuando el Espíritu de Dios nos muda en una nueva persona. Nos impulsa a buscar las buenas influencias en la fe y a actuar con confianza, sabiendo que Dios está con nosotros.\n\nÍndice de momentos:\n[00:00] Introducción y saludos generales\n[01:17] Testimonio: El sueño del Pastor cantándole al Señor\n[03:22] Canto: \"Ven Espíritu ven, y lléname Señor\" (Adoración)\n[13:06] Mensaje: Samuel unge a Saúl y las señales en su camino (1 Samuel 10:2-8)\n[15:26] La promesa de ser mudado en otro hombre\n[16:05] La importancia de las buenas influencias espirituales\n[22:23] Responsabilidad espiritual y prioridad de Dios\n[25:36] El poder transformador del Espíritu Santo\n[28:20] Hacer lo que viene a la mano porque Dios está contigo (1 Samuel 10:7)\n[31:00] Altar call, oración de entrega y renovación\n[33:00] Despedida y palabra rema",
     "url": null,
@@ -12529,6 +12855,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPdLRr6yKjRXQ-TVnq4pkjwEXuhQSPD-x4ush-s4lkzgZh6tXIvFM3f58rctA.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPdLRr6yKjRXQ-TVnq4pkjwEXuhQSPD-x4ush-s4lkzgZh6tXIvFM3f58rctA.mp4",
     "title": "La Fe que Nada Detiene y el Valor de dar a Dios",
     "message": "Pastor Daniel Tito predica sobre la persistencia en la fe bajo situaciones extremas. Usando los pasajes de David en la muerte de su hijo (2 Samuel 12), la mujer del flujo de sangre (Lucas 8) y la ofrenda de la viuda pobre (Lucas 21), anima a la iglesia a no desmayar, a confiar en la soberanía de Dios y a dar de corazón.\n\nÍndice de momentos:\n[00:00] Introducción, saludos a la congregación y escuelas\n[06:20] Cánticos de alabanza y adoración de inicio\n[29:17] Mensaje: David, la soberanía de Dios y el hijo de Betsabé (2 Samuel 12:14-23)\n[40:25] La mujer con flujo de sangre y su persistencia (Lucas 8:43-48)\n[48:01] Animo a seguir avanzando sin importar las debilidades\n[49:37] La ofrenda de la viuda pobre (Lucas 21:1-4)\n[53:00] Lección de amor y desprendimiento total\n[63:05] Ministración y oración por los enfermos y necesitados\n[67:00] Despedida y bendición pastoral",
     "url": null,
@@ -12568,6 +12895,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPf4DkGeIB1qS3LpgEXGrBwItMh57JNthqidO1Rgmct4RK2cPqEiitzzCi9JQ.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPf4DkGeIB1qS3LpgEXGrBwItMh57JNthqidO1Rgmct4RK2cPqEiitzzCi9JQ.mp4",
     "title": "El Toque del Espíritu Santo: De la Postura al Cambio",
     "message": "El Pastor Daniel Tito enseña que recibir al Espíritu Santo no depende de una postura física externa, sino de la disposición sincera de nuestro corazón. Mediante los relatos del Pentecostés (Hechos 1-2) y la visitación en la casa del centurión Cornelio (Hechos 10), nos invita a ser llenos de Su poder para ser transformados y útiles en Su obra.\n\nÍndice de momentos:\n[00:00] Alabanza inicial y oración de bienvenida del segundo turno\n[01:33] Reflexión sobre la jornada de ayuno y oración de la semana\n[04:00] Cántico de guerra espiritual y adoración: \"Jesucristo es Rey\"\n[18:48] Mensaje: El día de Pentecostés y el Espíritu Santo (Hechos 1)\n[20:04] La soberanía del Espíritu Santo llenándolos sentados\n[21:00] La actitud del corazón por encima de la postura física\n[31:00] Deseo de Dios de transformarnos y ser útiles\n[31:58] La historia de Cornelio y la unción en su casa (Hechos 10)\n[33:47] La autoridad de Cornelio y su reunión familiar\n[37:00] Altar de oración por el bautismo del Espíritu Santo\n[42:00] Despedida del culto",
     "url": null,
@@ -12605,6 +12933,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPggQFV7MMp3QJtV1mfHAKnxP0sL3J-f6s26sKp8AksGjXo4F1I7wloYZsE.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPggQFV7MMp3QJtV1mfHAKnxP0sL3J-f6s26sKp8AksGjXo4F1I7wloYZsE.mp4",
     "title": "Dad Gracias en Todo: La Voluntad y Bendición de Dios",
     "message": "Pastor Daniel Tito predica sobre el poder espiritual de la gratitud (1 Tesalonicenses 5:18). Reflexiona sobre las lecciones de la pandemia y expone cómo dar gracias en todo momento, e incluso ser generosos en la escasez (1 Reyes 17), desata la bendición multiplicadora de Dios en nuestra salud, familia y finanzas.\n\nÍndice de momentos:\n[00:00] Oración inicial de agradecimiento a Dios\n[04:06] Bienvenida, alabanza y adoración congregacional\n[38:33] Mensaje: La viuda de Sarepta y la provisión (1 Reyes 17:10-15)\n[57:45] Mandato divino: Dad gracias en todo (1 Tesalonicenses 5:18)\n[59:15] Reflexión sobre el aprendizaje y valor de la familia durante la pandemia\n[65:21] Ser enriquecidos para toda liberalidad (2 Corintios 9:11)\n[68:41] Dar gracias por los hermanos en la fe (2 Tesalonicenses 1:3)\n[71:13] El ejemplo de Lázaro y su resurrección (Juan 11)\n[72:00] Oración final y ministración\n[87:12] Cumpleaños de la semana y despedida del culto",
     "url": null,
@@ -12643,6 +12972,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPkhB2NiL4fFdyxRZ8BpoHn820eL1VVXs4axWWtvm_7YlRwe4Ggf3qvRgxG.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPkhB2NiL4fFdyxRZ8BpoHn820eL1VVXs4axWWtvm_7YlRwe4Ggf3qvRgxG.mp4",
     "title": "El Valle de los Huesos Secos: De la Muerte a la Vida",
     "message": "A partir de la visión del profeta Ezequiel (Ezequiel 37), el Pastor Daniel Tito enseña que Dios tiene el poder absoluto para restaurar y dar vida a las áreas que parecen secas y muertas. Resalta la necesidad del servicio humilde frente a la soberbia, y nos reta a creer en el poder vivificante de Su Palabra.\n\nÍndice de momentos:\n[00:00] Bienvenida, saludos a hermanos en el extranjero (Australia, Italia, España)\n[05:20] Mensaje: Lectura bíblica en Ezequiel 37:1-14\n[13:19] La mano de Jehová en nuestra vida\n[26:10] La importancia del servicio humilde y sin soberbia\n[27:46] La pregunta divina: ¿Vivirán estos huesos? (Ezequiel 37:3)\n[30:26] La ilustración del burrito que cargó a Jesús\n[35:28] Profetizar vida sobre lo seco (Ezequiel 37:4)\n[40:00] Oración y ministración en el altar por restauración de áreas muertas\n[56:04] Entrega de certificados de la Escuela de Líderes y despedida",
     "url": null,
@@ -12678,6 +13008,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPMrIYdecKWEj4wSr4fiimMj3obkw61T_uZAbRG67Pz00Z6SvagU4n7QE9y.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPMrIYdecKWEj4wSr4fiimMj3obkw61T_uZAbRG67Pz00Z6SvagU4n7QE9y.mp4",
     "title": "Majestad: Cántico de Adoración y Alabanza",
     "message": "Una hermosa interpretación del cántico de adoración \"Majestad\" (Majesty) por el ministerio de alabanza León de Judá de la congregación. Invita al pueblo a humillarse y rendirse ante la presencia, la gracia y la majestad eterna del Señor Jesucristo.\n\nÍndice de momentos:\n[00:00] Interpretación y cántico del tema de adoración \"Majestad\"\n[00:50] Oración congregacional de entrega y adoración al Señor",
     "url": null,
@@ -12710,6 +13041,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPpmdq-mj0iZl5YBEECEx7LpClPY-kbos-ZiTB6kDMsi5vboFnR-XcXJqK8.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPpmdq-mj0iZl5YBEECEx7LpClPY-kbos-ZiTB6kDMsi5vboFnR-XcXJqK8.mp4",
     "title": "Cánticos de Adoración y Reconciliación: Perdiendo la Compostura",
     "message": "Una compilación musical de cánticos de adoración congregacional y oraciones cantadas de arrepentimiento. Incluye el dinámico cántico de regocijo \"Voy a perder la compostura\" y un clamor sincero de reconciliación y perdón espiritual ante el Señor.\n\nÍndice de momentos:\n[00:00] Interpretación y canto de regocijo \"Voy a perder la compostura\"\n[01:30] Canto especial de oración de perdón y arrepentimiento ante Dios",
     "url": null,
@@ -12743,6 +13075,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPrAFAeddpe1_-U0rO_xKgPWsHDIgCnVhZ3cVE_OohO07YABYunU8FgLYT2Pg.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPrAFAeddpe1_-U0rO_xKgPWsHDIgCnVhZ3cVE_OohO07YABYunU8FgLYT2Pg.mp4",
     "title": "La Actitud de la Fe: Dando el Primer Paso",
     "message": "Pastor Daniel Tito predica sobre la importancia de adoptar una actitud activa y valiente de fe en lugar de la pasividad espiritual. Analiza los ejemplos de David enfrentando a Goliat (1 Samuel 17) y de Jonatán con su paje de armas desafiando al campamento filisteo (1 Samuel 14), motivando a la iglesia a dar el primer paso y confiar en el obrar soberano de Dios.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos a la iglesia local, provincias y el extranjero\n[07:27] Reflexión sobre la actitud pasiva frente a la actitud activa de fe\n[11:32] Pregunta reflexiva: ¿Qué debemos hacer para romper el yugo espiritual?\n[17:41] El peligro de la pasividad espiritual en la vida cotidiana\n[21:27] Acercarse a Jesús con determinación y cambio de postura\n[26:03] Exhortación a tomar una actitud diferente mediante el ayuno y la oración\n[31:57] Oración de intercesión por la nación del Perú y el evangelismo mundial\n[37:28] Lectura bíblica: La fe de Jonatán y su paje de armas (1 Samuel 14)\n[42:37] Llamado a dar el primer paso y confiar en el obrar soberano de Dios\n[49:38] Oración de sanidad por las heridas emocionales y el llanto del pasado\n[53:48] Tiempo final de alabanza, adoración y agradecimiento a Dios",
     "url": null,
@@ -12780,6 +13113,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPunOe13G5YEJSfsqkpZhuxY28KEzNJ_8lqnvf0FK_HKNlhOVfHJCavnJlV.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPunOe13G5YEJSfsqkpZhuxY28KEzNJ_8lqnvf0FK_HKNlhOVfHJCavnJlV.mp4",
     "title": "Cosas que no me esperaba: La Fidelidad en las Pruebas",
     "message": "Pastor Daniel Tito predica sobre cómo enfrentar las sorpresas dolorosas y adversidades inesperadas de la vida. A través de la traición sufrida por Abel, el complot contra Daniel que terminó en el foso de los leones (Daniel 6) y la negación de Pedro a Jesús (Mateo 26), enseña que aunque los problemas nos tomen de sorpresa, la fidelidad y la soberanía de Dios nos guardan en medio de toda prueba.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos a la iglesia local, provincias y el extranjero\n[04:29] Historia reflexiva de una familia trabajadora y el impacto de los cambios de la vida\n[09:15] Introducción al tema: \"No me lo esperaba\" (Las sorpresas y adversidades de la vida)\n[14:09] Reflexión bíblica: La historia de Caín y Abel. Lo que Abel no esperaba\n[19:09] Lectura bíblica: La conspiración contra Daniel y su oración fiel (Daniel 6:10)\n[24:57] Daniel en el foso de los leones y la milagrosa protección de Dios\n[31:16] Exhortación sobre cómo reaccionar ante los ataques inesperados de la vida\n[36:01] La soberanía de Dios ante lo que a nosotros nos toma por sorpresa\n[41:54] Lectura bíblica: La negación de Pedro y el dolor de la traición (Mateo 26:69-75)\n[48:09] La gracia de Jesús que restaura al caído y conoce nuestro corazón\n[53:16] Oración de ministración en el altar, llamado de fe y participación de la Santa Cena",
     "url": null,
@@ -12818,6 +13152,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPuP012lsXM45T3yAoKjq2_Wz1TN6kkkgRGPWeWFVF53ZOM4SaLHRi2gBNp.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPuP012lsXM45T3yAoKjq2_Wz1TN6kkkgRGPWeWFVF53ZOM4SaLHRi2gBNp.mp4",
     "title": "Bienaventurada la Nación cuyo Dios es Jehová: Bendiciendo a nuestra Patria",
     "message": "En el marco de las festividades de Fiestas Patrias del Perú, el Pastor Daniel Tito y la Pastora Miriam, junto al equipo de líderes, dedican un servicio especial para bendecir y orar por la nación (Salmo 33:12). Enseñan sobre el valor de la fidelidad del liderazgo, la perseverancia colectiva y la responsabilidad cívica y espiritual de cada ciudadano (Romanos 13:7).\n\nÍndice de momentos:\n[00:00] Tiempo de alabanza y adoración: \"Quiero vivir solo para ti, voy a cantar, voy a danzar\"\n[10:24] Bienvenida y oración congregacional. Salmo 84:1 (\"Cuán amables son tus moradas\")\n[19:52] Cántico de adoración y ministración\n[27:33] Mensaje sobre el liderazgo de la iglesia y la importancia de orar por el país\n[33:05] Reflexión y anécdota familiar sobre la perseverancia y el crecimiento\n[38:47] Analogía del esfuerzo deportivo e histórico y el avance de la iglesia\n[44:37] Lectura bíblica: Génesis 12:2 (\"Haré de ti una nación grande\"). El llamado a bendecir\n[50:19] Exhortación sobre la responsabilidad de los ciudadanos y la sumisión a las autoridades (Romanos 13:7)\n[56:28] Lectura bíblica: Salmo 33:12 (\"Bienaventurada la nación cuyo Dios es Jehová\") y oración por el Perú\n[01:02:31] Oración por los líderes y maestros de la iglesia\n[01:08:35] Saludos de cumpleaños de los miembros de la congregación y despedida final",
     "url": null,
@@ -12857,6 +13192,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPvPB00pRvauY7O-ZGvlisJmqa2fMr1AOAH9IObFElteLiOiVfWATmF8N7K4A.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPvPB00pRvauY7O-ZGvlisJmqa2fMr1AOAH9IObFElteLiOiVfWATmF8N7K4A.mp4",
     "title": "Creados a su Imagen y Semejanza: El Propósito de la Vida",
     "message": "El Pastor Daniel Tito predica acerca de nuestra identidad como creación de Dios. Basado en Génesis 1:26-27, enseña que fuimos creados a imagen y semejanza de Dios, un diseño de valor y propósito. Además, exhorta al pueblo a no juzgar a los demás con ligereza (Mateo 7:1-5) ni 'lavarse las manos' ante las responsabilidades familiares, impulsando un trato de respeto y honra en el hogar.\n\nÍndice de momentos:\n[00:00] Bienvenida congregacional y saludos de apertura\n[05:28] Tiempo de alabanza y adoración congregacional con cantos alegres y danza\n[19:02] Canto especial y dinámico: \"La cumbia de la vueltita\" (Tiempo de gozo infantil y familiar)\n[26:55] Introducción del mensaje: La realidad económica actual (\"el pollo se dispara\") y la perspectiva de la fe\n[31:29] El peligro de los chismes, juzgar a otros y la actitud de \"lavarse las manos\" (Mateo 7)\n[35:41] Lectura bíblica: Mateo 7:1-5. La viga en el propio ojo y la hipocresía\n[39:57] Reflexión sobre la verdadera humildad a la luz de Juan el Bautista y su indignidad ante Cristo\n[44:01] La importancia de cambiar nuestro comportamiento en el hogar y tratarnos con respeto\n[48:01] Testimonio pastoral y revelación personal sobre el valor de cada creyente\n[52:31] Lectura bíblica: Génesis 1:26-27. Fuimos creados a imagen y semejanza de Dios\n[56:43] Oración de entrega y renovación espiritual para restaurar la imagen divina en nosotros\n[01:01:23] Oración de bendición por las familias y declaración de la palabra rema (\"Comenzar a construir\")",
     "url": null,
@@ -12894,6 +13230,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "AQPvRs9GLFEgzgaIyoJsHTCGk4OpQLihp0z6V78L-DIZjvpB579g4z_hocVm.mp4",
+    "r2_url": "https://pub-54eb1be2936b46a59b860557f799cddd.r2.dev/AQPvRs9GLFEgzgaIyoJsHTCGk4OpQLihp0z6V78L-DIZjvpB579g4z_hocVm.mp4",
     "title": "El Mandamiento Más Grande: El Amor a Dios y al Prójimo",
     "message": "En una reunión especial transmitida desde Parla, Madrid (España), el Pastor Daniel Tito predica sobre el mandamiento principal de las Escrituras (Mateo 22:36-40). Advierte contra el peligro de que la prosperidad material o la distancia de la patria nos hagan olvidar nuestras raíces espirituales y de dónde nos sacó el Señor, animando a la congregación a amar a Dios y al prójimo con sinceridad.\n\nÍndice de momentos:\n[00:00] Saludos y bienvenida especial a la congregación desde Parla, Madrid (España)\n[06:14] Introducción: La bendición de viajar, pero sin olvidar nuestras raíces y nuestra identidad en Cristo\n[11:02] Reflexión sobre el crecimiento de los hijos y las relaciones familiares a lo largo del tiempo\n[15:53] Oración colectiva de humildad: \"Señor, ayúdame a nunca olvidarme de quién he sido\"\n[20:49] Exhortación sobre la importancia de contar y testificar de los milagros que Dios hace en nuestra vida\n[25:51] Lectura bíblica: Mateo 22:36-40. El gran mandamiento de la ley\n[31:07] Reflexión sobre el amor vertical (a Dios) y el amor horizontal (al prójimo)\n[36:29] El peligro de la indiferencia y el egoísmo en la sociedad actual\n[41:28] Oración de bendición por los presentes en Madrid y las familias conectadas en el Perú\n[46:40] Palabras de agradecimiento a los anfitriones y saludos de despedida\n[52:13] Declaración final de la palabra rema (\"Año de dar gracias\") y canto de adoración",
     "url": null,
