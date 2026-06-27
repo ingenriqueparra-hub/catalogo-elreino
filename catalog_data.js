@@ -1,6 +1,7 @@
 const CATALOG_DATA = [
   {
     "filename": "017 facebook-misioncelreino-11_06_2025-YqyxFFml_AQNAAHl7fld_1pbikzFydsJBQA6R_JrQYAcHLIauFAuhk78LJC1o7LxHIe_7064939776913856.mp4",
+    "youtube_id": "Q0NwE0pTO3M",
     "title": "Jesús, Nuestro Fiel Amigo: Una Verdadera Amistad",
     "message": "Este sermón nos invita a reflexionar sobre el valor inmenso de la verdadera amistad, destacando que el mejor amigo es Jesús, quien dio su vida por nosotros. Nos enseña que los amigos deben tener convicciones firmes, consolar en la adversidad sin acusar, y estar siempre dispuestos a ayudar, haciendo lo imposible por el bienestar del otro. Un llamado a abrazar a Jesús como nuestro amigo más leal y a cultivar amistades genuinas con una misma fe y amor. \n\nÍndice de momentos:\n[00:42] Adoración al Rey\n[07:20] Enamóranos, Jesús mi fiel amigo\n[15:10] Jesús: El mejor amigo de todos\n[16:06] Título del mensaje: Una verdadera amistad\n[16:56] La firme convicción de Sadrach, Mesac y Abednego\n[28:46] Los amigos consuelan en la prueba sin acusar (Historia de Job)\n[35:10] Un amigo siempre ayuda (Parábola del amigo inoportuno)\n[40:50] Un amigo hace lo imposible por el bienestar del otro (Paralítico de Marcos 2)\n[46:42] Nadie tiene mayor amor que el que da la vida por sus amigos (Juan 15:13)\n[52:34] Oración de gratitud y reconciliación",
     "url": "https://www.facebook.com/misioncelreino/videos/7064939776913856/",
@@ -42,6 +43,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "022 facebook-misioncelreino-11_06_2025-bugS95W8_AQNMgrIEfyxUXsl2ChmEB0cjaPY1pdhdGNzpti3Gnjp0wBqDLZi7f_0e2_4742708249100080.mp4",
+    "youtube_id": "mFzXwj2xWjM",
     "title": "Las Marcas de la Primera Iglesia: Pasión y Propósito",
     "message": "Este sermón explora las cinco características esenciales de la primera iglesia, destacando la pasión por ganar almas, la adhesión a la doctrina apostólica, la profunda fraternidad, la resiliencia ante las pruebas y una vida de oración constante. Es un llamado a la iglesia actual a emular estos principios para manifestar el amor de Dios y expandir su Reino con propósito y alegría.\n\nÍndice de momentos:\n[10:42] Bienvenida y gozo en la iglesia\n[24:48] Explorando las características de la primera iglesia\n[25:36] La primera iglesia: Ganadora de almas (Hechos 2:40-41)\n[33:38] Perseverancia en la doctrina de los apóstoles (Hechos 2:42)\n[42:56] Fraternidad y comunión (Hechos 2:42)\n[50:46] Preparados para las pruebas (Hechos 7:54-60)\n[59:22] La importancia de la oración (Hechos 2:42)\n[01:00:56] Llamado a la oración y gratitud",
     "url": "https://www.facebook.com/misioncelreino/videos/4742708249100080/",
@@ -82,6 +84,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "023 facebook-misioncelreino-11_06_2025-QqYtqzfI_AQOf5T79GfjZ6iyFdHspob7b1HaV5X8QWN5rPdeiLZadkv4Ry9FK0CXtp6W_1236344640200552.mp4",
+    "youtube_id": "RBrnQWr0pWU",
     "title": "El Poder de una Gota: Decisión, Consecuencia y la Sangre de Cristo",
     "message": "El sermón utiliza la metáfora de \"gotas\" para ilustrar cómo pequeñas decisiones o influencias, tanto buenas como malas, impactan profundamente nuestras vidas. A través de ejemplos bíblicos de Adán, Sarai, Jezabel y Sansón, el Pastor Daniel Tito advierte sobre las consecuencias devastadoras del pecado y la desobediencia. Concluye enfatizando el poder redentor de una sola gota de la sangre de Jesús para limpiar, sanar y ofrecer vida eterna, invitando a la audiencia a aceptar su sacrificio. Estas gotas pueden transformar nuestro destino, llevándonos a la burla y la muerte, o a la redención y la vida plena en Cristo.\n\nÍndice de momentos:\n[00:00] Inicio y Bienvenida\n[02:24] Adoración y Alabanza\n[14:47] Presentación del Pastor Daniel Tito\n[23:42] La Parábola de las Gotas de la Vida\n[30:52] Ejemplos Bíblicos de Influencias Negativas\n[57:34] La Gota Redentora de Jesús\n[01:03:17] Oración de Reconciliación",
     "url": "https://www.facebook.com/misioncelreino/videos/1236344640200552/?idorvanity=418326703107689",
@@ -121,6 +124,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "035 facebook-misioncelreino-11_06_2025-g6zur537_AQPy3lkXanyS3uah7rurV59ngtxyGsooVannVyULgEOYbEXTAE6wFNpwMcNpMA_3079887068920237.mp4",
+    "youtube_id": "zIQkLucWozU",
     "title": "Clamor por Misericordia: El Brazo Fuerte de Dios",
     "message": "Este sermón nos sumerge en la profunda necesidad de clamar a Dios por su misericordia y su brazo fuerte, especialmente en momentos de opresión y dificultad. Basado en Isaías 33:2, el mensaje central resalta cómo la fe nos conecta con la salvación y protección divina, recordándonos que Dios nunca nos abandona y siempre está presente para ayudarnos en cada circunstancia. Su misericordia es inmensa y su brazo, incansable.\n\nÍndice de momentos:\n[00:00] Bienvenida y alabanza\n[11:04] Lectura y análisis de Isaías 33:2\n[14:29] La fe y la misericordia de Dios\n[19:09] El brazo fuerte de Dios como protección\n[22:17] Tiempo de peticiones y oración",
     "url": "https://www.facebook.com/misioncelreino/videos/3079887068920237/",
@@ -159,6 +163,7 @@ const CATALOG_DATA = [
   },
   {
     "filename": "037 facebook-misioncelreino-11_06_2025-bdkjPVnf_AQOgFDhjEUTg25d2M5qRGTmhetwcaEOfwEcz42Vcar7icuX6sUHXpoUrt0EH_675148653472448.mp4",
+    "youtube_id": "_mAdr9Rp-jU",
     "title": "El Poder del Llanto Ante Dios: No Llores, Ten Fe",
     "message": "Este sermón explora el profundo poder de las lágrimas, especialmente las de una mujer, cuando son derramadas ante Dios. A través de ejemplos bíblicos y personales, se resalta la importancia de la fe y la confianza en Jesús para transformar el dolor y el lamento en alegría. El mensaje central invita a dejar de lado el temor y depositar toda esperanza en Dios, quien tiene el poder de obrar milagros y cumplir sus promesas en nuestras vidas y familias.\n\nÍndice de momentos:\n[03:44] Bienvenida y Oración Inicial\n[15:49] Introducción al Mensaje Central\n[35:16] El Poder del Llanto de una Mujer\n[54:48] La Fe como Clave ante el Sufrimiento\n[01:04:24] Oración y Confianza en las Lágrimas\n[01:11:00] Testimonio de Sanidad por la Fe",
     "url": "https://www.facebook.com/misioncelreino/videos/675148653472448/",
