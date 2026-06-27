@@ -794,6 +794,19 @@
             }
         }
 
+        /* Celular en VERTICAL: el video queda fijo arriba y el resto se escrolea */
+        @media (orientation: portrait) {
+            .modal-body {
+                padding-top: 0;
+            }
+            .video-container {
+                position: sticky;
+                top: 0;
+                z-index: 2;
+                max-height: 56vh;
+            }
+        }
+
         /* Transcription and local NLP styles */
         .modal-transcript-section {
             border: 1px solid var(--border-color);
