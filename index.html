@@ -87,7 +87,7 @@
             position: relative;
             overflow: hidden;
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
             flex-wrap: wrap;
             gap: 2rem;
@@ -558,6 +558,7 @@
         }
 
         .modal-content {
+            position: relative;
             background: var(--bg-secondary);
             border: 1px solid var(--border-color);
             border-radius: 24px;
@@ -570,6 +571,38 @@
             box-shadow: var(--shadow-lg);
             transform: scale(0.97);
             transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.1);
+        }
+
+        /* Botón cerrar flotante sobre el video */
+        .close-btn-floating {
+            position: absolute;
+            top: 0.85rem;
+            right: 0.85rem;
+            z-index: 6;
+            background: rgba(255, 255, 255, 0.92);
+            border-radius: 50%;
+            box-shadow: var(--shadow-md);
+        }
+        .close-btn-floating:hover {
+            background: #fff;
+        }
+
+        /* Título y badges debajo del video */
+        .modal-title-row h2 {
+            font-size: 1.5rem;
+            line-height: 1.3;
+            color: #1b2620;
+            margin-bottom: 0.5rem;
+        }
+        #modal-badges-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        #modal-badges-container .badge {
+            display: inline-flex;
+            align-items: center;
+            white-space: nowrap;
         }
 
         .modal.active .modal-content {
@@ -633,6 +666,7 @@
             border-radius: 16px;
             overflow: hidden;
             aspect-ratio: 16/9;
+            max-height: 78vh;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -716,9 +750,15 @@
             }
             header {
                 flex-direction: column;
-                align-items: flex-start;
-                padding: 2rem 1.5rem;
+                align-items: center;
+                padding: 1.75rem 1.25rem;
                 border-radius: 20px;
+            }
+            .header-text h1 {
+                font-size: 1.6rem;
+            }
+            .header-text p {
+                font-size: 0.9rem;
             }
             .stats-grid {
                 max-width: 100%;
@@ -726,6 +766,31 @@
             .filters-section {
                 padding: 1.5rem;
                 border-radius: 20px;
+            }
+            /* Modal a pantalla completa en celular: el video se ve grande */
+            .modal {
+                padding: 0;
+            }
+            .modal-content {
+                max-width: 100%;
+                max-height: 100%;
+                height: 100%;
+                border-radius: 0;
+                border: none;
+            }
+            .modal-body {
+                padding: 1rem;
+                gap: 1.1rem;
+            }
+            .modal-title-row h2 {
+                font-size: 1.25rem;
+            }
+        }
+
+        /* Celular en horizontal: prioriza el video */
+        @media (max-height: 520px) and (orientation: landscape) {
+            .video-container {
+                max-height: 90vh;
             }
         }
 
@@ -1013,16 +1078,16 @@
     <div class="app-container">
         <!-- Header Section -->
         <header>
-            <div class="header-title" style="display: flex; align-items: center; gap: 1.25rem;">
-                <img src="Logo.jpg" alt="Logo El Reino" style="height: 85px; width: auto; border-radius: 8px;">
+            <div class="header-title" style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.85rem; width: 100%;">
+                <img src="Logo.jpg" alt="Logo El Reino" id="logo-img" style="height: 110px; width: auto; border-radius: 12px; cursor: pointer;">
                 <div class="header-text">
-                    <h1>Catálogo de Predicaciones</h1>
-                    <p>Misión Cristiana El Reino - Pastor Daniel Tito</p>
+                    <h1>Misión Cristiana El Reino</h1>
+                    <p>Catálogo de prédicas del Pastor Daniel</p>
                 </div>
             </div>
-            
-            <!-- Dashboard Stats -->
-            <div class="stats-grid">
+
+            <!-- Dashboard Stats (ocultas: el usuario las considera innecesarias) -->
+            <div class="stats-grid" style="display: none;">
                 <div class="stat-card">
                     <div class="stat-value" id="stat-total">0</div>
                     <div class="stat-label">Total Mensajes</div>
@@ -1049,8 +1114,18 @@
                     <svg viewBox="0 0 24 24">
                         <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
                     </svg>
-                    <input type="text" id="search-input" placeholder="Buscar prédicas por palabras clave, títulos o temas...">
+                    <input type="text" id="search-input" placeholder="Buscar prédicas por palabras clave o temas...">
                 </div>
+                <button id="btn-toggle-filters" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.25rem; background: var(--bg-primary); border: 1px solid var(--border-color); color: var(--text-primary); border-radius: 14px; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: all 0.3s; box-shadow: var(--shadow-sm); flex-shrink: 0;">
+                    <svg viewBox="0 0 24 24" style="width: 18px; height: 18px; fill: currentColor;">
+                        <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+                    </svg>
+                    <span>Filtros</span>
+                </button>
+            </div>
+
+            <!-- Herramientas de edición: OCULTAS. Se activan tocando el logo 5 veces. -->
+            <div id="editor-controls" style="display: none; gap: 1rem; flex-wrap: wrap;">
                 <button id="btn-toggle-editor" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: var(--bg-primary); border: 1px solid var(--border-color); color: var(--text-primary); border-radius: 12px; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: all 0.3s; box-shadow: var(--shadow-sm); flex-shrink: 0;">
                     <span style="font-size: 1.1rem;">✍</span>
                     <span>Modo Editor: <strong id="editor-status-text">OFF</strong></span>
@@ -1062,8 +1137,8 @@
                     <span>Copiar Resumen de Edición</span>
                 </button>
             </div>
-            
-            <div class="filter-selects">
+
+            <div class="filter-selects" id="filter-selects" style="display: none;">
                 <div class="filter-group">
                     <label for="filter-concept">Concepto / Tema</label>
                     <select id="filter-concept">
@@ -1129,24 +1204,24 @@
     <!-- Modal Drawer Detail -->
     <div class="modal" id="video-modal">
         <div class="modal-content">
-            <div class="modal-header">
-                <div class="modal-header-info">
+            <button class="close-btn close-btn-floating" id="btn-close-modal">
+                <svg viewBox="0 0 24 24">
+                    <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+                </svg>
+            </button>
+
+            <div class="modal-body">
+                <!-- Video Container: el elemento principal (primero y a lo ancho) -->
+                <div class="video-container" id="player-container">
+                    <!-- Standard video player -->
+                </div>
+
+                <!-- Título + badges DEBAJO del video -->
+                <div class="modal-title-row">
                     <h2 id="modal-title">Título del Video</h2>
                     <div id="modal-badges-container">
                         <!-- Badges go here -->
                     </div>
-                </div>
-                <button class="close-btn" id="btn-close-modal">
-                    <svg viewBox="0 0 24 24">
-                        <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
-                    </svg>
-                </button>
-            </div>
-            
-            <div class="modal-body">
-                <!-- Video Container -->
-                <div class="video-container" id="player-container">
-                    <!-- Standard video player -->
                 </div>
 
                 <!-- YouTube-style Author/Channel Row -->
@@ -1707,7 +1782,6 @@
             video.concepts.forEach(concept => {
                 const badge = document.createElement('span');
                 badge.className = 'badge badge-preacher';
-                badge.style.marginRight = '8px';
                 badge.innerText = concept;
                 modalBadgesContainer.appendChild(badge);
             });
@@ -1774,14 +1848,8 @@
             const modalTranscriptButtonContainer = document.getElementById('modal-transcript-button-container');
             if (video.has_transcript) {
                 modalTranscriptButtonContainer.style.display = 'block';
-                
-                // Carry over search term: if main query is active, auto-open transcript popup!
-                const mainQuery = searchInput.value.trim();
-                if (mainQuery && mainQuery.length >= 3) {
-                    setTimeout(() => {
-                        openTranscriptModal(video);
-                    }, 350);
-                }
+                // Nota: ya NO se auto-abre la transcripción al buscar; va directo a la prédica.
+                // El usuario puede abrirla manualmente con el botón "Transcripción".
             } else {
                 modalTranscriptButtonContainer.style.display = 'none';
             }
@@ -1985,6 +2053,42 @@
                 alert('No se pudo copiar automáticamente. Resumen de edición:\n\n' + dataToCopy);
             });
         });
+
+        // --- Botón "Filtros": muestra/oculta los selectores de filtro ---
+        const btnToggleFilters = document.getElementById('btn-toggle-filters');
+        const filterSelects = document.getElementById('filter-selects');
+        if (btnToggleFilters && filterSelects) {
+            btnToggleFilters.addEventListener('click', () => {
+                const visible = filterSelects.style.display !== 'none';
+                filterSelects.style.display = visible ? 'none' : 'flex';
+                btnToggleFilters.style.background = visible ? 'var(--bg-primary)' : 'var(--bg-hover)';
+                btnToggleFilters.style.borderColor = visible ? 'var(--border-color)' : 'var(--accent-primary)';
+            });
+        }
+
+        // --- Secreto: tocar el logo 5 veces activa/oculta las herramientas de edición ---
+        const editorControls = document.getElementById('editor-controls');
+        const logoImg = document.getElementById('logo-img');
+        function aplicarVisibilidadEditor() {
+            const on = localStorage.getItem('show_editor_tools') === '1';
+            if (editorControls) editorControls.style.display = on ? 'flex' : 'none';
+        }
+        let logoTaps = 0, logoTapTimer = null;
+        if (logoImg) {
+            logoImg.addEventListener('click', () => {
+                logoTaps++;
+                clearTimeout(logoTapTimer);
+                logoTapTimer = setTimeout(() => { logoTaps = 0; }, 1200);
+                if (logoTaps >= 5) {
+                    logoTaps = 0;
+                    const estaba = localStorage.getItem('show_editor_tools') === '1';
+                    localStorage.setItem('show_editor_tools', estaba ? '0' : '1');
+                    aplicarVisibilidadEditor();
+                    alert(estaba ? '🔒 Herramientas de edición OCULTAS' : '🔓 Herramientas de edición ACTIVADAS');
+                }
+            });
+        }
+        aplicarVisibilidadEditor();
 
         // Initialize UI
         loadStats();
